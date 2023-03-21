@@ -6,12 +6,31 @@ export default function Header() {
     <div className="navigation">
       <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-3">
         <div className="container">
-          <NavLink className="navbar-brand" to="/">
-            <img
-              src="images/corporate_entrepreneurship.png"
-              alt="Corporate Entrepreneurship"
-              width={128}
-            />
+          <NavLink
+            className="navbar-brand d-flex gap-2 align-items-center"
+            to="/"
+          >
+            <div>
+              <img
+                src="images/brand/universitas_ciputra.png"
+                alt="Corporate Entrepreneurship"
+                width={64}
+              />
+            </div>
+            <div>
+              <img
+                src="images/brand/corporate_entrepreneurship.png"
+                alt="Corporate Entrepreneurship"
+                width={128}
+              />
+            </div>
+            <div>
+              <img
+                src="images/brand/career_expo.png"
+                alt="Corporate Entrepreneurship"
+                width={48}
+              />
+            </div>
           </NavLink>
           <button
             className="navbar-toggler collapsed border border-2 border-secondary bg-dark"
@@ -124,10 +143,7 @@ export default function Header() {
                   </a>
                   <ul className="dropdown-menu dropdown-menu-end">
                     <li>
-                      <a
-                        className="dropdown-item"
-                        href="/about"
-                      >
+                      <a className="dropdown-item" href="/about">
                         Corporate Entrepreneurship
                       </a>
                     </li>

@@ -111,14 +111,6 @@ img {
   max-width: 5% !important;
 }
 
-#fullName {
-  font-family: var(--lato);
-}
-
-#logo {
-  font-family: var(--font-tertiary);
-}
-
 .navbar-toggler.collapsed .btn-close {
   display: none;
 }
@@ -129,10 +121,6 @@ img {
 
 .navbar-brand:hover {
   filter: none !important;
-}
-
-span {
-  font-size: xx-large;
 }
 
 .btn {
@@ -176,10 +164,6 @@ span {
 hr {
   height: 2px !important;
   border-radius: 50px !important;
-}
-
-section {
-  padding: 3rem 0 !important;
 }
 
 .card,
@@ -336,10 +320,6 @@ tr:last-child td:last-child {
 
 figcaption {
   font-size: smaller;
-}
-
-.text-footer {
-  font-size: large !important;
 }
 
 #scrollToTop {

@@ -133,13 +133,9 @@ img {
   transform: scale(0.9);
 }
 
-.btn-primary {
-  background-color: var(--cetacean-blue);
+.btn-primary, .btn-primary:hover, .btn-primary:active {
+  background-color: var(--cetacean-blue) !important;
   border: none;
-}
-
-.btn-primary:hover {
-  background-color: var(--cetacean-blue);
 }
 
 .btn-secondary {

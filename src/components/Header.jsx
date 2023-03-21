@@ -33,7 +33,7 @@ export default function Header() {
             </div>
           </NavLink>
           <button
-            className="navbar-toggler collapsed border border-2 border-secondary bg-dark"
+            className="navbar-toggler collapsed btn-primary"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"

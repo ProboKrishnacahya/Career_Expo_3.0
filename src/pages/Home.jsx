@@ -113,7 +113,7 @@ export default function Home() {
                 &ensp;
                 <span>Jumat, 26 Mei 2023 s.d. Sabtu, 27 Mei 2023</span>
               </div>
-              <div className="col-lg-1 d-none d-lg-block text-muted">|</div>
+              <div className="col-lg-1 d-none d-lg-block text-muted">&#124;</div>
               <div className="col-lg-5">
                 <i
                   className="bi bi-geo-alt"
@@ -141,7 +141,7 @@ export default function Home() {
         <section data-aos="fade-up">
           <h4 className="text-center section-title">Testimonials</h4>
           <br />
-          <div class="row">
+          <div class="row g-4">
             <div class="col-lg-4 d-grid gap-3">
               <img
                 src="images/home/testimonials/anetta.jpg"
@@ -163,39 +163,43 @@ export default function Home() {
             </div>
             <div class="col-lg-4 d-grid gap-3">
               <img
-                src="images/home/testimonials/anetta.jpg"
+                src="images/home/testimonials/berliana.jpg"
                 alt="Testimonials"
                 className="rounded-circle shadow-sm"
                 width={256}
               />
               <div>
-                <h5>Anetta TW</h5>
+                <h5>Berliana Fira</h5>
                 <q>
-                  Menurutku acaranya insightful bgt. Perusahaannya juga variatif
-                  jadi aku banyak dapet insight juga tentang perusahaan2 yang
-                  mungkin sebelumnya aku belum pernah denger. Selain itu
-                  acaranya juga interaktif, kita dikasih kesempatan buat tanya2
-                  ke narasumber langsung. Kita juga dibantu sama website virtual
-                  career expo buat apply2 ke perusahaan yang kita pengen.
+                  Menurutku career expo virtual asik dan gak merepotkan untuk
+                  antri dll untuk cari kerja dan mendukung kemajuan teknologi.
+                  Tapi menurutku kekurangan tahun kmrn adalah keterbatasan untuk
+                  mendapatkan info lowongan pada setiap perusahaan karena
+                  keterbatasan saat dibagi breakout room itu jadi gak bisa join
+                  banyak hehe dan kalo gak salah kmrn untuk ngelamar juga
+                  dibatasi.
                 </q>
               </div>
             </div>
             <div class="col-lg-4 d-grid gap-3">
               <img
-                src="images/home/testimonials/anetta.jpg"
+                src="images/home/testimonials/sukma.jpeg"
                 alt="Testimonials"
                 className="rounded-circle shadow-sm"
                 width={256}
               />
               <div>
-                <h5>Anetta TW</h5>
+                <h5>Sukma Jenny</h5>
                 <q>
-                  Menurutku acaranya insightful bgt. Perusahaannya juga variatif
-                  jadi aku banyak dapet insight juga tentang perusahaan2 yang
-                  mungkin sebelumnya aku belum pernah denger. Selain itu
-                  acaranya juga interaktif, kita dikasih kesempatan buat tanya2
-                  ke narasumber langsung. Kita juga dibantu sama website virtual
-                  career expo buat apply2 ke perusahaan yang kita pengen.
+                  UC Virtual Career Expo memperlihatkan saya pada
+                  informasi-informasi terkait karir dan hal-hal yang
+                  meliputinya. Berbagai korporasi yang terlibat cukup
+                  representatif lintas bidang dan orientasi. Tidak sebatas
+                  informasi, tetapi tautan yang disediakan Uc Career Expo dirasa
+                  dapat mengkatalisasi pergerakan dari rekan-rekan yang sedang
+                  mempersiapkan karirnya. Apresiasi tinggi bagi panitia yang
+                  telah menyusun acara dengan begitu apik, terstruktur, dan
+                  tidak prematur.
                 </q>
               </div>
             </div>
@@ -340,28 +344,28 @@ export default function Home() {
             <div className="carousel-inner text-center mx-auto">
               <div className="carousel-item active">
                 <img
-                  src="images/home/sponsors/berkah.jpeg"
+                  src="images/home/media_partners/info_event.jpg"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/surya.jpeg"
+                  src="images/home/media_partners/media_event.png"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/indofood.jpg"
+                  src="images/home/media_partners/event_aja.webp"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/biznet.jpg"
+                  src="images/home/media_partners/event_suroboyo.png"
                   alt="Media Partners"
                   loading="lazy"
                 />

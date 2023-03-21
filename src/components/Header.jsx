@@ -55,29 +55,94 @@ export default function Header() {
                     </li>
                   </ul>
                 </div>
-                <NavLink className="nav-link" to="/vacancy">
-                  Vacancy
-                </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/projects">
-                  Events
-                </NavLink>
+                <div className="dropdown">
+                  <a
+                    className="dropdown-toggle"
+                    href="#"
+                    type="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Events
+                  </a>
+                  <ul className="dropdown-menu">
+                    <li>
+                      <a className="dropdown-item" href="/career-expo">
+                        Virtual Career Expo 3.0
+                      </a>
+                    </li>
+                    <li>
+                      <a className="dropdown-item" href="/webinar">
+                        Webinar
+                      </a>
+                    </li>
+                    <li>
+                      <a className="dropdown-item" href="/register">
+                        Register Here
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/skills">
-                  Skills
-                </NavLink>
+                <div className="dropdown">
+                  <a
+                    className="dropdown-toggle"
+                    href="#"
+                    type="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    Collaborations
+                  </a>
+                  <ul className="dropdown-menu">
+                    <li>
+                      <a className="dropdown-item" href="/sponsors">
+                        Sponsors
+                      </a>
+                    </li>
+                    <li>
+                      <a className="dropdown-item" href="/media-partners">
+                        Media Partners
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/blogs">
-                  Collaborations
-                </NavLink>
-              </li>
-              <li className="nav-item">
-                <NavLink className="nav-link" to="/blogs">
-                  About Us
-                </NavLink>
+                <div className="dropdown">
+                  <a
+                    className="dropdown-toggle"
+                    href="#"
+                    type="button"
+                    data-bs-toggle="dropdown"
+                    aria-expanded="false"
+                  >
+                    About Us
+                  </a>
+                  <ul className="dropdown-menu dropdown-menu-end">
+                    <li>
+                      <a
+                        className="dropdown-item"
+                        href="/about"
+                      >
+                        Corporate Entrepreneurship
+                      </a>
+                    </li>
+                    <li>
+                      <a className="dropdown-item" href="/gallery">
+                        Gallery
+                      </a>
+                    </li>
+                    <li>
+                      <a className="dropdown-item" href="/blog">
+                        Blog
+                      </a>
+                    </li>
+                  </ul>
+                </div>
               </li>
             </ul>
           </div>

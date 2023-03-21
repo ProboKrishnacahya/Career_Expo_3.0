@@ -8,11 +8,22 @@ export default function Footer() {
         <div className="mx-auto">
           <div className="container">
             <NavLink to="/">
+              <img
+                src="images/corporate_entrepreneurship.png"
+                alt="Corporate Entrepreneurship"
+                width={128}
+              />
+              <br />
               &nbsp;
-              <span className="text-footer text-link">UC Corporate Entrepreneurship 2023</span>
+              <span className="text-footer text-link">
+                UC Corporate Entrepreneurship 2023
+              </span>
             </NavLink>
             <br />
-            <span className="text-footer">CitraLand CBD Boulevard, Made, Kec. Sambikerep, Kota Surabaya, Jawa Timur, 60219, Indonesia</span>
+            <span className="text-footer">
+              CitraLand CBD Boulevard, Made, Kec. Sambikerep, Kota Surabaya,
+              Jawa Timur, 60219, Indonesia
+            </span>
             <hr />
             <h3 className="d-flex justify-content-center gap-4">
               <a

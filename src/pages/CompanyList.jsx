@@ -21,14 +21,14 @@ export default function CompanyList() {
     {
       id: 1,
       image:
-        "https://images.unsplash.com/photo-1579154341098-e4e158cc7f55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop",
-      alt: "Breast Cancer",
+        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
+      alt: "Lorem ipsum",
       title:
         "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
       time: 11,
       category: "Machine Learning",
       date: "Jun 10th, 2022",
-      url: "/blogs/klasifikasi-tingkat-keganasan-kanker-payudara-menggunakan-algoritma-k-nearest-neighbors",
+      url: "/",
     },
   ];
 

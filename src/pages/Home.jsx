@@ -466,47 +466,15 @@ export default function Home() {
             </a>
           </h3>
         </div>
-        <div
-          className="modal fade"
-          id="resumeModal"
-          tabindex="-1"
-          aria-labelledby="resumeModalLabel"
-          aria-hidden="true"
-        >
-          <div className="modal-dialog modal-fullscreen">
-            <div className="modal-content bg-dark">
-              <div className="modal-header">
-                <h5 className="modal-title" id="resumeModalLabel">
-                  <i className="bi bi-file-earmark-person"></i>&emsp;Probo
-                  Krishnacahya&#39;s Resume
-                </h5>
-                <button
-                  type="button"
-                  className="btn-close btn-close-white"
-                  data-bs-dismiss="modal"
-                  aria-label="Close"
-                ></button>
-              </div>
-              <div className="modal-body p-0">
-                <iframe
-                  src="pdf/home/ProboKrishnacahya_Resume.pdf"
-                  frameborder="0"
-                  title="Resume"
-                  className="w-100 vh-100"
-                ></iframe>
-              </div>
-            </div>
-          </div>
-        </div>
 
         <section id="home" data-aos="fade-up">
           <h4 className="text-center section-title">About Us</h4>
           <br />
-          <div className="hstack">
+          <div className="d-flex gap-5 align-items-center">
             <div>
               <img
-                src="images/corporate_entrepreneurship.png"
-                id="assets"
+                src="images/home/about_us.jpg"
+                className="rounded shadow-sm"
                 alt="Probo Krishnacahya"
                 loading="lazy"
               />
@@ -519,6 +487,10 @@ export default function Home() {
                 merupakan kegiatan yang mempertemukan para calon intrapreneur
                 dengan berbagai perusahaan-perusahaan yang menjadi impiannya.
               </p>
+              <NavLink className="btn btn-primary" to="/about">
+                <i className="bi bi-arrow-right"></i>&emsp;
+                <strong>Read More</strong>
+              </NavLink>
             </div>
           </div>
         </section>
@@ -527,7 +499,7 @@ export default function Home() {
           <div className="vstack gap-5 mb-5">
             <div data-aos="fade-up">
               <h4 className="text-center section-title">
-                &#128188;&ensp;Professional Experiences
+                Professional Experiences
               </h4>
               <br />
               {professional}
@@ -536,17 +508,13 @@ export default function Home() {
 
           <div className="vstack gap-5">
             <div data-aos="fade-up">
-              <h4 className="text-center section-title">
-                &#128293;&ensp;Volunteering
-              </h4>
+              <h4 className="text-center section-title">Volunteering</h4>
               <br />
               {volunteering}
             </div>
 
             <div data-aos="fade-up">
-              <h4 className="text-center section-title">
-                &#127942;&ensp;Awards
-              </h4>
+              <h4 className="text-center section-title">Awards</h4>
               <br />
               {awards}
             </div>
@@ -554,7 +522,7 @@ export default function Home() {
         </section>
 
         <div className="container mb-5" data-aos="fade-up">
-          <h4 className="text-center section-title">&#10024;&ensp;Hobbies</h4>
+          <h4 className="text-center section-title">Hobbies</h4>
           <br />
           <div
             id="carouselHobbies"

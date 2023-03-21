@@ -48,18 +48,30 @@ export default function Home() {
   return (
     <div className="home">
       <Header />
+
+      {/* Hero Section */}
       <div className="container">
         <section className="my-5" data-aos="fade-up">
           <p className="text-center display-1 fw-bold mt-5">Career Expo 3.0</p>
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
-            <NavLink className="btn btn-primary btn-lg" to="/contacts">
+            <button
+              type="button"
+              className="btn btn-primary btn-lg"
+              data-bs-toggle="modal"
+              data-bs-target="#proposalKegiatanModal"
+            >
               <i className="bi bi-card-checklist"></i>&emsp;
               <strong>Proposal Kegiatan</strong>
-            </NavLink>
-            <NavLink className="btn btn-secondary btn-lg" to="/contacts">
+            </button>
+            <button
+              type="button"
+              className="btn btn-secondary btn-lg"
+              data-bs-toggle="modal"
+              data-bs-target="#proposalSponsorshipModal"
+            >
               <i className="bi bi-megaphone"></i>&emsp;
               <strong>Proposal Sponsorship</strong>
-            </NavLink>
+            </button>
           </div>
           <h3 className="scroll-down text-center my-5 py-5">
             <a href="#home">
@@ -72,6 +84,7 @@ export default function Home() {
           </h3>
         </section>
 
+        {/* About Us */}
         <section id="home" data-aos="fade-up">
           <h4 className="text-center section-title">About Us</h4>
           <br />
@@ -100,6 +113,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Pelaksanaan Acara */}
         <section className="my-5" data-aos="fade-up">
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
             <h4 className="text-center">Pelaksanaan Acara</h4>
@@ -113,7 +127,9 @@ export default function Home() {
                 &ensp;
                 <span>Jumat, 26 Mei 2023 s.d. Sabtu, 27 Mei 2023</span>
               </div>
-              <div className="col-lg-1 d-none d-lg-block text-muted">&#124;</div>
+              <div className="col-lg-1 d-none d-lg-block text-muted">
+                &#124;
+              </div>
               <div className="col-lg-5">
                 <i
                   className="bi bi-geo-alt"
@@ -138,11 +154,12 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Testimonials */}
         <section data-aos="fade-up">
           <h4 className="text-center section-title">Testimonials</h4>
           <br />
-          <div class="row g-4">
-            <div class="col-lg-4 d-grid gap-3">
+          <div className="row g-4">
+            <div className="col-lg-4 d-grid gap-3">
               <img
                 src="images/home/testimonials/anetta.jpg"
                 alt="Testimonials"
@@ -161,7 +178,7 @@ export default function Home() {
                 </q>
               </div>
             </div>
-            <div class="col-lg-4 d-grid gap-3">
+            <div className="col-lg-4 d-grid gap-3">
               <img
                 src="images/home/testimonials/berliana.jpg"
                 alt="Testimonials"
@@ -181,7 +198,7 @@ export default function Home() {
                 </q>
               </div>
             </div>
-            <div class="col-lg-4 d-grid gap-3">
+            <div className="col-lg-4 d-grid gap-3">
               <img
                 src="images/home/testimonials/sukma.jpeg"
                 alt="Testimonials"
@@ -206,6 +223,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Sponsors */}
         <section className="my-5" data-aos="fade-up">
           <h4 className="text-center section-title">Sponsors</h4>
           <br />
@@ -222,7 +240,7 @@ export default function Home() {
                 data-bs-slide-to="0"
                 className="active"
                 aria-current="true"
-                aria-label="Photography"
+                aria-label="Sponsors"
               ></button>
               <button
                 type="button"
@@ -304,6 +322,7 @@ export default function Home() {
           </div>
         </section>
 
+        {/* Media Partners */}
         <section className="mb-5" data-aos="fade-up">
           <h4 className="text-center section-title">Media Partners</h4>
           <br />
@@ -401,6 +420,72 @@ export default function Home() {
             </button>
           </div>
         </section>
+      </div>
+
+      {/* PDF Proposal Kegiatan */}
+      <div
+        className="modal fade"
+        id="proposalKegiatanModal"
+        tabindex="-1"
+        aria-labelledby="proposalKegiatanModalLabel"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-fullscreen">
+          <div className="modal-content bg-light">
+            <div className="modal-header">
+              <h5 className="modal-title" id="proposalKegiatanModalLabel">
+                Proposal Kegiatan
+              </h5>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body p-0">
+              <iframe
+                src="pdf/home/Proposal Kegiatan.pdf"
+                frameborder="0"
+                title="Proposal Kegiatan"
+                className="w-100 vh-100"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* PDF Proposal Sponsorship */}
+      <div
+        className="modal fade"
+        id="proposalSponsorshipModal"
+        tabindex="-1"
+        aria-labelledby="proposalSponsorshipModalLabel"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-fullscreen">
+          <div className="modal-content bg-light">
+            <div className="modal-header">
+              <h5 className="modal-title" id="proposalSponsorshipModalLabel">
+                Proposal Sponsorship
+              </h5>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body p-0">
+              <iframe
+                src="pdf/home/Proposal Sponsorship.pdf"
+                frameborder="0"
+                title="Proposal Sponsorship"
+                className="w-100 vh-100"
+              ></iframe>
+            </div>
+          </div>
+        </div>
       </div>
 
       <Footer />

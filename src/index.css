@@ -133,9 +133,15 @@ img {
   transform: scale(0.9);
 }
 
-.btn-primary, .btn-primary:hover, .btn-primary:active {
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:active {
   background-color: var(--cetacean-blue) !important;
   border: none;
+}
+
+.btn-primary:focus {
+  box-shadow: none !important;
 }
 
 .btn-secondary {
@@ -151,10 +157,6 @@ img {
   filter: brightness(110%) !important;
   background-color: transparent !important;
   color: var(--cetacean-blue) !important;
-}
-
-.btn-secondary:active {
-  box-shadow: 0 0 0 2px var(--cetacean-blue) !important;
 }
 
 hr {

@@ -1,5 +1,5 @@
-/*! Desktop Mode View */
-/** Page Structures */
+/* ! Desktop Mode View */
+/* * Page Structures */
 a {
   text-decoration: none !important;
   color: var(--cetacean-blue) !important;
@@ -54,7 +54,7 @@ th {
   background-color: var(--white) !important;
 }
 
-/** Selector (Class) */
+/* * Selector (Class) */
 .badge {
   padding: 0.75rem;
   font-size: medium;
@@ -144,7 +144,7 @@ th {
   font-family: var(--lato400);
 }
 
-/** Selector (ID) */
+/* * Selector (ID) */
 #hero1,
 #hero2,
 #about_us-pelaksanaan_acara,
@@ -152,37 +152,37 @@ th {
 #testimonials-sponsors,
 #sponsors-media_partners {
   position: absolute;
-  z-index: -999;
+  z-index: -999 !important;
 }
 
 #hero1 {
-  top: 5vh;
-  right: -10%;
+  top: 10vh;
+  right: 0;
 }
 
 #hero2 {
-  top: 50vh;
-  left: -10%;
+  top: 60vh;
+  left: 0;
 }
 
 #about_us-pelaksanaan_acara {
   top: 120vh;
-  right: -5%;
+  right: 0;
 }
 
 #pelaksanaan_acara-testimonials {
-  top: 190vh;
-  left: -5%;
+  top: 180vh;
+  left: 0;
 }
 
 #testimonials-sponsors {
-  top: 280vh;
-  right: -5%;
+  top: 240vh;
+  right: 0;
 }
 
 #sponsors-media_partners {
-  top: 360vh;
-  left: -5%;
+  top: 320vh;
+  left: 0;
 }
 
 #preload {
@@ -209,7 +209,7 @@ th {
   cursor: pointer;
 }
 
-/** Pseudo-classes */
+/* * Pseudo-classes */
 :root {
   /* Colors (https://www.color-name.com/) */
   --cetacean-blue: #100f3b;
@@ -361,7 +361,7 @@ tr:last-child td:last-child {
   }
 }
 
-/*! Mobile Mode View */
+/* ! Mobile Mode View */
 @media screen and (max-width: 768) {
   .card-img-top {
     height: 100vw;

@@ -141,7 +141,7 @@ export default function Home() {
             <div>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.534970097948!2d112.71712061461693!3d-7.2936285737167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb8bdc3056ef%3A0xb940ebcd5368b020!2sCiputra%20World%2C%20Gn.%20Sari%2C%20Kec.%20Dukuhpakis%2C%20Kota%20SBY%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1679392399794!5m2!1sid!2sid"
-                height={240}
+                height={480}
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
@@ -163,6 +163,7 @@ export default function Home() {
                 alt="Testimonials"
                 className="rounded-circle shadow-sm"
                 width={256}
+                loading="lazy"
               />
               <div>
                 <h5>Anetta TW</h5>
@@ -182,6 +183,7 @@ export default function Home() {
                 alt="Testimonials"
                 className="rounded-circle shadow-sm"
                 width={256}
+                loading="lazy"
               />
               <div>
                 <h5>Berliana Fira</h5>
@@ -202,6 +204,7 @@ export default function Home() {
                 alt="Testimonials"
                 className="rounded-circle shadow-sm"
                 width={256}
+                loading="lazy"
               />
               <div>
                 <h5>Sukma Jenny</h5>

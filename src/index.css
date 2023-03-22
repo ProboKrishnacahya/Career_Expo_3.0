@@ -14,12 +14,12 @@ img,
 }
 
 body {
-  background: url(background/background.svg) fixed center / cover no-repeat;
   font-family: var(--lato400);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
   scroll-behavior: smooth !important;
+  overflow-x: hidden !important;
 }
 
 h1,
@@ -145,6 +145,46 @@ th {
 }
 
 /** Selector (ID) */
+#hero1,
+#hero2,
+#about_us-pelaksanaan_acara,
+#pelaksanaan_acara-testimonials,
+#testimonials-sponsors,
+#sponsors-media_partners {
+  position: absolute;
+  z-index: -999;
+}
+
+#hero1 {
+  top: 5vh;
+  right: -10%;
+}
+
+#hero2 {
+  top: 50vh;
+  left: -10%;
+}
+
+#about_us-pelaksanaan_acara {
+  top: 120vh;
+  right: -5%;
+}
+
+#pelaksanaan_acara-testimonials {
+  top: 190vh;
+  left: -5%;
+}
+
+#testimonials-sponsors {
+  top: 280vh;
+  right: -5%;
+}
+
+#sponsors-media_partners {
+  top: 360vh;
+  left: -5%;
+}
+
 #preload {
   inset: 0;
 }
@@ -176,8 +216,7 @@ th {
   --dark-cerulean: #06417b;
   --sky-blue: #7dccee;
   --orange: #f7931f;
-  --crayola: #19f9cc
-  --black: #000000;
+  --crayola: #19f9cc --black: #000000;
   --white: #ffffff;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;

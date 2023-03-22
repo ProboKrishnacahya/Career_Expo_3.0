@@ -24,8 +24,25 @@ export default function Home() {
 
       {/* Hero Section */}
       <div className="container">
+        <img
+          src="images/backgrounds/1.png"
+          alt="Background"
+          id="hero1"
+          width={240}
+          className="d-none d-md-block"
+        />
+        <img
+          src="images/backgrounds/1.png"
+          alt="Background"
+          id="hero2"
+          width={240}
+          className="d-none d-md-block"
+        />
+
         <section className="my-5" data-aos="fade-up">
-          <h1 className="text-center display-1 fw-bold mt-5">Career Expo 3.0</h1>
+          <h1 className="text-center display-1 fw-bold mt-5">
+            Career Expo 3.0
+          </h1>
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
             <button
               type="button"
@@ -86,6 +103,14 @@ export default function Home() {
           </div>
         </section>
 
+        <img
+          src="images/backgrounds/2.png"
+          alt="Background"
+          id="about_us-pelaksanaan_acara"
+          width={240}
+          className="d-none d-md-block"
+        />
+
         {/* Pelaksanaan Acara */}
         <section className="my-5" data-aos="fade-up">
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
@@ -116,7 +141,7 @@ export default function Home() {
             <div>
               <iframe
                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.534970097948!2d112.71712061461693!3d-7.2936285737167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fb8bdc3056ef%3A0xb940ebcd5368b020!2sCiputra%20World%2C%20Gn.%20Sari%2C%20Kec.%20Dukuhpakis%2C%20Kota%20SBY%2C%20Jawa%20Timur!5e0!3m2!1sid!2sid!4v1679392399794!5m2!1sid!2sid"
-                height={480}
+                height={240}
                 allowfullscreen=""
                 loading="lazy"
                 referrerpolicy="no-referrer-when-downgrade"
@@ -195,6 +220,22 @@ export default function Home() {
             </div>
           </div>
         </section>
+
+        <img
+          src="images/backgrounds/3.png"
+          alt="Background"
+          id="pelaksanaan_acara-testimonials"
+          width={240}
+          className="d-none d-md-block"
+        />
+
+        <img
+          src="images/backgrounds/4.png"
+          alt="Background"
+          id="testimonials-sponsors"
+          width={240}
+          className="d-none d-md-block"
+        />
 
         {/* Sponsors */}
         <section className="my-5" data-aos="fade-up">
@@ -294,6 +335,14 @@ export default function Home() {
             </button>
           </div>
         </section>
+
+        <img
+          src="images/backgrounds/5.png"
+          alt="Background"
+          id="sponsors-media_partners"
+          width={240}
+          className="d-none d-md-block"
+        />
 
         {/* Media Partners */}
         <section className="mb-5" data-aos="fade-up">

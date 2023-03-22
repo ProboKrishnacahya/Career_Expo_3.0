@@ -59,7 +59,7 @@ export default function Home() {
 
         {/* About Us */}
         <section id="home" data-aos="fade-up">
-          <h4 className="text-center section-title">About Us</h4>
+          <h4 className="text-center">About Us</h4>
           <br />
           <div className="d-grid gap-3 align-items-center d-lg-flex gap-lg-5">
             <div>
@@ -129,7 +129,7 @@ export default function Home() {
 
         {/* Testimonials */}
         <section data-aos="fade-up">
-          <h4 className="text-center section-title">Testimonials</h4>
+          <h4 className="text-center">Testimonials</h4>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
             <div className="col d-grid gap-3">
@@ -198,7 +198,7 @@ export default function Home() {
 
         {/* Sponsors */}
         <section className="my-5" data-aos="fade-up">
-          <h4 className="text-center section-title">Sponsors</h4>
+          <h4 className="text-center">Sponsors</h4>
           <br />
           <div
             id="carouselSponsors"
@@ -297,7 +297,7 @@ export default function Home() {
 
         {/* Media Partners */}
         <section className="mb-5" data-aos="fade-up">
-          <h4 className="text-center section-title">Media Partners</h4>
+          <h4 className="text-center">Media Partners</h4>
           <br />
           <div
             id="carouselMediaPartners"

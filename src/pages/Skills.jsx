@@ -525,7 +525,7 @@ export default function Skills() {
             </h4>
             <br />
             <table
-              className="table table-responsive table-dark table-striped table-hover"
+              className="table table-responsive table-light table-striped table-hover"
               id="certificationList"
             >
               <thead>

@@ -18,33 +18,6 @@ export default function Home() {
     });
   }, []);
 
-  // * Sponsors
-
-  // Malang
-  const mlg = [
-    { id: 1, image: "images/home/photography/candi-3.jpg" },
-    { id: 2, image: "images/home/photography/chochin.jpg" },
-    { id: 3, image: "images/home/photography/tanaman-1.jpg" },
-    { id: 4, image: "images/home/photography/tanaman-2.jpg" },
-    { id: 5, image: "images/home/photography/tanaman-3.jpg" },
-    { id: 6, image: "images/home/photography/tanaman-4.jpg" },
-  ];
-
-  const malang = [];
-
-  for (const shoot of mlg) {
-    malang.push(
-      <div key={shoot.id}>
-        <img
-          src={shoot.image}
-          className="d-block rounded shadow-sm w-100"
-          loading="lazy"
-          alt="Photography"
-        />
-      </div>
-    );
-  }
-
   return (
     <div className="home">
       <Header />
@@ -52,7 +25,7 @@ export default function Home() {
       {/* Hero Section */}
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          <p className="text-center display-1 fw-bold mt-5">Career Expo 3.0</p>
+          <h1 className="text-center display-1 fw-bold mt-5">Career Expo 3.0</h1>
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
             <button
               type="button"
@@ -158,8 +131,8 @@ export default function Home() {
         <section data-aos="fade-up">
           <h4 className="text-center section-title">Testimonials</h4>
           <br />
-          <div className="row g-4">
-            <div className="col-lg-4 d-grid gap-3">
+          <div className="row row-cols-1 row-cols-lg-3 g-4">
+            <div className="col d-grid gap-3">
               <img
                 src="images/home/testimonials/anetta.jpg"
                 alt="Testimonials"
@@ -178,7 +151,7 @@ export default function Home() {
                 </q>
               </div>
             </div>
-            <div className="col-lg-4 d-grid gap-3">
+            <div className="col d-grid gap-3">
               <img
                 src="images/home/testimonials/berliana.jpg"
                 alt="Testimonials"
@@ -198,7 +171,7 @@ export default function Home() {
                 </q>
               </div>
             </div>
-            <div className="col-lg-4 d-grid gap-3">
+            <div className="col d-grid gap-3">
               <img
                 src="images/home/testimonials/sukma.jpeg"
                 alt="Testimonials"

@@ -30,7 +30,7 @@ export default function Footer() {
                   />
                 </div>
               </div>
-              <p>UC Corporate Entrepreneurship 2023</p>
+              <h6>UC Corporate Entrepreneurship 2023</h6>
             </div>
             <a href="https://goo.gl/maps/kcKtWyQcjksTkcy18">
               CitraLand CBD Boulevard, Made, Kec. Sambikerep, Kota Surabaya,

@@ -1,7 +1,7 @@
-import React, { useEffect } from "react";
 import { Tooltip } from "bootstrap";
-import Header from "../components/Header";
-import Footer from "../components/Footer";
+import React, { useEffect } from "react";
+import Footer from "../../components/Footer";
+import Header from "../../components/Header";
 
 export default function CompanyList() {
   useEffect(() => {
@@ -21,13 +21,11 @@ export default function CompanyList() {
     {
       id: 1,
       image:
-        "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1742&q=80",
-      alt: "Lorem ipsum",
-      title:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quod.",
-      time: 11,
-      category: "Machine Learning",
-      date: "Jun 10th, 2022",
+        "https://static.wixstatic.com/media/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg/v1/fill/w_556,h_371,fp_0.50_0.50,q_90,enc_auto/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg",
+      alt: "Artikel",
+      title: "5 Hal Yang Dinilai HRD Saat Interview",
+      time: 1,
+      date: "14 Mei 2021",
       url: "/",
     },
   ];
@@ -36,17 +34,17 @@ export default function CompanyList() {
 
   for (const postReadMore of postsReadMore) {
     blogsReadMore.push(
-      <div className="postTarget card p-0 mb-4">
+      <div className="card p-2 mb-4">
         <div className="row">
           <div className="col-md-4">
             <img
               src={postReadMore.image}
-              className="post-thumbnail img-fluid h-100"
+              className="post-thumbnail img-fluid h-100 rounded shadow-sm"
               alt={postReadMore.alt}
               loading="lazy"
             />
           </div>
-          <div className="col-md-8 vstack justify-content-between">
+          <div className="col-md-8 vstack">
             <div className="card-body vstack gap-3 justify-content-between">
               <div>
                 <h5 className="card-title mb-0">{postReadMore.title}</h5>
@@ -59,7 +57,7 @@ export default function CompanyList() {
                       data-bs-toggle="tooltip"
                       title="Estimated Reading Time"
                     ></i>
-                    &emsp;{postReadMore.time}&nbsp;minutes
+                    &ensp;{postReadMore.time}&nbsp;minutes
                   </div>
                   <div>
                     <i
@@ -67,23 +65,16 @@ export default function CompanyList() {
                       data-bs-toggle="tooltip"
                       title="Uploaded Date"
                     ></i>
-                    &emsp;{postReadMore.date}
-                  </div>
-                  <div className="text-truncate">
-                    <i
-                      className="bi bi-tag"
-                      data-bs-toggle="tooltip"
-                      title="Category"
-                    ></i>
-                    &emsp;{postReadMore.category}
+                    &ensp;{postReadMore.date}
                   </div>
                 </p>
+                <p>Kamu sudah pernah melamar kerja dimana-mana tetapi gagal terus? Kamu tidak tau kesalahan kamu dimana saat melakukan interview? Mungkin kamu melakukan kesalahan yang tidak sengaja. Ada beberapa hal yang dinilai oleh HRD saat kamu wawancara / interview kerja. Berikut beberapa hal yang dinilai oleh HRD saat wawancara.</p>
               </div>
               <div>
                 <a href={postReadMore.url} className="stretched-link">
                   <button className="btn btn-primary w-100">
-                    <i className="bi bi-arrow-right"></i>&emsp;
-                    <strong>Read More</strong>
+                    <i className="bi bi-arrow-right"></i>&ensp;
+                    <strong>Baca Artikel</strong>
                   </button>
                 </a>
               </div>
@@ -93,7 +84,7 @@ export default function CompanyList() {
       </div>
     );
   }
-  
+
   return (
     <div className="blogs">
       <Header />

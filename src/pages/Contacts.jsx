@@ -86,7 +86,7 @@ export default function Contacts() {
                   data-bs-toggle="tooltip"
                   title={account.title}
                 />
-                &emsp;{account.text}
+                &ensp;{account.text}
               </div>
             </a>
           </span>
@@ -102,9 +102,9 @@ export default function Contacts() {
       <Header />
       <div className="container">
         <section id="above-the-fold" data-aos="fade-up">
-          <h4 className="text-center section-title">
-            Contact Form&ensp;&#129309;
-          </h4>
+          <h3 className="text-center">
+            Contact Formensp;&#129309;
+          </h3>
           <br />
           <p className="mb-3 text-center">
             For any business inquiries and/or other subjects, please feel free
@@ -118,7 +118,7 @@ export default function Contacts() {
           >
             <div className="card pb-4 vstack gap-3">
               <div>
-                <i className="bi bi-envelope"></i>&emsp;
+                <i className="bi bi-envelope"></i>&ensp;
                 <label for="formControlInputEmail" className="form-label">
                   Email Address<label className="text-danger">&#42;</label>
                 </label>
@@ -132,7 +132,7 @@ export default function Contacts() {
                 />
               </div>
               <div>
-                <i className="bi bi-person"></i>&emsp;
+                <i className="bi bi-person"></i>&ensp;
                 <label for="formControlInputFullName" className="form-label">
                   Full Name<label className="text-danger">&#42;</label>
                 </label>
@@ -148,7 +148,7 @@ export default function Contacts() {
               <div>
                 <div className="hstack justify-content-between">
                   <div>
-                    <i className="bi bi-upload"></i>&emsp;
+                    <i className="bi bi-upload"></i>&ensp;
                     <label for="formFileMultiple" className="form-label">
                       Upload File
                     </label>
@@ -202,7 +202,7 @@ export default function Contacts() {
                 </div>
               </div>
               <div>
-                <i className="bi bi-link-45deg"></i>&emsp;
+                <i className="bi bi-link-45deg"></i>&ensp;
                 <label for="formControlURL" className="form-label">
                   Uniform Resource Locator (URL)
                 </label>
@@ -216,7 +216,7 @@ export default function Contacts() {
                 />
               </div>
               <div>
-                <i className="bi bi-calendar-date"></i>&emsp;
+                <i className="bi bi-calendar-date"></i>&ensp;
                 <label for="formControlInputDate" className="form-label">
                   Destined Date<label className="text-danger">&#42;</label>
                 </label>
@@ -230,7 +230,7 @@ export default function Contacts() {
                 />
               </div>
               <div>
-                <i className="bi bi-quote"></i>&emsp;
+                <i className="bi bi-quote"></i>&ensp;
                 <label for="formControlTextarea" className="form-label">
                   Message<label className="text-danger">&#42;</label>
                 </label>
@@ -252,16 +252,16 @@ export default function Contacts() {
               </small>
             </div>
             <button className="btn btn-primary w-100" type="submit">
-              <i className="bi bi-send"></i>&emsp;
+              <i className="bi bi-send"></i>&ensp;
               <strong>Submit</strong>
             </button>
           </form>
         </section>
 
         <div className="mb-5" data-aos="fade-up">
-          <h4 className="text-center section-title">
-            Would Be Glad to Connect&ensp;&#128518;
-          </h4>
+          <h3 className="text-center">
+            Would Be Glad to Connectensp;&#128518;
+          </h3>
           <br />
           {connects}
         </div>

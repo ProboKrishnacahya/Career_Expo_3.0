@@ -1,8 +1,8 @@
+import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import { Tooltip } from "bootstrap";
-import Header from "./../components/Header";
-import Footer from "./../components/Footer";
+import Footer from "../../components/Footer";
+import Header from "../../components/Header";
 
 export default function Home() {
   useEffect(() => {
@@ -50,7 +50,7 @@ export default function Home() {
               data-bs-toggle="modal"
               data-bs-target="#proposalKegiatanModal"
             >
-              <i className="bi bi-card-checklist"></i>&emsp;
+              <i className="bi bi-card-checklist"></i>&ensp;
               <strong>Proposal Kegiatan</strong>
             </button>
             <button
@@ -59,7 +59,7 @@ export default function Home() {
               data-bs-toggle="modal"
               data-bs-target="#proposalSponsorshipModal"
             >
-              <i className="bi bi-megaphone"></i>&emsp;
+              <i className="bi bi-megaphone"></i>&ensp;
               <strong>Proposal Sponsorship</strong>
             </button>
           </div>
@@ -76,7 +76,7 @@ export default function Home() {
 
         {/* About Us */}
         <section id="home" data-aos="fade-up">
-          <h4 className="text-center">About Us</h4>
+          <h3 className="text-center">About Us</h3>
           <br />
           <div className="d-grid gap-3 align-items-center d-lg-flex gap-lg-5">
             <div>
@@ -96,7 +96,7 @@ export default function Home() {
                 dengan berbagai perusahaan-perusahaan yang menjadi impiannya.
               </p>
               <NavLink className="btn btn-primary" to="/about">
-                <i className="bi bi-arrow-right"></i>&emsp;
+                <i className="bi bi-arrow-right"></i>&ensp;
                 <strong>Read More</strong>
               </NavLink>
             </div>
@@ -114,7 +114,7 @@ export default function Home() {
         {/* Pelaksanaan Acara */}
         <section className="my-5" data-aos="fade-up">
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
-            <h4 className="text-center">Pelaksanaan Acara</h4>
+            <h3 className="text-center">Pelaksanaan Acara</h3>
             <div className="row justify-content-center text-center align-items-center">
               <div className="col-lg-5">
                 <i
@@ -154,7 +154,7 @@ export default function Home() {
 
         {/* Testimonials */}
         <section data-aos="fade-up">
-          <h4 className="text-center">Testimonials</h4>
+          <h3 className="text-center">Testimonials</h3>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
             <div className="col d-grid gap-3">
@@ -242,7 +242,7 @@ export default function Home() {
 
         {/* Sponsors */}
         <section className="my-5" data-aos="fade-up">
-          <h4 className="text-center">Sponsors</h4>
+          <h3 className="text-center">Sponsors</h3>
           <br />
           <div
             id="carouselSponsors"
@@ -349,7 +349,7 @@ export default function Home() {
 
         {/* Media Partners */}
         <section className="mb-5" data-aos="fade-up">
-          <h4 className="text-center">Media Partners</h4>
+          <h3 className="text-center">Media Partners</h3>
           <br />
           <div
             id="carouselMediaPartners"

@@ -15,10 +15,10 @@ export default function PageNotFound() {
       >
         <div className="card text-center">
           <span>
-            <h4>
-              <i className="bi bi-exclamation-circle"></i>&emsp;404 Page Not
+            <h3>
+              <i className="bi bi-exclamation-circle"></i>&ensp;404 Page Not
               Found
-            </h4>
+            </h3>
           </span>
           <hr />
           <p className="fs-5">
@@ -26,7 +26,7 @@ export default function PageNotFound() {
           </p>
           <br />
           <NavLink className="btn btn-primary btn-lg" to="/">
-            <i className="bi bi-house-door"></i>&emsp;
+            <i className="bi bi-house-door"></i>&ensp;
             <strong>Back to Home</strong>
           </NavLink>
         </div>

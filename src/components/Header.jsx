@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import { NavLink } from "react-router-dom";
 
@@ -89,7 +90,7 @@ export default function Header() {
                   <ul className="dropdown-menu">
                     <li>
                       <a className="dropdown-item" href="/career-expo">
-                        Virtual Career Expo 3.0
+                        Career Expo 3.0
                       </a>
                     </li>
                     <li>

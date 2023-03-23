@@ -520,9 +520,9 @@ export default function Skills() {
       <section id="content">
         <div className="container">
           <div className="mb-5" data-aos="fade-up">
-            <h4 className="text-center section-title">
+            <h3 className="text-center">
               &#128220;&ensp;Certifications
-            </h4>
+            </h3>
             <br />
             <table
               className="table table-responsive table-light table-striped table-hover"
@@ -1062,9 +1062,9 @@ export default function Skills() {
         </div>
 
         <div className="container text-center p-0" data-aos="fade-up">
-          <h4 className="text-center section-title">
+          <h3 className="text-center">
             &#128640;&ensp;Tech Stack
-          </h4>
+          </h3>
           {/* Information of Technology */}
           <div className="accordion mt-3" id="accordionSkills">
             <div className="accordion-item border-0 bg-transparent">
@@ -1083,7 +1083,7 @@ export default function Skills() {
                       data-bs-toggle="tooltip"
                       title="Category"
                     ></i>
-                    &emsp;Information of Technology
+                    &ensp;Information of Technology
                   </h5>
                 </button>
               </h2>
@@ -1100,7 +1100,7 @@ export default function Skills() {
                       data-bs-toggle="tooltip"
                       title="Specialization"
                     ></i>
-                    &emsp;
+                    &ensp;
                     <strong>Frontend Development</strong>
                   </div>
                   <div className="row row-cols-1 row-cols-md-4 g-4">
@@ -1112,7 +1112,7 @@ export default function Skills() {
                       data-bs-toggle="tooltip"
                       title="Specialization"
                     ></i>
-                    &emsp;
+                    &ensp;
                     <strong>Backend Development</strong>
                   </div>
                   <div className="row row-cols-1 row-cols-md-4 g-4">
@@ -1124,7 +1124,7 @@ export default function Skills() {
                       data-bs-toggle="tooltip"
                       title="Specialization"
                     ></i>
-                    &emsp;
+                    &ensp;
                     <strong>Others</strong>
                   </div>
                   <div className="row row-cols-1 row-cols-md-4 g-4">
@@ -1150,7 +1150,7 @@ export default function Skills() {
                       data-bs-toggle="tooltip"
                       title="Category"
                     ></i>
-                    &emsp;Visual Design
+                    &ensp;Visual Design
                   </h5>
                 </button>
               </h2>
@@ -1183,7 +1183,7 @@ export default function Skills() {
                         data-bs-toggle="tooltip"
                         title="Category"
                       ></i>
-                      &emsp;Human Languages
+                      &ensp;Human Languages
                     </h5>
                   </button>
                 </h2>
@@ -1205,14 +1205,14 @@ export default function Skills() {
         </div>
 
         <div className="container text-center mt-5">
-              <span className="fs-6">Built with&ensp;</span>
+              <span className="fs-6">Built withensp;</span>
               <div className="hstack gap-4 justify-content-center">
                 {personalWebsite}
               </div>
               <br />
 
               <div className="d-inline">
-                <span className="fs-6">Deployed using&ensp;</span>
+                <span className="fs-6">Deployed usingensp;</span>
                 <span>
                   <a href="https://firebase.google.com/products/hosting">
                     <img

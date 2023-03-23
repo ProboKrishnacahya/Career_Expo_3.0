@@ -39,7 +39,7 @@ export default function Projects() {
               aria-selected="true"
             >
               <i className="bi bi-globe2"></i>
-              &emsp;Web
+              &ensp;Web
             </button>
           </li>
           <li className="nav-item" role="presentation">
@@ -54,7 +54,7 @@ export default function Projects() {
               aria-selected="false"
             >
               <i className="bi bi-phone"></i>
-              &emsp;Mobile
+              &ensp;Mobile
             </button>
           </li>
           <li className="nav-item" role="presentation">
@@ -69,7 +69,7 @@ export default function Projects() {
               aria-selected="false"
             >
               <i className="bi bi-laptop"></i>
-              &emsp;Desktop
+              &ensp;Desktop
             </button>
           </li>
         </ul>
@@ -92,7 +92,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Oct 2022 - Jan 2023
+                &ensp;Oct 2022 - Jan 2023
               </div>
               <div className="mt-3">
                 <p>
@@ -101,7 +101,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   D'Orphan is a Web Application that implemented MVC
                   Architecture and created using PHP (Laravel), JavaScript,
@@ -123,7 +123,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -173,7 +173,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-box-arrow-up-right"></i>&emsp;
+                    <i className="bi bi-box-arrow-up-right"></i>&ensp;
                     <strong>Visit Project</strong>
                   </button>
                 </a>
@@ -189,7 +189,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Nov 2021 - Jan 2022
+                &ensp;Nov 2021 - Jan 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -198,7 +198,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   SejarahKita is a Web Application that implemented MVC
                   Architecture and created using PHP (Laravel), JavaScript,
@@ -223,7 +223,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -281,7 +281,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-youtube"></i>&emsp;
+                    <i className="bi bi-youtube"></i>&ensp;
                     <strong>Watch Demonstration</strong>
                   </button>
                 </a>
@@ -297,7 +297,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Jul 2021
+                &ensp;Jul 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -306,7 +306,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />I took on a frontend challenges that included creating
                   web designs through&nbsp;
                   <a
@@ -340,7 +340,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-box-arrow-up-right"></i>&emsp;
+                    <i className="bi bi-box-arrow-up-right"></i>&ensp;
                     <strong>Visit Project</strong>
                   </button>
                 </a>
@@ -356,7 +356,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;May 2021 – Jun 2021
+                &ensp;May 2021 – Jun 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -365,7 +365,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   PartnerSeeker is a Dynamic Web that implemented Procedural
                   Paradigm and created using PHP, MySQL, HTML5, and CSS3. This
@@ -385,7 +385,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -426,7 +426,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-github"></i>&emsp;
+                    <i className="bi bi-github"></i>&ensp;
                     <strong>View Repository</strong>
                   </button>
                 </a>
@@ -451,7 +451,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Oct 2021 - Nov 2021
+                &ensp;Oct 2021 - Nov 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -460,7 +460,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   Weerausaha is a Mobile Prototype in the form of UI/UX Design
                   that created using Figma along with Google Material Design
@@ -476,7 +476,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -536,7 +536,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-box-arrow-up-right"></i>&emsp;
+                    <i className="bi bi-box-arrow-up-right"></i>&ensp;
                     <strong>Visit Project</strong>
                   </button>
                 </a>
@@ -552,7 +552,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;May 2022 - Jun 2022
+                &ensp;May 2022 - Jun 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -561,7 +561,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   Holiyay is a Native Mobile Application based on iOS that
                   created using Swift, SwiftUI, and MapKit along with Apple
@@ -581,7 +581,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -627,7 +627,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-youtube"></i>&emsp;
+                    <i className="bi bi-youtube"></i>&ensp;
                     <strong>Watch Demonstration</strong>
                   </button>
                 </a>
@@ -643,7 +643,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Nov 2021 - Jan 2022
+                &ensp;Nov 2021 - Jan 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -652,7 +652,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   SejarahKita is a Native Mobile Application based on Android OS
                   that implemented MVVM Architecture along with Google Material
@@ -675,7 +675,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -718,7 +718,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-youtube"></i>&emsp;
+                    <i className="bi bi-youtube"></i>&ensp;
                     <strong>Watch Demonstration</strong>
                   </button>
                 </a>
@@ -734,7 +734,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Oct 2021 - Nov 2021
+                &ensp;Oct 2021 - Nov 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -743,7 +743,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   <a
                     href="https://www.themoviedb.org/"
@@ -764,7 +764,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefit of Use:</strong>
+                    <strong>&ensp;Benefit of Use:</strong>
                     <br />
                     Can make potential viewers know the picture of the film
                     through synopsis and trailers to attract interest in
@@ -792,7 +792,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-youtube"></i>&emsp;
+                    <i className="bi bi-youtube"></i>&ensp;
                     <strong>Watch Demonstration</strong>
                   </button>
                 </a>
@@ -808,7 +808,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;May 2021 – Jun 2021
+                &ensp;May 2021 – Jun 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -817,7 +817,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   LemburanKu is a Native Mobile Application based on Android OS
                   that implemented OOP Paradigm along with Google Material
@@ -838,7 +838,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -878,7 +878,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-youtube"></i>&emsp;
+                    <i className="bi bi-youtube"></i>&ensp;
                     <strong>Watch Demonstration</strong>
                   </button>
                 </a>
@@ -903,7 +903,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;May 2022 - Jun 2022
+                &ensp;May 2022 - Jun 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -912,7 +912,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   Faumation is a Desktop Prototype of Water Level Monitoring
                   System and Water Temperature Heater with Faucet Automation
@@ -930,7 +930,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -976,7 +976,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-github"></i>&emsp;
+                    <i className="bi bi-github"></i>&ensp;
                     <strong>View Repository</strong>
                   </button>
                 </a>
@@ -992,7 +992,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;May 2022 - Jun 2022
+                &ensp;May 2022 - Jun 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -1001,7 +1001,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   Sortrash is a Desktop Application based on a Graphical User
                   Interface that implemented Deep Learning technology with the
@@ -1023,7 +1023,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -1060,7 +1060,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-github"></i>&emsp;
+                    <i className="bi bi-github"></i>&ensp;
                     <strong>View Repository</strong>
                   </button>
                 </a>
@@ -1076,7 +1076,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Dec 2021 – Jan 2022
+                &ensp;Dec 2021 – Jan 2022
               </div>
               <div className="mt-3">
                 <p>
@@ -1085,7 +1085,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   Dodge Master is a Desktop Application about Platformer Genre
                   Game with 2D graphics that contains various obstacles that
@@ -1107,7 +1107,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -1141,7 +1141,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-github"></i>&emsp;
+                    <i className="bi bi-github"></i>&ensp;
                     <strong>View Repository</strong>
                   </button>
                 </a>
@@ -1157,7 +1157,7 @@ export default function Projects() {
                   data-bs-toggle="tooltip"
                   title="Project Execution Time"
                 ></i>
-                &emsp;Nov 2020 – Jan 2021
+                &ensp;Nov 2020 – Jan 2021
               </div>
               <div className="mt-3">
                 <p>
@@ -1166,7 +1166,7 @@ export default function Projects() {
                     data-bs-toggle="tooltip"
                     title="Project Description"
                   ></i>
-                  <strong>&emsp;Project Description:</strong>
+                  <strong>&ensp;Project Description:</strong>
                   <br />
                   LemburanKu is a Desktop Application based on Android OS that
                   implemented Procedural Paradigm and created using Java. This
@@ -1186,7 +1186,7 @@ export default function Projects() {
                       data-bs-toggle="tooltip"
                       title="Benefits of Use"
                     ></i>
-                    <strong>&emsp;Benefits of Use:</strong>
+                    <strong>&ensp;Benefits of Use:</strong>
                     <br />
                     <ul className="benefits">
                       <li>
@@ -1226,7 +1226,7 @@ export default function Projects() {
                   rel="noopener noreferrer"
                 >
                   <button className="btn btn-primary">
-                    <i className="bi bi-box-arrow-up-right"></i>&emsp;
+                    <i className="bi bi-box-arrow-up-right"></i>&ensp;
                     <strong>Visit Project</strong>
                   </button>
                 </a>

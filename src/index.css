@@ -105,6 +105,11 @@ th {
   max-width: 50% !important;
 }
 
+.dropdown-menu>li>a:hover {
+  background-color: var(--cetacean-blue) !important;
+  color: var(--white) !important;
+}
+
 .fade-out {
   opacity: 0;
   visibility: hidden;
@@ -125,7 +130,6 @@ th {
 
 .post-thumbnail {
   aspect-ratio: 3/2;
-  border-radius: 10.25rem 0 0 10.25rem;
 }
 
 .progress-bar {
@@ -190,19 +194,18 @@ th {
 }
 
 #pills-1-tab.active,
-#pills-2-tab.active,
-#pills-3-tab.active,
-#pills-4-tab.active {
-  border-bottom: none;
-  background-color: var(--cetacean-blue);
+#pills-2-tab.active {
+  background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }
 
 #pills-1-tab.nav-link:not(.active),
-#pills-2-tab.nav-link:not(.active),
-#pills-3-tab.nav-link:not(.active),
-#pills-4-tab.nav-link:not(.active) {
+#pills-2-tab.nav-link:not(.active) {
   color: var(--cetacean-blue) !important;
+}
+
+#pillNav {
+  background-color: var(--cetacean-blue-muted) !important;
 }
 
 #scrollToTop {
@@ -213,10 +216,12 @@ th {
 :root {
   /* Colors (https://www.color-name.com/) */
   --cetacean-blue: #100f3b;
+  --cetacean-blue-muted: #100f3b40;
   --dark-cerulean: #06417b;
   --sky-blue: #7dccee;
   --orange: #f7931f;
-  --crayola: #19f9cc --black: #000000;
+  --crayola: #19f9cc 
+  --black: #000000;
   --white: #ffffff;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;
@@ -374,10 +379,5 @@ tr:last-child td:last-child {
 
   .navbar-toggler-icon {
     font-size: x-large !important;
-  }
-
-  .post-thumbnail {
-    aspect-ratio: unset;
-    border-radius: 10.25rem 10.25rem 0 0;
   }
 }

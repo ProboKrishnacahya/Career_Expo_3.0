@@ -248,7 +248,7 @@ th {
   background-color: var(--cetacean-blue);
 }
 
-a:hover,
+a:hover:not(#blog),
 .nav-link:hover,
 #scrollToTop:hover {
   filter: brightness(125%) !important;

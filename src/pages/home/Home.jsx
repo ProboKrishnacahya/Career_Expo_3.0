@@ -250,7 +250,7 @@ export default function Home() {
             data-bs-ride="false"
             data-bs-interval="false"
           >
-            <div className="carousel-indicators">
+            <div className="carousel-indicators d-none d-lg-flex">
               <button
                 type="button"
                 data-bs-target="#carouselSponsors"
@@ -357,7 +357,7 @@ export default function Home() {
             data-bs-ride="false"
             data-bs-interval="false"
           >
-            <div className="carousel-indicators">
+            <div className="carousel-indicators d-none d-lg-flex">
               <button
                 type="button"
                 data-bs-target="#carouselMediaPartners"

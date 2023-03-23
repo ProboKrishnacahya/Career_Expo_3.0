@@ -12,6 +12,8 @@ export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 export { default as CareerExpo } from "../pages/events/CareerExpo";
 
 // * Collaborations
+export { default as Sponsors } from "../pages/collaborations/Sponsors";
+export { default as MediaPartners } from "../pages/collaborations/MediaPartners";
 
 // * About Us
 

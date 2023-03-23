@@ -132,10 +132,6 @@ th {
   display: none;
 }
 
-.post-thumbnail {
-  aspect-ratio: 3/2;
-}
-
 .progress-bar {
   animation: animateBar 1s ease-in 1;
 }
@@ -150,6 +146,13 @@ th {
 
 .tooltip {
   font-family: var(--lato400);
+}
+
+.truncate {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
 }
 
 /* * Selector (ID) */

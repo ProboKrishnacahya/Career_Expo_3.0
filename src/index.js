@@ -7,7 +7,7 @@ import ReactDOM from 'react-dom/client';
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import { PageNotFound, Home, CompanyList, JobVacancy, CareerExpo, Webinar, Sponsors, MediaPartners } from "./script/export";
+import { PageNotFound, Home, CompanyList, JobVacancy, CareerExpo, Webinar, Register, Sponsors, MediaPartners, About, Gallery, Blog } from "./script/export";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -23,14 +23,14 @@ root.render(
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />
       <Route path="/webinar" element={<Webinar />} />
-      <Route path="/register" element={<JobVacancy />} />
+      <Route path="/register" element={<Register />} />
       {/* Collaborations */}
       <Route path="/sponsors" element={<Sponsors />} />
       <Route path="/media-partners" element={<MediaPartners />} />
       {/* About Us */}
-      <Route path="/about" element={<JobVacancy />} />
-      <Route path="/gallery" element={<JobVacancy />} />
-      <Route path="/blog" element={<JobVacancy />} />
+      <Route path="/about" element={<About />} />
+      <Route path="/gallery" element={<Gallery />} />
+      <Route path="/blog" element={<Blog />} />
     </Routes>
   </Router>
 );

@@ -11,12 +11,16 @@ export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";
 export { default as Webinar } from "../pages/events/Webinar";
+export { default as Register } from "../pages/events/Register";
 
 // * Collaborations
 export { default as Sponsors } from "../pages/collaborations/Sponsors";
 export { default as MediaPartners } from "../pages/collaborations/MediaPartners";
 
 // * About Us
+export { default as About } from "../pages/aboutUs/About";
+export { default as Gallery } from "../pages/aboutUs/Gallery";
+export { default as Blog } from "../pages/aboutUs/Blog";
 
 // * Components
 export { default as Footer } from "../components/Footer";

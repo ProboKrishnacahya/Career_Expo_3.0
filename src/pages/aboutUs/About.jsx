@@ -3,10 +3,10 @@ import React, { useEffect } from "react";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
-export default function JobVacancy() {
+export default function About() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "Job Vacancy";
+    document.title = "About";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -18,7 +18,7 @@ export default function JobVacancy() {
   }, []);
 
   return (
-    <div className="job-vacancy">
+    <div className="about">
       <Header />
 
       <div className="container">

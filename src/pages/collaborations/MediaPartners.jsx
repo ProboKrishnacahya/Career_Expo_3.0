@@ -23,7 +23,7 @@ export default function MediaPartners() {
 
       <div className="container vh-100 d-grid justify-content-center align-items-center">
         <section className="mb-5" data-aos="fade-up">
-          <h3 className="text-center">Media Partners</h3>
+          <h2 className="text-center">Media Partners</h2>
           <br />
           <div
             id="carouselMediaPartners"

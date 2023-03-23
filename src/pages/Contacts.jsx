@@ -102,9 +102,9 @@ export default function Contacts() {
       <Header />
       <div className="container">
         <section id="above-the-fold" data-aos="fade-up">
-          <h3 className="text-center">
+          <h2 className="text-center">
             Contact Formensp;&#129309;
-          </h3>
+          </h2>
           <br />
           <p className="mb-3 text-center">
             For any business inquiries and/or other subjects, please feel free
@@ -259,9 +259,9 @@ export default function Contacts() {
         </section>
 
         <div className="mb-5" data-aos="fade-up">
-          <h3 className="text-center">
+          <h2 className="text-center">
             Would Be Glad to Connectensp;&#128518;
-          </h3>
+          </h2>
           <br />
           {connects}
         </div>

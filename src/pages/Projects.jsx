@@ -84,7 +84,7 @@ export default function Projects() {
         >
           <div className="container">
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">D'Orphan</h3>
+              <h2 className="text-center">D'Orphan</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -181,7 +181,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">SejarahKita</h3>
+              <h2 className="text-center">SejarahKita</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -289,7 +289,7 @@ export default function Projects() {
             </div>
 
             {/* <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Frontend Mentor Challenges</h3>
+              <h2 className="text-center">Frontend Mentor Challenges</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -348,7 +348,7 @@ export default function Projects() {
             </div> */}
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">PartnerSeeker</h3>
+              <h2 className="text-center">PartnerSeeker</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -443,7 +443,7 @@ export default function Projects() {
         >
           <div className="container">
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Weerausaha</h3>
+              <h2 className="text-center">Weerausaha</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -544,7 +544,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Holiyay</h3>
+              <h2 className="text-center">Holiyay</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -635,7 +635,7 @@ export default function Projects() {
             </div>
 
             <div className="card" data-aos="fade-up">
-              <h3 className="text-center">SejarahKita</h3>
+              <h2 className="text-center">SejarahKita</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -726,7 +726,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">The Movie Database (TMDB) Clone</h3>
+              <h2 className="text-center">The Movie Database (TMDB) Clone</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -800,7 +800,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">LemburanKu</h3>
+              <h2 className="text-center">LemburanKu</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -895,7 +895,7 @@ export default function Projects() {
         >
           <div className="container">
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Faumation</h3>
+              <h2 className="text-center">Faumation</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -984,7 +984,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Sortrash</h3>
+              <h2 className="text-center">Sortrash</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -1068,7 +1068,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">Dodge Master</h3>
+              <h2 className="text-center">Dodge Master</h2>
               <hr />
               <div className="text-muted">
                 <i
@@ -1149,7 +1149,7 @@ export default function Projects() {
             </div>
 
             <div className="card my-4" data-aos="fade-up">
-              <h3 className="text-center">LemburanKu</h3>
+              <h2 className="text-center">LemburanKu</h2>
               <hr />
               <div className="text-muted">
                 <i

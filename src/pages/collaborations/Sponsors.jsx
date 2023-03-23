@@ -23,7 +23,7 @@ export default function Sponsors() {
 
       <div className="container vh-100 d-grid justify-content-center align-items-center">
         <section className="my-5" data-aos="fade-up">
-          <h3 className="text-center">Sponsors</h3>
+          <h2 className="text-center">Sponsors</h2>
           <br />
           <div
             id="carouselSponsors"

@@ -63,7 +63,7 @@ export default function Home() {
               <strong>Proposal Sponsorship</strong>
             </button>
           </div>
-          <h3 className="scroll-down text-center my-5 py-5">
+          <h2 className="scroll-down text-center my-5 py-5">
             <a href="#home">
               <i
                 className="bi bi-chevron-double-down"
@@ -71,12 +71,12 @@ export default function Home() {
                 title="Scroll Down"
               ></i>
             </a>
-          </h3>
+          </h2>
         </section>
 
         {/* About Us */}
         <section id="home" data-aos="fade-up">
-          <h3 className="text-center">About Us</h3>
+          <h2 className="text-center">About Us</h2>
           <br />
           <div className="d-grid gap-3 align-items-center d-lg-flex gap-lg-5">
             <div>
@@ -114,7 +114,7 @@ export default function Home() {
         {/* Pelaksanaan Acara */}
         <section className="my-5" data-aos="fade-up">
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
-            <h3 className="text-center">Pelaksanaan Acara</h3>
+            <h2 className="text-center">Pelaksanaan Acara</h2>
             <div className="row justify-content-center text-center align-items-center">
               <div className="col-lg-5">
                 <i
@@ -154,7 +154,7 @@ export default function Home() {
 
         {/* Testimonials */}
         <section data-aos="fade-up">
-          <h3 className="text-center">Testimonials</h3>
+          <h2 className="text-center">Testimonials</h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
             <div className="col d-grid gap-3">
@@ -166,7 +166,7 @@ export default function Home() {
                 loading="lazy"
               />
               <div>
-                <h5>Anetta TW</h5>
+                <h4>Anetta TW</h4>
                 <q>
                   Menurutku acaranya insightful bgt. Perusahaannya juga variatif
                   jadi aku banyak dapet insight juga tentang perusahaan2 yang
@@ -186,7 +186,7 @@ export default function Home() {
                 loading="lazy"
               />
               <div>
-                <h5>Berliana Fira</h5>
+                <h4>Berliana Fira</h4>
                 <q>
                   Menurutku career expo virtual asik dan gak merepotkan untuk
                   antri dll untuk cari kerja dan mendukung kemajuan teknologi.
@@ -207,7 +207,7 @@ export default function Home() {
                 loading="lazy"
               />
               <div>
-                <h5>Sukma Jenny</h5>
+                <h4>Sukma Jenny</h4>
                 <q>
                   UC Virtual Career Expo memperlihatkan saya pada
                   informasi-informasi terkait karir dan hal-hal yang
@@ -242,7 +242,7 @@ export default function Home() {
 
         {/* Sponsors */}
         <section className="my-5" data-aos="fade-up">
-          <h3 className="text-center">Sponsors</h3>
+          <h2 className="text-center">Sponsors</h2>
           <br />
           <div
             id="carouselSponsors"
@@ -349,7 +349,7 @@ export default function Home() {
 
         {/* Media Partners */}
         <section className="mb-5" data-aos="fade-up">
-          <h3 className="text-center">Media Partners</h3>
+          <h2 className="text-center">Media Partners</h2>
           <br />
           <div
             id="carouselMediaPartners"
@@ -458,9 +458,9 @@ export default function Home() {
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content bg-light">
             <div className="modal-header">
-              <h5 className="modal-title" id="proposalKegiatanModalLabel">
+              <h4 className="modal-title" id="proposalKegiatanModalLabel">
                 Proposal Kegiatan
-              </h5>
+              </h4>
               <button
                 type="button"
                 className="btn-close"
@@ -491,9 +491,9 @@ export default function Home() {
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content bg-light">
             <div className="modal-header">
-              <h5 className="modal-title" id="proposalSponsorshipModalLabel">
+              <h4 className="modal-title" id="proposalSponsorshipModalLabel">
                 Proposal Sponsorship
-              </h5>
+              </h4>
               <button
                 type="button"
                 className="btn-close"

@@ -4,7 +4,7 @@ import { NavLink } from "react-router-dom";
 
 export default function Header() {
   return (
-    <div className="navigation">
+    <div className="header">
       <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-3">
         <div className="container">
           <NavLink

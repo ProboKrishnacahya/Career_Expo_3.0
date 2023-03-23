@@ -520,9 +520,9 @@ export default function Skills() {
       <section id="content">
         <div className="container">
           <div className="mb-5" data-aos="fade-up">
-            <h3 className="text-center">
+            <h2 className="text-center">
               &#128220;&ensp;Certifications
-            </h3>
+            </h2>
             <br />
             <table
               className="table table-responsive table-light table-striped table-hover"
@@ -1062,9 +1062,9 @@ export default function Skills() {
         </div>
 
         <div className="container text-center p-0" data-aos="fade-up">
-          <h3 className="text-center">
+          <h2 className="text-center">
             &#128640;&ensp;Tech Stack
-          </h3>
+          </h2>
           {/* Information of Technology */}
           <div className="accordion mt-3" id="accordionSkills">
             <div className="accordion-item border-0 bg-transparent">
@@ -1077,14 +1077,14 @@ export default function Skills() {
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                  <h5>
+                  <h4>
                     <i
                       className="bi bi-code-slash"
                       data-bs-toggle="tooltip"
                       title="Category"
                     ></i>
                     &ensp;Information of Technology
-                  </h5>
+                  </h4>
                 </button>
               </h2>
               <div
@@ -1144,14 +1144,14 @@ export default function Skills() {
                   aria-expanded="false"
                   aria-controls="collapseTwo"
                 >
-                  <h5>
+                  <h4>
                     <i
                       className="bi bi-vector-pen"
                       data-bs-toggle="tooltip"
                       title="Category"
                     ></i>
                     &ensp;Visual Design
-                  </h5>
+                  </h4>
                 </button>
               </h2>
               <div
@@ -1177,14 +1177,14 @@ export default function Skills() {
                     aria-expanded="false"
                     aria-controls="collapseThree"
                   >
-                    <h5>
+                    <h4>
                       <i
                         className="bi bi-translate"
                         data-bs-toggle="tooltip"
                         title="Category"
                       ></i>
                       &ensp;Human Languages
-                    </h5>
+                    </h4>
                   </button>
                 </h2>
                 <div

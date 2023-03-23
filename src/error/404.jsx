@@ -15,10 +15,10 @@ export default function PageNotFound() {
       >
         <div className="card text-center">
           <span>
-            <h3>
+            <h2>
               <i className="bi bi-exclamation-circle"></i>&ensp;404 Page Not
               Found
-            </h3>
+            </h2>
           </span>
           <hr />
           <p className="fs-5">

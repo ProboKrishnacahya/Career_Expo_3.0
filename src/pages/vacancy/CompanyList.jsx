@@ -48,7 +48,7 @@ export default function CompanyList() {
             <div className="col-md-8 vstack">
               <div className="card-body vstack gap-3 justify-content-between">
                 <div>
-                  <h5 className="card-title mb-0">{article.title}</h5>
+                  <h4 className="card-title mb-0">{article.title}</h4>
                 </div>
                 <div>
                   <p className="card-text hstack flex-column flex-sm-row align-items-start text-muted gap-md-5 gap-2">

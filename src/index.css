@@ -32,11 +32,6 @@ nav {
   font-family: var(--coolvetica);
 }
 
-hr {
-  height: 0.125rem !important;
-  border-radius: 3.125rem !important;
-}
-
 img {
   max-width: 100% !important;
 }

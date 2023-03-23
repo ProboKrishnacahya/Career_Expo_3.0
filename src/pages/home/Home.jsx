@@ -157,68 +157,75 @@ export default function Home() {
           <h2 className="text-center">Testimonials</h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
-            <div className="col d-grid gap-3">
-              <img
-                src="images/home/testimonials/anetta.jpg"
-                alt="Testimonials"
-                className="rounded-circle shadow-sm"
-                width={256}
-                loading="lazy"
-              />
-              <div>
-                <h4>Anetta TW</h4>
-                <q>
-                  Menurutku acaranya insightful bgt. Perusahaannya juga variatif
-                  jadi aku banyak dapet insight juga tentang perusahaan2 yang
-                  mungkin sebelumnya aku belum pernah denger. Selain itu
-                  acaranya juga interaktif, kita dikasih kesempatan buat tanya2
-                  ke narasumber langsung. Kita juga dibantu sama website virtual
-                  career expo buat apply2 ke perusahaan yang kita pengen.
-                </q>
+            <div className="col">
+              <div className="d-grid gap-3">
+                <img
+                  src="images/home/testimonials/anetta.jpg"
+                  alt="Testimonials"
+                  className="rounded-circle shadow-sm"
+                  width={256}
+                  loading="lazy"
+                />
+                <div>
+                  <h4>Anetta TW</h4>
+                  <q>
+                    Menurutku acaranya insightful bgt. Perusahaannya juga
+                    variatif jadi aku banyak dapet insight juga tentang
+                    perusahaan2 yang mungkin sebelumnya aku belum pernah denger.
+                    Selain itu acaranya juga interaktif, kita dikasih kesempatan
+                    buat tanya2 ke narasumber langsung. Kita juga dibantu sama
+                    website virtual career expo buat apply2 ke perusahaan yang
+                    kita pengen.
+                  </q>
+                </div>
               </div>
             </div>
-            <div className="col d-grid gap-3">
-              <img
-                src="images/home/testimonials/berliana.jpg"
-                alt="Testimonials"
-                className="rounded-circle shadow-sm"
-                width={256}
-                loading="lazy"
-              />
-              <div>
-                <h4>Berliana Fira</h4>
-                <q>
-                  Menurutku career expo virtual asik dan gak merepotkan untuk
-                  antri dll untuk cari kerja dan mendukung kemajuan teknologi.
-                  Tapi menurutku kekurangan tahun kmrn adalah keterbatasan untuk
-                  mendapatkan info lowongan pada setiap perusahaan karena
-                  keterbatasan saat dibagi breakout room itu jadi gak bisa join
-                  banyak hehe dan kalo gak salah kmrn untuk ngelamar juga
-                  dibatasi.
-                </q>
+            <div className="col">
+              <div className="d-grid gap-3">
+                <img
+                  src="images/home/testimonials/berliana.jpg"
+                  alt="Testimonials"
+                  className="rounded-circle shadow-sm"
+                  width={256}
+                  loading="lazy"
+                />
+                <div>
+                  <h4>Berliana Fira</h4>
+                  <q>
+                    Menurutku career expo virtual asik dan gak merepotkan untuk
+                    antri dll untuk cari kerja dan mendukung kemajuan teknologi.
+                    Tapi menurutku kekurangan tahun kmrn adalah keterbatasan
+                    untuk mendapatkan info lowongan pada setiap perusahaan
+                    karena keterbatasan saat dibagi breakout room itu jadi gak
+                    bisa join banyak hehe dan kalo gak salah kmrn untuk ngelamar
+                    juga dibatasi.
+                  </q>
+                </div>
               </div>
             </div>
-            <div className="col d-grid gap-3">
-              <img
-                src="images/home/testimonials/sukma.jpeg"
-                alt="Testimonials"
-                className="rounded-circle shadow-sm"
-                width={256}
-                loading="lazy"
-              />
-              <div>
-                <h4>Sukma Jenny</h4>
-                <q>
-                  UC Virtual Career Expo memperlihatkan saya pada
-                  informasi-informasi terkait karir dan hal-hal yang
-                  meliputinya. Berbagai korporasi yang terlibat cukup
-                  representatif lintas bidang dan orientasi. Tidak sebatas
-                  informasi, tetapi tautan yang disediakan Uc Career Expo dirasa
-                  dapat mengkatalisasi pergerakan dari rekan-rekan yang sedang
-                  mempersiapkan karirnya. Apresiasi tinggi bagi panitia yang
-                  telah menyusun acara dengan begitu apik, terstruktur, dan
-                  tidak prematur.
-                </q>
+            <div className="col">
+              <div className="d-grid gap-3">
+                <img
+                  src="images/home/testimonials/sukma.jpeg"
+                  alt="Testimonials"
+                  className="rounded-circle shadow-sm"
+                  width={256}
+                  loading="lazy"
+                />
+                <div>
+                  <h4>Sukma Jenny</h4>
+                  <q>
+                    UC Virtual Career Expo memperlihatkan saya pada
+                    informasi-informasi terkait karir dan hal-hal yang
+                    meliputinya. Berbagai korporasi yang terlibat cukup
+                    representatif lintas bidang dan orientasi. Tidak sebatas
+                    informasi, tetapi tautan yang disediakan Uc Career Expo
+                    dirasa dapat mengkatalisasi pergerakan dari rekan-rekan yang
+                    sedang mempersiapkan karirnya. Apresiasi tinggi bagi panitia
+                    yang telah menyusun acara dengan begitu apik, terstruktur,
+                    dan tidak prematur.
+                  </q>
+                </div>
               </div>
             </div>
           </div>

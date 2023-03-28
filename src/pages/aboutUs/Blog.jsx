@@ -90,7 +90,7 @@ export default function Blog() {
                   <h4 className="card-title mb-0">{article.title}</h4>
                 </div>
                 <div>
-                  <p className="card-text hstack flex-column flex-sm-row align-items-start text-muted gap-md-4 gap-2">
+                  <p className="card-text hstack flex-column flex-sm-row align-items-start text-black gap-md-4 gap-2">
                     <div>
                       <i
                         className="bi bi-stopwatch"
@@ -108,7 +108,7 @@ export default function Blog() {
                       &ensp;{article.date}
                     </div>
                   </p>
-                  <p className="truncate">{article.description}</p>
+                  <p className="truncate text-muted">{article.description}</p>
                 </div>
                 <div>
                   <button className="btn btn-primary w-100">

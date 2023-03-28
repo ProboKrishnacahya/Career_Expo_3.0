@@ -50,6 +50,11 @@ th {
 }
 
 /* * Selector (Class) */
+/* .alert-info {
+  background-color: var(--sky-blue) !important;
+  color: var(--white) !important;
+} */
+
 .badge {
   padding: 0.75rem;
   font-size: medium;

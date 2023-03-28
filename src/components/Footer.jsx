@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="footer bg-warning bg-gradient pt-3 pb-2">
+    <div className="footer bg-warning text-white pt-3 pb-2">
       <footer className="navbar d-inline shadow-sm text-center user-select-none mt-auto">
         <div className="mx-auto">
           <div className="container">

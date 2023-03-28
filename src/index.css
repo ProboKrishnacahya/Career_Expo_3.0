@@ -56,6 +56,10 @@ th {
   font-weight: normal;
 }
 
+.bg-warning {
+  background-color: var(--orange) !important;
+}
+
 .bi-arrow-up {
   font-size: 1.75rem !important;
   color: var(--cetacean-blue) !important;
@@ -100,7 +104,7 @@ th {
   max-width: 50% !important;
 }
 
-.dropdown-menu>li>a:hover {
+.dropdown-menu > li > a:hover {
   background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }
@@ -218,12 +222,13 @@ th {
 /* * Pseudo-classes */
 :root {
   /* Colors (https://www.color-name.com/) */
-  --cetacean-blue: #100f3b;
-  --cetacean-blue-muted: #100f3b40;
-  --dark-cerulean: #06417b;
-  --sky-blue: #7dccee;
-  --orange: #f7931f;
-  --crayola: #19f9cc --black: #000000;
+  --cetacean-blue: #12103c;
+  --cetacean-blue-muted: #12103c40;
+  --dark-cerulean: #08407b;
+  --sky-blue: #7ccdef;
+  --orange: #f69221;
+  --crayola: #19facc;
+  --black: #000000;
   --white: #ffffff;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;

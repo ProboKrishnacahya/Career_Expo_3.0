@@ -29,7 +29,7 @@ export default function Header() {
               <img
                 src="images/brand/career_expo.png"
                 alt="Corporate Entrepreneurship"
-                width={48}
+                width={96}
               />
             </div>
           </NavLink>

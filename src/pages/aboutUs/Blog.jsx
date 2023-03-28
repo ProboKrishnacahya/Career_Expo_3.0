@@ -97,7 +97,7 @@ export default function Blog() {
                         data-bs-toggle="tooltip"
                         title="Estimated Reading Time"
                       ></i>
-                      &ensp;{article.time}&nbsp;minutes read
+                      &ensp;{article.time}&nbsp;minute read
                     </div>
                     <div>
                       <i

@@ -162,7 +162,7 @@ export default function Home() {
                 <img
                   src="images/home/testimonials/anetta.jpg"
                   alt="Testimonials"
-                  className="rounded-circle shadow-sm"
+                  className="rounded-circle shadow-sm mx-auto"
                   width={256}
                   loading="lazy"
                 />
@@ -185,7 +185,7 @@ export default function Home() {
                 <img
                   src="images/home/testimonials/berliana.jpg"
                   alt="Testimonials"
-                  className="rounded-circle shadow-sm"
+                  className="rounded-circle shadow-sm mx-auto"
                   width={256}
                   loading="lazy"
                 />
@@ -208,7 +208,7 @@ export default function Home() {
                 <img
                   src="images/home/testimonials/sukma.jpeg"
                   alt="Testimonials"
-                  className="rounded-circle shadow-sm"
+                  className="rounded-circle shadow-sm mx-auto"
                   width={256}
                   loading="lazy"
                 />

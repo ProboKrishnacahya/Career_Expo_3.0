@@ -61,9 +61,9 @@ th {
   font-weight: normal;
 }
 
-.bg-warning {
+/* .bg-warning {
   background-color: var(--orange) !important;
-}
+} */
 
 .bi-arrow-up {
   font-size: 1.75rem !important;
@@ -86,30 +86,21 @@ th {
   color: var(--cetacean-blue) !important;
 }
 
-.card,
-.kartu,
-.kontak {
+.card {
+  padding: 1.5rem;
+  border-radius: 1rem !important;
+  border: solid 0.125rem #ffffff25 !important;
   background: #ffffff1a !important;
   backdrop-filter: blur(0.25rem) !important;
   -webkit-backdrop-filter: blur(0.25rem) !important;
   box-shadow: 0 0.125rem 0.25rem 0.016rem #e1e1e1 !important;
 }
 
-.card,
-.kartu {
-  border-radius: 1rem !important;
-  border: solid 0.125rem #ffffff25 !important;
-}
-
-.card {
-  padding: 1.5rem;
-}
-
 .carousel-inner {
   max-width: 50% !important;
 }
 
-.dropdown-menu > li > a:hover {
+.dropdown-menu>li>a:hover {
   background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }
@@ -124,21 +115,16 @@ th {
   visibility: hidden;
 }
 
-.kartu {
-  padding: 0 1rem;
+.footer {
+  background-color: var(--orange) !important;
 }
 
-.kontak {
-  border-radius: 0.5rem !important;
-  border-right: solid 0.625rem var(--cetacean-blue) !important;
+.list-group-item.active {
+  border-radius: 0.5rem;
 }
 
 .navbar-toggler.collapsed .btn-close {
   display: none;
-}
-
-.progress-bar {
-  animation: animateBar 1s ease-in 1;
 }
 
 .scroll-down {
@@ -207,6 +193,7 @@ th {
 
 #pills-1-tab.active,
 #pills-2-tab.active {
+  font-weight: bold;
   background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }
@@ -330,16 +317,6 @@ tr:last-child td:last-child {
   src: url("/public/fonts/lato/Lato-Bold.ttf");
 }
 
-@keyframes animateBar {
-  0% {
-    transform: translateX(-100%);
-  }
-
-  100% {
-    transform: translateX(0);
-  }
-}
-
 @keyframes bounce {
   0% {
     transform: translateY(0);
@@ -351,20 +328,5 @@ tr:last-child td:last-child {
 
   100% {
     transform: translateY(0);
-  }
-}
-
-/* ! Mobile Mode View */
-@media screen and (max-width: 768) {
-  .card-img-top {
-    height: 100vw;
-  }
-
-  .carousel-inner {
-    max-width: 100% !important;
-  }
-
-  .navbar-toggler-icon {
-    font-size: x-large !important;
   }
 }

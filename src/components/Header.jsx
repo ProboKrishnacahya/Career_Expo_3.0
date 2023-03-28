@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 export default function Header() {
   return (
     <div className="header">
-      <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-3">
+      <nav className="navbar navbar-expand-lg navbar-dark user-select-none">
         <div className="container">
           <NavLink
             className="navbar-brand d-flex gap-2 align-items-center w-50"

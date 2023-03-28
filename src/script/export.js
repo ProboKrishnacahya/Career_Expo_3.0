@@ -21,6 +21,7 @@ export { default as MediaPartners } from "../pages/collaborations/MediaPartners"
 export { default as About } from "../pages/aboutUs/About";
 export { default as Gallery } from "../pages/aboutUs/Gallery";
 export { default as Blog } from "../pages/aboutUs/Blog";
+export { default as Article1 } from "../pages/aboutUs/blog/Article1";
 
 // * Components
 export { default as Footer } from "../components/Footer";

@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Footer() {
   return (
-    <div className="footer bg-warning text-white pt-3 pb-2">
+    <div className="footer text-white pt-3 pb-2">
       <footer className="navbar d-inline shadow-sm text-center user-select-none mt-auto">
         <div className="mx-auto">
           <div className="container">
@@ -37,7 +37,7 @@ export default function Footer() {
               Jawa Timur, 60219, Indonesia
             </a>
             <hr />
-            <h2 className="d-flex justify-content-center gap-4">
+            <strong className="d-grid gap-2 justify-content-center d-lg-flex gap-lg-4">
               <a
                 href="https://www.instagram.com/uc_careerexpo/"
                 target="_blank"
@@ -46,8 +46,10 @@ export default function Footer() {
                 <i
                   className="bi bi-instagram"
                   data-bs-toggle="tooltip"
-                  title="@uc_careerexpo"
+                  title="Instagram"
                 ></i>
+                &ensp;
+                <span>uc_careerexpo</span>
               </a>
               <a
                 href="https://www.youtube.com/@UniversitasCiputraOfficial"
@@ -57,8 +59,10 @@ export default function Footer() {
                 <i
                   className="bi bi-youtube"
                   data-bs-toggle="tooltip"
-                  title="Universitas Ciputra Surabaya"
+                  title="YouTube"
                 ></i>
+                &ensp;
+                <span>Universitas Ciputra Surabaya</span>
               </a>
               <a
                 href="mailto:careerexpouc2021@gmail.com"
@@ -68,10 +72,12 @@ export default function Footer() {
                 <i
                   className="bi bi-envelope"
                   data-bs-toggle="tooltip"
-                  title="careerexpouc2021@gmail.com"
+                  title="Email"
                 ></i>
+                &ensp;
+                <span>careerexpouc2021@gmail.com</span>
               </a>
-            </h2>
+            </strong>
             <div className="text-end mt-5">
               <i
                 className="bi bi-arrow-up-circle-fill fs-1 text-link"

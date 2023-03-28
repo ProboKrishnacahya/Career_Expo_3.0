@@ -8,7 +8,7 @@ export default function Header() {
       <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-3">
         <div className="container">
           <NavLink
-            className="navbar-brand d-flex gap-2 align-items-center"
+            className="navbar-brand d-flex gap-2 align-items-center w-50"
             to="/"
           >
             <div>

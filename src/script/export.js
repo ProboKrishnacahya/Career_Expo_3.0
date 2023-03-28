@@ -25,8 +25,3 @@ export { default as Blog } from "../pages/aboutUs/Blog";
 // * Components
 export { default as Footer } from "../components/Footer";
 export { default as Header } from "../components/Header";
-
-// //
-export { default as Contacts } from "../pages/Contacts";
-export { default as Projects } from "../pages/Projects";
-export { default as Skills } from "../pages/Skills";

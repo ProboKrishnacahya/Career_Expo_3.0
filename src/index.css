@@ -105,7 +105,8 @@ th {
   color: var(--white) !important;
 }
 
-.dropdown-toggle, .dropdown-item {
+.dropdown-toggle,
+.dropdown-item {
   font-size: larger;
 }
 
@@ -222,8 +223,7 @@ th {
   --dark-cerulean: #06417b;
   --sky-blue: #7dccee;
   --orange: #f7931f;
-  --crayola: #19f9cc 
-  --black: #000000;
+  --crayola: #19f9cc --black: #000000;
   --white: #ffffff;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;
@@ -250,7 +250,7 @@ th {
   background-color: var(--cetacean-blue);
 }
 
-a:hover:not(.navbar-brand, #blog),
+a:hover:not(.navbar-brand, .company-list, #blog),
 .nav-link:hover,
 #scrollToTop:hover {
   filter: brightness(125%) !important;
@@ -280,24 +280,8 @@ a:hover:not(.navbar-brand, #blog),
   color: var(--cetacean-blue) !important;
 }
 
-.card-img-top:not(.post-thumbnail) {
-  max-width: 70% !important;
-  height: 20vw;
+.card-img-top {
   object-fit: contain;
-}
-
-.card-img-top:not(.post-thumbnail):hover {
-  transform: scale(1.1);
-  transition: transform 1s ease;
-}
-
-.list-group-item-action:hover {
-  filter: brightness(110%);
-}
-
-.list-group-item-action:not(.active) {
-  background-color: var(--cetacean-blue);
-  color: var(--black) !important;
 }
 
 .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
@@ -364,7 +348,6 @@ tr:last-child td:last-child {
 @media screen and (max-width: 768) {
   .card-img-top {
     height: 100vw;
-    margin-top: 1rem;
   }
 
   .carousel-inner {

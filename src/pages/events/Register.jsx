@@ -55,7 +55,7 @@ export default function Register() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="btn btn-primary">
+                <button className="btn btn-primary w-100">
                   <i className="bi bi-person-plus"></i>&ensp;
                   <strong>Daftar Sekarang</strong>
                 </button>
@@ -91,7 +91,7 @@ export default function Register() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                <button className="btn btn-primary">
+                <button className="btn btn-primary w-100">
                   <i className="bi bi-person-plus"></i>&ensp;
                   <strong>Daftar Sekarang</strong>
                 </button>
@@ -103,21 +103,25 @@ export default function Register() {
         <section className="mb-5" data-aos="fade-up">
           <h2 className="text-center">Alur</h2>
           <br />
-          <div className="row row-cols-1 row-cols-lg-3 g-lg-4 text-center">
+          <div className="d-grid gap-3 d-lg-flex text-center align-items-center">
             <div className="col">
-              <div className="alert alert-info d-grid gap-3" role="alert">
+              <div className="d-grid gap-2" role="alert">
                 <i className="bi bi-globe2 display-4"></i>
                 <span>Berkunjung ke Website Pendaftaran</span>
               </div>
             </div>
+            <i className="bi bi-arrow-right display-4 text-muted d-none d-lg-block"></i>
+            <i className="bi bi-arrow-right display-4 text-muted vertical d-block d-lg-none"></i>
             <div className="col">
-              <div className="alert alert-info d-grid gap-3" role="alert">
+              <div className="d-grid gap-2" role="alert">
                 <i className="bi bi-clipboard2-check display-4"></i>
                 <span>Mengisi Formulir Pendaftaran</span>
               </div>
             </div>
+            <i className="bi bi-arrow-right display-4 text-muted d-none d-lg-block"></i>
+            <i className="bi bi-arrow-right display-4 text-muted vertical d-block d-lg-none"></i>
             <div className="col">
-              <div className="alert alert-info d-grid gap-3" role="alert">
+              <div className="d-grid gap-2" role="alert">
                 <i className="bi bi-whatsapp display-4"></i>
                 <span>Join Grup WhatsApp</span>
               </div>

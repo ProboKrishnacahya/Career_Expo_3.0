@@ -43,6 +43,7 @@ export default function Home() {
           <h1 className="text-center display-1 fw-bold mt-5">
             Career Expo 3.0
           </h1>
+
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
             <button
               type="button"
@@ -116,26 +117,32 @@ export default function Home() {
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
             <h2 className="text-center">Pelaksanaan Acara</h2>
             <div className="row justify-content-center text-center align-items-center">
-              <div className="col-lg-5">
+              <div className="py-1">
                 <i
                   className="bi bi-calendar4-week"
                   data-bs-toggle="tooltip"
-                  title="Waktu"
+                  title="Hari, Tanggal"
                 ></i>
                 &ensp;
-                <span>Jumat, 26 Mei 2023 s.d. Sabtu, 27 Mei 2023</span>
+                <span>Jumat, 26 Mei 2023 - Sabtu, 27 Mei 2023</span>
               </div>
-              <div className="col-lg-1 d-none d-lg-block text-muted">
-                &#124;
+              <div className="py-1">
+                <i
+                  className="bi bi-clock"
+                  data-bs-toggle="tooltip"
+                  title="Jam"
+                ></i>
+                &ensp;
+                <span>10.00 - 21.00 WIB</span>
               </div>
-              <div className="col-lg-5">
+              <div className="py-1">
                 <i
                   className="bi bi-geo-alt"
                   data-bs-toggle="tooltip"
                   title="Tempat"
                 ></i>
                 &ensp;
-                <span>Mall Ciputra World Surabaya</span>
+                <span>Oval East Atrium Ground Ciputra World Surabaya</span>
               </div>
             </div>
             <div>
@@ -358,98 +365,25 @@ export default function Home() {
         <section className="mb-5" data-aos="fade-up">
           <h2 className="text-center">Media Partners</h2>
           <br />
-          <div
-            id="carouselMediaPartners"
-            className="carousel carousel-dark slide"
-            data-bs-ride="false"
-            data-bs-interval="false"
-          >
-            <div className="carousel-indicators d-none d-lg-flex">
-              <button
-                type="button"
-                data-bs-target="#carouselMediaPartners"
-                data-bs-slide-to="0"
-                className="active"
-                aria-current="true"
-                aria-label="Media Partners"
-              ></button>
-              <button
-                type="button"
-                data-bs-target="#carouselMediaPartners"
-                data-bs-slide-to="1"
-                aria-label="Media Partners"
-              ></button>
-              <button
-                type="button"
-                data-bs-target="#carouselMediaPartners"
-                data-bs-slide-to="2"
-                aria-label="Media Partners"
-              ></button>
-              <button
-                type="button"
-                data-bs-target="#carouselMediaPartners"
-                data-bs-slide-to="3"
-                aria-label="Media Partners"
-              ></button>
+          <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 align-items-center">
+            <div className="col">
+              <img
+                src="images/home/media_partners/info_event.jpg"
+                alt="Media Partners"
+              />
             </div>
-            <div className="carousel-inner text-center mx-auto">
-              <div className="carousel-item active">
-                <img
-                  src="images/home/media_partners/info_event.jpg"
-                  alt="Media Partners"
-                  loading="lazy"
-                />
-              </div>
-              <div className="carousel-item">
-                <img
-                  src="images/home/media_partners/media_event.png"
-                  alt="Media Partners"
-                  loading="lazy"
-                />
-              </div>
-              <div className="carousel-item">
-                <img
-                  src="images/home/media_partners/event_aja.webp"
-                  alt="Media Partners"
-                  loading="lazy"
-                />
-              </div>
-              <div className="carousel-item">
-                <img
-                  src="images/home/media_partners/event_suroboyo.png"
-                  alt="Media Partners"
-                  loading="lazy"
-                />
-              </div>
+            <div className="col">
+              <img
+                src="images/home/media_partners/media_event.png"
+                alt="Media Partners"
+              />
             </div>
-            <button
-              className="carousel-control-prev"
-              type="button"
-              data-bs-target="#carouselMediaPartners"
-              data-bs-slide="prev"
-            >
-              <span
-                className="carousel-control-prev-icon"
-                aria-hidden="true"
-                data-bs-toggle="tooltip"
-                title="Previous"
-              ></span>
-              <span className="visually-hidden">Previous</span>
-            </button>
-            <button
-              className="carousel-control-next"
-              type="button"
-              data-bs-target="#carouselMediaPartners"
-              data-bs-slide="next"
-            >
-              <span
-                className="carousel-control-next-icon"
-                aria-hidden="true"
-                data-bs-toggle="tooltip"
-                title="Next"
-              ></span>
-              <span className="visually-hidden">Next</span>
-            </button>
+            <div className="col">
+              <img
+                src="images/home/media_partners/event_aja.webp"
+                alt="Media Partners"
+              />
+            </div>
           </div>
         </section>
       </div>

@@ -7,7 +7,7 @@ import Header from "../../../components/Header";
 export default function Article1() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "Blog";
+    document.title = "5 Hal Yang Dinilai HRD Saat Interview";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(

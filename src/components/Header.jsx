@@ -8,30 +8,14 @@ export default function Header() {
       <nav className="navbar navbar-expand-lg navbar-dark user-select-none">
         <div className="container">
           <NavLink
-            className="navbar-brand d-flex gap-2 align-items-center w-50"
+            className="navbar-brand d-flex gap-2 align-items-center"
             to="/"
           >
-            <div>
-              <img
-                src="images/brand/universitas_ciputra.png"
-                alt="Corporate Entrepreneurship"
-                width={64}
-              />
-            </div>
-            <div>
-              <img
-                src="images/brand/corporate_entrepreneurship.png"
-                alt="Corporate Entrepreneurship"
-                width={128}
-              />
-            </div>
-            <div>
-              <img
-                src="images/brand/career_expo.png"
-                alt="Corporate Entrepreneurship"
-                width={96}
-              />
-            </div>
+            <img
+              src="images/brand/career_expo.png"
+              alt="Corporate Entrepreneurship"
+              width={96}
+            />
           </NavLink>
           <button
             className="navbar-toggler collapsed btn-primary"

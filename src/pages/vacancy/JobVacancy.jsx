@@ -21,7 +21,7 @@ export default function JobVacancy() {
     <div className="job-vacancy">
       <Header />
 
-      <div className="container">
+      <div className="container vh-100">
         <section className="my-5" data-aos="fade-up"></section>
       </div>
 

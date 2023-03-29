@@ -112,8 +112,30 @@ export default function Home() {
           className="d-none d-md-block"
         />
 
-        {/* Pelaksanaan Acara */}
+        {/* Powered By */}
         <section className="my-5" data-aos="fade-up">
+        <h2 className="text-center">Powered By</h2>
+        <br />
+        <div className="d-flex gap-4 justify-content-center align-items-center">
+                <div>
+                  <img
+                    src="images/brand/universitas_ciputra.png"
+                    alt="Corporate Entrepreneurship"
+                    width={64}
+                  />
+                </div>
+                <div>
+                  <img
+                    src="images/brand/corporate_entrepreneurship.png"
+                    alt="Corporate Entrepreneurship"
+                    width={160}
+                  />
+                </div>
+              </div>
+              </section>
+
+        {/* Pelaksanaan Acara */}
+        <section data-aos="fade-up">
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
             <h2 className="text-center">Pelaksanaan Acara</h2>
             <div className="row justify-content-center text-center align-items-center">
@@ -160,7 +182,7 @@ export default function Home() {
         </section>
 
         {/* Testimonials */}
-        <section data-aos="fade-up">
+        <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">Testimonials</h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
@@ -255,7 +277,7 @@ export default function Home() {
         />
 
         {/* Sponsors */}
-        <section className="my-5" data-aos="fade-up">
+        <section data-aos="fade-up">
           <h2 className="text-center">Sponsors</h2>
           <br />
           <div
@@ -362,7 +384,7 @@ export default function Home() {
         />
 
         {/* Media Partners */}
-        <section className="mb-5" data-aos="fade-up">
+        <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">Media Partners</h2>
           <br />
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 align-items-center">

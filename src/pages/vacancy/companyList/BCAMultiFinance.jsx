@@ -1,8 +1,8 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
-import Footer from "../../components/Footer";
-import Header from "../../components/Header";
-import { bcamultifinance } from "../../data/vacancy/JobVacancy";
+import Footer from "../../../components/Footer";
+import Header from "../../../components/Header";
+import { bcamultifinance } from "../../../data/vacancy/JobVacancy";
 
 export default function BCAMultiFinance() {
   useEffect(() => {
@@ -78,7 +78,7 @@ export default function BCAMultiFinance() {
             </p>
             <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
-          <div className="row row-cols-1 row-cols-md-3 g-4">{jobList}</div>
+          <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">{jobList}</div>
         </section>
       </div>
 
@@ -128,6 +128,7 @@ export default function BCAMultiFinance() {
           </div>
         </div>
       </div>
+      
       <Footer />
     </div>
   );

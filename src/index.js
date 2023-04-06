@@ -32,7 +32,7 @@ root.render(
       {/* Collaborations */}
       <Route path="/sponsors" element={<Sponsors />} />
       <Route path="/media-partners" element={<MediaPartners />} />
-      
+
       {/* About Us */}
       <Route path="/about" element={<About />} />
       <Route path="/gallery" element={<Gallery />} />

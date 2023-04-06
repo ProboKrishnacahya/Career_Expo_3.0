@@ -7,7 +7,7 @@ export { default as Home } from "../pages/home/Home";
 // * Vacancy
 export { default as CompanyList } from "../pages/vacancy/CompanyList";
 export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
-export { default as BCAMultiFinance } from "../pages/vacancy/BCAMultiFinance";
+export { default as BCAMultiFinance } from "../pages/vacancy/companyList/BCAMultiFinance";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

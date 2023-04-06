@@ -10,21 +10,21 @@ export default function Footer() {
               <div className="d-flex gap-2 justify-content-center align-items-center">
                 <div>
                   <img
-                    src="images/brand/universitas_ciputra.png"
+                    src="/images/brand/universitas_ciputra.png"
                     alt="Corporate Entrepreneurship"
                     width={64}
                   />
                 </div>
                 <div>
                   <img
-                    src="images/brand/corporate_entrepreneurship.png"
+                    src="/images/brand/corporate_entrepreneurship.png"
                     alt="Corporate Entrepreneurship"
                     width={128}
                   />
                 </div>
                 <div>
                   <img
-                    src="images/brand/career_expo.png"
+                    src="/images/brand/career_expo.png"
                     alt="Corporate Entrepreneurship"
                     width={96}
                   />

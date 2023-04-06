@@ -236,6 +236,9 @@ th {
 ::-webkit-scrollbar-track {
   background-color: var(--white);
 }
+.modal-backdrop {
+  z-index: 900 !important;
+}
 
 ::-webkit-scrollbar-thumb {
   border-radius: 0.6rem;

@@ -53,7 +53,7 @@ export default function Article1() {
 
         <img
           src="https://static.wixstatic.com/media/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg/v1/fill/w_556,h_371,fp_0.50_0.50,q_90,enc_auto/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg"
-          alt="Testimonials"
+          alt="Article"
           className="rounded shadow-sm d-block mx-auto my-4"
           width={512}
           loading="lazy"

@@ -9,7 +9,7 @@ export default function Header() {
         <div className="container">
           <NavLink className="navbar-brand" to="/">
             <img
-              src="images/brand/career_expo.png"
+              src="/images/brand/career_expo.png"
               alt="Corporate Entrepreneurship"
               width={96}
             />

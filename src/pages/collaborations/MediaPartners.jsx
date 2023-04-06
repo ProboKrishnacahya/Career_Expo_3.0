@@ -62,28 +62,28 @@ export default function MediaPartners() {
             <div className="carousel-inner text-center mx-auto">
               <div className="carousel-item active">
                 <img
-                  src="images/home/media_partners/info_event.jpg"
+                  src="/images/home/media_partners/info_event.jpg"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/media_partners/media_event.png"
+                  src="/images/home/media_partners/media_event.png"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/media_partners/event_aja.webp"
+                  src="/images/home/media_partners/event_aja.webp"
                   alt="Media Partners"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/media_partners/event_suroboyo.png"
+                  src="/images/home/media_partners/event_suroboyo.png"
                   alt="Media Partners"
                   loading="lazy"
                 />

@@ -1,8 +1,8 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
-import { company } from "../../data/vacancy/CompanyList";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import { company } from "../../data/vacancy/CompanyList";
 
 export default function CompanyList() {
   useEffect(() => {
@@ -47,7 +47,7 @@ export default function CompanyList() {
       <Header />
 
       <div className="container">
-        <h4 className="text-center">Company List</h4>
+        <h2 className="text-center">Company List</h2>
         <section className="my-5" data-aos="fade-up">
           <div className="row row-cols-1 row-cols-md-3 g-4">{companyList}</div>
         </section>

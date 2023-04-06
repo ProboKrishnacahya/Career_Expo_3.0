@@ -62,28 +62,28 @@ export default function Sponsors() {
             <div className="carousel-inner text-center mx-auto">
               <div className="carousel-item active">
                 <img
-                  src="images/home/sponsors/berkah.jpeg"
+                  src="/images/home/sponsors/berkah.jpeg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/surya.jpeg"
+                  src="/images/home/sponsors/surya.jpeg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/indofood.jpg"
+                  src="/images/home/sponsors/indofood.jpg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/biznet.jpg"
+                  src="/images/home/sponsors/biznet.jpg"
                   alt="Sponsors"
                   loading="lazy"
                 />

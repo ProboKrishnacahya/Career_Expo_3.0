@@ -40,42 +40,42 @@ export default function Gallery() {
               <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/5.jpg"
+                    src="/images/about_us/gallery/5.jpg"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />
                 </div>
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/6.jpg"
+                    src="/images/about_us/gallery/6.jpg"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />
                 </div>
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/7.png"
+                    src="/images/about_us/gallery/7.png"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />
                 </div>
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/8.png"
+                    src="/images/about_us/gallery/8.png"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />
                 </div>
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/9.png"
+                    src="/images/about_us/gallery/9.png"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />
                 </div>
                 <div className="col">
                   <img
-                    src="images/about_us/gallery/10.png"
+                    src="/images/about_us/gallery/10.png"
                     alt="Foto"
                     className="rounded shadow-sm"
                   />

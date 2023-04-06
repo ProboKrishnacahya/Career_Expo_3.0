@@ -25,14 +25,14 @@ export default function Home() {
       {/* Hero Section */}
       <div className="container">
         <img
-          src="images/backgrounds/1.png"
+          src="/images/backgrounds/1.png"
           alt="Background"
           id="hero1"
           width={240}
           className="d-none d-md-block"
         />
         <img
-          src="images/backgrounds/1.png"
+          src="/images/backgrounds/1.png"
           alt="Background"
           id="hero2"
           width={240}
@@ -82,7 +82,7 @@ export default function Home() {
           <div className="d-grid gap-3 align-items-center d-lg-flex gap-lg-5">
             <div>
               <img
-                src="images/home/about_us/about_us.jpg"
+                src="/images/home/about_us/about_us.jpg"
                 className="rounded shadow-sm"
                 alt="About Us"
                 loading="lazy"
@@ -101,7 +101,7 @@ export default function Home() {
         </section>
 
         <img
-          src="images/backgrounds/2.png"
+          src="/images/backgrounds/2.png"
           alt="Background"
           id="about_us-pelaksanaan_acara"
           width={240}
@@ -115,14 +115,14 @@ export default function Home() {
           <div className="d-flex gap-4 justify-content-center align-items-center w-100">
             <div>
               <img
-                src="images/brand/universitas_ciputra.png"
+                src="/images/brand/universitas_ciputra.png"
                 alt="Corporate Entrepreneurship"
                 width={128}
               />
             </div>
             <div>
               <img
-                src="images/brand/corporate_entrepreneurship.png"
+                src="/images/brand/corporate_entrepreneurship.png"
                 alt="Corporate Entrepreneurship"
                 width={256}
               />
@@ -185,7 +185,7 @@ export default function Home() {
             <div className="col">
               <div className="d-grid gap-3">
                 <img
-                  src="images/home/testimonials/anetta.jpg"
+                  src="/images/home/testimonials/anetta.jpg"
                   alt="Testimonials"
                   className="rounded-circle shadow-sm mx-auto"
                   width={256}
@@ -208,7 +208,7 @@ export default function Home() {
             <div className="col">
               <div className="d-grid gap-3">
                 <img
-                  src="images/home/testimonials/berliana.jpg"
+                  src="/images/home/testimonials/berliana.jpg"
                   alt="Testimonials"
                   className="rounded-circle shadow-sm mx-auto"
                   width={256}
@@ -231,7 +231,7 @@ export default function Home() {
             <div className="col">
               <div className="d-grid gap-3">
                 <img
-                  src="images/home/testimonials/sukma.jpeg"
+                  src="/images/home/testimonials/sukma.jpeg"
                   alt="Testimonials"
                   className="rounded-circle shadow-sm mx-auto"
                   width={256}
@@ -257,7 +257,7 @@ export default function Home() {
         </section>
 
         <img
-          src="images/backgrounds/3.png"
+          src="/images/backgrounds/3.png"
           alt="Background"
           id="pelaksanaan_acara-testimonials"
           width={240}
@@ -265,7 +265,7 @@ export default function Home() {
         />
 
         <img
-          src="images/backgrounds/4.png"
+          src="/images/backgrounds/4.png"
           alt="Background"
           id="testimonials-sponsors"
           width={240}
@@ -313,28 +313,28 @@ export default function Home() {
             <div className="carousel-inner text-center mx-auto">
               <div className="carousel-item active">
                 <img
-                  src="images/home/sponsors/berkah.jpeg"
+                  src="/images/home/sponsors/berkah.jpeg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/surya.jpeg"
+                  src="/images/home/sponsors/surya.jpeg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/indofood.jpg"
+                  src="/images/home/sponsors/indofood.jpg"
                   alt="Sponsors"
                   loading="lazy"
                 />
               </div>
               <div className="carousel-item">
                 <img
-                  src="images/home/sponsors/biznet.jpg"
+                  src="/images/home/sponsors/biznet.jpg"
                   alt="Sponsors"
                   loading="lazy"
                 />
@@ -372,7 +372,7 @@ export default function Home() {
         </section>
 
         <img
-          src="images/backgrounds/5.png"
+          src="/images/backgrounds/5.png"
           alt="Background"
           id="sponsors-media_partners"
           width={240}
@@ -386,19 +386,19 @@ export default function Home() {
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 align-items-center">
             <div className="col">
               <img
-                src="images/home/media_partners/info_event.jpg"
+                src="/images/home/media_partners/info_event.jpg"
                 alt="Media Partners"
               />
             </div>
             <div className="col">
               <img
-                src="images/home/media_partners/media_event.png"
+                src="/images/home/media_partners/media_event.png"
                 alt="Media Partners"
               />
             </div>
             <div className="col">
               <img
-                src="images/home/media_partners/event_aja.webp"
+                src="/images/home/media_partners/event_aja.webp"
                 alt="Media Partners"
               />
             </div>

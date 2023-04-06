@@ -29,7 +29,7 @@ export default function About() {
             <div className="d-grid gap-3 d-lg-flex gap-lg-5 align-items-center">
               <div className="col col-lg-3 mx-auto">
                 <img
-                  src="images/about_us/about/2.jpg"
+                  src="/images/about_us/about/2.jpg"
                   className="rounded shadow-sm"
                   alt="About Us"
                   loading="lazy"
@@ -52,7 +52,7 @@ export default function About() {
             <div className="d-grid gap-3 d-lg-flex gap-lg-5 align-items-center flex-row-reverse">
             <div className="col col-lg-3 mx-auto">
                 <img
-                  src="images/about_us/about/3.jpg"
+                  src="/images/about_us/about/3.jpg"
                   className="rounded shadow-sm"
                   alt="About Us"
                   loading="lazy"
@@ -78,7 +78,7 @@ export default function About() {
             <div className="d-grid gap-3 d-lg-flex gap-lg-5 align-items-center">
               <div className="col col-lg-3 mx-auto">
                 <img
-                  src="images/about_us/about/4.jpg"
+                  src="/images/about_us/about/4.jpg"
                   className="rounded shadow-sm"
                   alt="About Us"
                   loading="lazy"

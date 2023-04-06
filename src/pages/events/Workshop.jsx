@@ -31,7 +31,7 @@ export default function Workshop() {
           <div className="row row-cols-1 row-cols-lg-2 g-4 text-center">
             <div className="col d-grid gap-3">
               <h4>Day 1</h4>
-              <img src="images/events/workshop/Junarsyi.png" alt="Workshop" />
+              <img src="/images/events/workshop/Junarsyi.png" alt="Workshop" />
               <div className="vstack gap-2">
                 <div>
                   <i
@@ -61,7 +61,7 @@ export default function Workshop() {
             </div>
             <div className="col d-grid gap-3">
               <h4>Day 2</h4>
-              <img src="images/events/workshop/Irwan.png" alt="Workshop" />
+              <img src="/images/events/workshop/Irwan.png" alt="Workshop" />
               <div className="vstack gap-2">
                 <div>
                   <i

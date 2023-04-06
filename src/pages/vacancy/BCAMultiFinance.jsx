@@ -36,6 +36,15 @@ export default function BCAMultiFinance() {
               <strong>Daftar</strong>
             </button>
           </a>
+          <button
+            type="button"
+            className="btn btn-secondary w-100"
+            data-bs-toggle="modal"
+            data-bs-target="#jobModal"
+          >
+            <i className="bi bi-sticky"></i>&ensp;
+            <strong>Persyaratan</strong>
+          </button>
         </div>
       </div>
     </div>
@@ -70,65 +79,55 @@ export default function BCAMultiFinance() {
             <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
           <div className="row row-cols-1 row-cols-md-3 g-4">{jobList}</div>
-
-          <div
-            className="modal fade"
-            id="jobModal"
-            tabindex="-1"
-            aria-labelledby="jobModalLabel"
-            aria-hidden="true"
-          >
-            <div className="modal-dialog modal-dialog-centered modal-dialog-scrollable">
-              <div className="modal-content">
-                <div className="modal-header">
-                  <h4 className="modal-title text-center" id="jobModalLabel">
-                    Persyaratan
-                  </h4>
-                  <button
-                    type="button"
-                    className="btn-close"
-                    data-bs-dismiss="modal"
-                    aria-label="Close"
-                  ></button>
-                </div>
-                <div className="modal-body">
-                  <strong>Lowongan</strong>
-                  <p>Staf Marketing (Part-time)</p>
-                  <strong>Deskripsi Pekerjaan</strong>
-                  <ol>
-                    <li>
-                      Memastikan target penjualan dan kualitas penjualan yang
-                      baik
-                    </li>
-                  </ol>
-                  <strong>Kriteria/Requirements</strong>
-                  <ul>
-                    <li>Diutamakan Fresh Graduate</li>
-                    <li>Usia maksimal 27 tahun</li>
-                    <li>Pendidikan minimal SMA</li>
-                    <li>Memiliki SIM C dan kendaraan bermotor</li>
-                    <li>Berpenampilan menarik</li>
-                    <li>Mampu bekerja dengan target</li>
-                    <li>Memiliki kemampuan komunikasi yang baik</li>
-                    <li>Memiliki kemampuan negosiasi yang baik</li>
-                  </ul>
-                  <strong>Daerah Penempatan</strong>
-                  <p>Surabaya, Sidoarjo, Mojokerto, Malang</p>
-                </div>
-              </div>
-            </div>
-          </div>
         </section>
       </div>
-      <button
-        type="button"
-        className="btn btn-secondary w-100"
-        data-bs-toggle="modal"
-        data-bs-target="#jobModal"
+
+      <div
+        className="modal fade"
+        id="jobModal"
+        tabindex="-1"
+        aria-labelledby="jobModalLabel"
+        aria-hidden="true"
       >
-        <i className="bi bi-sticky"></i>&ensp;
-        <strong>Persyaratan</strong>
-      </button>
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h4 className="modal-title text-center" id="jobModalLabel">
+                Persyaratan
+              </h4>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">
+              <strong>Lowongan</strong>
+              <p>Staf Marketing (Part-time)</p>
+              <strong>Deskripsi Pekerjaan</strong>
+              <ol>
+                <li>
+                  Memastikan target penjualan dan kualitas penjualan yang baik
+                </li>
+              </ol>
+              <strong>Kriteria/Requirements</strong>
+              <ul>
+                <li>Diutamakan Fresh Graduate</li>
+                <li>Usia maksimal 27 tahun</li>
+                <li>Pendidikan minimal SMA</li>
+                <li>Memiliki SIM C dan kendaraan bermotor</li>
+                <li>Berpenampilan menarik</li>
+                <li>Mampu bekerja dengan target</li>
+                <li>Memiliki kemampuan komunikasi yang baik</li>
+                <li>Memiliki kemampuan negosiasi yang baik</li>
+              </ul>
+              <strong>Daerah Penempatan</strong>
+              <p>Surabaya, Sidoarjo, Mojokerto, Malang</p>
+            </div>
+          </div>
+        </div>
+      </div>
       <Footer />
     </div>
   );

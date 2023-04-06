@@ -415,7 +415,7 @@ export default function Home() {
         aria-hidden="true"
       >
         <div className="modal-dialog modal-fullscreen">
-          <div className="modal-content bg-light">
+          <div className="modal-content">
             <div className="modal-header">
               <h4 className="modal-title" id="proposalKegiatanModalLabel">
                 Proposal Kegiatan
@@ -448,7 +448,7 @@ export default function Home() {
         aria-hidden="true"
       >
         <div className="modal-dialog modal-fullscreen">
-          <div className="modal-content bg-light">
+          <div className="modal-content">
             <div className="modal-header">
               <h4 className="modal-title" id="proposalSponsorshipModalLabel">
                 Proposal Sponsorship

@@ -114,25 +114,25 @@ export default function Home() {
 
         {/* Powered By */}
         <section className="my-5" data-aos="fade-up">
-        <h2 className="text-center">Powered By</h2>
-        <br />
-        <div className="d-flex gap-4 justify-content-center align-items-center">
-                <div>
-                  <img
-                    src="images/brand/universitas_ciputra.png"
-                    alt="Corporate Entrepreneurship"
-                    width={64}
-                  />
-                </div>
-                <div>
-                  <img
-                    src="images/brand/corporate_entrepreneurship.png"
-                    alt="Corporate Entrepreneurship"
-                    width={160}
-                  />
-                </div>
-              </div>
-              </section>
+          <h2 className="text-center">Powered By</h2>
+          <br />
+          <div className="d-flex gap-4 justify-content-center align-items-center w-100">
+            <div>
+              <img
+                src="images/brand/universitas_ciputra.png"
+                alt="Corporate Entrepreneurship"
+                width={128}
+              />
+            </div>
+            <div>
+              <img
+                src="images/brand/corporate_entrepreneurship.png"
+                alt="Corporate Entrepreneurship"
+                width={256}
+              />
+            </div>
+          </div>
+        </section>
 
         {/* Pelaksanaan Acara */}
         <section data-aos="fade-up">
@@ -146,7 +146,7 @@ export default function Home() {
                   title="Hari, Tanggal"
                 ></i>
                 &ensp;
-                <span>Jumat, 26 Mei 2023 - Sabtu, 27 Mei 2023</span>
+                <span>Jumat - Sabtu, 26 - 27 Mei 2023</span>
               </div>
               <div className="py-1">
                 <i

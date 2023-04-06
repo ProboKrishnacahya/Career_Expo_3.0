@@ -110,16 +110,16 @@ export default function Register() {
                 <span>Berkunjung ke Website Pendaftaran</span>
               </div>
             </div>
-            <i className="bi bi-arrow-right display-4 text-muted d-none d-lg-block"></i>
-            <i className="bi bi-arrow-right display-4 text-muted vertical d-block d-lg-none"></i>
+            <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
+            <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
             <div className="col">
               <div className="d-grid gap-2" role="alert">
                 <i className="bi bi-clipboard2-check display-4"></i>
                 <span>Mengisi Formulir Pendaftaran</span>
               </div>
             </div>
-            <i className="bi bi-arrow-right display-4 text-muted d-none d-lg-block"></i>
-            <i className="bi bi-arrow-right display-4 text-muted vertical d-block d-lg-none"></i>
+            <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
+            <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
             <div className="col">
               <div className="d-grid gap-2" role="alert">
                 <i className="bi bi-whatsapp display-4"></i>

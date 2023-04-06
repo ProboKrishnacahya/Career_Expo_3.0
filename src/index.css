@@ -84,11 +84,7 @@ th {
 .card {
   padding: 1.5rem;
   border-radius: 1rem !important;
-  border: solid 0.125rem #ffffff25 !important;
-  background: #ffffff1a !important;
-  backdrop-filter: blur(0.25rem) !important;
-  -webkit-backdrop-filter: blur(0.25rem) !important;
-  box-shadow: 0 0.125rem 0.25rem 0.016rem #e1e1e1 !important;
+  border: solid 0.13rem #c8c8c9 !important;
 }
 
 .carousel-inner {
@@ -112,10 +108,6 @@ th {
 
 .footer {
   background-color: var(--orange) !important;
-}
-
-.list-group-item.active {
-  border-radius: 0.5rem;
 }
 
 .navbar-toggler.collapsed .btn-close {
@@ -206,16 +198,21 @@ th {
   cursor: pointer;
 }
 
+#toc {
+  margin: 0.5rem 0 !important;
+}
+
 /* * Pseudo-classes */
 :root {
   /* Colors (https://www.color-name.com/) */
+  --black: #000000;
   --cetacean-blue: #12103c;
   --cetacean-blue-muted: #12103c40;
-  --dark-cerulean: #08407b;
-  --sky-blue: #7ccdef;
-  --orange: #f69221;
+  --chinese-silver: #c8c8c9;
   --crayola: #19facc;
-  --black: #000000;
+  --dark-cerulean: #08407b;
+  --orange: #f69221;
+  --sky-blue: #7ccdef;
   --white: #ffffff;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;

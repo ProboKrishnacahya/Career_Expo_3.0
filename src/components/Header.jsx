@@ -5,12 +5,9 @@ import { NavLink } from "react-router-dom";
 export default function Header() {
   return (
     <div className="header">
-      <nav className="navbar navbar-expand-lg navbar-dark user-select-none">
+      <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-0">
         <div className="container">
-          <NavLink
-            className="navbar-brand d-flex gap-2 align-items-center"
-            to="/"
-          >
+          <NavLink className="navbar-brand" to="/">
             <img
               src="images/brand/career_expo.png"
               alt="Corporate Entrepreneurship"
@@ -29,7 +26,7 @@ export default function Header() {
             <span className="navbar-toggler-icon"></span>
             <button
               type="button"
-              className="btn-close btn-close-white p-2"
+              className="btn-close btn-close-white"
               aria-label="Close"
             ></button>
           </button>
@@ -74,12 +71,12 @@ export default function Header() {
                   <ul className="dropdown-menu">
                     <li>
                       <a className="dropdown-item" href="/career-expo">
-                        Career Expo 3.0
+                        Career Expo
                       </a>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/webinar">
-                        Webinar
+                      <a className="dropdown-item" href="/workshop">
+                        Workshop
                       </a>
                     </li>
                     <li>

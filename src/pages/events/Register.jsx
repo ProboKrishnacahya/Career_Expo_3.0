@@ -62,17 +62,17 @@ export default function Register() {
               </a>
             </div>
             <div className="card">
-              <h4 className="text-center">Webinar</h4>
+              <h4 className="text-center">Workshop</h4>
               <hr />
               <p>
                 Peserta berkunjung pada link&nbsp;
                 <strong>
                   <a
-                    href="bit.ly/WebinarCE22"
+                    href="bit.ly/WorkshopCE22"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    bit.ly/WebinarCE22
+                    bit.ly/WorkshopCE22
                   </a>
                 </strong>
                 &nbsp;atau klik tombol daftar sekarang di bawah Peserta mengisi

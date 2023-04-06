@@ -4,10 +4,10 @@ import { NavLink } from "react-router-dom";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
-export default function Webinar() {
+export default function Workshop() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "Webinar";
+    document.title = "Workshop";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -19,19 +19,19 @@ export default function Webinar() {
   }, []);
 
   return (
-    <div className="webinar">
+    <div className="workshop">
       <Header />
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">
-            Webinar "HYPE: Hone Your Potential Expertise"
+            Workshop "HYPE: Hone Your Potential Expertise"
           </h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-2 g-4 text-center">
             <div className="col d-grid gap-3">
               <h4>Day 1</h4>
-              <img src="images/events/webinar/Junarsyi.png" alt="Webinar" />
+              <img src="images/events/workshop/Junarsyi.png" alt="Workshop" />
               <div className="vstack gap-2">
                 <div>
                   <i
@@ -61,7 +61,7 @@ export default function Webinar() {
             </div>
             <div className="col d-grid gap-3">
               <h4>Day 2</h4>
-              <img src="images/events/webinar/Irwan.png" alt="Webinar" />
+              <img src="images/events/workshop/Irwan.png" alt="Workshop" />
               <div className="vstack gap-2">
                 <div>
                   <i

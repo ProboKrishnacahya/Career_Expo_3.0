@@ -10,7 +10,7 @@ export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";
-export { default as Webinar } from "../pages/events/Webinar";
+export { default as Workshop } from "../pages/events/Workshop";
 export { default as Register } from "../pages/events/Register";
 
 // * Collaborations

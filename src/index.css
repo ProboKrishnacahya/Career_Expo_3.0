@@ -198,6 +198,10 @@ th {
   cursor: pointer;
 }
 
+#title {
+  letter-spacing: 0.5rem;
+}
+
 #toc {
   margin: 0.5rem 0 !important;
 }

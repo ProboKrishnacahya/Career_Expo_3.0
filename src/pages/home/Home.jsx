@@ -40,7 +40,7 @@ export default function Home() {
         />
 
         <section className="my-5" data-aos="fade-up">
-          <h1 className="text-center display-1 fw-bold mt-5">
+          <h1 className="text-center display-1 fw-bold mt-5" id="title">
             Career Expo 3.0
           </h1>
 
@@ -90,11 +90,7 @@ export default function Home() {
             </div>
             <div>
               <p>
-                Virtual Career Expo 2.0 adalah acara tahunan yang di
-                selenggarakan oleh mata kuliah Corporate Entrepreneurship
-                Universitas Ciputra Surabaya. Kegiatan Virtual Career Expo 2.0
-                merupakan kegiatan yang mempertemukan para calon intrapreneur
-                dengan berbagai perusahaan-perusahaan yang menjadi impiannya.
+              Career Expo adalah acara tahunan yang diselenggarakan oleh mata kuliah Corporate Entrepreneurship Universitas Ciputra Surabaya. Kegiatan Career Expo merupakan kegiatan yang mempertemukan para calon intrapreneur dengan berbagai perusahaan-perusahaan yang menjadi impiannya. Career Expo tahun ini bertemakan HYPE: Hone Your Potential Expertise dengan harapan para calon intrapreneur dapat mengasah potensi dan keahliannya melalui Career Expo yang diselenggarakan.
               </p>
               <NavLink className="btn btn-primary" to="/about">
                 <i className="bi bi-arrow-right"></i>&ensp;
@@ -183,7 +179,7 @@ export default function Home() {
 
         {/* Testimonials */}
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">Testimonials</h2>
+          <h2 className="text-center">Testimonials Virtual Career Expo 2.0 2022</h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
             <div className="col">

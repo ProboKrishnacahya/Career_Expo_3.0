@@ -74,7 +74,7 @@ export default function Blog() {
   for (const article of articles) {
     blogs.push(
       <a href={article.url} id="blog">
-        <div className="card p-2 mb-4">
+        <div className="card p-2">
           <div className="row">
             <div className="col-md-4">
               <img
@@ -127,9 +127,15 @@ export default function Blog() {
   return (
     <div className="blog">
       <Header />
-      <div className="container d-grid gap-5 my-5" data-aos="fade-up">
-        <div>{blogs}</div>
+
+      <div className="container">
+        <section className="my-5" data-aos="fade-up">
+          <h2 className="text-center">Blog</h2>
+          <br />
+          <div className="d-grid gap-4">{blogs}</div>
+        </section>
       </div>
+
       <Footer />
     </div>
   );

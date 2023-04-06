@@ -99,7 +99,7 @@ export default function CareerExpo() {
                     <td>10:15</td>
                     <td>12:15</td>
                     <td>120'</td>
-                    <td>Webinar "Reach Your Dream Company"</td>
+                    <td>Workshop "Reach Your Dream Company"</td>
                   </tr>
                   <tr>
                     <td>12:15</td>
@@ -237,7 +237,7 @@ export default function CareerExpo() {
                     <td>10:15</td>
                     <td>12:15</td>
                     <td>120'</td>
-                    <td>Webinar "Step Up Your Career"</td>
+                    <td>Workshop "Step Up Your Career"</td>
                   </tr>
                   <tr>
                     <td>12:15</td>

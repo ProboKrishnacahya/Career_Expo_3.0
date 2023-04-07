@@ -25,52 +25,56 @@ export default function Home() {
       {/* Hero Section */}
       <div className="container">
         <img
-          src="/images/backgrounds/1.png"
+          src="/images/backgrounds/asset (1).svg"
           alt="Background"
           id="hero1"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/1.png"
-          alt=""
+          src="/images/backgrounds/asset (4).svg"
+          alt="Background"
           id="hero2"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/2.png"
+          src="/images/backgrounds/asset (2).svg"
           alt="Background"
           id="about_us-pelaksanaan_acara"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/3.png"
+          src="/images/backgrounds/asset (10).svg"
           alt="Background"
           id="pelaksanaan_acara-testimonials"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/4.png"
+          src="/images/backgrounds/asset (5).svg"
           alt="Background"
           id="testimonials-sponsors"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/5.png"
+          src="/images/backgrounds/asset (8).svg"
           alt="Background"
           id="sponsors-media_partners"
-          width={240}
+          width={96}
           className="d-none d-md-block"
         />
 
         <section className="my-5" data-aos="fade-up">
-          <h1 className="text-center display-1 fw-bold mt-5" id="title">
+          <h1 className="text-center display-1 fw-bold" id="title">
             Career Expo 3.0
           </h1>
+          <br />
+          <h2 className="text-center text-dark">
+            HYPE: Hone Your Potential Expertise
+          </h2>
 
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
             <button

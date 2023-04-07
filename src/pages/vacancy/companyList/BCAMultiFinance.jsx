@@ -7,7 +7,7 @@ import { bcamultifinance } from "../../../data/vacancy/JobVacancy";
 export default function BCAMultiFinance() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "Company List";
+    document.title = "BCA Multi Finance";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -22,7 +22,7 @@ export default function BCAMultiFinance() {
     <div key={bcamultifinance.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-2 d-grid justify-content-center align-items-center">
-          <h4>{bcamultifinance.position}</h4>
+          <h3>{bcamultifinance.position}</h3>
           <span className="text-muted">{bcamultifinance.name}</span>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
@@ -37,7 +37,6 @@ export default function BCAMultiFinance() {
             </button>
           </a>
           <button
-            type="button"
             className="btn btn-secondary w-100"
             data-bs-toggle="modal"
             data-bs-target="#jobModal"
@@ -78,7 +77,9 @@ export default function BCAMultiFinance() {
             </p>
             <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
-          <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">{jobList}</div>
+          <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
+            {jobList}
+          </div>
         </section>
       </div>
 
@@ -92,9 +93,9 @@ export default function BCAMultiFinance() {
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h4 className="modal-title text-center" id="jobModalLabel">
+              <h2 className="modal-title text-center" id="jobModalLabel">
                 Persyaratan
-              </h4>
+              </h2>
               <button
                 type="button"
                 className="btn-close"
@@ -102,33 +103,49 @@ export default function BCAMultiFinance() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">
-              <strong>Lowongan</strong>
-              <p>Staf Marketing (Part-time)</p>
-              <strong>Deskripsi Pekerjaan</strong>
-              <ol>
-                <li>
-                  Memastikan target penjualan dan kualitas penjualan yang baik
-                </li>
-              </ol>
-              <strong>Kriteria/Requirements</strong>
-              <ul>
-                <li>Diutamakan Fresh Graduate</li>
-                <li>Usia maksimal 27 tahun</li>
-                <li>Pendidikan minimal SMA</li>
-                <li>Memiliki SIM C dan kendaraan bermotor</li>
-                <li>Berpenampilan menarik</li>
-                <li>Mampu bekerja dengan target</li>
-                <li>Memiliki kemampuan komunikasi yang baik</li>
-                <li>Memiliki kemampuan negosiasi yang baik</li>
-              </ul>
-              <strong>Daerah Penempatan</strong>
-              <p>Surabaya, Sidoarjo, Mojokerto, Malang</p>
+            <div className="modal-body d-grid gap-2">
+              <div>
+                <h4>
+                  <i className="bi bi-tag"></i>&ensp;Lowongan
+                </h4>
+                <p>Staf Marketing (Part-time)</p>
+              </div>
+              <div>
+                <h4>
+                  <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
+                </h4>
+                <ol>
+                  <li>
+                    Memastikan target penjualan dan kualitas penjualan yang baik
+                  </li>
+                </ol>
+              </div>
+              <div>
+                <h4>
+                  <i className="bi bi-list-task"></i>&ensp;Kriteria/Requirements
+                </h4>
+                <ul>
+                  <li>Diutamakan Fresh Graduate</li>
+                  <li>Usia maksimal 27 tahun</li>
+                  <li>Pendidikan minimal SMA</li>
+                  <li>Memiliki SIM C dan kendaraan bermotor</li>
+                  <li>Berpenampilan menarik</li>
+                  <li>Mampu bekerja dengan target</li>
+                  <li>Memiliki kemampuan komunikasi yang baik</li>
+                  <li>Memiliki kemampuan negosiasi yang baik</li>
+                </ul>
+              </div>
+              <div>
+                <h4>
+                  <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
+                </h4>
+                <p>Surabaya, Sidoarjo, Mojokerto, Malang</p>
+              </div>
             </div>
           </div>
         </div>
       </div>
-      
+
       <Footer />
     </div>
   );

@@ -5,11 +5,11 @@ import { NavLink } from "react-router-dom";
 export default function Header() {
   return (
     <div className="header">
-      <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-0">
+      <nav className="navbar navbar-expand-lg navbar-dark user-select-none py-3">
         <div className="container">
           <NavLink className="navbar-brand" to="/">
             <img
-              src="/images/brand/career_expo.png"
+              src="/images/brand/career-expo_complementary.svg"
               alt="Corporate Entrepreneurship"
               width={96}
             />

@@ -84,16 +84,18 @@ th {
 .card {
   padding: 1.5rem;
   border-radius: 1rem !important;
-  border: solid 0.13rem #c8c8c9 !important;
+  border: solid 0.13rem var(--chinese-silver) !important;
+  background: var(--white-muted) !important;
+  backdrop-filter: blur(0.25rem) !important;
+  -webkit-backdrop-filter: blur(0.25rem) !important;
+}
+
+.card-img-top {
+  object-fit: contain;
 }
 
 .carousel-inner {
   max-width: 50% !important;
-}
-
-.dropdown-menu > li > a:hover {
-  background-color: var(--cetacean-blue) !important;
-  color: var(--white) !important;
 }
 
 .dropdown-toggle,
@@ -160,17 +162,17 @@ th {
 }
 
 #pelaksanaan_acara-testimonials {
-  top: 180vh;
+  top: 260vh;
   left: 0;
 }
 
 #testimonials-sponsors {
-  top: 240vh;
+  top: 380vh;
   right: 0;
 }
 
 #sponsors-media_partners {
-  top: 320vh;
+  top: 480vh;
   left: 0;
 }
 
@@ -218,6 +220,7 @@ th {
   --orange: #f69221;
   --sky-blue: #7ccdef;
   --white: #ffffff;
+  --white-muted: #ffffff1a;
   /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
   --coolvetica: "Coolvetica", sans-serif;
   --lato400: "Lato400", sans-serif;
@@ -276,8 +279,9 @@ a:hover:not(.navbar-brand, .company-list, #blog),
   color: var(--cetacean-blue) !important;
 }
 
-.card-img-top {
-  object-fit: contain;
+.dropdown-menu > li > a:hover {
+  background-color: var(--cetacean-blue) !important;
+  color: var(--white) !important;
 }
 
 .navbar-toggler:not(.collapsed) .navbar-toggler-icon {

@@ -33,8 +33,36 @@ export default function Home() {
         />
         <img
           src="/images/backgrounds/1.png"
-          alt="Background"
+          alt=""
           id="hero2"
+          width={240}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/2.png"
+          alt="Background"
+          id="about_us-pelaksanaan_acara"
+          width={240}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/3.png"
+          alt="Background"
+          id="pelaksanaan_acara-testimonials"
+          width={240}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/4.png"
+          alt="Background"
+          id="testimonials-sponsors"
+          width={240}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/5.png"
+          alt="Background"
+          id="sponsors-media_partners"
           width={240}
           className="d-none d-md-block"
         />
@@ -90,7 +118,14 @@ export default function Home() {
             </div>
             <div>
               <p>
-              Career Expo adalah acara tahunan yang diselenggarakan oleh mata kuliah Corporate Entrepreneurship Universitas Ciputra Surabaya. Kegiatan Career Expo merupakan kegiatan yang mempertemukan para calon intrapreneur dengan berbagai perusahaan-perusahaan yang menjadi impiannya. Career Expo tahun ini bertemakan HYPE: Hone Your Potential Expertise dengan harapan para calon intrapreneur dapat mengasah potensi dan keahliannya melalui Career Expo yang diselenggarakan.
+                Career Expo adalah acara tahunan yang diselenggarakan oleh mata
+                kuliah Corporate Entrepreneurship Universitas Ciputra Surabaya.
+                Kegiatan Career Expo merupakan kegiatan yang mempertemukan para
+                calon intrapreneur dengan berbagai perusahaan-perusahaan yang
+                menjadi impiannya. Career Expo tahun ini bertemakan HYPE: Hone
+                Your Potential Expertise dengan harapan para calon intrapreneur
+                dapat mengasah potensi dan keahliannya melalui Career Expo yang
+                diselenggarakan.
               </p>
               <NavLink className="btn btn-primary" to="/about">
                 <i className="bi bi-arrow-right"></i>&ensp;
@@ -99,14 +134,6 @@ export default function Home() {
             </div>
           </div>
         </section>
-
-        <img
-          src="/images/backgrounds/2.png"
-          alt="Background"
-          id="about_us-pelaksanaan_acara"
-          width={240}
-          className="d-none d-md-block"
-        />
 
         {/* Powered By */}
         <section className="my-5" data-aos="fade-up">
@@ -179,7 +206,9 @@ export default function Home() {
 
         {/* Testimonials */}
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">Testimonials Virtual Career Expo 2.0 2022</h2>
+          <h2 className="text-center">
+            Testimonials Virtual Career Expo 2.0 2022
+          </h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
             <div className="col">
@@ -255,22 +284,6 @@ export default function Home() {
             </div>
           </div>
         </section>
-
-        <img
-          src="/images/backgrounds/3.png"
-          alt="Background"
-          id="pelaksanaan_acara-testimonials"
-          width={240}
-          className="d-none d-md-block"
-        />
-
-        <img
-          src="/images/backgrounds/4.png"
-          alt="Background"
-          id="testimonials-sponsors"
-          width={240}
-          className="d-none d-md-block"
-        />
 
         {/* Sponsors */}
         <section data-aos="fade-up">
@@ -371,14 +384,6 @@ export default function Home() {
           </div>
         </section>
 
-        <img
-          src="/images/backgrounds/5.png"
-          alt="Background"
-          id="sponsors-media_partners"
-          width={240}
-          className="d-none d-md-block"
-        />
-
         {/* Media Partners */}
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">Media Partners</h2>
@@ -416,10 +421,10 @@ export default function Home() {
       >
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content">
-            <div className="modal-header">
-              <h4 className="modal-title" id="proposalKegiatanModalLabel">
+            <div className="modal-header py-2">
+              <h2 className="modal-title" id="proposalKegiatanModalLabel">
                 Proposal Kegiatan
-              </h4>
+              </h2>
               <button
                 type="button"
                 className="btn-close"
@@ -449,10 +454,10 @@ export default function Home() {
       >
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content">
-            <div className="modal-header">
-              <h4 className="modal-title" id="proposalSponsorshipModalLabel">
+            <div className="modal-header py-2">
+              <h2 className="modal-title" id="proposalSponsorshipModalLabel">
                 Proposal Sponsorship
-              </h4>
+              </h2>
               <button
                 type="button"
                 className="btn-close"

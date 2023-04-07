@@ -19,7 +19,7 @@ export default function CompanyList() {
   }, []);
 
   const companyList = company.map((company) => (
-    <div key={company.id} className="col">
+    <div className="col">
       <a href={company.url} className="company-list">
         <div className="card text-center px-0 py-2 h-100">
           <img

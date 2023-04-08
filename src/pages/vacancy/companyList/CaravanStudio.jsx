@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function BCAMultiFinance() {
+export default function CaravanStudio() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "BCA Multi Finance";
+    document.title = "Caravan Studio";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -39,7 +39,7 @@ export default function BCAMultiFinance() {
           <button
             className="btn btn-secondary w-100"
             data-bs-toggle="modal"
-            data-bs-target="#jobModal0"
+            data-bs-target={job.persyaratan}
           >
             <i className="bi bi-sticky"></i>&ensp;
             <strong>Persyaratan</strong>
@@ -86,9 +86,9 @@ export default function BCAMultiFinance() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">BCA Multi Finance</h2>
+          <h2 className="text-center">Caravan Studio</h2>
           <img
-            src="/images/vacancy/company_list/bcamultifinance.jpg"
+            src="/images/vacancy/company_list/caravanstudio.webp"
             alt="Brand"
             className="d-block mx-auto my-4"
             width={512}
@@ -96,35 +96,38 @@ export default function BCAMultiFinance() {
           />
           <div className="my-4">
             <p>
-              BCA Multi Finance merupakan anak perusahaan BCA yang bergerak di
-              bidang pembiayaan roda dua, roda empat dan multiguna. Didirikan
-              berdasarkan akta No.95 tanggal 29 April 2010 dari Kementerian
-              Hukum dan HAM Republik Indonesia
+              Caravan Studio adalah sebuah studio art outsourcing kelas dunia
+              dengan pengalaman lebih dari 10 tahun membuat desain dan ilustrasi
+              untuk perusahaan di dunia, seperti Marvel Comics, Wizard of the
+              Coast, Hasbro, Mattel, DeNA, Gree, Capcom, Konami, Sony Online
+              Entertainment, Riot Games, dan HBO Asia.
             </p>
-            <p>No. AHU-23631.AH.01.01 Tahun 2010 tanggal 10 Mei 2010</p>
             <p>
-              Resmi beroperasi pada tanggal 17 September 2010 dengan izin dari
-              Departemen Keuangan
+              Caravan Studio fokus pada produksi artwork 2D dalam bentuk komik,
+              ilustrasi, desain mainan, desain konsep visual untuk video game
+              dan film. Berlokasi di Indonesia, Caravan Studio saat ini
+              merupakan salah satu studio konsep desain terbesar di Asia
+              Tenggara
             </p>
-            <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
           <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
-            {jobList[0]}
+            {jobList[2]}
+            {jobList[3]}
           </div>
         </section>
       </div>
 
       <div
         className="modal fade"
-        id="jobModal0"
+        id="jobModal2"
         tabindex="-1"
-        aria-labelledby="jobModal0Label"
+        aria-labelledby="jobModal2Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal0Label">
+              <h2 className="modal-title text-center" id="jobModal2Label">
                 Persyaratan
               </h2>
               <button
@@ -134,7 +137,31 @@ export default function BCAMultiFinance() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
+            <div className="modal-body d-grid gap-2">{persyaratan[2]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal3"
+        tabindex="-1"
+        aria-labelledby="jobModal3Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal3Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body d-grid gap-2">{persyaratan[3]}</div>
           </div>
         </div>
       </div>

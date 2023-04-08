@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function BCAMultiFinance() {
+export default function CCCO() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "BCA Multi Finance";
+    document.title = "C+C&Co";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -39,7 +39,7 @@ export default function BCAMultiFinance() {
           <button
             className="btn btn-secondary w-100"
             data-bs-toggle="modal"
-            data-bs-target="#jobModal0"
+            data-bs-target="#jobModal1"
           >
             <i className="bi bi-sticky"></i>&ensp;
             <strong>Persyaratan</strong>
@@ -86,9 +86,9 @@ export default function BCAMultiFinance() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">BCA Multi Finance</h2>
+          <h2 className="text-center">C+C&Co</h2>
           <img
-            src="/images/vacancy/company_list/bcamultifinance.jpg"
+            src="/images/vacancy/company_list/C+C&Co.png"
             alt="Brand"
             className="d-block mx-auto my-4"
             width={512}
@@ -96,35 +96,40 @@ export default function BCAMultiFinance() {
           />
           <div className="my-4">
             <p>
-              BCA Multi Finance merupakan anak perusahaan BCA yang bergerak di
-              bidang pembiayaan roda dua, roda empat dan multiguna. Didirikan
-              berdasarkan akta No.95 tanggal 29 April 2010 dari Kementerian
-              Hukum dan HAM Republik Indonesia
+              C+C&Co adalah agensi kreatif yang berbasis di Singapura dalam
+              komunikasi dan pemasaran multi-disiplin, pengarahan seni,
+              pengembangan merek & Intelijen desain. Toko komunikasi kreatif
+              satu atap yang mengkhususkan diri dalam kebutuhan komunikasi.
+              Mulai dari art direction, identitas, iklan, kolateral, desain
+              kemasan hingga branding lingkungan. Kami menyesuaikan setiap
+              proyek dengan kebutuhan klien dengan tetap unik dalam metodologi
+              mereka sendiri. Proses desain yang menyeluruh didukung dengan
+              pemahaman, pengamatan, konseptualisasi, penciptaan dan integrasi
+              akhirnya secara efisien. Nilai-nilai kami berpikiran terbuka,
+              efisien, beragam, kolaboratif, progresif. Kami telah berdiri sejak
+              2012 dan kami percaya dalam menciptakan karya yang menyisipkan
+              disiplin dan bergerak melampaui indera. Sudah menjadi budaya kita
+              untuk mengkolaborasikan berbagai disiplin ilmu untuk
+              mendefinisikan kembali situasi di luar batas normal
             </p>
-            <p>No. AHU-23631.AH.01.01 Tahun 2010 tanggal 10 Mei 2010</p>
-            <p>
-              Resmi beroperasi pada tanggal 17 September 2010 dengan izin dari
-              Departemen Keuangan
-            </p>
-            <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
           <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
-            {jobList[0]}
+            {jobList[1]}
           </div>
         </section>
       </div>
 
       <div
         className="modal fade"
-        id="jobModal0"
+        id="jobModal1"
         tabindex="-1"
-        aria-labelledby="jobModal0Label"
+        aria-labelledby="jobModal1Label"
         aria-hidden="true"
       >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+        <div className="modal-dialog modal-lg vw-100 modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal0Label">
+              <h2 className="modal-title text-center" id="jobModal1Label">
                 Persyaratan
               </h2>
               <button
@@ -134,7 +139,7 @@ export default function BCAMultiFinance() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
+            <div className="modal-body d-grid gap-2">{persyaratan[1]}</div>
           </div>
         </div>
       </div>

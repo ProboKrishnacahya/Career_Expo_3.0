@@ -8,6 +8,8 @@ export { default as Home } from "../pages/home/Home";
 export { default as CompanyList } from "../pages/vacancy/CompanyList";
 export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 export { default as BCAMultiFinance } from "../pages/vacancy/companyList/BCAMultiFinance";
+export { default as CCCO } from "../pages/vacancy/companyList/CCCO";
+export { default as CaravanStudio } from "../pages/vacancy/companyList/CaravanStudio";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

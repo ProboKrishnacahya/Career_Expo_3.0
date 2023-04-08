@@ -37,11 +37,13 @@ img {
 
 option {
   padding: 0.5rem;
+  cursor: pointer;
 }
 
 pre {
   font-family: unset;
   font-size: unset;
+  white-space: pre-wrap;
 }
 
 select {

@@ -2,7 +2,7 @@ import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
-import { company } from "../../data/vacancy/CompanyList";
+import { job } from "../../data/vacancy/JobVacancy";
 
 export default function JobVacancy() {
   useEffect(() => {
@@ -18,19 +18,19 @@ export default function JobVacancy() {
     });
   }, []);
 
-  const jobVacancy = company.map((company) => (
+  const jobVacancy = job.map((job) => (
     <div className="col">
-      <a href={company.companyURL} className="company-list">
+      <a href={job.companyURL} className="company-list">
         <div className="card text-center px-0 py-2 h-100">
           <img
-            src={company.image}
+            src={job.image}
             alt="Company List"
             loading="lazy"
             className="card-img-top w-50 h-50 mx-auto py-2"
           />
           <div className="card-body py-2 d-grid justify-content-center align-items-center">
-            <h3>{company.position}</h3>
-            <span className="text-muted">{company.name}</span>
+            <h3>{job.position}</h3>
+            <span className="text-muted">{job.name}</span>
           </div>
           <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
             <button className="btn btn-primary w-100">

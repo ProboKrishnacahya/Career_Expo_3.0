@@ -55,10 +55,10 @@ th {
 }
 
 /* * Selector (Class) */
-/* .alert-info {
+.alert-info {
   background-color: var(--sky-blue) !important;
-  color: var(--white) !important;
-} */
+  color: var(--black) !important;
+}
 
 .accordion-button.collapsed {
   color: var(--cetacean-blue);
@@ -195,7 +195,11 @@ th {
 }
 
 #pills-day1-tab.active,
-#pills-day2-tab.active,
+#pills-day2-tab.active {
+  background-color: var(--cetacean-blue) !important;
+  color: var(--white) !important;
+}
+
 #pills-advertisement-tab.active,
 #pills-art-tab.active,
 #pills-automotif-tab.active,
@@ -228,8 +232,6 @@ th {
   color: var(--cetacean-blue) !important;
 }
 
-#pills-day1-tab.nav-link:not(.active),
-#pills-day2-tab.nav-link:not(.active),
 #pills-advertisement-tab:not(.active),
 #pills-art-tab:not(.active),
 #pills-automotif-tab:not(.active),
@@ -271,10 +273,6 @@ th {
 
 #title {
   letter-spacing: 0.5rem;
-}
-
-#toc {
-  margin: 0.5rem 0 !important;
 }
 
 /* * Pseudo-classes */

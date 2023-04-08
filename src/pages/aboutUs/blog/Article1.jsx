@@ -61,8 +61,9 @@ export default function Article1() {
 
         <div className="row">
           <div className="col-lg-3 mb-4 my-lg-0">
-            <ul className="list-unstyled alert alert-info" id="toc">
-              <strong>Daftar isi:</strong>
+            <div id="side">
+            <ul className="list-unstyled alert alert-info">
+              <strong>Daftar isi</strong>
               <li>
                 <a href="#toc1">1. Kompetensi Calon Karyawan</a>
               </li>
@@ -83,6 +84,7 @@ export default function Article1() {
               <i className="bi bi-link-45deg"></i>&ensp;
               <strong>Bagikan Artikel</strong>
             </button>
+            </div>
           </div>
 
           <div className="col-lg-9">

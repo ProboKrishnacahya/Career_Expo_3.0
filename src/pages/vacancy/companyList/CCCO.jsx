@@ -88,7 +88,7 @@ export default function CCCO() {
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">C+C&Co</h2>
           <img
-            src="/images/vacancy/company_list/C+C&Co.png"
+            src="/images/vacancy/company_list/c+c&co.png"
             alt="Brand"
             className="d-block mx-auto my-4"
             width={512}

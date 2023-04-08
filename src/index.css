@@ -39,6 +39,11 @@ option {
   padding: 0.5rem;
 }
 
+pre {
+  font-family: unset;
+  font-size: unset;
+}
+
 select {
   outline: none !important;
   box-shadow: none !important;

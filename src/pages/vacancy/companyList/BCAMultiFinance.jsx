@@ -49,6 +49,37 @@ export default function BCAMultiFinance() {
     </div>
   ));
 
+  const persyaratan = company.map((company) => (
+    <div>
+      <div>
+        <h4>
+          <i className="bi bi-tag"></i>&ensp;Lowongan
+        </h4>
+        <p>
+          {company.position} ({company.type})
+        </p>
+      </div>
+      <div>
+        <h4>
+          <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
+        </h4>
+        <pre>{company.deskripsi}</pre>
+      </div>
+      <div>
+        <h4>
+          <i className="bi bi-list-task"></i>&ensp;Kriteria/Requirements
+        </h4>
+        <pre>{company.kriteria}</pre>
+      </div>
+      <div>
+        <h4>
+          <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
+        </h4>
+        <pre>{company.daerah}</pre>
+      </div>
+    </div>
+  ));
+
   return (
     <div>
       <Header />
@@ -103,45 +134,7 @@ export default function BCAMultiFinance() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">
-              <div>
-                <h4>
-                  <i className="bi bi-tag"></i>&ensp;Lowongan
-                </h4>
-                <p>Staf Marketing (Part-time)</p>
-              </div>
-              <div>
-                <h4>
-                  <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
-                </h4>
-                <ol>
-                  <li>
-                    Memastikan target penjualan dan kualitas penjualan yang baik
-                  </li>
-                </ol>
-              </div>
-              <div>
-                <h4>
-                  <i className="bi bi-list-task"></i>&ensp;Kriteria/Requirements
-                </h4>
-                <ul>
-                  <li>Diutamakan Fresh Graduate</li>
-                  <li>Usia maksimal 27 tahun</li>
-                  <li>Pendidikan minimal SMA</li>
-                  <li>Memiliki SIM C dan kendaraan bermotor</li>
-                  <li>Berpenampilan menarik</li>
-                  <li>Mampu bekerja dengan target</li>
-                  <li>Memiliki kemampuan komunikasi yang baik</li>
-                  <li>Memiliki kemampuan negosiasi yang baik</li>
-                </ul>
-              </div>
-              <div>
-                <h4>
-                  <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
-                </h4>
-                <p>Surabaya, Sidoarjo, Mojokerto, Malang</p>
-              </div>
-            </div>
+            <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
           </div>
         </div>
       </div>

@@ -8,6 +8,11 @@ export const company = [
     position: "Staf Marketing",
     registerURL:
       "https://docs.google.com/forms/d/e/1FAIpQLScS4CTroM_sDCBM25r6od1OSGXeQ0t7tADLjOCxJBqujiguXA/viewform",
+    type: "Part-time",
+    deskripsi: "Memastikan target penjualan dan kualitas penjualan yang baik",
+    kriteria:
+      "- Diutamakan Fresh Graduate \n- Usia maksimal 27 tahun\n- Pendidikan minimal SMA\n- Memiliki SIM C dan kendaraan bermotor\n- Berpenampilan menarik\n- Mampu bekerja dengan target\n- Memiliki kemampuan komunikasi yang baik\n- Memiliki kemampuan negosiasi yang baik",
+    daerah: "Surabaya, Sidoarjo, Mojokerto, Malang",
   },
   // * C+C&CO
   {

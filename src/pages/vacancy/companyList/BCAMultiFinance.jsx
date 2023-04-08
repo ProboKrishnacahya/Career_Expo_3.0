@@ -2,7 +2,7 @@ import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
-import { bcamultifinance } from "../../../data/vacancy/JobVacancy";
+import { company } from "../../../data/vacancy/CompanyList";
 
 export default function BCAMultiFinance() {
   useEffect(() => {
@@ -18,16 +18,16 @@ export default function BCAMultiFinance() {
     });
   }, []);
 
-  const jobList = bcamultifinance.map((bcamultifinance) => (
-    <div key={bcamultifinance.id} className="col">
+  const jobList = company.map((company) => (
+    <div key={company.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-2 d-grid justify-content-center align-items-center">
-          <h3>{bcamultifinance.position}</h3>
-          <span className="text-muted">{bcamultifinance.name}</span>
+          <h3>{company.position}</h3>
+          <span className="text-muted">{company.name}</span>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
           <a
-            href={bcamultifinance.registerURL}
+            href={company.registerURL}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -53,7 +53,7 @@ export default function BCAMultiFinance() {
     <div>
       <Header />
 
-      <div className="container vh-100">
+      <div className="container">
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">BCA Multi Finance</h2>
           <img
@@ -78,7 +78,7 @@ export default function BCAMultiFinance() {
             <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
           </div>
           <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
-            {jobList}
+            {jobList[0]}
           </div>
         </section>
       </div>

@@ -27,7 +27,7 @@ export const company = [
   // * Caravan Studio
   {
     id: 2,
-    companyURL: "/companylist/CaravanStudio",
+    companyURL: "/company-list/CaravanStudio",
     image: "/images/vacancy/company_list/caravanstudio.webp",
     name: "Caravan Studio",
     position: "Digital 2D Artist",
@@ -36,7 +36,7 @@ export const company = [
   },
   {
     id: 3,
-    companyURL: "/companylist/CaravanStudio",
+    companyURL: "/company-list/CaravanStudio",
     image: "/images/vacancy/company_list/caravanstudio.webp",
     name: "Caravan Studio",
     position: "Digital 3D Artist",
@@ -46,7 +46,7 @@ export const company = [
   // * Hotel Ciputra World
   {
     id: 4,
-    companyURL: "/companylist/HotelCiputraWorld",
+    companyURL: "/company-list/HotelCiputraWorld",
     image: "/images/vacancy/company_list/hotelcw.png",
     name: "Hotel Ciputra World",
     position: "Chef De Partie",
@@ -55,7 +55,7 @@ export const company = [
   },
   {
     id: 5,
-    companyURL: "/companylist/HotelCiputraWorld",
+    companyURL: "/company-list/HotelCiputraWorld",
     image: "/images/vacancy/company_list/hotelcw.png",
     name: "Hotel Ciputra World",
     position: "Commis – Western",
@@ -64,7 +64,7 @@ export const company = [
   },
   {
     id: 6,
-    companyURL: "/companylist/HotelCiputraWorld",
+    companyURL: "/company-list/HotelCiputraWorld",
     image: "/images/vacancy/company_list/hotelcw.png",
     name: "Hotel Ciputra World",
     position: "Commis Pastry",
@@ -74,7 +74,7 @@ export const company = [
   // * Komunal
   {
     id: 7,
-    companyURL: "/companylist/komunal",
+    companyURL: "/company-list/komunal",
     image: "/images/vacancy/company_list/komunal.png",
     name: "Komunal",
     position: "Application Support Engineer",
@@ -84,7 +84,7 @@ export const company = [
   // * Marketing Office Ciputra
   {
     id: 8,
-    companyURL: "/companylist/marketingofficeciputra",
+    companyURL: "/company-list/marketingofficeciputra",
     image: "/images/vacancy/company_list/marketingciputra.png",
     name: "Marketing Office Ciputra",
     position: "Digital Marketing",
@@ -94,7 +94,7 @@ export const company = [
   // * Mc Easy
   {
     id: 9,
-    companyURL: "/companylist/mceasy",
+    companyURL: "/company-list/mceasy",
     image: "/images/vacancy/company_list/mceasy.png",
     name: "Mc Easy",
     position: "Content Specialist",
@@ -104,7 +104,7 @@ export const company = [
   // * Prudential Life Assurance
   {
     id: 10,
-    companyURL: "/companylist/prudential",
+    companyURL: "/company-list/prudential",
     image: "/images/vacancy/company_list/prudential.png",
     name: "Prudential Life Assurance",
     position: "Administrative Staff",
@@ -114,7 +114,7 @@ export const company = [
   // * PT Astra International
   {
     id: 11,
-    companyURL: "/companylist/AstraIzuzu",
+    companyURL: "/company-list/AstraIzuzu",
     image: "/images/vacancy/company_list/astraizuzu.gif",
     name: "PT Astra International",
     position: "Sales Executive",

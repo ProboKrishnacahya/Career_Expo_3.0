@@ -20,69 +20,26 @@ export default function JobVacancy() {
 
   const jobVacancy = company.map((company) => (
     <div className="col">
-      <div className="card text-center px-0 py-2 h-100">
-        <img
-          src={company.image}
-          alt="Company List"
-          loading="lazy"
-          className="card-img-top w-50 h-50 mx-auto py-2"
-        />
-        <div className="card-body py-2 d-grid justify-content-center align-items-center">
-          <h3>{company.position}</h3>
-          <a href={company.companyURL}>{company.name}</a>
-        </div>
-        <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
-          <a
-            href={company.registerURL}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+      <a href={company.companyURL} className="company-list">
+        <div className="card text-center px-0 py-2 h-100">
+          <img
+            src={company.image}
+            alt="Company List"
+            loading="lazy"
+            className="card-img-top w-50 h-50 mx-auto py-2"
+          />
+          <div className="card-body py-2 d-grid justify-content-center align-items-center">
+            <h3>{company.position}</h3>
+            <span className="text-muted">{company.name}</span>
+          </div>
+          <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
             <button className="btn btn-primary w-100">
-              <i className="bi bi-person-plus"></i>&ensp;
-              <strong>Daftar</strong>
+              <i className="bi bi-briefcase"></i>&ensp;
+              <strong>Lihat Lowongan</strong>
             </button>
-          </a>
-          <button
-            className="btn btn-secondary w-100"
-            data-bs-toggle="modal"
-            data-bs-target="#jobModal"
-          >
-            <i className="bi bi-sticky"></i>&ensp;
-            <strong>Persyaratan</strong>
-          </button>
+          </div>
         </div>
-      </div>
-    </div>
-  ));
-
-  const persyaratan = company.map((company) => (
-    <div>
-      <div>
-        <h4>
-          <i className="bi bi-tag"></i>&ensp;Lowongan
-        </h4>
-        <p>
-          {company.position} ({company.type})
-        </p>
-      </div>
-      <div>
-        <h4>
-          <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
-        </h4>
-        <pre>{company.deskripsi}</pre>
-      </div>
-      <div>
-        <h4>
-          <i className="bi bi-list-task"></i>&ensp;Kriteria/Requirements
-        </h4>
-        <pre>{company.kriteria}</pre>
-      </div>
-      <div>
-        <h4>
-          <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
-        </h4>
-        <pre>{company.daerah}</pre>
-      </div>
+      </a>
     </div>
   ));
 
@@ -129,7 +86,7 @@ export default function JobVacancy() {
                     <hr className="my-4" />
                     <optgroup label="Tipe Pekerjaan">
                       <hr className="my-2 opacity-0" />
-                      <option selected>Full Time</option>
+                      <option value="FullTime">Full Time</option>
                       <option value="PartTime">Part Time</option>
                       <option value="Freelance">Freelance</option>
                       <option value="Internship">Internship</option>
@@ -146,31 +103,6 @@ export default function JobVacancy() {
             </div>
           </div>
         </section>
-      </div>
-
-      <div
-        className="modal fade"
-        id="jobModal"
-        tabindex="-1"
-        aria-labelledby="jobModalLabel"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModalLabel">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body d-grid gap-2">{persyaratan}</div>
-          </div>
-        </div>
       </div>
 
       <Footer />

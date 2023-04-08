@@ -8,6 +8,7 @@ export const job = [
     position: "Staf Marketing",
     registerURL:
       "https://docs.google.com/forms/d/e/1FAIpQLScS4CTroM_sDCBM25r6od1OSGXeQ0t7tADLjOCxJBqujiguXA/viewform",
+    industry: "Financial Technology",
     type: "Part Time",
     deskripsi: "Memastikan target penjualan dan kualitas penjualan yang baik",
     kriteria:

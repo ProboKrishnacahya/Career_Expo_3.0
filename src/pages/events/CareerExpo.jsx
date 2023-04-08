@@ -25,12 +25,12 @@ export default function CareerExpo() {
             <li className="nav-item" role="presentation">
               <button
                 className="nav-link active rounded-3"
-                id="pills-1-tab"
+                id="pills-day1-tab"
                 data-bs-toggle="pill"
-                data-bs-target="#pills-1"
+                data-bs-target="#pills-day1"
                 type="button"
                 role="tab"
-                aria-controls="pills-1"
+                aria-controls="pills-day1"
                 aria-selected="true"
               >
                 Day 1
@@ -39,12 +39,12 @@ export default function CareerExpo() {
             <li className="nav-item" role="presentation">
               <button
                 className="nav-link rounded-3"
-                id="pills-2-tab"
+                id="pills-day2-tab"
                 data-bs-toggle="pill"
-                data-bs-target="#pills-2"
+                data-bs-target="#pills-day2"
                 type="button"
                 role="tab"
-                aria-controls="pills-2"
+                aria-controls="pills-day2"
                 aria-selected="false"
               >
                 Day 2
@@ -55,9 +55,9 @@ export default function CareerExpo() {
           <div className="tab-content" id="pills-tabContent">
             <div
               className="tab-pane fade show active"
-              id="pills-1"
+              id="pills-day1"
               role="tabpanel"
-              aria-labelledby="pills-1-tab"
+              aria-labelledby="pills-day1-tab"
             >
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>
@@ -193,9 +193,9 @@ export default function CareerExpo() {
 
             <div
               className="tab-pane fade"
-              id="pills-2"
+              id="pills-day2"
               role="tabpanel"
-              aria-labelledby="pills-2-tab"
+              aria-labelledby="pills-day2-tab"
             >
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>

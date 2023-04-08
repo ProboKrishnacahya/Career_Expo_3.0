@@ -147,7 +147,7 @@ export default function Home() {
             <div>
               <img
                 src="/images/brand/universitas_ciputra.png"
-                alt="Corporate Entrepreneurship"
+                alt="Universitas Ciputra Surabaya"
                 width={128}
               />
             </div>

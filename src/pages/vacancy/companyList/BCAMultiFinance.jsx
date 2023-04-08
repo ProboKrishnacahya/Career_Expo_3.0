@@ -27,7 +27,7 @@ export default function BCAMultiFinance() {
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
           <a
-            href={bcamultifinance.url}
+            href={bcamultifinance.registerURL}
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -53,7 +53,7 @@ export default function BCAMultiFinance() {
     <div>
       <Header />
 
-      <div className="container">
+      <div className="container vh-100">
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">BCA Multi Finance</h2>
           <img

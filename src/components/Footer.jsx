@@ -31,7 +31,7 @@ export default function Footer() {
                       <div>
                         <img
                           src="/images/brand/universitas_ciputra.png"
-                          alt="Corporate Entrepreneurship"
+                          alt="Universitas Ciputra Surabaya"
                           width={64}
                         />
                       </div>

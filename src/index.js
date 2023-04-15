@@ -11,7 +11,7 @@ import {
   PageNotFound,
   Home,
   CompanyList,
-  BCAMultiFinance,
+  HSBC,
   CCCO,
   CaravanStudio,
   JobVacancy,
@@ -38,7 +38,7 @@ root.render(
 
       {/* Vacancy */}
       <Route path="/company-list" element={<CompanyList />} />
-      <Route path="/company-list/bcamultifinance" element={<BCAMultiFinance />} />
+      <Route path="/company-list/hsbc" element={<HSBC />} />
       <Route path="/company-list/c+c&co" element={<CCCO />} />
       <Route path="/company-list/CaravanStudio" element={<CaravanStudio />} />
       <Route path="/job-vacancy" element={<JobVacancy />} />

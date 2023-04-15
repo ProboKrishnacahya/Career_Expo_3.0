@@ -41,6 +41,10 @@ pre {
   white-space: pre-wrap;
 }
 
+section {
+  margin: 5rem 0;
+}
+
 strong {
   font-family: var(--lato700);
 }
@@ -56,6 +60,7 @@ th {
 
 /* * Selector (Class) */
 .alert-info {
+  border-radius: 1rem !important;
   background-color: var(--sky-blue) !important;
   color: var(--black) !important;
 }
@@ -152,9 +157,12 @@ th {
 /* * Selector (ID) */
 #hero1,
 #hero2,
-#about_us-pelaksanaan_acara,
+#about_us-powered_by,
+#pelaksanaan_acara,
 #pelaksanaan_acara-testimonials,
+#testimonials,
 #testimonials-sponsors,
+#sponsors,
 #sponsors-media_partners {
   position: absolute;
   z-index: -999 !important;
@@ -170,24 +178,39 @@ th {
   left: 0;
 }
 
-#about_us-pelaksanaan_acara {
-  top: 120vh;
+#about_us-powered_by {
+  top: 150vh;
   right: 0;
 }
 
+#pelaksanaan_acara {
+  top: 230vh;
+  left: 0;
+}
+
 #pelaksanaan_acara-testimonials {
-  top: 260vh;
+  top: 310vh;
+  right: 0;
+}
+
+#testimonials {
+  top: 360vh;
   left: 0;
 }
 
 #testimonials-sponsors {
-  top: 380vh;
+  top: 440vh;
   right: 0;
 }
 
-#sponsors-media_partners {
+#sponsors {
   top: 500vh;
   left: 0;
+}
+
+#sponsors-media_partners {
+  top: 550vh;
+  right: 0;
 }
 
 #preload {

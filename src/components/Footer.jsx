@@ -62,6 +62,19 @@ export default function Footer() {
                           <span>uc_careerexpo</span>
                         </a>
                         <a
+                          href="https://www.tiktok.com/@uc_corporateentrepreneur"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <i
+                            className="bi bi-tiktok"
+                            data-bs-toggle="tooltip"
+                            title="TikTok"
+                          ></i>
+                          &ensp;
+                          <span>uc_corporateentrepreneur</span>
+                        </a>
+                        <a
                           href="https://www.youtube.com/@UniversitasCiputraOfficial"
                           target="_blank"
                           rel="noopener noreferrer"

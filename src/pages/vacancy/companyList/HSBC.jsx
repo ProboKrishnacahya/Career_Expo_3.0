@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function BCAMultiFinance() {
+export default function HSBC() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "BCA Multi Finance";
+    document.title = "HSBC";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -22,15 +22,11 @@ export default function BCAMultiFinance() {
     <div key={job.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-2 d-grid justify-content-center align-items-center">
-          <h3>{job.position}</h3>
-          <span className="text-muted">{job.name}</span>
+          <h3>{job.jabatan}</h3>
+          <span className="text-muted">{job.divisi}</span>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
-          <a
-            href={job.registerURL}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <a href={job.registerURL} target="_blank" rel="noopener noreferrer">
             <button className="btn btn-primary w-100">
               <i className="bi bi-person-plus"></i>&ensp;
               <strong>Daftar</strong>
@@ -39,12 +35,38 @@ export default function BCAMultiFinance() {
           <button
             className="btn btn-secondary w-100"
             data-bs-toggle="modal"
-            data-bs-target="#jobModal0"
+            data-bs-target={`#jobModal${job.id}`}
           >
             <i className="bi bi-sticky"></i>&ensp;
             <strong>Persyaratan</strong>
           </button>
         </div>
+      </div>
+    </div>
+  ));
+
+  const companyProfile = job.map((job) => (
+    <div>
+      <h2 className="text-center">{job.name}</h2>
+      <div className="row align-items-center">
+        <div className="col-lg-4">
+          <img
+            src={job.image}
+            alt="Brand"
+            className="d-block mx-auto my-4"
+            width={512}
+            loading="lazy"
+          />
+        </div>
+        <div className="col-lg-8">
+          <div className="my-4">
+            <pre>{job.companyDescription}</pre>
+          </div>
+        </div>
+      </div>
+      <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
+        {jobList[0]}
+        {jobList[1]}
       </div>
     </div>
   ));
@@ -56,14 +78,14 @@ export default function BCAMultiFinance() {
           <i className="bi bi-tag"></i>&ensp;Lowongan
         </h4>
         <p>
-          {job.position} ({job.type})
+          {job.jabatan}&nbsp;({job.type})
         </p>
       </div>
       <div>
         <h4>
           <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
         </h4>
-        <pre>{job.deskripsi}</pre>
+        <pre>{job.jobDescription}</pre>
       </div>
       <div>
         <h4>
@@ -86,31 +108,7 @@ export default function BCAMultiFinance() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">BCA Multi Finance</h2>
-          <img
-            src="/images/vacancy/company_list/bcamultifinance.jpg"
-            alt="Brand"
-            className="d-block mx-auto my-4"
-            width={512}
-            loading="lazy"
-          />
-          <div className="my-4">
-            <p>
-              BCA Multi Finance merupakan anak perusahaan BCA yang bergerak di
-              bidang pembiayaan roda dua, roda empat dan multiguna. Didirikan
-              berdasarkan akta No.95 tanggal 29 April 2010 dari Kementerian
-              Hukum dan HAM Republik Indonesia
-            </p>
-            <p>No. AHU-23631.AH.01.01 Tahun 2010 tanggal 10 Mei 2010</p>
-            <p>
-              Resmi beroperasi pada tanggal 17 September 2010 dengan izin dari
-              Departemen Keuangan
-            </p>
-            <p>No. KEP-523/KM.10/2010 pada tanggal 3 September 2010</p>
-          </div>
-          <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
-            {jobList[0]}
-          </div>
+          {companyProfile[0]}
         </section>
       </div>
 
@@ -135,6 +133,30 @@ export default function BCAMultiFinance() {
               ></button>
             </div>
             <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal1"
+        tabindex="-1"
+        aria-labelledby="jobModal1Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal1Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body d-grid gap-2">{persyaratan[1]}</div>
           </div>
         </div>
       </div>

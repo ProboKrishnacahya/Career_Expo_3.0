@@ -32,7 +32,7 @@ export default function JobVacancy() {
             className="card-img-top w-50 h-50 mx-auto py-2"
           />
           <div className="card-body py-2 d-grid justify-content-center align-items-center">
-            <h3>{job.position}</h3>
+            <h3>{job.jabatan}</h3>
             <span className="text-muted">{job.name}</span>
           </div>
           <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
@@ -337,6 +337,7 @@ export default function JobVacancy() {
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
                       {jobVacancy[0]}
+                      {jobVacancy[1]}
                       {jobVacancy[2]}
                     </div>
                   </div>
@@ -347,8 +348,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-art-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
+                      {jobVacancy[2]}
                       {jobVacancy[1]}
-                      {jobVacancy[4]}
+                      {jobVacancy[0]}
                     </div>
                   </div>
                   <div
@@ -358,8 +360,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-automotif-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[3]}
-                      {jobVacancy[9]}
+                      {jobVacancy[1]}
+                      {jobVacancy[2]}
                     </div>
                   </div>
                   <div
@@ -370,7 +372,7 @@ export default function JobVacancy() {
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
                       {jobVacancy[2]}
-                      {jobVacancy[4]}
+                      {jobVacancy[1]}
                     </div>
                   </div>
                   <div
@@ -380,8 +382,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-consumer-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[1]}
-                      {jobVacancy[5]}
+                      {jobVacancy[0]}
+                      {jobVacancy[2]}
                     </div>
                   </div>
                   <div
@@ -391,8 +393,7 @@ export default function JobVacancy() {
                     aria-labelledby="pills-goods-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[11]}
-                      {jobVacancy[4]}
+                      {jobVacancy[1]}
                       {jobVacancy[0]}
                     </div>
                   </div>
@@ -403,8 +404,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-foodandbeverage-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
+                      {jobVacancy[2]}
                       {jobVacancy[0]}
-                      {jobVacancy[8]}
                     </div>
                   </div>
                   <div
@@ -414,8 +415,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-financialtechnology-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[11]}
-                      {jobVacancy[1]}
+                      {jobVacancy[0]}
+                      {jobVacancy[2]}
                     </div>
                   </div>
                   <div
@@ -425,7 +426,7 @@ export default function JobVacancy() {
                     aria-labelledby="pills-hospitality-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[10]}
+                      {jobVacancy[1]}
                       {jobVacancy[2]}
                     </div>
                   </div>
@@ -436,11 +437,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-insurance-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[3]}
-                      {jobVacancy[5]}
-                      {jobVacancy[6]}
-                      {jobVacancy[8]}
-                      {jobVacancy[9]}
+                      {jobVacancy[2]}
+                      {jobVacancy[0]}
+                      {jobVacancy[1]}
                     </div>
                   </div>
                   <div
@@ -450,9 +449,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-logistictransportation-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[6]}
-                      {jobVacancy[7]}
-                      {jobVacancy[8]}
+                      {jobVacancy[1]}
+                      {jobVacancy[0]}
+                      {jobVacancy[2]}
                     </div>
                   </div>
                   <div
@@ -463,8 +462,8 @@ export default function JobVacancy() {
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
                       {jobVacancy[2]}
-                      {jobVacancy[3]}
-                      {jobVacancy[5]}
+                      {jobVacancy[1]}
+                      {jobVacancy[0]}
                     </div>
                   </div>
                   <div
@@ -474,9 +473,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-printing-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[4]}
-                      {jobVacancy[7]}
-                      {jobVacancy[11]}
+                      {jobVacancy[2]}
+                      {jobVacancy[0]}
+                      {jobVacancy[1]}
                     </div>
                   </div>
                   <div
@@ -486,9 +485,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-property-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[8]}
+                      {jobVacancy[1]}
                       {jobVacancy[2]}
-                      {jobVacancy[6]}
+                      {jobVacancy[0]}
                     </div>
                   </div>
                   <div
@@ -498,8 +497,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-fulltime-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[7]}
-                      {jobVacancy[5]}
+                      {jobVacancy[2]}
+                      {jobVacancy[1]}
                     </div>
                   </div>
                   <div
@@ -509,9 +508,9 @@ export default function JobVacancy() {
                     aria-labelledby="pills-parttime-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[9]}
-                      {jobVacancy[10]}
-                      {jobVacancy[11]}
+                      {jobVacancy[0]}
+                      {jobVacancy[2]}
+                      {jobVacancy[1]}
                     </div>
                   </div>
                   <div
@@ -521,8 +520,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-freelance-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[8]}
-                      {jobVacancy[9]}
+                      {jobVacancy[1]}
+                      {jobVacancy[0]}
                     </div>
                   </div>
                   <div
@@ -532,8 +531,8 @@ export default function JobVacancy() {
                     aria-labelledby="pills-internship-tab"
                   >
                     <div className="row row-cols-1 row-cols-lg-2 g-3">
-                      {jobVacancy[10]}
-                      {jobVacancy[11]}
+                      {jobVacancy[1]}
+                      {jobVacancy[2]}
                     </div>
                   </div>
                 </div>

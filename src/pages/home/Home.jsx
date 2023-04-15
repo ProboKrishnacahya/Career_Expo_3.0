@@ -22,45 +22,66 @@ export default function Home() {
     <div className="home">
       <Header />
 
-      {/* Hero Section */}
+      {/* Hero */}
       <div className="container">
         <img
-          src="/images/backgrounds/asset (1).svg"
+          src="/images/backgrounds/1.svg"
           alt="Background"
           id="hero1"
           width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/asset (4).svg"
+          src="/images/backgrounds/2.svg"
           alt="Background"
           id="hero2"
           width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/asset (2).svg"
+          src="/images/backgrounds/3.svg"
           alt="Background"
-          id="about_us-pelaksanaan_acara"
+          id="about_us-powered_by"
           width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/asset (10).svg"
+          src="/images/backgrounds/4.svg"
+          alt="Background"
+          id="pelaksanaan_acara"
+          width={96}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/5.svg"
           alt="Background"
           id="pelaksanaan_acara-testimonials"
           width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/asset (5).svg"
+          src="/images/backgrounds/6.svg"
+          alt="Background"
+          id="testimonials"
+          width={96}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/7.svg"
           alt="Background"
           id="testimonials-sponsors"
           width={96}
           className="d-none d-md-block"
         />
         <img
-          src="/images/backgrounds/asset (8).svg"
+          src="/images/backgrounds/8.svg"
+          alt="Background"
+          id="sponsors"
+          width={96}
+          className="d-none d-md-block"
+        />
+        <img
+          src="/images/backgrounds/9.svg"
           alt="Background"
           id="sponsors-media_partners"
           width={96}
@@ -72,9 +93,16 @@ export default function Home() {
             Career Expo 3.0
           </h1>
           <br />
-          <h2 className="text-center text-dark">
-            HYPE: Hone Your Potential Expertise
-          </h2>
+          <img
+            src="/images/home/hero/HYPE_Desktop.svg"
+            alt="HYPE"
+            className="d-none d-md-block mx-auto"
+          />
+          <img
+            src="/images/home/hero/HYPE_Mobile.svg"
+            alt="HYPE"
+            className="d-block d-md-none mx-auto w-100"
+          />
 
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
             <button
@@ -163,8 +191,9 @@ export default function Home() {
 
         {/* Pelaksanaan Acara */}
         <section data-aos="fade-up">
+          <h2 className="text-center">Pelaksanaan Acara</h2>
+          <br />
           <div className="alert alert-info d-grid gap-3 mb-5" role="alert">
-            <h2 className="text-center">Pelaksanaan Acara</h2>
             <div className="row justify-content-center text-center align-items-center">
               <div className="py-1">
                 <i
@@ -277,7 +306,7 @@ export default function Home() {
                     informasi-informasi terkait karir dan hal-hal yang
                     meliputinya. Berbagai korporasi yang terlibat cukup
                     representatif lintas bidang dan orientasi. Tidak sebatas
-                    informasi, tetapi tautan yang disediakan Uc Career Expo
+                    informasi, tetapi tautan yang disediakan UC Career Expo
                     dirasa dapat mengkatalisasi pergerakan dari rekan-rekan yang
                     sedang mempersiapkan karirnya. Apresiasi tinggi bagi panitia
                     yang telah menyusun acara dengan begitu apik, terstruktur,

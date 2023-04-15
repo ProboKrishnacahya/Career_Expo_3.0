@@ -63,7 +63,7 @@ export default function CCCO() {
         <h4>
           <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
         </h4>
-        <pre>{job.deskripsi}</pre>
+        <pre>{job.jobDescription}</pre>
       </div>
       <div>
         <h4>

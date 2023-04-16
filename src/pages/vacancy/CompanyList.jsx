@@ -24,7 +24,7 @@ export default function CompanyList() {
         <div className="card text-center px-0 py-2 h-100">
           <img
             src={company.image}
-            alt="Company List"
+            alt={company.name}
             loading="lazy"
             className="card-img-top w-75 h-75 mx-auto py-2"
           />

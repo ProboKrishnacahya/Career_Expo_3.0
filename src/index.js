@@ -12,8 +12,7 @@ import {
   Home,
   CompanyList,
   HSBC,
-  CCCO,
-  CaravanStudio,
+  ASPRA,
   JobVacancy,
   CareerExpo,
   Workshop,
@@ -39,8 +38,7 @@ root.render(
       {/* Vacancy */}
       <Route path="/company-list" element={<CompanyList />} />
       <Route path="/company-list/hsbc" element={<HSBC />} />
-      <Route path="/company-list/c+c&co" element={<CCCO />} />
-      <Route path="/company-list/CaravanStudio" element={<CaravanStudio />} />
+      <Route path="/company-list/aspra" element={<ASPRA />} />
       <Route path="/job-vacancy" element={<JobVacancy />} />
 
       {/* Events */}

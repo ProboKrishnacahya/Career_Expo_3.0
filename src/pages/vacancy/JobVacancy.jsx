@@ -27,7 +27,7 @@ export default function JobVacancy() {
         >
           <img
             src={job.image}
-            alt="Company List"
+            alt={job.name}
             loading="lazy"
             className="card-img-top w-50 h-50 mx-auto py-2"
           />

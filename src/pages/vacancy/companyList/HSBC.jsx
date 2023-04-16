@@ -52,7 +52,7 @@ export default function HSBC() {
         <div className="col-lg-4">
           <img
             src={job.image}
-            alt="Brand"
+            alt={job.name}
             className="d-block mx-auto my-4"
             width={512}
             loading="lazy"

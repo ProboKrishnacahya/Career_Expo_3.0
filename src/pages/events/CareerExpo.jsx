@@ -15,7 +15,7 @@ export default function CareerExpo() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">Career Expo 3.0</h2>
+          <h2 className="text-center">Career Expo</h2>
           <br />
           <ul
             className="nav nav-pills nav-fill gap-2 p-1 rounded-3 mb-4"

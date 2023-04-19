@@ -45,6 +45,10 @@ section {
   margin: 5rem 0;
 }
 
+select {
+  cursor: pointer;
+}
+
 strong {
   font-family: var(--lato700);
 }
@@ -105,6 +109,7 @@ th {
 
 .card-img-top {
   object-fit: contain;
+  border-radius: unset;
 }
 
 .carousel-inner {
@@ -119,6 +124,14 @@ th {
 .fade-out {
   opacity: 0;
   visibility: hidden;
+}
+
+.filterable {
+  display: block;
+}
+
+.filterable.hide {
+  display: none;
 }
 
 .footer {
@@ -217,20 +230,6 @@ th {
   color: var(--white) !important;
 }
 
-#pills-advertisement-tab.active,
-#pills-art-tab.active,
-#pills-automotif-tab.active,
-#pills-banking-tab.active,
-#pills-consumer-tab.active,
-#pills-goods-tab.active,
-#pills-foodandbeverage-tab.active,
-#pills-financialtechnology-tab.active,
-#pills-hospitality-tab.active,
-#pills-insurance-tab.active,
-#pills-logistictransportation-tab.active,
-#pills-manufacturing-tab.active,
-#pills-printing-tab.active,
-#pills-property-tab.active,
 #pills-fulltime-tab.active,
 #pills-parttime-tab.active,
 #pills-freelance-tab.active,
@@ -239,7 +238,6 @@ th {
   padding: 0.25rem 0.5rem;
   border: solid 0.15rem transparent;
   font-weight: bold;
-  text-align: start;
   background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }
@@ -249,20 +247,6 @@ th {
   color: var(--cetacean-blue) !important;
 }
 
-#pills-advertisement-tab:not(.active),
-#pills-art-tab:not(.active),
-#pills-automotif-tab:not(.active),
-#pills-banking-tab:not(.active),
-#pills-consumer-tab:not(.active),
-#pills-goods-tab:not(.active),
-#pills-foodandbeverage-tab:not(.active),
-#pills-financialtechnology-tab:not(.active),
-#pills-hospitality-tab:not(.active),
-#pills-insurance-tab:not(.active),
-#pills-logistictransportation-tab:not(.active),
-#pills-manufacturing-tab:not(.active),
-#pills-printing-tab:not(.active),
-#pills-property-tab:not(.active),
 #pills-fulltime-tab:not(.active),
 #pills-parttime-tab:not(.active),
 #pills-freelance-tab:not(.active),
@@ -270,7 +254,6 @@ th {
   width: 100%;
   padding: 0.25rem 0.5rem;
   border: solid 0.15rem transparent;
-  text-align: start;
   background-color: transparent;
   color: var(--cetacean-blue) !important;
 }

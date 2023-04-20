@@ -20,13 +20,13 @@ export default function JobVacancy() {
     });
 
     // * Filter Tipe Pekerjaan
-    $(document).ready(function () {
+    $(function () {
       $("select")
-        .change(function () {
+        .on("change", function () {
           $(this)
             .find("option:selected")
             .each(function () {
-              var optionValue = $(this).attr("value");
+              var optionValue = $(this).val();
               if (optionValue) {
                 $(".tipePekerjaan")
                   .not("." + optionValue)

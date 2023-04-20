@@ -20,51 +20,46 @@ export default function Blog() {
   const articles = [
     {
       id: 1,
-      image:
-        "https://static.wixstatic.com/media/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg/v1/fill/w_556,h_371,fp_0.50_0.50,q_90,enc_auto/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg",
-      alt: "5 Hal Yang Dinilai HRD Saat Interview",
-      title: "5 Hal Yang Dinilai HRD Saat Interview",
+      image: "/images/about_us/blog/article1.jpg",
+      alt: "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV",
+      title: "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV",
       time: 1,
-      date: "14 Mei 2021",
+      date: "20 April 2023",
       description:
-        "Kamu sudah pernah melamar kerja dimana-mana tetapi gagal terus? Kamu tidak tau kesalahan kamu dimana saat melakukan interview? Mungkin kamu melakukan kesalahan yang tidak sengaja. Ada beberapa hal yang dinilai oleh HRD saat kamu wawancara / interview kerja. Berikut beberapa hal yang dinilai oleh HRD saat wawancara.",
+        "CV tentunya menjadi komponen yang sangat penting ketika melamar kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5 kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.",
       url: "/1",
     },
     {
       id: 2,
-      image:
-        "https://static.wixstatic.com/media/325aa0_a5e7bb066e9147d1800ce26367a03ae5~mv2.jpg/v1/fill/w_925,h_617,al_c,q_90/325aa0_a5e7bb066e9147d1800ce26367a03ae5~mv2.webp",
-      alt: "4 Tips Mencari Magang Buat Fresh Graduate & Mahasiswa",
-      title: "4 Tips Mencari Magang Buat Fresh Graduate & Mahasiswa",
+      image: "/images/about_us/blog/article2.jpg",
+      alt: "Hard Skill VS Soft Skill, Mana Yang Lebih Penting?",
+      title: "Hard Skill VS Soft Skill, Mana Yang Lebih Penting?",
       time: 1,
-      date: "14 Mei 2021",
+      date: "20 April 2023",
       description:
-        "Kamu fresh graduate? mahasiswa tingkat akhir? pasti kamu sedang mencari-cari program kerja magang. Buat kamu mahasiswa tingkat akhir pasti kampus kamu diminta untuk menyelesaikan program kerja magang sebelum kamu mulai susun skripsi. Magang biasanya dilakukan dengan waktu rata-rata 3 - 6 bulan",
+        "Ketika memasuki dunia kerja, pekerja dituntut untuk menguasai sejumlah kemampuan, baik hard skill atau pun soft skill. Dua kemampuan ini sebenarnya sangat berbeda. Akan tetapi, dalam dunia kerja, hard skill dan soft skill seringkali dibenturkan meskipun memiliki perbedaan. Terkadang, soft skill dianggap lebih penting dibandingkan hard skill. Namun, apakah benar seperti itu?",
       url: "/2",
     },
     {
       id: 3,
-      image:
-        "https://static.wixstatic.com/media/325aa0_08c335379dbf4de991c5428b3d377413~mv2.png/v1/fill/w_750,h_500,al_c,q_90/325aa0_08c335379dbf4de991c5428b3d377413~mv2.webp",
-      alt: "Cara Membuat Curriculum Vitae (CV) Yang Baik dan Benar",
-      title: "Cara Membuat Curriculum Vitae (CV) Yang Baik dan Benar",
+      image: "/images/about_us/blog/article3.jpg",
+      alt: "Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!",
+      title: "Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!",
       time: 1,
-      date: "14 Mei 2021",
+      date: "20 April 2023",
       description:
-        "Banyak sekali perusahaan menemukan calon kandidat yang menulis riwayat hidup atau curriculum vitae (CV) yang salah saat melakukan interview. Apakah kamu pernah salah juga dalam membuat curriculum vitae ? atau kamu bingung gimana cara buat curicullum vitae? Yuk, mari kita bahas bagaimana cara membuat curriculum vitae dengan baik & benar agar perusahaan dapat melihat dirimu.",
+        "Setelah lulus dari universitas, melamar pekerjaan akan menjadi proses selanjutnya yang dilalui fresh graduate. Meski sudah lulus dan dibekali ilmu pendidikan, nyatanya hal itu tidak cukup untuk menarik perusahaan di luar sana untuk merekrut fresh graduate. Ada beberapa hal penting yang perlu disiapkan sebelum melamar pekerjaan. Mari simak pembahasan di bawah ini untuk mengetahui persiapan yang diperlukan fresh graduate sebelum mencari kerja.",
       url: "/3",
     },
     {
       id: 4,
-      image:
-        "https://static.wixstatic.com/media/325aa0_ea9fdd8319a346489565f1daf14a14a1~mv2.jpg/v1/fill/w_925,h_617,al_c,q_90/325aa0_ea9fdd8319a346489565f1daf14a14a1~mv2.webp",
-      alt: "7 Keterampilan Yang Harus Dimiliki Oleh Seorang Karyawan Perusahaan",
-      title:
-        "7 Keterampilan Yang Harus Dimiliki Oleh Seorang Karyawan Perusahaan",
+      image: "/images/about_us/blog/article4.png",
+      alt: "5 Tips Untuk Mengembangkan Karir Dengan Maksimal",
+      title: "5 Tips Untuk Mengembangkan Karir Dengan Maksimal",
       time: 1,
-      date: "14 Mei 2021",
+      date: "20 April 2023",
       description:
-        "Karyawan harus memiliki keterampilan yang baik dalam bekerja. Keterampilan yang kompeten harus dimiliki oleh setiap karywan untuk karir masa depannya. Mungkin kamu memiliki beberapa keterampilan dibawah ini. Mungkin keterampilan ini sudah ada sejak kamu dibangku sekolah, sejak sekolah, atau sejak sekarang. Keterampilan dasar dibawah ini bisa kamu asah dari sekarang agar lebih baik lagi. Berikut ini ada 8 keterampilan yang wajib kamu miliki sebagai karyawan.",
+        "Setelah bekerja, semua karyawan tentunya berharap dapat mengembangkan karirnya dengan maksimal hingga mencapai puncak karir tertinggi. Oleh karena itu, karyawan perlu mengetahui cara-cara agar dapat mengembangkan karirnya dengan maksimal. Maka dari itu, yuk simak 5 tips untuk mengembangkan karir dengan maksimal berikut ini.",
       url: "/4",
     },
   ];
@@ -79,7 +74,7 @@ export default function Blog() {
             <div className="col-md-4">
               <img
                 src={article.image}
-                className="img-fluid h-100 rounded shadow-sm"
+                className="h-100 rounded shadow-sm"
                 alt={article.alt}
                 loading="lazy"
               />
@@ -90,15 +85,7 @@ export default function Blog() {
                   <h4 className="card-title mb-0">{article.title}</h4>
                 </div>
                 <div>
-                  <p className="card-text hstack flex-column flex-sm-row align-items-start text-black gap-md-4 gap-2">
-                    <div>
-                      <i
-                        className="bi bi-stopwatch"
-                        data-bs-toggle="tooltip"
-                        title="Estimated Reading Time"
-                      ></i>
-                      &ensp;{article.time}&nbsp;minute read
-                    </div>
+                  <p className="card-text hstack flex-column flex-sm-row align-items-start gap-md-4 gap-2 text-black">
                     <div>
                       <i
                         className="bi bi-calendar-check"
@@ -106,6 +93,14 @@ export default function Blog() {
                         title="Uploaded Date"
                       ></i>
                       &ensp;{article.date}
+                    </div>
+                    <div>
+                      <i
+                        className="bi bi-stopwatch"
+                        data-bs-toggle="tooltip"
+                        title="Estimated Reading Time"
+                      ></i>
+                      &ensp;{article.time}&nbsp;minute read
                     </div>
                   </p>
                   <p className="truncate text-muted">{article.description}</p>

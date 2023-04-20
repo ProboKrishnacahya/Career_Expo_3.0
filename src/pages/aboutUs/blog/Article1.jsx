@@ -6,7 +6,7 @@ import Header from "../../../components/Header";
 export default function Article1() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "5 Hal Yang Dinilai HRD Saat Interview";
+    document.title = "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -17,11 +17,46 @@ export default function Article1() {
     });
   }, []);
 
+  const tableOfContents = [
+    {
+      id: "1",
+      title: "1. Salah ketik atau typo",
+    },
+    {
+      id: "2",
+      title: "2. Membuat CV dengan format yang terlalu kreatif",
+    },
+    {
+      id: "3",
+      title: "3. Berbohong",
+    },
+    {
+      id: "4",
+      title: "4. Membuat CV yang terlalu panjang",
+    },
+    {
+      id: "5",
+      title: "5. Terlalu banyak informasi dalam CV",
+    },
+  ];
+
+  const tableOfContentsList = tableOfContents.map((toc) => (
+    <li>
+      <a href={`#toc${toc.id}`}>{toc.title}</a>
+    </li>
+  ));
+
+  const tableOfContentsTitle = tableOfContents.map((toc) => (
+    <h4 id={`toc${toc.id}`}>{toc.title}</h4>
+  ));
+
   return (
     <div className="blog">
       <Header />
       <div className="container my-5" data-aos="fade-up">
-        <h2 className="text-center">5 Hal Yang Dinilai HRD Saat Interview</h2>
+        <h2 className="text-center">
+          5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV
+        </h2>
         <div className="d-grid gap-2 d-lg-flex gap-lg-4 justify-content-lg-center text-muted my-3">
           <div>
             <i
@@ -38,7 +73,7 @@ export default function Article1() {
               data-bs-toggle="tooltip"
               title="Uploaded Date"
             ></i>
-            &ensp;<span>May 14, 2021</span>
+            &ensp;<span>20 April 2023</span>
           </div>
           <div className="vr d-none d-lg-block"></div>
           <div>
@@ -52,7 +87,7 @@ export default function Article1() {
         </div>
 
         <img
-          src="https://static.wixstatic.com/media/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg/v1/fill/w_556,h_371,fp_0.50_0.50,q_90,enc_auto/325aa0_9f2f7da218a74084a3f12d25db292eb3~mv2.jpg"
+          src="/images/about_us/blog/article1.jpg"
           alt="Article"
           className="rounded shadow-sm d-block mx-auto my-4"
           width={512}
@@ -62,77 +97,82 @@ export default function Article1() {
         <div className="row">
           <div className="col-lg-3 mb-4 my-lg-0">
             <div id="side">
-            <ul className="list-unstyled alert alert-info">
-              <strong>Daftar isi</strong>
-              <li>
-                <a href="#toc1">1. Kompetensi Calon Karyawan</a>
-              </li>
-              <li>
-                <a href="#toc2">2. Etika</a>
-              </li>
-              <li>
-                <a href="#toc3">3. Penampilan Diri</a>
-              </li>
-              <li>
-                <a href="#toc4">4. Komunikasi</a>
-              </li>
-              <li>
-                <a href="#toc5">5. Pengalaman</a>
-              </li>
-            </ul>
-            <button className="btn btn-primary w-100" onClick={copyToClipboard}>
-              <i className="bi bi-link-45deg"></i>&ensp;
-              <strong>Bagikan Artikel</strong>
-            </button>
+              <ul className="list-unstyled alert alert-info">
+                <strong>Daftar isi</strong>
+                {tableOfContentsList}
+              </ul>
+              <button
+                className="btn btn-primary w-100"
+                onClick={copyToClipboard}
+              >
+                <i className="bi bi-link-45deg"></i>&ensp;
+                <strong>Bagikan Artikel</strong>
+              </button>
             </div>
           </div>
 
           <div className="col-lg-9">
             <p>
-              Kamu sudah pernah melamar kerja dimana-mana tetapi gagal terus?
-              Kamu tidak tau kesalahan kamu dimana saat melakukan interview?
-              Mungkin kamu melakukan kesalahan yang tidak sengaja. Ada beberapa
-              hal yang dinilai oleh HRD saat kamu wawancara / interview kerja.
-              Berikut beberapa hal yang dinilai oleh HRD saat wawancara.
+              CV tentunya menjadi komponen yang sangat penting ketika melamar
+              kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam
+              CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5
+              kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.
             </p>
-            <h4 id="toc1">1. Kompetensi Calon Karyawan</h4>
+            {tableOfContentsTitle[0]}
             <p>
-              Kompetensi seorang calon karyawan biasanya dilihat dari pendidikan
-              yang ditempuh, pengalaman kerja, dan skill yang dimiliki. Apakah
-              latar belakang pendidikan kamu & pengalaman kerja telah sesuai
-              dengan kualifikasi yang menjadi persyaratan posisi kamu? Jika iya,
-              maka kesempatan kamu akan menjadi lebih terbuka.
+              Salah ketik atau typo menjadi kesalahan paling umum yang ditemui
+              dalam pembuatan CV. CV akan mempengaruhi kesan pertama HRD kepada
+              anda dan adanya typo dalam CV akan membuat kesan pertama yang
+              ditampilkan menjadi kurang baik. Maka dari itu, ada baiknya untuk
+              memeriksa kembali CV setelah selesai diketik untuk memastikan
+              tidak ada typo yang mengganggu.
             </p>
-            <h4 id="toc2">2. Etika</h4>
+            {tableOfContentsTitle[1]}
             <p>
-              Proses wawancara, sikap sopan dan ramah juga menjadi penilaian
-              bagi HRD sendiri. Setiap wawancara pasti akan dilihat gerak-gerik
-              yang dilakukan calon. Oleh karena itu, kamu harus menjaga perilaku
-              dan sikap kamu pada saat proses wawancara yaa.
+              CV dengan format kreatif cenderung sulit dibaca oleh applicant
+              tracking system (ATS) yang digunakan HRD perusahaan. Ketika CV
+              sulit dibaca oleh ATS, maka peluang pelamar kerja untuk lolos
+              seleksi akan semakin kecil.
             </p>
-            <h4 id="toc3">3. Penampilan Diri</h4>
             <p>
-              Penampilan diri adalah penilaian awal bagi seorang HRD. Dari
-              penampilan dapat terlihat kamu orangnya seperti apa. Maka dari
-              itu, gunakan pakaian yang pantas dan rapi agar kamu terlihat
-              profesional.
+              Meskipun begitu, beberapa pekerjaan yang bergerak di industri
+              kreatif biasanya tidak terlalu kaku dalam format CV, sehingga
+              creative CV tidak akan menjadi masalah. Maka dari itu, pelamar
+              kerja harus menyesuaikan format CV yang digunakan dengan
+              perusahaan dan posisi yang ingin dilamar.
             </p>
-            <h4 id="toc4">4. Komunikasi</h4>
+            {tableOfContentsTitle[2]}
             <p>
-              Pasti saat wawancara kamu akan berbicara dengan pewawancara. Kamu
-              harus memperhatikan gaya bicara kamu dengan mengatur intonasi,
-              volume suara yang jelas dan yakin dengan apa yang kamu katakan
-              kepada pewawancara. Jadi, kamu harus pastikan cara komunikasi kamu
-              jelas & tegas. Sebelum melakukan wawancara cobalah berbicara
-              didepan cermin dan latihan agar lancar.
+              Pelamar kerja sering kali berbohong dalam menuliskan CVnya,
+              seperti memalsukan pengalaman kerja atau melebih-lebihkan isi dari
+              CVnya. Hindari kebohongan dalam menuliskan CV karena kemampuan
+              anda akan diuji oleh HRD ketika sesi wawancara.
             </p>
-            <h4 id="toc5">5. Pengalaman</h4>
+            {tableOfContentsTitle[3]}
             <p>
-              Jika kamu memiliki pengalaman di bidang yang kamu daftarkan
-              tersebut. Ceritakanlah pengalaman kamu sebelum kamu mendaftar di
-              perusahaan tersebut. Jika sesuai dengan kualifikasi perusahaan
-              maka kesempatan kamu diterima akan menjadi lebih besar.
+              CV yang terlalu panjang akan membuat HRD sulit menemukan poin
+              penting dari CV pelamar kerja. Idealnya, CV dibuat paling banyak
+              dalam dua sampai 3 halaman agar profil diri dapat dibaca oleh HRD
+              dengan lebih efektif.
             </p>
+            {tableOfContentsTitle[4]}
+            <p>
+              Hindari menuliskan terlalu banyak informasi yang tidak relevan
+              dengan pekerjaan yang ingin dilamar. Sebaiknya, tulis informasi
+              seperti prestasi dan pengalaman kerja yang relevan dan berhubungan
+              dengan posisi yang ingin dilamar.
+            </p>
+
+            <hr className="my-4" />
+            <strong>Sumber referensi:</strong>
+            <br />
+            <a
+              href="https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd
+            </a>
           </div>
         </div>
       </div>

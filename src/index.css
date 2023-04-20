@@ -126,14 +126,6 @@ th {
   visibility: hidden;
 }
 
-.filterable {
-  display: block;
-}
-
-.filterable.hide {
-  display: none;
-}
-
 .footer {
   background-color: var(--orange) !important;
 }
@@ -226,6 +218,7 @@ th {
 
 #pills-day1-tab.active,
 #pills-day2-tab.active {
+  font-weight: bold;
   background-color: var(--cetacean-blue) !important;
   color: var(--white) !important;
 }

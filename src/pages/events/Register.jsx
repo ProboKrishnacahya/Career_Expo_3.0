@@ -98,32 +98,32 @@ export default function Register() {
               </a>
             </div>
           </div>
-        </section>
 
-        <section className="mb-5" data-aos="fade-up">
-          <h2 className="text-center">Alur</h2>
-          <br />
-          <div className="d-grid gap-3 d-lg-flex text-center align-items-center">
-            <div className="col">
-              <div className="d-grid gap-2" role="alert">
-                <i className="bi bi-globe2 display-4"></i>
-                <span>Berkunjung ke Website Pendaftaran</span>
+          <div className="mt-5" data-aos="fade-up">
+            <h2 className="text-center">Alur</h2>
+            <br />
+            <div className="d-grid gap-3 d-lg-flex text-center align-items-center">
+              <div className="col">
+                <div className="d-grid gap-2" role="alert">
+                  <i className="bi bi-globe2 display-4"></i>
+                  <span>Berkunjung ke Website Pendaftaran</span>
+                </div>
               </div>
-            </div>
-            <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
-            <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
-            <div className="col">
-              <div className="d-grid gap-2" role="alert">
-                <i className="bi bi-clipboard2-check display-4"></i>
-                <span>Mengisi Formulir Pendaftaran</span>
+              <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
+              <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
+              <div className="col">
+                <div className="d-grid gap-2" role="alert">
+                  <i className="bi bi-clipboard2-check display-4"></i>
+                  <span>Mengisi Formulir Pendaftaran</span>
+                </div>
               </div>
-            </div>
-            <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
-            <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
-            <div className="col">
-              <div className="d-grid gap-2" role="alert">
-                <i className="bi bi-whatsapp display-4"></i>
-                <span>Join Grup WhatsApp</span>
+              <i className="bi bi-arrow-right display-4 d-none d-lg-block"></i>
+              <i className="bi bi-arrow-right display-4 vertical d-block d-lg-none"></i>
+              <div className="col">
+                <div className="d-grid gap-2" role="alert">
+                  <i className="bi bi-whatsapp display-4"></i>
+                  <span>Join Grup WhatsApp</span>
+                </div>
               </div>
             </div>
           </div>

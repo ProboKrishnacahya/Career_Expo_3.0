@@ -3,10 +3,11 @@ import React, { useEffect } from "react";
 import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 
-export default function Article1() {
+export default function Article3() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV";
+    document.title =
+      "Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -20,23 +21,23 @@ export default function Article1() {
   const tableOfContents = [
     {
       id: "1",
-      title: "1. Salah ketik atau typo",
+      title: "1. Perbarui CV dan portofolio",
     },
     {
       id: "2",
-      title: "2. Membuat CV dengan format yang terlalu kreatif",
+      title: "2. Pelajari tentang perusahaan yang dituju",
     },
     {
       id: "3",
-      title: "3. Berbohong",
+      title: "3. Persiapkan diri untuk wawancara",
     },
     {
       id: "4",
-      title: "4. Membuat CV yang terlalu panjang",
+      title: "4. Bersiap untuk menyesuaikan diri",
     },
     {
       id: "5",
-      title: "5. Terlalu banyak informasi dalam CV",
+      title: "5. Kembangkan keterampilan",
     },
   ];
 
@@ -55,7 +56,7 @@ export default function Article1() {
       <Header />
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
-          5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV
+          Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!
         </h2>
         <div className="d-grid gap-2 d-lg-flex gap-lg-4 justify-content-lg-center text-muted my-3">
           <div>
@@ -87,7 +88,7 @@ export default function Article1() {
         </div>
 
         <img
-          src="/images/about_us/blog/article1.jpg"
+          src="/images/about_us/blog/article3.jpg"
           alt="Article"
           className="rounded shadow-sm d-block mx-auto my-4"
           width={512}
@@ -113,65 +114,60 @@ export default function Article1() {
 
           <div className="col-lg-9">
             <p>
-              CV tentunya menjadi komponen yang sangat penting ketika melamar
-              kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam
-              CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5
-              kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.
+              Setelah lulus dari universitas, melamar pekerjaan akan menjadi
+              proses selanjutnya yang dilalui fresh graduate. Meski sudah lulus
+              dan dibekali ilmu pendidikan, nyatanya hal itu tidak cukup untuk
+              menarik perusahaan di luar sana untuk merekrut fresh graduate. Ada
+              beberapa hal penting yang perlu disiapkan sebelum melamar
+              pekerjaan. Mari simak pembahasan di bawah ini untuk mengetahui
+              persiapan yang diperlukan fresh graduate sebelum mencari kerja.
             </p>
             {tableOfContentsTitle[0]}
             <p>
-              Salah ketik atau typo menjadi kesalahan paling umum yang ditemui
-              dalam pembuatan CV. CV akan mempengaruhi kesan pertama HRD kepada
-              anda dan adanya typo dalam CV akan membuat kesan pertama yang
-              ditampilkan menjadi kurang baik. Maka dari itu, ada baiknya untuk
-              memeriksa kembali CV setelah selesai diketik untuk memastikan
-              tidak ada typo yang mengganggu.
+              Buatlah CV dan portofolio yang menarik dan sesuai dengan bidang
+              pekerjaan yang ingin dilamar. Pastikan informasi yang tercantum
+              akurat dan terbaru. Sertakan pula hasil karya yang sudah pernah
+              dibuat dalam portofolio, seperti hasil karya tulis, desain, atau
+              fotografi.
             </p>
             {tableOfContentsTitle[1]}
             <p>
-              CV dengan format kreatif cenderung sulit dibaca oleh applicant
-              tracking system (ATS) yang digunakan HRD perusahaan. Ketika CV
-              sulit dibaca oleh ATS, maka peluang pelamar kerja untuk lolos
-              seleksi akan semakin kecil.
-            </p>
-            <p>
-              Meskipun begitu, beberapa pekerjaan yang bergerak di industri
-              kreatif biasanya tidak terlalu kaku dalam format CV, sehingga
-              creative CV tidak akan menjadi masalah. Maka dari itu, pelamar
-              kerja harus menyesuaikan format CV yang digunakan dengan
-              perusahaan dan posisi yang ingin dilamar.
+              Lakukan riset tentang perusahaan yang akan dilamar. Ketahui visi,
+              misi, dan nilai-nilai perusahaan tersebut, serta informasi tentang
+              produk atau layanan yang ditawarkan. Lakukan juga riset terkait
+              jenjang karir yang ditawarkan perusahaan tersebut.
             </p>
             {tableOfContentsTitle[2]}
             <p>
-              Pelamar kerja sering kali berbohong dalam menuliskan CVnya,
-              seperti memalsukan pengalaman kerja atau melebih-lebihkan isi dari
-              CVnya. Hindari kebohongan dalam menuliskan CV karena kemampuan
-              anda akan diuji oleh HRD ketika sesi wawancara.
+              Pelajari pertanyaan yang mungkin diajukan dalam wawancara kerja
+              dan persiapkan jawaban yang tepat. Lakukan juga latihan wawancara
+              dengan teman atau keluarga untuk meningkatkan kepercayaan diri.
             </p>
             {tableOfContentsTitle[3]}
             <p>
-              CV yang terlalu panjang akan membuat HRD sulit menemukan poin
-              penting dari CV pelamar kerja. Idealnya, CV dibuat paling banyak
-              dalam dua sampai 3 halaman agar profil diri dapat dibaca oleh HRD
-              dengan lebih efektif.
+              Setiap perusahaan memiliki budaya kerja yang berbeda-beda. Maka
+              dari itu, bersiaplah untuk menyesuaikan diri dengan budaya dan
+              lingkungan kerja yang baru.
             </p>
             {tableOfContentsTitle[4]}
             <p>
-              Hindari menuliskan terlalu banyak informasi yang tidak relevan
-              dengan pekerjaan yang ingin dilamar. Sebaiknya, tulis informasi
-              seperti prestasi dan pengalaman kerja yang relevan dan berhubungan
-              dengan posisi yang ingin dilamar.
+              Tingkatkan keterampilan dengan mengikuti kursus atau pelatihan dan
+              sertifikasi yang relevan dengan bidang pekerjaan yang diinginkan.
+              Dengan mengikuti pelatihan dan sertifikasi, fresh graduate bisa
+              menambah kompetensi sebelum terjun ke dunia kerja serta mempunyai
+              bukti kompetensi yang sudah diakui yang akan meningkatkan daya
+              saing dalam mencari pekerjaan.
             </p>
 
             <hr className="my-4" />
             <strong>Sumber referensi:</strong>
             <br />
             <a
-              href="https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd"
+              href="https://www.topkarir.com/article/detail/hal-penting-yang-harus-disiapkan-fresh-graduate-sebelum-melamar-pekerjaan"
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd
+              https://www.topkarir.com/article/detail/hal-penting-yang-harus-disiapkan-fresh-graduate-sebelum-melamar-pekerjaan
             </a>
           </div>
         </div>

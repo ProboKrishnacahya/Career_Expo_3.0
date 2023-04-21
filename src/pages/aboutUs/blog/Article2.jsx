@@ -3,10 +3,10 @@ import React, { useEffect } from "react";
 import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 
-export default function Article1() {
+export default function Article2() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV";
+    document.title = "Hard Skill VS Soft Skill, Mana Yang Lebih Penting?";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -17,45 +17,12 @@ export default function Article1() {
     });
   }, []);
 
-  const tableOfContents = [
-    {
-      id: "1",
-      title: "1. Salah ketik atau typo",
-    },
-    {
-      id: "2",
-      title: "2. Membuat CV dengan format yang terlalu kreatif",
-    },
-    {
-      id: "3",
-      title: "3. Berbohong",
-    },
-    {
-      id: "4",
-      title: "4. Membuat CV yang terlalu panjang",
-    },
-    {
-      id: "5",
-      title: "5. Terlalu banyak informasi dalam CV",
-    },
-  ];
-
-  const tableOfContentsList = tableOfContents.map((toc) => (
-    <li>
-      <a href={`#toc${toc.id}`}>{toc.title}</a>
-    </li>
-  ));
-
-  const tableOfContentsTitle = tableOfContents.map((toc) => (
-    <h4 id={`toc${toc.id}`}>{toc.title}</h4>
-  ));
-
   return (
     <div className="blog">
       <Header />
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
-          5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV
+          Hard Skill VS Soft Skill, Mana Yang Lebih Penting?
         </h2>
         <div className="d-grid gap-2 d-lg-flex gap-lg-4 justify-content-lg-center text-muted my-3">
           <div>
@@ -87,7 +54,7 @@ export default function Article1() {
         </div>
 
         <img
-          src="/images/about_us/blog/article1.jpg"
+          src="/images/about_us/blog/article2.jpg"
           alt="Article"
           className="rounded shadow-sm d-block mx-auto my-4"
           width={512}
@@ -97,10 +64,6 @@ export default function Article1() {
         <div className="row">
           <div className="col-lg-3 mb-4 my-lg-0">
             <div id="side">
-              <ul className="list-unstyled alert alert-info">
-                <strong>Daftar isi</strong>
-                {tableOfContentsList}
-              </ul>
               <button
                 className="btn btn-primary w-100"
                 onClick={copyToClipboard}
@@ -113,65 +76,61 @@ export default function Article1() {
 
           <div className="col-lg-9">
             <p>
-              CV tentunya menjadi komponen yang sangat penting ketika melamar
-              kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam
-              CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5
-              kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.
-            </p>
-            {tableOfContentsTitle[0]}
-            <p>
-              Salah ketik atau typo menjadi kesalahan paling umum yang ditemui
-              dalam pembuatan CV. CV akan mempengaruhi kesan pertama HRD kepada
-              anda dan adanya typo dalam CV akan membuat kesan pertama yang
-              ditampilkan menjadi kurang baik. Maka dari itu, ada baiknya untuk
-              memeriksa kembali CV setelah selesai diketik untuk memastikan
-              tidak ada typo yang mengganggu.
-            </p>
-            {tableOfContentsTitle[1]}
-            <p>
-              CV dengan format kreatif cenderung sulit dibaca oleh applicant
-              tracking system (ATS) yang digunakan HRD perusahaan. Ketika CV
-              sulit dibaca oleh ATS, maka peluang pelamar kerja untuk lolos
-              seleksi akan semakin kecil.
+              Ketika memasuki dunia kerja, pekerja dituntut untuk menguasai
+              sejumlah kemampuan, baik hard skill atau pun soft skill. Dua
+              kemampuan ini sebenarnya sangat berbeda. Akan tetapi, dalam dunia
+              kerja, hard skill dan soft skill seringkali dibenturkan meskipun
+              memiliki perbedaan. Terkadang, soft skill dianggap lebih penting
+              dibandingkan hard skill. Namun, apakah benar seperti itu?
             </p>
             <p>
-              Meskipun begitu, beberapa pekerjaan yang bergerak di industri
-              kreatif biasanya tidak terlalu kaku dalam format CV, sehingga
-              creative CV tidak akan menjadi masalah. Maka dari itu, pelamar
-              kerja harus menyesuaikan format CV yang digunakan dengan
-              perusahaan dan posisi yang ingin dilamar.
+              Hard skill sendiri merujuk pada keterampilan teknis dan
+              pengetahuan yang terkait dengan pekerjaan tertentu, seperti
+              pemrograman komputer, keahlian bahasa asing, atau kemampuan
+              analisis data. Hard skill umumnya lebih mudah untuk diukur dan
+              dinilai, misalnya melalui nilai akhir kuliah, kemampuan
+              menggunakan aplikasi tertentu, dan lain-lain. Hard skill
+              seringkali diidentikan dengan kemampuan intelegensi (IQ).
             </p>
-            {tableOfContentsTitle[2]}
             <p>
-              Pelamar kerja sering kali berbohong dalam menuliskan CVnya,
-              seperti memalsukan pengalaman kerja atau melebih-lebihkan isi dari
-              CVnya. Hindari kebohongan dalam menuliskan CV karena kemampuan
-              anda akan diuji oleh HRD ketika sesi wawancara.
+              Sementara itu, soft skill merujuk pada keterampilan interpersonal
+              dan kepribadian, seperti kemampuan berkomunikasi dengan baik,
+              kepemimpinan, atau kerjasama tim. Maka dari itu, dibandingkan
+              dengan hard skill, soft skill lebih sulit untuk diukur dan
+              dinilai. Soft skill biasanya diidentikan dengan kecerdasan
+              emosional (EQ) dan kemampuan untuk berempati.
             </p>
-            {tableOfContentsTitle[3]}
             <p>
-              CV yang terlalu panjang akan membuat HRD sulit menemukan poin
-              penting dari CV pelamar kerja. Idealnya, CV dibuat paling banyak
-              dalam dua sampai 3 halaman agar profil diri dapat dibaca oleh HRD
-              dengan lebih efektif.
+              Untuk berhasil dalam karir, seorang pekerja perlu mengembangkan
+              kedua kemampuan tersebut. Hard skill diperlukan untuk melakukan
+              tugas-tugas spesifik dalam pekerjaan serta kemampuan hard skill
+              yang relevan dengan pekerjaan yang dilamar akan membuat HR yakin
+              jika calon karyawan tersebut benar-benar cocok untuk melakukan
+              pekerjaan di posisi yang dilamarnya. Sementara, soft skill
+              diperlukan untuk membangun hubungan yang baik dengan orang lain
+              dan memimpin dengan efektif. Soft skill juga penting untuk
+              dimiliki karena selama bekerja, pekerja tidak mungkin bekerja
+              sendiri dan akan berdinamika dalam kelompok kerja.
             </p>
-            {tableOfContentsTitle[4]}
             <p>
-              Hindari menuliskan terlalu banyak informasi yang tidak relevan
-              dengan pekerjaan yang ingin dilamar. Sebaiknya, tulis informasi
-              seperti prestasi dan pengalaman kerja yang relevan dan berhubungan
-              dengan posisi yang ingin dilamar.
+              Baik soft skill dan hard skill keduanya sama-sama penting untuk
+              dimiliki dan tidak dapat dipisahkan. Akan tetapi, ada hal yang
+              lebih penting untuk ditunjukkan saat bekerja, yaitu tunjukkan jika
+              pekerja tidak hanya sekadar memiliki kedua skill tersebut, tetapi
+              tunjukkan juga jika skill yang dimiliki berkualitas dan tak asal
+              punya saja. Sehingga, pekerja harus terus-menerus mengasah skill
+              yang dimiliki selama bekerja.
             </p>
 
             <hr className="my-4" />
             <strong>Sumber referensi:</strong>
             <br />
             <a
-              href="https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd"
+              href="https://glints.com/id/lowongan/hard-skill-atau-soft-skill/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd
+              https://glints.com/id/lowongan/hard-skill-atau-soft-skill/
             </a>
           </div>
         </div>

@@ -46,78 +46,108 @@ export default function Footer() {
                   </div>
                   <div>
                     <div>
-                      <strong className="d-grid gap-1">
-                        <h5>Contact Us</h5>
-                        <a
-                          href="https://www.instagram.com/uc_careerexpo/"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className="bi bi-instagram"
-                            data-bs-toggle="tooltip"
-                            title="Instagram"
-                          ></i>
-                          &ensp;
-                          <span>uc_careerexpo</span>
-                        </a>
-                        <a
-                          href="https://www.tiktok.com/@uc_corporateentrepreneur"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className="bi bi-tiktok"
-                            data-bs-toggle="tooltip"
-                            title="TikTok"
-                          ></i>
-                          &ensp;
-                          <span>uc_corporateentrepreneur</span>
-                        </a>
-                        <a
-                          href="https://www.youtube.com/@UniversitasCiputraOfficial"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className="bi bi-youtube"
-                            data-bs-toggle="tooltip"
-                            title="YouTube"
-                          ></i>
-                          &ensp;
-                          <span>Universitas Ciputra Surabaya</span>
-                        </a>
-                        <a
-                          href="mailto:careerexpouc2021@gmail.com"
-                          target="_blank"
-                          rel="noopener noreferrer"
-                        >
-                          <i
-                            className="bi bi-envelope"
-                            data-bs-toggle="tooltip"
-                            title="Email"
-                          ></i>
-                          &ensp;
-                          <span>careerexpouc2021@gmail.com</span>
-                        </a>
+                      <h5>Contact Us</h5>
+                      <strong>
+                        <ul className="list-unstyled">
+                          <li>
+                            <a
+                              href="https://www.instagram.com/uc_careerexpo/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <i
+                                className="bi bi-instagram"
+                                data-bs-toggle="tooltip"
+                                title="Instagram"
+                              ></i>
+                              &ensp;
+                              <span>uc_careerexpo</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.tiktok.com/@uc_corporateentrepreneur"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <i
+                                className="bi bi-tiktok"
+                                data-bs-toggle="tooltip"
+                                title="TikTok"
+                              ></i>
+                              &ensp;
+                              <span>uc_corporateentrepreneur</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.youtube.com/@UniversitasCiputraOfficial"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <i
+                                className="bi bi-youtube"
+                                data-bs-toggle="tooltip"
+                                title="YouTube"
+                              ></i>
+                              &ensp;
+                              <span>Universitas Ciputra Surabaya</span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="mailto:careerexpouc2021@gmail.com"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <i
+                                className="bi bi-envelope"
+                                data-bs-toggle="tooltip"
+                                title="Email"
+                              ></i>
+                              &ensp;
+                              <span>careerexpouc2021@gmail.com</span>
+                            </a>
+                          </li>
+                        </ul>
                       </strong>
                     </div>
                   </div>
                 </div>
                 <div className="col">
                   <h5>Links</h5>
-                  <div className="d-grid gap-1">
-                    <NavLink to="/company-list">Company List</NavLink>
-                    <NavLink to="/job-vacancy">Job Vacancy</NavLink>
-                    <NavLink to="/career-expo">Career Expo</NavLink>
-                    <NavLink to="/workshop">Workshop</NavLink>
-                    <NavLink to="/register">Register Here</NavLink>
-                    <NavLink to="/sponsors">Sponsors</NavLink>
-                    <NavLink to="/media-partners">Media Partners</NavLink>
-                    <NavLink to="/about">Corporate Entrepreneurship</NavLink>
-                    <NavLink to="/gallery">Gallery</NavLink>
-                    <NavLink to="/blog">Blog</NavLink>
-                  </div>
+                  <ul className="list-unstyled">
+                    <li>
+                      <NavLink to="/company-list">Company List</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/job-vacancy">Job Vacancy</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/career-expo">Career Expo</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/workshop">Workshop</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/register">Register Here</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/sponsors">Sponsors</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/media-partners">Media Partners</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/about">Corporate Entrepreneurship</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/gallery">Gallery</NavLink>
+                    </li>
+                    <li>
+                      <NavLink to="/blog">Blog</NavLink>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>

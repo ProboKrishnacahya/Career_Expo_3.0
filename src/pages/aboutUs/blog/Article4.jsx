@@ -3,10 +3,10 @@ import React, { useEffect } from "react";
 import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 
-export default function Article1() {
+export default function Article4() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV";
+    document.title = "5 Tips Untuk Mengembangkan Karir Dengan Maksimal";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -20,23 +20,23 @@ export default function Article1() {
   const tableOfContents = [
     {
       id: "1",
-      title: "1. Salah ketik atau typo",
+      title: "1. Memiliki keinginan untuk berkembang",
     },
     {
       id: "2",
-      title: "2. Membuat CV dengan format yang terlalu kreatif",
+      title: "2. Terbuka dengan kesempatan untuk belajar",
     },
     {
       id: "3",
-      title: "3. Berbohong",
+      title: "3. Bangun networking yang kuat dan profesional",
     },
     {
       id: "4",
-      title: "4. Membuat CV yang terlalu panjang",
+      title: "4. Berani mengambil risiko",
     },
     {
       id: "5",
-      title: "5. Terlalu banyak informasi dalam CV",
+      title: "5. Terbuka dengan peluang baru",
     },
   ];
 
@@ -55,7 +55,7 @@ export default function Article1() {
       <Header />
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
-          5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV
+          5 Tips Untuk Mengembangkan Karir Dengan Maksimal
         </h2>
         <div className="d-grid gap-2 d-lg-flex gap-lg-4 justify-content-lg-center text-muted my-3">
           <div>
@@ -87,7 +87,7 @@ export default function Article1() {
         </div>
 
         <img
-          src="/images/about_us/blog/article1.jpg"
+          src="/images/about_us/blog/article4.png"
           alt="Article"
           className="rounded shadow-sm d-block mx-auto my-4"
           width={512}
@@ -113,65 +113,59 @@ export default function Article1() {
 
           <div className="col-lg-9">
             <p>
-              CV tentunya menjadi komponen yang sangat penting ketika melamar
-              kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam
-              CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5
-              kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.
+              Setelah bekerja, semua karyawan tentunya berharap dapat
+              mengembangkan karirnya dengan maksimal hingga mencapai puncak
+              karir tertinggi. Oleh karena itu, karyawan perlu mengetahui
+              cara-cara agar dapat mengembangkan karirnya dengan maksimal. Maka
+              dari itu, yuk simak 5 tips untuk mengembangkan karir dengan
+              maksimal berikut ini.
             </p>
             {tableOfContentsTitle[0]}
             <p>
-              Salah ketik atau typo menjadi kesalahan paling umum yang ditemui
-              dalam pembuatan CV. CV akan mempengaruhi kesan pertama HRD kepada
-              anda dan adanya typo dalam CV akan membuat kesan pertama yang
-              ditampilkan menjadi kurang baik. Maka dari itu, ada baiknya untuk
-              memeriksa kembali CV setelah selesai diketik untuk memastikan
-              tidak ada typo yang mengganggu.
+              Adanya niat untuk terus berkembang akan memberikan dorongan
+              positif untuk selalu aktif mencari pengetahuan baru dan
+              mengusahakan yang terbaik dalam bekerja. Adanya keinginan untuk
+              berkembang juga akan membuat karyawan untuk tetap fokus pada
+              tujuan karir yang diinginkannya.
             </p>
             {tableOfContentsTitle[1]}
             <p>
-              CV dengan format kreatif cenderung sulit dibaca oleh applicant
-              tracking system (ATS) yang digunakan HRD perusahaan. Ketika CV
-              sulit dibaca oleh ATS, maka peluang pelamar kerja untuk lolos
-              seleksi akan semakin kecil.
-            </p>
-            <p>
-              Meskipun begitu, beberapa pekerjaan yang bergerak di industri
-              kreatif biasanya tidak terlalu kaku dalam format CV, sehingga
-              creative CV tidak akan menjadi masalah. Maka dari itu, pelamar
-              kerja harus menyesuaikan format CV yang digunakan dengan
-              perusahaan dan posisi yang ingin dilamar.
+              Jangan lewatkan begitu saja kesempatan untuk menuntut ilmu yang
+              ada, seperti mengikuti seminar, pelatihan, atau bahkan studi
+              lanjut. Ikutilah kursus atau program sertifikasi yang relevan
+              dengan bidang kerja. Ilmu-ilmu yang dimiliki tentunya akan
+              menunjang usaha untuk mengembangkan karir.
             </p>
             {tableOfContentsTitle[2]}
             <p>
-              Pelamar kerja sering kali berbohong dalam menuliskan CVnya,
-              seperti memalsukan pengalaman kerja atau melebih-lebihkan isi dari
-              CVnya. Hindari kebohongan dalam menuliskan CV karena kemampuan
-              anda akan diuji oleh HRD ketika sesi wawancara.
+              Networking profesional yang kuat dapat membuka pintu untuk peluang
+              baru dan memberikan akses ke informasi dan sumber daya yang
+              berharga. Maka dari itu, selalu berusaha untuk membangun hubungan
+              yang saling menguntungkan dengan orang-orang dalam industri kerja.
             </p>
             {tableOfContentsTitle[3]}
             <p>
-              CV yang terlalu panjang akan membuat HRD sulit menemukan poin
-              penting dari CV pelamar kerja. Idealnya, CV dibuat paling banyak
-              dalam dua sampai 3 halaman agar profil diri dapat dibaca oleh HRD
-              dengan lebih efektif.
+              Jangan takut untuk mencoba hal-hal baru atau memulai proyek-proyek
+              yang menantang. Terkadang, diperlukan untuk keluar dari zona
+              nyaman dan berani mengambil risiko agar karir dapat berkembang
+              dengan lebih maksimal.
             </p>
             {tableOfContentsTitle[4]}
             <p>
-              Hindari menuliskan terlalu banyak informasi yang tidak relevan
-              dengan pekerjaan yang ingin dilamar. Sebaiknya, tulis informasi
-              seperti prestasi dan pengalaman kerja yang relevan dan berhubungan
-              dengan posisi yang ingin dilamar.
+              Tetaplah terbuka dengan peluang baru dan berbagai jalur karir yang
+              mungkin. Jangan ragu untuk mempertimbangkan pekerjaan atau
+              kesempatan yang tampaknya di luar bidang keahlian saat ini.
             </p>
 
             <hr className="my-4" />
             <strong>Sumber referensi:</strong>
             <br />
             <a
-              href="https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd"
+              href="https://www.idntimes.com/life/career/ratna-ramadhani/tips-mengembangkan-karier-c1c2"
               target="_blank"
               rel="noopener noreferrer"
             >
-              https://www.detik.com/edu/detikpedia/d-6050694/fresh-graduate-ini-5-kesalahan-yang-harus-dihindari-agar-cv-dilirik-hrd
+              https://www.idntimes.com/life/career/ratna-ramadhani/tips-mengembangkan-karier-c1c2
             </a>
           </div>
         </div>

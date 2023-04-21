@@ -24,6 +24,9 @@ export { default as About } from "../pages/aboutUs/About";
 export { default as Gallery } from "../pages/aboutUs/Gallery";
 export { default as Blog } from "../pages/aboutUs/Blog";
 export { default as Article1 } from "../pages/aboutUs/blog/Article1";
+export { default as Article2 } from "../pages/aboutUs/blog/Article2";
+export { default as Article3 } from "../pages/aboutUs/blog/Article3";
+export { default as Article4 } from "../pages/aboutUs/blog/Article4";
 
 // * Components
 export { default as Footer } from "../components/Footer";

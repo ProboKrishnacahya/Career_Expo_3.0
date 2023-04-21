@@ -14,16 +14,13 @@ export default function PageNotFound() {
         data-aos="fade-up"
       >
         <div className="card text-center">
-          <span>
-            <h2>
-              <i className="bi bi-exclamation-circle"></i>&ensp;404 Page Not
-              Found
-            </h2>
-          </span>
+          <h2 className="text-danger">
+            <i className="bi bi-exclamation-circle display-1"></i>
+            <br />
+            404 Page Not Found
+          </h2>
           <hr />
-          <p className="fs-5">
-            Oops.. The page you are looking for was not found.
-          </p>
+          <p>Oops.. The page you are looking for was not found.</p>
           <br />
           <NavLink className="btn btn-primary btn-lg" to="/">
             <i className="bi bi-house-door"></i>&ensp;

@@ -27,7 +27,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "CV tentunya menjadi komponen yang sangat penting ketika melamar kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5 kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.",
-      url: "/1",
+      url: "/5-kesalahan-yang-harus-dihindari-dalam-pembuatan-cv",
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Ketika memasuki dunia kerja, pekerja dituntut untuk menguasai sejumlah kemampuan, baik hard skill atau pun soft skill. Dua kemampuan ini sebenarnya sangat berbeda. Akan tetapi, dalam dunia kerja, hard skill dan soft skill seringkali dibenturkan meskipun memiliki perbedaan. Terkadang, soft skill dianggap lebih penting dibandingkan hard skill. Namun, apakah benar seperti itu?",
-      url: "/2",
+      url: "/hard-skill-vs-soft-skill-mana-yang-lebih-penting",
     },
     {
       id: 3,
@@ -49,7 +49,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Setelah lulus dari universitas, melamar pekerjaan akan menjadi proses selanjutnya yang dilalui fresh graduate. Meski sudah lulus dan dibekali ilmu pendidikan, nyatanya hal itu tidak cukup untuk menarik perusahaan di luar sana untuk merekrut fresh graduate. Ada beberapa hal penting yang perlu disiapkan sebelum melamar pekerjaan. Mari simak pembahasan di bawah ini untuk mengetahui persiapan yang diperlukan fresh graduate sebelum mencari kerja.",
-      url: "/3",
+      url: "/fresh-graduate-siapkan-dulu-hal-hal-ini-sebelum-mencari-kerja",
     },
     {
       id: 4,
@@ -60,7 +60,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Setelah bekerja, semua karyawan tentunya berharap dapat mengembangkan karirnya dengan maksimal hingga mencapai puncak karir tertinggi. Oleh karena itu, karyawan perlu mengetahui cara-cara agar dapat mengembangkan karirnya dengan maksimal. Maka dari itu, yuk simak 5 tips untuk mengembangkan karir dengan maksimal berikut ini.",
-      url: "/4",
+      url: "/5-tips-untuk-mengembangkan-karir-dengan-maksimal",
     },
   ];
 
@@ -70,48 +70,48 @@ export default function Blog() {
     blogs.push(
       <a href={article.url} id="blog">
         <div className="card p-2">
-          <div className="row">
-            <div className="col-md-4">
+          <div className="row g-3">
+            <div className="col-lg-4">
               <img
                 src={article.image}
-                className="h-100 rounded shadow-sm"
+                className="w-100 h-100 rounded shadow-sm"
                 alt={article.alt}
                 loading="lazy"
               />
             </div>
-            <div className="col-md-8 vstack">
-              <div className="card-body vstack gap-3 justify-content-between">
+            <div className="col-lg-8 p-3">
+              <h4>{article.title}</h4>
+              <p className="d-grid d-lg-flex align-items-start gap-2 gap-lg-4 text-black">
                 <div>
-                  <h4 className="card-title mb-0">{article.title}</h4>
+                  <i
+                    className="bi bi-person-circle"
+                    data-bs-toggle="tooltip"
+                    title="Writer"
+                  ></i>
+                  &ensp;UC Corporate Entrepreneurship
                 </div>
                 <div>
-                  <p className="card-text hstack flex-column flex-sm-row align-items-start gap-md-4 gap-2 text-black">
-                    <div>
-                      <i
-                        className="bi bi-calendar-check"
-                        data-bs-toggle="tooltip"
-                        title="Uploaded Date"
-                      ></i>
-                      &ensp;{article.date}
-                    </div>
-                    <div>
-                      <i
-                        className="bi bi-stopwatch"
-                        data-bs-toggle="tooltip"
-                        title="Estimated Reading Time"
-                      ></i>
-                      &ensp;{article.time}&nbsp;minute read
-                    </div>
-                  </p>
-                  <p className="truncate text-muted">{article.description}</p>
+                  <i
+                    className="bi bi-calendar-check"
+                    data-bs-toggle="tooltip"
+                    title="Uploaded Date"
+                  ></i>
+                  &ensp;{article.date}
                 </div>
                 <div>
-                  <button className="btn btn-primary w-100">
-                    <i className="bi bi-file-text"></i>&ensp;
-                    <strong>Baca Artikel</strong>
-                  </button>
+                  <i
+                    className="bi bi-stopwatch"
+                    data-bs-toggle="tooltip"
+                    title="Estimated Reading Time"
+                  ></i>
+                  &ensp;{article.time}&nbsp;minute read
                 </div>
-              </div>
+              </p>
+              <p className="truncate text-muted">{article.description}</p>
+              <button className="btn btn-primary w-100">
+                <i className="bi bi-file-text"></i>&ensp;
+                <strong>Baca Artikel</strong>
+              </button>
             </div>
           </div>
         </div>

@@ -1,12 +1,22 @@
+import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import { day1, day2 } from "../../data/events/CareerExpo";
 
 export default function CareerExpo() {
   useEffect(() => {
     // * Tab Page Title
     document.title = "Career Expo";
+
+    // * Enable Bootstrap's Tooltip Everywhere
+    var tooltipElList = [].slice.call(
+      document.querySelectorAll('[data-bs-toggle="tooltip"]')
+    );
+    tooltipElList.map(function (tooltipEl) {
+      return new Tooltip(tooltipEl);
+    });
   }, []);
 
   return (
@@ -59,6 +69,34 @@ export default function CareerExpo() {
               role="tabpanel"
               aria-labelledby="pills-day1-tab"
             >
+              {/* <table className="table table-responsive table-light table-striped table-hover">
+                <thead>
+                  <tr className="text-white">
+                    <th scope="col" className="bg-dark">
+                      Start
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      End
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      Durasi
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      Kegiatan
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {day1.map((rundown) => (
+                    <tr>
+                      <td>{rundown.start}</td>
+                      <td>{rundown.end}</td>
+                      <td>{rundown.duration}</td>
+                      <td>{rundown.activity}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table> */}
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>
                   <tr className="text-white">
@@ -78,7 +116,7 @@ export default function CareerExpo() {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>09.30</td>
+                    <td>09:30</td>
                     <td>10:00</td>
                     <td>30'</td>
                     <td>Open Gate</td>
@@ -197,6 +235,34 @@ export default function CareerExpo() {
               role="tabpanel"
               aria-labelledby="pills-day2-tab"
             >
+              {/* <table className="table table-responsive table-light table-striped table-hover">
+                <thead>
+                  <tr className="text-white">
+                    <th scope="col" className="bg-dark">
+                      Start
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      End
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      Durasi
+                    </th>
+                    <th scope="col" className="bg-dark">
+                      Kegiatan
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {day2.map((rundown) => (
+                    <tr>
+                      <td>{rundown.start}</td>
+                      <td>{rundown.end}</td>
+                      <td>{rundown.duration}</td>
+                      <td>{rundown.activity}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table> */}
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>
                   <tr className="text-white">

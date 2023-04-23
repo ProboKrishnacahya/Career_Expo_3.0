@@ -47,8 +47,9 @@ export default function CompanyList() {
       <Header />
 
       <div className="container">
-        <h2 className="text-center">Company List</h2>
         <section className="my-5" data-aos="fade-up">
+          <h2 className="text-center">Company List</h2>
+          <br />
           <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
             {companyList}
           </div>

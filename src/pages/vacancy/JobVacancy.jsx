@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import Footer from "../../components/Footer";

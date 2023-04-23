@@ -5,10 +5,10 @@ export const job = [
     name: "HSBC",
     companyURL: "/company-list/hsbc",
     image: "/images/vacancy/company_list/HSBC Logo 2018.png",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/CKEeWCxt62pBB4kZ6",
     companyDescription:
       "HSBC adalah salah satu bank dan perusahaan layanan keuangan terbesar di dunia. Kami melayani sekitar 39 juta nasabah melalui bisnis Wealth and Personal Banking, Commercial Banking serta Global Banking and Markets. Jaringan kami meliputi 62 negara dan wilayah di Eropa, Asia, Timur Tengah dan Afrika Utara, Amerika Utara dan Amerika Latin.",
+    type: "Full Time",
     divisi: "Wealth & Personal Banking",
     jabatan: "Personal Banking Staff",
     jobDescription:
@@ -22,10 +22,10 @@ export const job = [
     name: "HSBC",
     companyURL: "/company-list/hsbc",
     image: "/images/vacancy/company_list/HSBC Logo 2018.png",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/CKEeWCxt62pBB4kZ6",
     companyDescription:
       "HSBC adalah salah satu bank dan perusahaan layanan keuangan terbesar di dunia. Kami melayani sekitar 39 juta nasabah melalui bisnis Wealth and Personal Banking, Commercial Banking serta Global Banking and Markets. Jaringan kami meliputi 62 negara dan wilayah di Eropa, Asia, Timur Tengah dan Afrika Utara, Amerika Utara dan Amerika Latin.",
+    type: "Full Time",
     divisi: "Wealth & Personal Banking",
     jabatan: "Elite Premier Banking",
     jobDescription:
@@ -40,10 +40,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Marketing",
     jabatan: "Staff Desain",
     jobDescription:
@@ -57,10 +57,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Marketing",
     jabatan: "Social Media Specialist",
     jobDescription:
@@ -74,10 +74,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Accounting",
     jabatan: "Staff Accounting",
     jobDescription:
@@ -91,10 +91,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "HRGA",
     jabatan: "Staff General Affair",
     jobDescription:
@@ -108,10 +108,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Marketing",
     jabatan: "Sales and Packaging Consultant",
     jobDescription:
@@ -125,10 +125,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Purchasing",
     jabatan: "SPV Purchasing",
     jobDescription:
@@ -142,10 +142,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "QC",
     jabatan: "Staff Quality Control",
     jobDescription:
@@ -159,10 +159,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "QC",
     jabatan: "Koordinator Quality Control",
     jobDescription:
@@ -176,10 +176,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Produksi",
     jabatan: "Staff Produksi",
     jobDescription:
@@ -193,10 +193,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Full Time",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Full Time",
     divisi: "Produksi",
     jabatan: "Koordinator Produksi",
     jobDescription:
@@ -210,10 +210,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Internship",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Internship",
     divisi: "Marketing",
     jabatan: "Social media and market analyst",
     jobDescription: "",
@@ -225,10 +225,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Internship",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Internship",
     divisi: "Marketing",
     jabatan: "Desain",
     jobDescription: "",
@@ -240,10 +240,10 @@ export const job = [
     name: "PT. Asia Pramulia (ASPRA)",
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
-    registerURL: "",
-    type: "Internship",
+    registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     companyDescription:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    type: "Internship",
     divisi: "HRD",
     jabatan: "Admin Rekrutment",
     jobDescription: "",

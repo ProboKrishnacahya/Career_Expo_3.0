@@ -66,7 +66,7 @@ export default function Article2() {
             <div id="side">
               <button
                 className="btn btn-primary w-100"
-                onClick={copyToClipboard}
+                onClick={bagikanArtikel}
               >
                 <i className="bi bi-link-45deg"></i>&ensp;
                 <strong>Bagikan Artikel</strong>
@@ -144,4 +144,17 @@ export default function Article2() {
 // Copy Uniform Resource Locator to Clipboard
 function copyToClipboard() {
   navigator.clipboard.writeText(window.location.href);
+}
+
+// Web Share API
+function bagikanArtikel() {
+  if (navigator.canShare) {
+    navigator.share({
+      title: "Hard Skill VS Soft Skill, Mana Yang Lebih Penting?",
+      url: window.location.href,
+    });
+    window.location.reload();
+  } else {
+    copyToClipboard();
+  }
 }

@@ -103,7 +103,7 @@ export default function Article4() {
               </ul>
               <button
                 className="btn btn-primary w-100"
-                onClick={copyToClipboard}
+                onClick={bagikanArtikel}
               >
                 <i className="bi bi-link-45deg"></i>&ensp;
                 <strong>Bagikan Artikel</strong>
@@ -179,4 +179,17 @@ export default function Article4() {
 // Copy Uniform Resource Locator to Clipboard
 function copyToClipboard() {
   navigator.clipboard.writeText(window.location.href);
+}
+
+// Web Share API
+function bagikanArtikel() {
+  if (navigator.canShare) {
+    navigator.share({
+      title: "5 Tips Untuk Mengembangkan Karir Dengan Maksimal",
+      url: window.location.href,
+    });
+    window.location.reload();
+  } else {
+    copyToClipboard();
+  }
 }

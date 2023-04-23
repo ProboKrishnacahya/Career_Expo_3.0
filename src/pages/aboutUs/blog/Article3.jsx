@@ -104,7 +104,7 @@ export default function Article3() {
               </ul>
               <button
                 className="btn btn-primary w-100"
-                onClick={copyToClipboard}
+                onClick={bagikanArtikel}
               >
                 <i className="bi bi-link-45deg"></i>&ensp;
                 <strong>Bagikan Artikel</strong>
@@ -181,4 +181,17 @@ export default function Article3() {
 // Copy Uniform Resource Locator to Clipboard
 function copyToClipboard() {
   navigator.clipboard.writeText(window.location.href);
+}
+
+// Web Share API
+function bagikanArtikel() {
+  if (navigator.canShare) {
+    navigator.share({
+      title: "Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!",
+      url: window.location.href,
+    });
+    window.location.reload();
+  } else {
+    copyToClipboard();
+  }
 }

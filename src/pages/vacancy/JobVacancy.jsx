@@ -43,19 +43,19 @@ export default function JobVacancy() {
   const jobVacancy = job.map((job) => (
     <div className="col">
       <a href={job.companyURL} className="company-list">
-        <div className="card text-center px-0 py-2 h-100" id={job.type}>
+        <div className="card text-center px-0 py-2 h-100" id={job.tipe}>
           <img
             src={job.image}
             alt={job.name}
             loading="lazy"
             className="card-img-top w-75 h-75 mx-auto py-2"
           />
-          <div className="card-body py-2 d-grid justify-content-center align-items-center">
-            <h3>{job.jabatan}</h3>
-            <span className="text-bg-info rounded-pill my-2 p-1">
+          <div className="card-body py-3 d-grid justify-content-center align-items-center">
+            <h3 className="text-truncate">{job.jabatan}</h3>
+            <span className="badge text-bg-info rounded-pill my-2 text-truncate">
               {job.divisi}
             </span>
-            <span className="text-muted">{job.name}</span>
+            <span className="text-muted text-truncate">{job.name}</span>
           </div>
           <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
             <button className="btn btn-primary w-100">
@@ -88,21 +88,72 @@ export default function JobVacancy() {
             </div>
             <div>
               <div className="fullTimeOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
+                <div className="col">
+                  <div
+                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan
+                      pekerjaan untuk jam kerja penuh (8 jam).
+                    </div>
+                  </div>
+                </div>
                 {jobVacancy[2]}
                 {jobVacancy[1]}
                 {jobVacancy[0]}
               </div>
               <div className="partTimeOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
+                <div className="col">
+                  <div
+                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan
+                      pekerjaan untuk jam kerja yang tidak menentu dan melakukan
+                      perhitungan gaji sesuai dengan jam kerja karyawan.
+                    </div>
+                  </div>
+                </div>
                 {jobVacancy[0]}
                 {jobVacancy[2]}
                 {jobVacancy[1]}
               </div>
               <div className="freelanceOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
+                <div className="col">
+                  <div
+                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan bagi
+                      karyawan lepas yang tidak terikat dengan kontrak jangka
+                      panjang.
+                    </div>
+                  </div>
+                </div>
                 {jobVacancy[1]}
                 {jobVacancy[2]}
                 {jobVacancy[0]}
               </div>
               <div className="internshipOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
+                <div className="col">
+                  <div
+                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan magang
+                      kepada mahasiswa/i untuk melakukan pelatihan dengan terjun
+                      langsung di perusahaan.
+                    </div>
+                  </div>
+                </div>
                 {jobVacancy[1]}
                 {jobVacancy[0]}
                 {jobVacancy[2]}
@@ -182,6 +233,16 @@ export default function JobVacancy() {
                   role="tabpanel"
                   aria-labelledby="pills-fulltime-tab"
                 >
+                  <div
+                    className="alert alert-secondary d-flex align-items-center"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan
+                      pekerjaan untuk jam kerja penuh (8 jam).
+                    </div>
+                  </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                     {jobVacancy[2]}
                     {jobVacancy[1]}
@@ -194,6 +255,17 @@ export default function JobVacancy() {
                   role="tabpanel"
                   aria-labelledby="pills-parttime-tab"
                 >
+                  <div
+                    className="alert alert-secondary d-flex align-items-center"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan
+                      pekerjaan untuk jam kerja yang tidak menentu dan melakukan
+                      perhitungan gaji sesuai dengan jam kerja karyawan.
+                    </div>
+                  </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                     {jobVacancy[0]}
                     {jobVacancy[2]}
@@ -206,6 +278,17 @@ export default function JobVacancy() {
                   role="tabpanel"
                   aria-labelledby="pills-freelance-tab"
                 >
+                  <div
+                    className="alert alert-secondary d-flex align-items-center"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan bagi
+                      karyawan lepas yang tidak terikat dengan kontrak jangka
+                      panjang.
+                    </div>
+                  </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                     {jobVacancy[1]}
                     {jobVacancy[2]}
@@ -218,6 +301,17 @@ export default function JobVacancy() {
                   role="tabpanel"
                   aria-labelledby="pills-internship-tab"
                 >
+                  <div
+                    className="alert alert-secondary d-flex align-items-center"
+                    role="alert"
+                  >
+                    <i className="bi bi-info-circle"></i>&ensp;
+                    <div>
+                      Mengindikasikan bahwa perusahaan membuka lowongan magang
+                      kepada mahasiswa/i untuk melakukan pelatihan dengan terjun
+                      langsung di perusahaan.
+                    </div>
+                  </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                     {jobVacancy[1]}
                     {jobVacancy[0]}

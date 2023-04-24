@@ -21,9 +21,11 @@ export default function ASPRA() {
   const jobList = job.map((job) => (
     <div key={job.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
-        <div className="card-body py-2 d-grid justify-content-center align-items-center">
-          <h3>{job.jabatan}</h3>
-          <span className="text-muted">{job.divisi}</span>
+        <div className="card-body py-3 d-grid justify-content-center align-items-center">
+          <h3 className="text-truncate">{job.jabatan}</h3>
+          <span className="badge text-bg-info rounded-pill mt-2 text-truncate">
+            {job.divisi}
+          </span>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
           <a href={job.registerURL} target="_blank" rel="noopener noreferrer">
@@ -60,7 +62,7 @@ export default function ASPRA() {
         </div>
         <div className="col-lg-8">
           <div className="my-4">
-            <pre>{job.companyDescription}</pre>
+            <pre>{job.deskripsiPerusahaan}</pre>
           </div>
         </div>
       </div>
@@ -89,14 +91,14 @@ export default function ASPRA() {
           <i className="bi bi-tag"></i>&ensp;Lowongan
         </h4>
         <p>
-          {job.jabatan}&nbsp;({job.type})
+          {job.jabatan}&nbsp;({job.tipe})
         </p>
       </div>
       <div>
         <h4>
           <i className="bi bi-briefcase"></i>&ensp;Deskripsi Pekerjaan
         </h4>
-        <pre>{job.jobDescription}</pre>
+        <pre>{job.deskripsiPekerjaan}</pre>
       </div>
       <div>
         <h4>

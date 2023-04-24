@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function HSBC() {
+export default function Artax() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "HSBC";
+    document.title = "Artax";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -67,8 +67,10 @@ export default function HSBC() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList[0]}
-        {jobList[1]}
+        {jobList[15]}
+        {jobList[16]}
+        {jobList[17]}
+        {jobList[18]}
       </div>
     </div>
   ));
@@ -110,21 +112,21 @@ export default function HSBC() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[0]}
+          {companyProfile[15]}
         </section>
       </div>
 
       <div
         className="modal fade"
-        id="jobModal0"
+        id="jobModal15"
         tabindex="-1"
-        aria-labelledby="jobModal0Label"
+        aria-labelledby="jobModal15Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal0Label">
+              <h2 className="modal-title text-center" id="jobModal15Label">
                 Persyaratan
               </h2>
               <button
@@ -134,21 +136,21 @@ export default function HSBC() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
+            <div className="modal-body d-grid gap-2">{persyaratan[15]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal1"
+        id="jobModal16"
         tabindex="-1"
-        aria-labelledby="jobModal1Label"
+        aria-labelledby="jobModal16Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal1Label">
+              <h2 className="modal-title text-center" id="jobModal16Label">
                 Persyaratan
               </h2>
               <button
@@ -158,7 +160,55 @@ export default function HSBC() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[1]}</div>
+            <div className="modal-body d-grid gap-2">{persyaratan[16]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal17"
+        tabindex="-1"
+        aria-labelledby="jobModal17Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal17Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body d-grid gap-2">{persyaratan[17]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal18"
+        tabindex="-1"
+        aria-labelledby="jobModal18Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal18Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body d-grid gap-2">{persyaratan[18]}</div>
           </div>
         </div>
       </div>

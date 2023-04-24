@@ -11,4 +11,10 @@ export const company = [
     companyURL: "/company-list/aspra",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
   },
+  {
+    id: 2,
+    name: "ARTAX",
+    companyURL: "/company-list/artax",
+    image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
+  },
 ];

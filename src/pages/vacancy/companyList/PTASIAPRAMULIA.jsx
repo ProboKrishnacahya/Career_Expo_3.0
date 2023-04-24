@@ -7,7 +7,7 @@ import { job } from "../../../data/vacancy/JobVacancy";
 export default function ASPRA() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "ASPRA";
+    document.title = "PT Asia Pramulia";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(

@@ -8,7 +8,7 @@ export { default as Home } from "../pages/home/Home";
 export { default as CompanyList } from "../pages/vacancy/CompanyList";
 export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
-export { default as ASPRA } from "../pages/vacancy/companyList/ASPRA";
+export { default as PTASIAPRAMULIA } from "../pages/vacancy/companyList/PTASIAPRAMULIA";
 export { default as ARTAX } from "../pages/vacancy/companyList/ARTAX";
 
 // * Events

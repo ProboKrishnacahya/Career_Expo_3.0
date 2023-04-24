@@ -12,7 +12,7 @@ import {
   Home,
   CompanyList,
   HSBC,
-  ASPRA,
+  PTASIAPRAMULIA,
   ARTAX,
   JobVacancy,
   CareerExpo,
@@ -42,7 +42,7 @@ root.render(
       {/* Vacancy */}
       <Route path="/company-list" element={<CompanyList />} />
       <Route path="/company-list/hsbc" element={<HSBC />} />
-      <Route path="/company-list/aspra" element={<ASPRA />} />
+      <Route path="/company-list/pt-asia-pramulia" element={<PTASIAPRAMULIA />} />
       <Route path="/company-list/artax" element={<ARTAX />} />
       <Route path="/job-vacancy" element={<JobVacancy />} />
 

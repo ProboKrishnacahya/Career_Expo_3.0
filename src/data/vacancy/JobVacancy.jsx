@@ -37,8 +37,8 @@ export const job = [
   // * PT. Asia Pramulia (ASPRA)
   {
     id: 2,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -54,8 +54,8 @@ export const job = [
   },
   {
     id: 3,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -71,8 +71,8 @@ export const job = [
   },
   {
     id: 4,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -88,8 +88,8 @@ export const job = [
   },
   {
     id: 5,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -105,8 +105,8 @@ export const job = [
   },
   {
     id: 6,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -122,8 +122,8 @@ export const job = [
   },
   {
     id: 7,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -139,8 +139,8 @@ export const job = [
   },
   {
     id: 8,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -156,8 +156,8 @@ export const job = [
   },
   {
     id: 9,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -173,8 +173,8 @@ export const job = [
   },
   {
     id: 10,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -190,8 +190,8 @@ export const job = [
   },
   {
     id: 11,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -207,8 +207,8 @@ export const job = [
   },
   {
     id: 12,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -222,8 +222,8 @@ export const job = [
   },
   {
     id: 13,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -237,8 +237,8 @@ export const job = [
   },
   {
     id: 14,
-    name: "PT. Asia Pramulia (ASPRA)",
-    companyURL: "/company-list/aspra",
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
     registerURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     deskripsiPerusahaan:
@@ -314,5 +314,21 @@ export const job = [
     kriteria:
       "- Student majoring in Taxation/ Accounting/ Tax Accounting\n- Basic knowledge in Taxation\n- Strong analytical skill\n- Fluent in english (oral & written)",
     daerah: "Surabaya",
+  },
+  {
+    id: 19,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
+    registerURL: "",
+    deskripsiPerusahaan:
+      "",
+    tipe: "",
+    divisi: "",
+    jabatan: "",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- ",
+    daerah: "",
   },
 ];

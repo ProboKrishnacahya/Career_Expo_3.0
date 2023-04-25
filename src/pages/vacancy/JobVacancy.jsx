@@ -66,6 +66,19 @@ export default function JobVacancy() {
     </div>
   ));
 
+  const lowonganFullTime = jobVacancy.filter((_item, index) =>
+    [0, 1, 2, 3, 4, 5].includes(index)
+  );
+  const lowonganPartTime = jobVacancy.filter((_item, index) =>
+    [10, 11, 12, 13, 14, 15].includes(index)
+  );
+  const lowonganFreelance = jobVacancy.filter((_item, index) =>
+    [20, 21, 22, 23, 24, 25].includes(index)
+  );
+  const lowonganInternship = jobVacancy.filter((_item, index) =>
+    [30, 31, 32, 33, 34, 35].includes(index)
+  );
+
   return (
     <div className="job-vacancy">
       <Header />
@@ -98,9 +111,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                 </div>
-                {jobVacancy[2]}
-                {jobVacancy[1]}
-                {jobVacancy[0]}
+                {lowonganFullTime}
               </div>
               <div className="partTimeOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
@@ -116,9 +127,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                 </div>
-                {jobVacancy[0]}
-                {jobVacancy[2]}
-                {jobVacancy[1]}
+                {lowonganPartTime}
               </div>
               <div className="freelanceOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
@@ -134,9 +143,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                 </div>
-                {jobVacancy[1]}
-                {jobVacancy[2]}
-                {jobVacancy[0]}
+                {lowonganFreelance}
               </div>
               <div className="internshipOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
@@ -152,9 +159,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                 </div>
-                {jobVacancy[1]}
-                {jobVacancy[0]}
-                {jobVacancy[2]}
+                {lowonganInternship}
               </div>
             </div>
           </div>
@@ -242,9 +247,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
-                    {jobVacancy[2]}
-                    {jobVacancy[1]}
-                    {jobVacancy[0]}
+                    {lowonganFullTime}
                   </div>
                 </div>
                 <div
@@ -265,9 +268,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
-                    {jobVacancy[0]}
-                    {jobVacancy[2]}
-                    {jobVacancy[1]}
+                    {lowonganPartTime}
                   </div>
                 </div>
                 <div
@@ -288,9 +289,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
-                    {jobVacancy[1]}
-                    {jobVacancy[2]}
-                    {jobVacancy[0]}
+                    {lowonganFreelance}
                   </div>
                 </div>
                 <div
@@ -311,9 +310,7 @@ export default function JobVacancy() {
                     </div>
                   </div>
                   <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
-                    {jobVacancy[1]}
-                    {jobVacancy[0]}
-                    {jobVacancy[2]}
+                    {lowonganInternship}
                   </div>
                 </div>
               </div>

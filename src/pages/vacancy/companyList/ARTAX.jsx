@@ -22,13 +22,11 @@ export default function Artax() {
     <div key={job.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-3 d-grid justify-content-center align-items-center">
-          <h3 className="text-truncate">{job.jabatan}</h3>
-          <span className="badge text-bg-info rounded-pill mt-2 text-truncate">
-            {job.divisi}
-          </span>
+          <h3>{job.jabatan}</h3>
+          <strong className="text-truncate mt-3">{job.divisi}</strong>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
-          <a href={job.registerURL} target="_blank" rel="noopener noreferrer">
+          <a href={job.daftarURL} target="_blank" rel="noopener noreferrer">
             <button className="btn btn-primary w-100">
               <i className="bi bi-person-plus"></i>&ensp;
               <strong>Daftar</strong>
@@ -67,10 +65,7 @@ export default function Artax() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList[15]}
-        {jobList[16]}
-        {jobList[17]}
-        {jobList[18]}
+        {jobList.slice(15, 19)}
       </div>
     </div>
   ));
@@ -101,7 +96,7 @@ export default function Artax() {
         <h4>
           <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
         </h4>
-        <pre>{job.daerah}</pre>
+        <pre>{job.daerahPenempatan}</pre>
       </div>
     </div>
   ));

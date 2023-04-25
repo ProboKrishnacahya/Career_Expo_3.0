@@ -7,9 +7,11 @@ export { default as Home } from "../pages/home/Home";
 // * Vacancy
 export { default as CompanyList } from "../pages/vacancy/CompanyList";
 export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
+export { default as Artax } from "../pages/vacancy/companyList/Artax";
+export { default as HotelCiputraWorldSurabaya } from "../pages/vacancy/companyList/HotelCiputraWorldSurabaya";
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
-export { default as PTASIAPRAMULIA } from "../pages/vacancy/companyList/PTASIAPRAMULIA";
-export { default as ARTAX } from "../pages/vacancy/companyList/ARTAX";
+export { default as IndoprimaGroup } from "../pages/vacancy/companyList/IndoprimaGroup";
+export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPramulia";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

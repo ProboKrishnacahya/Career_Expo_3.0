@@ -2,7 +2,7 @@ import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
-import { company } from "../../data/vacancy/CompanyList";
+import { job } from "../../data/vacancy/JobVacancy";
 
 export default function CompanyList() {
   useEffect(() => {
@@ -18,18 +18,18 @@ export default function CompanyList() {
     });
   }, []);
 
-  const companyList = company.map((company) => (
+  const companyList = job.map((job) => (
     <div className="col">
-      <a href={company.companyURL} className="company-list">
+      <a href={job.companyURL} className="company-list">
         <div className="card text-center px-0 py-2 h-100">
           <img
-            src={company.image}
-            alt={company.name}
+            src={job.image}
+            alt={job.name}
             loading="lazy"
-            className="card-img-top w-75 h-75 mx-auto py-2"
+            className="card-img-top w-75 h-75 mx-auto py-3"
           />
           <div className="card-body py-0 d-grid justify-content-center align-items-center">
-            <h4>{company.name}</h4>
+            <h4>{job.name}</h4>
           </div>
           <div className="card-footer border-0 bg-transparent">
             <button className="btn btn-primary w-100">
@@ -42,6 +42,10 @@ export default function CompanyList() {
     </div>
   ));
 
+  const perusahaan = companyList.filter((_item, index) =>
+    [0, 2, 15, 19].includes(index)
+  );
+
   return (
     <div className="company-list">
       <Header />
@@ -51,7 +55,7 @@ export default function CompanyList() {
           <h2 className="text-center">Company List</h2>
           <br />
           <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4">
-            {companyList}
+            {perusahaan}
           </div>
         </section>
       </div>

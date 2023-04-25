@@ -11,10 +11,12 @@ import {
   PageNotFound,
   Home,
   CompanyList,
-  HSBC,
-  PTASIAPRAMULIA,
-  ARTAX,
   JobVacancy,
+  Artax,
+  HotelCiputraWorldSurabaya,
+  HSBC,
+  IndoprimaGroup,
+  PTAsiaPramulia,
   CareerExpo,
   Workshop,
   Register,
@@ -41,10 +43,12 @@ root.render(
 
       {/* Vacancy */}
       <Route path="/company-list" element={<CompanyList />} />
-      <Route path="/company-list/hsbc" element={<HSBC />} />
-      <Route path="/company-list/pt-asia-pramulia" element={<PTASIAPRAMULIA />} />
-      <Route path="/company-list/artax" element={<ARTAX />} />
       <Route path="/job-vacancy" element={<JobVacancy />} />
+      <Route path="/company-list/artax" element={<Artax />} />
+      <Route path="/company-list/hotel-ciputra-world-surabaya" element={<HotelCiputraWorldSurabaya />} />
+      <Route path="/company-list/hsbc" element={<HSBC />} />
+      <Route path="/company-list/indoprima-group" element={<IndoprimaGroup />} />
+      <Route path="/company-list/pt-asia-pramulia" element={<PTAsiaPramulia />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

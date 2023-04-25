@@ -31,7 +31,7 @@ export default function Header() {
             ></button>
           </button>
           <div className="collapse navbar-collapse" id="navbarNav">
-            <ul className="navbar-nav ms-auto gap-4">
+            <ul className="navbar-nav ms-auto gap-4 my-3 my-lg-0">
               <li className="nav-item">
                 <div className="dropdown">
                   <a

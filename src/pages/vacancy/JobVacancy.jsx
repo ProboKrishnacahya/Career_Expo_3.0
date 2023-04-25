@@ -51,10 +51,8 @@ export default function JobVacancy() {
             className="card-img-top w-75 h-75 mx-auto py-2"
           />
           <div className="card-body py-3 d-grid justify-content-center align-items-center">
-            <h3 className="text-truncate">{job.jabatan}</h3>
-            <span className="badge text-bg-info rounded-pill my-2 text-truncate">
-              {job.divisi}
-            </span>
+            <h3>{job.jabatan}</h3>
+            <strong className="text-truncate my-2">{job.divisi}</strong>
             <span className="text-muted text-truncate">{job.name}</span>
           </div>
           <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">

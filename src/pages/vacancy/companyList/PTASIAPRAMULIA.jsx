@@ -4,7 +4,7 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function ASPRA() {
+export default function PTAsiaPramulia() {
   useEffect(() => {
     // * Tab Page Title
     document.title = "PT Asia Pramulia";
@@ -22,13 +22,11 @@ export default function ASPRA() {
     <div key={job.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-3 d-grid justify-content-center align-items-center">
-          <h3 className="text-truncate">{job.jabatan}</h3>
-          <span className="badge text-bg-info rounded-pill mt-2 text-truncate">
-            {job.divisi}
-          </span>
+          <h3>{job.jabatan}</h3>
+          <strong className="text-truncate mt-3">{job.divisi}</strong>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
-          <a href={job.registerURL} target="_blank" rel="noopener noreferrer">
+          <a href={job.daftarURL} target="_blank" rel="noopener noreferrer">
             <button className="btn btn-primary w-100">
               <i className="bi bi-person-plus"></i>&ensp;
               <strong>Daftar</strong>
@@ -67,19 +65,7 @@ export default function ASPRA() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList[2]}
-        {jobList[3]}
-        {jobList[4]}
-        {jobList[5]}
-        {jobList[6]}
-        {jobList[7]}
-        {jobList[8]}
-        {jobList[9]}
-        {jobList[10]}
-        {jobList[11]}
-        {jobList[12]}
-        {jobList[13]}
-        {jobList[14]}
+        {jobList.slice(2, 15)}
       </div>
     </div>
   ));
@@ -110,7 +96,7 @@ export default function ASPRA() {
         <h4>
           <i className="bi bi-geo"></i>&ensp;Daerah Penempatan
         </h4>
-        <pre>{job.daerah}</pre>
+        <pre>{job.daerahPenempatan}</pre>
       </div>
     </div>
   ));

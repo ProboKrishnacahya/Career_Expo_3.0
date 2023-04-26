@@ -1256,4 +1256,184 @@ export const job = [
     daerahPenempatan: "Subang",
   },
 
+  // * PT Surya Timur Sakti Jatim
+  {
+    id: 74,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "SALES",
+    jabatan: "AREA SPV SALES",
+    deskripsiPekerjaan:
+      "Mencapai target penjualan & meningkatkan profit dealer\n- Membuat strategi untuk meningkatkan penjualan dan memperluas jaringan untuk tercapainya target dealer\n- Mengelola Dealer beserta karyawan nya dengan integritas, loyalitas, disiplin, jujur dengan menerapkan nilai budaya, visi dan misi perusahaan",
+    kriteria:
+      "- Laki-laki usia 25 - 33 tahun\n- Pendidikan minimal S1 semua jurusan\n- Pengalaman dibidang Sales Retail FMCG maupun modern trade minimal 2 tahun sebagai spv",
+    daerahPenempatan: "Surabaya (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  {
+    id: 75,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "PROPERTI",
+    jabatan: "ESTIMATOR ARSITEK, SIPIL, INTERIOR",
+    deskripsiPekerjaan:
+      "Bertanggung jawab atas pembuatan Estimasi RAB (Struktur/arsitektur).\n- Membuat analisa harga satuan dan surat penawaran harga.\n- Mengikuti proses tender dari awal sampai akhir.\n- Menginterpretasi serta menganalisa gambar dan spesifikasi",
+    kriteria:
+      "- Pendidikan minimal S1 Teknik Sipil/Teknik Arsitektur\n- Menguasai Ms. Office,AutoCAD,SketchUp dan Software Rendering.\n- Pasif Berbahasa Mandarin",
+    daerahPenempatan: "Surabaya (PT. SURYA SAKTI PROPERTINDO)",
+  },
+  {
+    id: 76,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "GENERAL AFFAIR",
+    jabatan: "STAFF UMUM",
+    deskripsiPekerjaan:
+      "- Melakukan pengawasan/kontrol atas operasional yang berjalan di tambak.\n- Memberikan laporan kepada pimpinan atas kendala yang dihadapi di tambak.\n- Memberikan laporan harian/mingguan dan bulanan tentang progress budidaya dan update informasi operasional.\n- Melakukan pembelian barang-barang/kelengkapan operasional tambak.",
+    kriteria:
+      "- Usia maks. 35 tahun\n- Jujur, disiplin, dan memiliki pendirian yang kuat\n- Pasif bahasa mandarin lebih diutamakan.\n- BERSEDIA UNTUK TINGGAL DI MESS PROBOLINGGO",
+    daerahPenempatan: "PROBOLINGGO (CV. LANCAR SEJAHTERA ABADI)",
+  },
+  {
+    id: 77,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "PROMOSI",
+    jabatan: "STAFF PROMOSI (CREATIVE DESIGN)",
+    deskripsiPekerjaan:
+      "Menerapkan ide atau mencari ide baru berdasarkan permintaan klien.",
+    kriteria:
+      "- Laki-laki usia 24-30 tahun\n- Pendidikan min. S1 Design/Seni/Multimedia/Pemasaran\n- Memiliki pengalaman di bidang event minimal 1 tahun\n- Memiliki rekanan luas terutama dalam bidang event",
+    daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  {
+    id: 78,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "ACCOUNTING",
+    jabatan: "ACCOUNTIG TAX SPV",
+    deskripsiPekerjaan:
+      "Menerapkan ide atau mencari ide baru berdasarkan permintaan klien.",
+    kriteria:
+      "- Usia 26-33 tahun\n- Pendidikan min. S1 akutansi diutamakan\n- Memiliki pengalaman menjadi accounting supervisor minimal 2 tahun dan di bidang accounting staff minimal 5 tahun\n- Menguasai laporan keuangan sesuai PSAK\n- Mampu menghitung laba rugi neraca",
+    daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  {
+    id: 79,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "SERVICE & SPAREPART",
+    jabatan: "AREA SERVICE DEVELOPMENT",
+    deskripsiPekerjaan:
+      "Bertanggung jawab terhadap operasional tim service di areanya.\n- Melakukan kontrol dan evaluasi ke dealer.\n- Melakukan peningkatan dan development tim service area.\n- Mengembangkan metode/proses kerja agar lebih efektif.",
+    kriteria:
+      "- Laki-laki usia 25-35 tahun\n- Pengalaman minimal 2 tahun sebagai teknisi/karyawan dibidang service R.2\n- Minimal lulus Sarjana Teknik (Otomotif diutamakan)\n- Mengerti mengenai teknologi kendaraan R.2\n- Mampu melakukan presentasi dengan baik.",
+    daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  {
+    id: 80,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "IT",
+    jabatan: "STAFF IT",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Laki-laki usia 23-30 tahun\n- Pendidikan Minimal S1 Teknik Informatika/Ilmu Komputer\n- Pengalaman min. 1 Tahun",
+    daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  {
+    id: 81,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "SALES & MARKETING",
+    jabatan: "ADMIN E-COMMERCE",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- perempuan usia 22-30 tahun\n- pendidikan min. d3 semua jurusan\n- pengalaman di dalam transaksi jual beli marketplace\n- memahami fitur-fitur, ads, & media promosi di marketplace",
+    daerahPenempatan: "SURABAYA (PT. AMITHA ADIKARA KOSMETIKA)",
+  },
+  {
+    id: 82,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "KEPATUHAN",
+    jabatan: "ANALIS KREDIT",
+    deskripsiPekerjaan:
+      "Memeriksa transaksi keuangan dan riwayat kredit.\n- Memberikan perspektif multidimensi pada prospek investasi dengan cara yang mudah diakses dan informatif.\n- Menganalisis data dengan cermat dan menghasilkan laporan yang jelas dan objektif.",
+    kriteria:
+      "- Laki-laki usia 25-36 tahun\n- Pendidikan Minimal S1 Semua Jurusan.\n- Pengalaman Minimal 3 tahun di Bank/ BPR/ Lembaga Keuangan di bidang yg sama.",
+    daerahPenempatan: "SURABAYA (BPR GEMA NUSA)",
+  },
+  {
+    id: 83,
+    name: "PT Surya Timur Sakti Jatim",
+    companyURL: "/company-list/pt-surya-timur-sakti-jatim",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-02-03 at 15.24.15.jpeg",
+    deskripsiPerusahaan:
+      "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
+    daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
+    tipe: "Full Time",
+    divisi: "SALES",
+    jabatan: "MARKETING EXECUTIVE",
+    deskripsiPekerjaan:
+      "Memasarkan produk sepeda motor yamaha dari perusahaan ke perusahaan\n- Mengelola dan menafsirkan kebutuhan pelanggan.\n- Mencapai penjualan yang ditargetkan.",
+    kriteria:
+      "- Pekerja keras, jujur, dan mampu bekerja secara mandiri maupun dalam tim.\n- Pendidikan min. SMA/SMK\n- Memiliki kemampuan komunikasi dan negosiasi yang baik.\n- Memiliki SIM C dan kendaraan sendiri",
+    daerahPenempatan: "ALL AREA JATIM (PT. SURYA TIMUR SAKTI JATIM)",
+  },
+  
 ];

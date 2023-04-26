@@ -13,7 +13,7 @@ export default function PTAsiaPramulia() {
     var tooltipElList = [].slice.call(
       document.querySelectorAll('[data-bs-toggle="tooltip"]')
     );
-    tooltipElList.map(function (tooltipEl) {
+    tooltipElList.map(function(tooltipEl) {
       return new Tooltip(tooltipEl);
     });
   }, []);

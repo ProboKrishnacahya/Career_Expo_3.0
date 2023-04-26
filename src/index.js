@@ -17,6 +17,7 @@ import {
   HSBC,
   IndoprimaGroup,
   PTAsiaPramulia,
+  PTSuperiorPrimaSukses,
   CareerExpo,
   Workshop,
   Register,
@@ -49,6 +50,7 @@ root.render(
       <Route path="/company-list/hsbc" element={<HSBC />} />
       <Route path="/company-list/indoprima-group" element={<IndoprimaGroup />} />
       <Route path="/company-list/pt-asia-pramulia" element={<PTAsiaPramulia />} />
+      <Route path="/company-list/pt-superior-prima-sukses" element={<PTSuperiorPrimaSukses />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

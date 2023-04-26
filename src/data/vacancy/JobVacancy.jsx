@@ -948,4 +948,312 @@ export const job = [
       "- Gelar Sarjana Perpajakan/Akuntansi dari universitas terkemuka\n- Pengalaman minimal 1 tahun di posisi yang sama.\n- Memiliki pemahaman menyeluruh tentang peraturan dan undang-undang perpajakan di Indonesia\n- Cekatan, cepat belajar, keterampilan komunikasi yang baik, berorientasi pada detail, keterampilan presentasi dan keterampilan interpersonal",
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
+
+  // * PT Superior Prima Sukses
+  {
+    id: 56,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Accounting",
+    jabatan: "Accounting Staff",
+    deskripsiPekerjaan:
+      "- Melakukan penginputan transaksi (jurnal) ke dalam program\n- Membuat rincian laporan neraca dan laba rugi\n- Melakukan stock opname, kas, piutang, dan lain lain\n- Melakukan pemeriksaan terhadap keakuratan dana dan laporan internal secara berkala\n- Mengarsip dokumen & melakukan verifikasi kebenaran dokumen",
+    kriteria:
+      "- Laki-laki/ perempuan\n- S1 Akuntansi, IPK minimal 3.00\n- Menguasai basic accounting & jurnal\n- Teliti & tekun\n- Punya inisiatif dan mau belajar\n- Tidak alergi debu\n- Diutamakan kandidat yang mempunyai SIM A\n- Bersedia melakukan perjalanan dinas ke luar kota\n- Penempatan Surabaya\n- Fresh Graduate dipersilahkan melamar",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 57,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Accounting",
+    jabatan: "Accounting Supervisor",
+    deskripsiPekerjaan:
+      "- Menjalankan fungsi controlling seperti: memeriksa pencatatan dan dokumentasi kegiatan keuangan perusahaan (memastikan kebenaran rincian laporan yang dibuat), stock opname, dll\n- Membuat laporan analisa kenaikan cost dan laporan lainnya",
+    kriteria:
+      "- Laki-laki/ perempuan\n- S1 Akuntansi, IPK minimal 3.00\n- Pengalaman di bidang accounting minimal 2 tahun\n- Menguasai costing\n- Bisa berpikir kritis, teliti, & tekun\n- Tidak alergi debu\n- Diutamakan kandidat yang mempunyai SIM A\n- Bersedia melakukan perjalanan dinas ke luar kota\n- Penempatan di Surabaya",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 58,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Accounting",
+    jabatan: "Internal Control Staff",
+    deskripsiPekerjaan:
+      "- Melakukan pemeriksaan terhadap keakuratan dana dan laporan internal secara berkala\n- Mengarsip dokumen & melakukan verifikasi kebenaran dokumen\n- Melakukan Stock opname dan audit internal di pabrik",
+    kriteria:
+      "- Laki-laki\n- S1 Akuntansi, IPK minimal 3.00\n- Memiliki pengalaman minimal 1 tahun sebagai Internal Auditor/Internal Controller\n- Menguasai basic accounting & jurnal\n- Teliti & tekun\n- Punya inisiatif dan mau belajar\n- Bersedia bekerja di lapangan\n- Tidak alergi debu\n- Penempatan di Plant Krian/ Mojokerto/ Lamongan",
+    daerahPenempatan: "Krian/Mojokerto/Lamongan",
+  },
+  {
+    id: 59,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Finance",
+    jabatan: "Finance Staff",
+    deskripsiPekerjaan:
+      "- Memastikan setiap pengajuan transaksi keuangan sudah benar, sesuai, dan akurat serta diproses tepat waktu dan cepat.\n- Memastikan kelengkapan, kebenaran, dan kelayakan dokumen.",
+    kriteria:
+      "- Perempuan\n- S1 dari segala jurusan, diutamakan dari Finance/ Accounting/ Teknik, IPK minimal 3.00\n- Teliti, tekun, detail\n- Menyukai pekerjaan yang berhubungan dengan angka dan bersifat rutin\n- Mempunyai kemampuan logika yang baik\n- Memiliki pengalaman di bidang Finance menjadi nilai tambah\n- Penempatan Surabaya\n- Fresh Graduate dipersilahkan melamar",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 60,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Tax",
+    jabatan: "Tax Staff",
+    deskripsiPekerjaan:
+      "- Menyiapkan perhitungan, pembayaran, dan pelaporan pajak Penghasilan dan Pajak Pertambahan Nilai\n- Melakukan penginputan perpajakan di sistem pajak\n- Membuat laporan bulanan dan tahunan (laporan keuangan pajak)\n- Membuat Bukti Potong PPh\n- Rekonsiliasi pembayaran dan pelaporan pajak",
+    kriteria:
+      "- Perempuan\n- D3/S1 Akuntansi diutamakan Perpajakan, IPK minimal 3.00\n- Memahami program Tax (SPT) dan basic accounting\n- Memiliki sertifikasi Brevet A & B menjadi nilai tambah\n- Teliti, disiplin, mau belajar, dan memiliki daya analisa baik\n- Fresh Graduate dipersilahkan melamar\n- Penempatan di Surabaya",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 61,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Sales Supervisor",
+    deskripsiPekerjaan:
+      "- Mencapai target harian, mingguan maupun bulanan yang telah ditetapkan oleh atasan.\n- Menentukan visit call dan Phone Call tiap harinya.\n- Mengkoordinasi bawahan dalam mencapai target harian, mingguan maupun bulanan.\n- Memonitoring aktivitas tim sales.\n- Membantu sales dalam mengembangkan pasar.\n- Melaksanakan tugas-tugas yang diminta oleh atasan langsung.",
+    kriteria:
+      "- Laki-laki/ perempuan\n- Pengalaman sebagai Sales SPV/Coordinator minimal 3 tahun, diutamakan dari industri FMCG\n- Memiliki jiwa leadership serta kemampuan komunikasi dan negosiasi yang baik\n- Bisa bekerja dengan target\n- Mempunyai kemampuan analisa yang baik\n- Bersedia melakukan perjalanan dinas ke luar kota\n- Penempatan di Surabaya / Malang",
+    daerahPenempatan: "Surabaya, Malang",
+  },
+  {
+    id: 62,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Production",
+    jabatan: "Production Supervisor",
+    deskripsiPekerjaan:
+      "- Mencapai dan menjaga kestabilan efisiensi produksi serta meminimalkan waste\n- Menjalankan TPM dengan baik dan disiplin, khususnya 5S dan AM\n- Memastikan bawahan menjalankan SOP/IK dan ketentuan yang berlaku lainnya\n- Melakukan koordinasi dengan Maintenance terkait dengan masalah dengan mesin\n- Memastikan kualitas produk sesuai dengan parameter yang ditentukan",
+    kriteria:
+      "- Laki-laki\n- S1 Teknik\n- Pengalaman di bidang produksi minimal 1 tahun\n- Memiliki kemampuan koordinasi yang baik\n- Mampu bekerja dalam tim\n- Bersedia bekerja dalam shift\n- Tidak alergi debu\n- Penempatan di Krian",
+    daerahPenempatan: "Krian",
+  },
+  {
+    id: 63,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "PPIC",
+    jabatan: "PPIC Staff",
+    deskripsiPekerjaan:
+      "- Melakukan koordinasi dengan Sales Analyst terkait jadwal produksi\n- Memastikan administrasi gudang tepat waktu dan memastikan laporan yang dibuat oleh admin gudang valid\n- Melakukan stock opname internal\n- Memantau outstanding Purchase Request dan melakukan follow-up ke divisi Procurement serta Purchasing\n- Memantau dead stock dan melakukan follow-up ke divisi terkait\n- Membuat laporan mengenai data stock dan budget operasional pabrik",
+    kriteria:
+      "- S1 Teknik diutamakan Teknik Industri, IPK minimal 3.00\n- Inisiatif, teliti, cekatan, dan dapat bekerjasama dalam tim\n- Memiliki daya analisa dan kemampuan controlling yang baik\n- Mampu menggunakan rumus-rumus Ms. Excel\n- Bersedia bekerja di lapangan (tidak sepenuhnya di Office)\n- Memiliki pengalaman di bidang PPIC / Warehouse akan menjadi nilai tambah\n- Tidak alergi debu\n- Penempatan di Mojokerto/Lamongan/Krian/Sragen (Plant Lamongan & Sragen disediakan fasilitas Mess)\n- Fresh graduate dipersilahkan melamar",
+    daerahPenempatan: "Plant Mojokerto/Lamongan/Krian/Sragen",
+  },
+  {
+    id: 64,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "PPIC",
+    jabatan: "Warehouse Staff",
+    deskripsiPekerjaan:
+      "- Mengontrol aktivitas keluar masuk barang sesuai prosedur yang ditetapkan\n- Melakukan penataan barang di gudang agar proses pencarian dan pengembalian tertata dengan rapi\n- Melakukan stock opname\n- Berkoordinasi dengan departemen lain terkait kegiatan penerimaan, penyimpanan, dan persedian stok\n- Membuat laporan secara berkala",
+    kriteria:
+      "- Laki-laki, usia maksimal 40 tahun\n- D3/S1 segala jurusan\n- Memiliki pengalaman dibagian warehouse/gudang minimal 1 tahun\n- Memiliki pengalaman handle bawahan\n- Suka pekerjaan lapangan dan baik dalam administrasi\n- Tegas, jujur, dan bertanggung jawab\n- Memiliki kemampuan memimpin dan komunikasi yang baik\n- Memahami FIFO & LIFO\n- Tidak alergi debu\n- Penempatan di Plant Krian",
+    daerahPenempatan: "Plant Krian",
+  },
+  {
+    id: 65,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "PPIC",
+    jabatan: "Warehouse Supervisor",
+    deskripsiPekerjaan:
+      "- Merencanakan, mengkoordinasi, mengontrol dan mengevaluasi semua kegiatan penerimaan, penyimpanan dan persediaan stok barang\n- Membuat perencanaan jadwal produksi untuk mendukung pencapaian target yang telah ditetapkan\n- Memastikan ketersediaan barang sesuai kebutuhan\n- Memastikan aktivitas keluar masuk barang berjalan lancar sesuai dengan prosedur yang telah ditetapkan\n- Memastikan semua kegiatan barang masuk maupun keluar sudah terdokumentasikan dengan baik dan benar\n- Melakukan koordinasi dengan departemen lain",
+    kriteria:
+      "- Laki-laki, usia maksimal 40 tahun\n- D3/S1 segala jurusan\n- Memiliki pengalaman minimal 3 tahun sebagai Kepala / Leader Gudang\n- Mempunyai kemampuan controlling dan pengolahan data yang baik\n- Menyukai pekerjaan lapangan dan baik dalam administrasi\n- Memahami FIFO, LIFO, dan Warehouse Management System\n- Menguasai SAP menjadi nilai tambah\n- Tegas, jujur, dapat dipercaya, dan bertanggung jawab\n- Tidak alergi debu\n- Penempatan di Plant Sragen (disediakan fasilitas mess)",
+    daerahPenempatan: "Plant Sragen",
+  },
+  {
+    id: 66,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Maintenance",
+    jabatan: "Maintenance Staff",
+    deskripsiPekerjaan:
+      "- Menjaga downtime area yang menjadi tanggungjawabnya tidak melebihi target yang ditentukan.\n- Menyelesaikan MWR (Maintenance Work Order) pada area yang menjadi tanggungjawabnya.\n- Menjalankan preventive maintenance dan planning maintenance dengan baik sesuai dengan jadwal.\n- Melakukan double cross-check AM (Autonomous Maintenance) yang berada di area yang menjadi tanggung jawabnya.\n- Mendata kondisi semua keadaan mesin di lapangan, kebutuhan sparepart, dan membuat laporan harian kepada atasan langsung mengenai evaluasi kinerja (hasil kerja dan temuan).",
+    kriteria:
+      "- Laki-laki\n- D3/S1 Teknik Mesin/Elektro\n- Pengalaman min. 2 tahun di bidang maintenance di industri manufaktur\n- Bisa membaca dan memahami diagram listrik / wiring diagram / PLC (untuk elektro) atau menguasai las & bubut (untuk mekanik)\n- Menyukai pekerjaan lapangan\n- Tidak alergi debu\n- Penempatan di Plant Lamongan/Sragen (disediakan fasilitas mess)",
+    daerahPenempatan: "Plant Lamongan/Sragen",
+  },
+  {
+    id: 67,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "HRD-GA",
+    jabatan: "HRD-GA Staff",
+    deskripsiPekerjaan:
+      "- Bertanggung jawab untuk pengurusan dan monitoring perijinan perusahaan\n- Berhubungan dengan pihak eksternal (Dinas pemerintahan, Kepolisian, dll)\n- Melakukan tugas administrasi HRD-GA",
+    kriteria:
+      "- Laki-laki\n- S1 segala jurusan, diutamakan dari Hukum / Manajemen\n- Memiliki pengalaman di bidang HRD-GA minimal 1 tahun menjadi nilai tambah\n- Memiliki pengalaman handle perijinan menjadi nilai tambah\n- Fresh graduate diperbolehkan melamar\n- Tidak alergi debu\n- Penempatan di Surabaya",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 68,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "HRD-GA",
+    jabatan: "Legal Supervisor",
+    deskripsiPekerjaan:
+      "- Bertanggung jawab pada pelaporan dan pengurusan perijinan perusahaan seluruh plant\n- Memonitoring perijinan perusahaan seluruh plant\n- Berhubungan dengan pihak eksternal (Dinas pemerintahan, Kepolisian, dll)",
+    kriteria:
+      "- Laki-laki/ Perempuan\n- S1 Hukum, IPK minimal 3.00\n- Memiliki pengalaman minimal 2 tahun sebagai Supervisor Legal di perusahaan manufaktur\n- Terbiasa melakukan pengurusan/pelaporan perijinan perusahaan\n- Menyukai tantangan, mampu bekerja secara tim maupun individu\n- Memiliki integritas tinggi, disiplin, tegas, dan komunikatif\n- Bersedia melakukan perjalanan dinas luar kota\n- Tidak alergi debu\n- Penempatan Mobile (Lamongan, Krian, Mojokerto, Sragen)",
+    daerahPenempatan: "Mobile (Lamongan, Krian, Mojokerto, Sragen)",
+  },
+  {
+    id: 69,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Produksi/ Maintenance",
+    jabatan: "Management Trainee",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Laki-laki/ perempuan\n- S1 Teknik, IPK minimal 3.00\n- Wajib menguasai Bahasa Mandarin (speaking & listening)\n- Mampu bekerja di bawah tekanan\n- Memiliki jiwa leadership dan komunikasi yang baik\n- Tidak alergi debu\n- Bersedia mengikuti training di luar kota\n- Penempatan di Subang",
+    daerahPenempatan: "Subang",
+  },
+  {
+    id: 70,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Accounting",
+    jabatan: "Accounting Staff",
+    deskripsiPekerjaan:
+      "Melakukan penginputan transaksi (jurnal) ke dalam program\n- Membuat rincian laporan neraca dan laba rugi\n- Melakukan stock opname, kas, piutang, dan lain lain\n- Melakukan pemeriksaan terhadap keakuratan dana dan laporan internal secara berkala\n- Mengarsip dokumen & melakukan verifikasi kebenaran dokumen",
+    kriteria:
+      "- Laki-laki\n- S1 Akuntansi, IPK minimal 3.00\n- Menguasai basic accounting & jurnal\n- Teliti & tekun\n- Punya inisiatif dan mau belajar\n- Bersedia melakukan perjalanan dinas ke luar kota (jika diperlukan)\n- Freshgraduate dipersilahkan melamar\n- Tidak alergi debu\n- Diutamakan kandidat yang mempunyai sim A\n- Penempatan Subang",
+    daerahPenempatan: "Subang",
+  },
+  {
+    id: 71,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "Purchasing",
+    jabatan: "Purchasing Staff",
+    deskripsiPekerjaan:
+      "Mencari dan membeli barang, material, atau jasa yang dibutuhkan untuk operasional perusahaan dari lokal / foreign vendor\n- Berkoordinasi dengan user peminta barang untuk spesifikasi teknis material atau jasa yang akan diorder\n- Melakukan negosiasi dengan pihak vendor untuk mencapai kesepakatan harga\n- Menyiapkan dan memastikan dokumen-dokumen yang dibutuhkan untuk prosedur import barang dengan benar\n- Memantau Purchase Order yang telah dibuat hingga material diterima / jasa dilakukan\n- Menjaga stok dan persediaan sesuai kebutuhan\n- Membuat laporan harian",
+    kriteria:
+      "- Laki-laki\n- S1 segala jurusan, diutamakan dari jurusan Teknik, IPK minimal 3.00\n- Memiliki pengalaman minimal 1 tahun di bidang Purchasing\n- Memiliki kemampuan komunikasi dan negosiasi yang baik\n- Pekerja keras dan memiliki inisiatif\n- Memahami istilah & spesifikasi sparepart mesin menjadi nilai tambah\n- Penempatan di Subang",
+    daerahPenempatan: "Subang",
+  },
+  {
+    id: 72,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "HRD-GA",
+    jabatan: "HRD-GA Staff",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk pengurusan dan monitoring perijinan perusahaan\n- Melakukan tugas administrasi HRD-GA (payroll, administrasi karyawan, personalia, dll)\n- Bertanggung jawab dengan BPJS Kesehatan dan Ketenagakerjaan karyawan",
+    kriteria:
+      "- Laki-laki\n- S1 segala jurusan, diutamakan dari Hukum / Manajemen\n- Memiliki pengalaman di bidang HRD-GA minimal 1 tahun\n- Memiliki pengalaman handle perijinan (OSS, SIINas, dll)\n- Menguasai Payroll, BPJS Kesehatan & Ketenagakerjaan\n- Memiliki pengalaman handle perijinan dari awal pembangunan pabrik\n- Tidak alergi debu\n- Penempatan di Subang",
+    daerahPenempatan: "Subang",
+  },
+  {
+    id: 73,
+    name: "PT Superior Prima Sukses",
+    companyURL: "/company-list/pt-superior-prima-sukses",
+    image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
+    deskripsiPerusahaan:
+      "PT. Superior Prima Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur Bata Ringan dengan merek BLESSCON, yaitu bata ringan pertama di Indonesia yang tersertifikasi SNI 8640 : 2018. PT. Superior Prima Sukses merupakan bagian dari SPS Corporate yang berkomitmen dengan visi perusahaan untuk terus berkembang secara berkesinambungan. Saat ini, PT. Superior Prima Sukses sudah memiliki 5 plant, yaitu Plant 1 (Mojokerto-Jawa Timur), Plant 2 (Lamongan-Jawa Timur), Plant 3A dan Plant 3B (Sragen-Jawa Tengah), dan Plant 5 (Krian-Jawa Timur). Dengan total kapasitas produksi, yaitu 3.000.000 m3/tahun menjadikan BLESSCON sebagai produsen bata ringan terbesar di Indonesia.\n\nPT. Superior Porcelain Sukses adalah sister company dari PT. Superior Prima Sukses dan merupakan bagian dari SPS Corporate. PT. Superior Porcelain Sukses adalah perusahaan yang bergerak dalam bidang industri manufaktur granitile yang saat ini masih dalam tahap pembangunan di Subang - Jawa Barat. PT. Superior Porcelain Sukses akan memulai produksinya pada tahun 2024 dengan target kapasitas produksi 12,5 juta m2/tahun, target tersebut akan menjadikan PT. Superior Porcelain Sukses menjadi salah satu dari 3 perusahaan granitile terbesar di Indonesia. Selain itu, dengan dukungan tenaga ahli dan mesin berteknologi mutakhir, kami yakin mampu menghasilkan produk granit yang berkualitas, dan siap untuk didistribusikan ke seluruh wilayah Indonesia.",
+    daftarURL: "https://forms.gle/GcL7koTgCj4hUKDM6",
+    tipe: "Full Time",
+    divisi: "HRD-GA",
+    jabatan: "Human Capital Supervisor",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk rekrutmen level staff ke atas\n- Melakukan analisa kebutuhan training untuk peningkatan kualitas dan kompetensi SDM\n- Mengadakan training softskill untuk pengembangan SDM\n- Memberikan konseling kepada karyawan dalam upaya peningkatan kinerja\n- Merekap hasil penilaian kinerja karyawan dan melakukan analisa",
+    kriteria:
+      "- Laki-laki/perempuan\n- S1 Psikologi/Hukum, IPK minimal 3.00\n- Memiliki pengalaman di bidang rekrutmen, training, dan payroll minimal 2 tahun\n- Memiliki kemampuan komunikasi yang baik\n- Memahami alat tes psikologi menjadi nilai tambah\n- Teliti, ulet, dan pekerja keras\n- Mampu bekerja secara individu maupun tim\n- Tidak alergi debu\n- Penempatan di Subang",
+    daerahPenempatan: "Subang",
+  },
+
 ];

@@ -12,6 +12,7 @@ export { default as HotelCiputraWorldSurabaya } from "../pages/vacancy/companyLi
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
 export { default as IndoprimaGroup } from "../pages/vacancy/companyList/IndoprimaGroup";
 export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPramulia";
+export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/PTSuperiorPrimaSukses";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

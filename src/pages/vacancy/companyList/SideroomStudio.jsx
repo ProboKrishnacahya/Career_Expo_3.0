@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function PTAsiaPramulia() {
+export default function SideroomStudio() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "PT Asia Pramulia";
+    document.title = "Sideroom Studio";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -65,7 +65,7 @@ export default function PTAsiaPramulia() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(2, 15)}
+        {jobList.slice(87, 93)}
       </div>
     </div>
   ));
@@ -107,21 +107,21 @@ export default function PTAsiaPramulia() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[2]}
+          {companyProfile[87]}
         </section>
       </div>
 
       <div
         className="modal fade"
-        id="jobModal2"
+        id="jobModal87"
         tabindex="-1"
-        aria-labelledby="jobModal2Label"
+        aria-labelledby="jobModal87Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal2Label">
+              <h2 className="modal-title text-center" id="jobModal87Label">
                 Persyaratan
               </h2>
               <button
@@ -131,21 +131,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[2]}</div>
+            <div className="modal-body">{persyaratan[87]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal3"
+        id="jobModal88"
         tabindex="-1"
-        aria-labelledby="jobModal3Label"
+        aria-labelledby="jobModal88Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal3Label">
+              <h2 className="modal-title text-center" id="jobModal88Label">
                 Persyaratan
               </h2>
               <button
@@ -155,21 +155,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[3]}</div>
+            <div className="modal-body ">{persyaratan[88]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal4"
+        id="jobModal89"
         tabindex="-1"
-        aria-labelledby="jobModal4Label"
+        aria-labelledby="jobModal89Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal4Label">
+              <h2 className="modal-title text-center" id="jobModal89Label">
                 Persyaratan
               </h2>
               <button
@@ -179,21 +179,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[4]}</div>
+            <div className="modal-body ">{persyaratan[89]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal5"
+        id="jobModal90"
         tabindex="-1"
-        aria-labelledby="jobModal5Label"
+        aria-labelledby="jobModal90Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal5Label">
+              <h2 className="modal-title text-center" id="jobModal90Label">
                 Persyaratan
               </h2>
               <button
@@ -203,21 +203,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[5]}</div>
+            <div className="modal-body ">{persyaratan[90]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal6"
+        id="jobModal91"
         tabindex="-1"
-        aria-labelledby="jobModal6Label"
+        aria-labelledby="jobModal91Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal6Label">
+              <h2 className="modal-title text-center" id="jobModal91Label">
                 Persyaratan
               </h2>
               <button
@@ -227,21 +227,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[6]}</div>
+            <div className="modal-body ">{persyaratan[91]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal7"
+        id="jobModal92"
         tabindex="-1"
-        aria-labelledby="jobModal7Label"
+        aria-labelledby="jobModal92Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal7Label">
+              <h2 className="modal-title text-center" id="jobModal92Label">
                 Persyaratan
               </h2>
               <button
@@ -251,21 +251,21 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[7]}</div>
+            <div className="modal-body ">{persyaratan[92]}</div>
           </div>
         </div>
       </div>
       <div
         className="modal fade"
-        id="jobModal8"
+        id="jobModal93"
         tabindex="-1"
-        aria-labelledby="jobModal8Label"
+        aria-labelledby="jobModal93Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal8Label">
+              <h2 className="modal-title text-center" id="jobModal93Label">
                 Persyaratan
               </h2>
               <button
@@ -275,151 +275,7 @@ export default function PTAsiaPramulia() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[8]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal9"
-        tabindex="-1"
-        aria-labelledby="jobModal9Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal9Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[9]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal10"
-        tabindex="-1"
-        aria-labelledby="jobModal10Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal10Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[10]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal11"
-        tabindex="-1"
-        aria-labelledby="jobModal11Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal11Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[11]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal12"
-        tabindex="-1"
-        aria-labelledby="jobModal12Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal12Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[12]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal13"
-        tabindex="-1"
-        aria-labelledby="jobModal13Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal13Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[13]}</div>
-          </div>
-        </div>
-      </div>
-      <div
-        className="modal fade"
-        id="jobModal14"
-        tabindex="-1"
-        aria-labelledby="jobModal14Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal14Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[14]}</div>
+            <div className="modal-body ">{persyaratan[93]}</div>
           </div>
         </div>
       </div>

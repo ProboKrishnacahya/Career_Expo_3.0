@@ -71,7 +71,7 @@ export default function Artax() {
   ));
 
   const persyaratan = job.map((job) => (
-    <div>
+    <div className="d-grid gap-2">
       <div>
         <h4>
           <i className="bi bi-tag"></i>&ensp;Lowongan
@@ -131,7 +131,7 @@ export default function Artax() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[15]}</div>
+            <div className="modal-body">{persyaratan[15]}</div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@ export default function Artax() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[16]}</div>
+            <div className="modal-body">{persyaratan[16]}</div>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@ export default function Artax() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[17]}</div>
+            <div className="modal-body">{persyaratan[17]}</div>
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@ export default function Artax() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[18]}</div>
+            <div className="modal-body">{persyaratan[18]}</div>
           </div>
         </div>
       </div>

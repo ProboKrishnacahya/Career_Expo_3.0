@@ -71,7 +71,7 @@ export default function HSBC() {
   ));
 
   const persyaratan = job.map((job) => (
-    <div>
+    <div className="d-grid gap-2">
       <div>
         <h4>
           <i className="bi bi-tag"></i>&ensp;Lowongan
@@ -131,7 +131,7 @@ export default function HSBC() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[0]}</div>
+            <div className="modal-body">{persyaratan[0]}</div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@ export default function HSBC() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[1]}</div>
+            <div className="modal-body">{persyaratan[1]}</div>
           </div>
         </div>
       </div>

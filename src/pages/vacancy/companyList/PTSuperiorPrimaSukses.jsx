@@ -71,7 +71,7 @@ export default function PTSuperiorPrimaSukses() {
   ));
 
   const persyaratan = job.map((job) => (
-    <div>
+    <div className="d-grid gap-2">
       <div>
         <h4>
           <i className="bi bi-tag"></i>&ensp;Lowongan
@@ -131,7 +131,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[56]}</div>
+            <div className="modal-body">{persyaratan[56]}</div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[57]}</div>
+            <div className="modal-body">{persyaratan[57]}</div>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[58]}</div>
+            <div className="modal-body">{persyaratan[58]}</div>
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[59]}</div>
+            <div className="modal-body">{persyaratan[59]}</div>
           </div>
         </div>
       </div>
@@ -227,7 +227,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[60]}</div>
+            <div className="modal-body">{persyaratan[60]}</div>
           </div>
         </div>
       </div>
@@ -251,7 +251,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[61]}</div>
+            <div className="modal-body">{persyaratan[61]}</div>
           </div>
         </div>
       </div>
@@ -275,7 +275,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[62]}</div>
+            <div className="modal-body">{persyaratan[62]}</div>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[63]}</div>
+            <div className="modal-body">{persyaratan[63]}</div>
           </div>
         </div>
       </div>
@@ -323,7 +323,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[64]}</div>
+            <div className="modal-body">{persyaratan[64]}</div>
           </div>
         </div>
       </div>
@@ -347,7 +347,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[65]}</div>
+            <div className="modal-body">{persyaratan[65]}</div>
           </div>
         </div>
       </div>
@@ -371,7 +371,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[66]}</div>
+            <div className="modal-body">{persyaratan[66]}</div>
           </div>
         </div>
       </div>
@@ -395,7 +395,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[67]}</div>
+            <div className="modal-body">{persyaratan[67]}</div>
           </div>
         </div>
       </div>
@@ -419,7 +419,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[68]}</div>
+            <div className="modal-body">{persyaratan[68]}</div>
           </div>
         </div>
       </div>
@@ -443,7 +443,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[69]}</div>
+            <div className="modal-body">{persyaratan[69]}</div>
           </div>
         </div>
       </div>
@@ -467,7 +467,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[70]}</div>
+            <div className="modal-body">{persyaratan[70]}</div>
           </div>
         </div>
       </div>
@@ -491,7 +491,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[71]}</div>
+            <div className="modal-body">{persyaratan[71]}</div>
           </div>
         </div>
       </div>
@@ -515,7 +515,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[72]}</div>
+            <div className="modal-body">{persyaratan[72]}</div>
           </div>
         </div>
       </div>
@@ -539,7 +539,7 @@ export default function PTSuperiorPrimaSukses() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[73]}</div>
+            <div className="modal-body">{persyaratan[73]}</div>
           </div>
         </div>
       </div>

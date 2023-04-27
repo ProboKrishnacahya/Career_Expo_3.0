@@ -71,7 +71,7 @@ export default function IndoprimaGroup() {
   ));
 
   const persyaratan = job.map((job) => (
-    <div>
+    <div className="d-grid gap-2">
       <div>
         <h4>
           <i className="bi bi-tag"></i>&ensp;Lowongan
@@ -131,7 +131,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[19]}</div>
+            <div className="modal-body">{persyaratan[19]}</div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[20]}</div>
+            <div className="modal-body">{persyaratan[20]}</div>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[21]}</div>
+            <div className="modal-body">{persyaratan[21]}</div>
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[22]}</div>
+            <div className="modal-body">{persyaratan[22]}</div>
           </div>
         </div>
       </div>
@@ -227,7 +227,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[23]}</div>
+            <div className="modal-body">{persyaratan[23]}</div>
           </div>
         </div>
       </div>
@@ -251,7 +251,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[24]}</div>
+            <div className="modal-body">{persyaratan[24]}</div>
           </div>
         </div>
       </div>
@@ -275,7 +275,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[25]}</div>
+            <div className="modal-body">{persyaratan[25]}</div>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[26]}</div>
+            <div className="modal-body">{persyaratan[26]}</div>
           </div>
         </div>
       </div>
@@ -323,7 +323,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[27]}</div>
+            <div className="modal-body">{persyaratan[27]}</div>
           </div>
         </div>
       </div>
@@ -347,7 +347,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[28]}</div>
+            <div className="modal-body">{persyaratan[28]}</div>
           </div>
         </div>
       </div>
@@ -371,7 +371,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[29]}</div>
+            <div className="modal-body">{persyaratan[29]}</div>
           </div>
         </div>
       </div>
@@ -395,7 +395,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[30]}</div>
+            <div className="modal-body">{persyaratan[30]}</div>
           </div>
         </div>
       </div>
@@ -419,7 +419,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[31]}</div>
+            <div className="modal-body">{persyaratan[31]}</div>
           </div>
         </div>
       </div>
@@ -443,7 +443,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[32]}</div>
+            <div className="modal-body">{persyaratan[32]}</div>
           </div>
         </div>
       </div>
@@ -467,7 +467,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[33]}</div>
+            <div className="modal-body">{persyaratan[33]}</div>
           </div>
         </div>
       </div>
@@ -491,7 +491,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[34]}</div>
+            <div className="modal-body">{persyaratan[34]}</div>
           </div>
         </div>
       </div>
@@ -515,7 +515,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[35]}</div>
+            <div className="modal-body">{persyaratan[35]}</div>
           </div>
         </div>
       </div>
@@ -539,7 +539,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[36]}</div>
+            <div className="modal-body">{persyaratan[36]}</div>
           </div>
         </div>
       </div>
@@ -563,7 +563,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[37]}</div>
+            <div className="modal-body">{persyaratan[37]}</div>
           </div>
         </div>
       </div>
@@ -587,7 +587,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[38]}</div>
+            <div className="modal-body">{persyaratan[38]}</div>
           </div>
         </div>
       </div>
@@ -611,7 +611,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[39]}</div>
+            <div className="modal-body">{persyaratan[39]}</div>
           </div>
         </div>
       </div>
@@ -635,7 +635,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[40]}</div>
+            <div className="modal-body">{persyaratan[40]}</div>
           </div>
         </div>
       </div>
@@ -659,7 +659,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[41]}</div>
+            <div className="modal-body">{persyaratan[41]}</div>
           </div>
         </div>
       </div>
@@ -683,7 +683,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[42]}</div>
+            <div className="modal-body">{persyaratan[42]}</div>
           </div>
         </div>
       </div>
@@ -707,7 +707,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[43]}</div>
+            <div className="modal-body">{persyaratan[43]}</div>
           </div>
         </div>
       </div>
@@ -731,7 +731,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[44]}</div>
+            <div className="modal-body">{persyaratan[44]}</div>
           </div>
         </div>
       </div>
@@ -755,7 +755,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[45]}</div>
+            <div className="modal-body">{persyaratan[45]}</div>
           </div>
         </div>
       </div>
@@ -779,7 +779,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[46]}</div>
+            <div className="modal-body">{persyaratan[46]}</div>
           </div>
         </div>
       </div>
@@ -803,7 +803,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[47]}</div>
+            <div className="modal-body">{persyaratan[47]}</div>
           </div>
         </div>
       </div>
@@ -827,7 +827,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[48]}</div>
+            <div className="modal-body">{persyaratan[48]}</div>
           </div>
         </div>
       </div>
@@ -851,7 +851,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[49]}</div>
+            <div className="modal-body">{persyaratan[49]}</div>
           </div>
         </div>
       </div>
@@ -875,7 +875,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[50]}</div>
+            <div className="modal-body">{persyaratan[50]}</div>
           </div>
         </div>
       </div>
@@ -899,7 +899,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[51]}</div>
+            <div className="modal-body">{persyaratan[51]}</div>
           </div>
         </div>
       </div>
@@ -923,7 +923,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[52]}</div>
+            <div className="modal-body">{persyaratan[52]}</div>
           </div>
         </div>
       </div>
@@ -947,7 +947,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[53]}</div>
+            <div className="modal-body">{persyaratan[53]}</div>
           </div>
         </div>
       </div>
@@ -971,7 +971,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[54]}</div>
+            <div className="modal-body">{persyaratan[54]}</div>
           </div>
         </div>
       </div>
@@ -995,7 +995,7 @@ export default function IndoprimaGroup() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[55]}</div>
+            <div className="modal-body">{persyaratan[55]}</div>
           </div>
         </div>
       </div>

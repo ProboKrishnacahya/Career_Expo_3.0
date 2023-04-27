@@ -71,7 +71,7 @@ export default function PTSuryaTimurSaktiJatim() {
   ));
 
   const persyaratan = job.map((job) => (
-    <div>
+    <div className="d-grid gap-2">
       <div>
         <h4>
           <i className="bi bi-tag"></i>&ensp;Lowongan
@@ -131,7 +131,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[74]}</div>
+            <div className="modal-body">{persyaratan[74]}</div>
           </div>
         </div>
       </div>
@@ -155,7 +155,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[75]}</div>
+            <div className="modal-body">{persyaratan[75]}</div>
           </div>
         </div>
       </div>
@@ -179,7 +179,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[76]}</div>
+            <div className="modal-body">{persyaratan[76]}</div>
           </div>
         </div>
       </div>
@@ -203,7 +203,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[77]}</div>
+            <div className="modal-body">{persyaratan[77]}</div>
           </div>
         </div>
       </div>
@@ -227,7 +227,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[78]}</div>
+            <div className="modal-body">{persyaratan[78]}</div>
           </div>
         </div>
       </div>
@@ -251,7 +251,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[79]}</div>
+            <div className="modal-body">{persyaratan[79]}</div>
           </div>
         </div>
       </div>
@@ -275,7 +275,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[80]}</div>
+            <div className="modal-body">{persyaratan[80]}</div>
           </div>
         </div>
       </div>
@@ -299,7 +299,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[81]}</div>
+            <div className="modal-body">{persyaratan[81]}</div>
           </div>
         </div>
       </div>
@@ -323,7 +323,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[82]}</div>
+            <div className="modal-body">{persyaratan[82]}</div>
           </div>
         </div>
       </div>
@@ -347,7 +347,7 @@ export default function PTSuryaTimurSaktiJatim() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body d-grid gap-2">{persyaratan[83]}</div>
+            <div className="modal-body">{persyaratan[83]}</div>
           </div>
         </div>
       </div>

@@ -4,10 +4,10 @@ import Footer from "../../../components/Footer";
 import Header from "../../../components/Header";
 import { job } from "../../../data/vacancy/JobVacancy";
 
-export default function HotelCiputraWorldSurabaya() {
+export default function PTSiantarTop() {
   useEffect(() => {
     // * Tab Page Title
-    document.title = "Hotel Ciputra World Surabaya";
+    document.title = "PT Siantar Top";
 
     // * Enable Bootstrap's Tooltip Everywhere
     var tooltipElList = [].slice.call(
@@ -65,7 +65,7 @@ export default function HotelCiputraWorldSurabaya() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList[2]}
+        {jobList.slice(84, 87)}
       </div>
     </div>
   ));
@@ -107,21 +107,21 @@ export default function HotelCiputraWorldSurabaya() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[3]}
+          {companyProfile[84]}
         </section>
       </div>
 
       <div
         className="modal fade"
-        id="jobModal2"
+        id="jobModal84"
         tabindex="-1"
-        aria-labelledby="jobModal2Label"
+        aria-labelledby="jobModal84Label"
         aria-hidden="true"
       >
         <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
           <div className="modal-content">
             <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal2Label">
+              <h2 className="modal-title text-center" id="jobModal84Label">
                 Persyaratan
               </h2>
               <button
@@ -131,7 +131,55 @@ export default function HotelCiputraWorldSurabaya() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">{persyaratan[2]}</div>
+            <div className="modal-body">{persyaratan[84]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal85"
+        tabindex="-1"
+        aria-labelledby="jobModal85Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal85Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[85]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal86"
+        tabindex="-1"
+        aria-labelledby="jobModal86Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal86Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[86]}</div>
           </div>
         </div>
       </div>

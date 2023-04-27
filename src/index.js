@@ -17,8 +17,10 @@ import {
   HSBC,
   IndoprimaGroup,
   PTAsiaPramulia,
+  PTSiantarTop,
   PTSuperiorPrimaSukses,
   PTSuryaTimurSaktiJatim,
+  SideroomStudio,
   CareerExpo,
   Workshop,
   Register,
@@ -51,8 +53,10 @@ root.render(
       <Route path="/company-list/hsbc" element={<HSBC />} />
       <Route path="/company-list/indoprima-group" element={<IndoprimaGroup />} />
       <Route path="/company-list/pt-asia-pramulia" element={<PTAsiaPramulia />} />
+      <Route path="/company-list/pt-siantar-top" element={<PTSiantarTop />} />
       <Route path="/company-list/pt-superior-prima-sukses" element={<PTSuperiorPrimaSukses />} />
       <Route path="/company-list/pt-surya-timur-sakti-jatim" element={<PTSuryaTimurSaktiJatim />} />
+      <Route path="/company-list/sideroom-studio" element={<SideroomStudio />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

@@ -1435,5 +1435,154 @@ export const job = [
       "- Pekerja keras, jujur, dan mampu bekerja secara mandiri maupun dalam tim.\n- Pendidikan min. SMA/SMK\n- Memiliki kemampuan komunikasi dan negosiasi yang baik.\n- Memiliki SIM C dan kendaraan sendiri",
     daerahPenempatan: "ALL AREA JATIM (PT. SURYA TIMUR SAKTI JATIM)",
   },
-  
+  {
+    id: 84,
+    name: "PT Siantar Top",
+    companyURL: "/company-list/pt-siantar-top",
+    image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
+    deskripsiPerusahaan:
+      "PT Siantar Top, Tbk pertama kali didirikan pada tahun 1972 sebagai pelopor industri makanan ringan di Jawa Timur. Pada tahun 1996, PT Siantar Top, Tbk terdaftar sebagai perusahaan publik di Bursa Efek Indonesia (BEI). PT Siantar Top, Tbk terus berkembang dan memperkuat posisinya sebagai perusahaan garda terdepan yang bergerak di bidang manufakturing makanan ringan. PT Siantar Top, Tbk mulai melebarkan sayapnya dengan melakukan ekspansi di beberapa kawasan Asia.\n\nSeiring dengan berjalannya waktu, PT Siantar Top, Tbk terus melakukan pembenahan dalam segi kualitas produk sehingga bisa diterima di berbagai kalangan dan karena kulitas produknya, kini berbagai macam produk PT Siantar Top dapat dinikmati oleh konsumen yang tersebar di mancanegara, seperti Asia, Timur Tengah, dan Afrika.",
+    daftarURL: "https://forms.gle/KRUgRBUqxMaxgrSq7",
+    tipe: "Full Time",
+    divisi: "Sales & Marketing",
+    jabatan: "Creative Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Wanita, usia 23 – 28 tahun\n- Pendidikan minimal D3/S1 (Desain Grafis, Desain Komunikasi Visual, Ilmu Komunikasi)\n- Memiliki pengalaman di posisi yang sama minimal 6 bulan\n- Menguasai Adobe Premiere\n- Terbiasa menggunakan Media Sosial (Instagram, YouTube, Tiktok)\n- Memiliki pengetahuan mengenai musik atau jingle\n- Mampu membuat storyboard\n- Kreatif, inisiatif dan komunikatif\n- Penempatan Surabaya, Jawa Timur\n\nMohon melampirkan portofolio terbaru Anda",
+    daerahPenempatan: "Surabaya, Jawa Timur",
+  },
+  {
+    id: 85,
+    name: "PT Siantar Top",
+    companyURL: "/company-list/pt-siantar-top",
+    image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
+    deskripsiPerusahaan:
+      "PT Siantar Top, Tbk pertama kali didirikan pada tahun 1972 sebagai pelopor industri makanan ringan di Jawa Timur. Pada tahun 1996, PT Siantar Top, Tbk terdaftar sebagai perusahaan publik di Bursa Efek Indonesia (BEI). PT Siantar Top, Tbk terus berkembang dan memperkuat posisinya sebagai perusahaan garda terdepan yang bergerak di bidang manufakturing makanan ringan. PT Siantar Top, Tbk mulai melebarkan sayapnya dengan melakukan ekspansi di beberapa kawasan Asia.\n\nSeiring dengan berjalannya waktu, PT Siantar Top, Tbk terus melakukan pembenahan dalam segi kualitas produk sehingga bisa diterima di berbagai kalangan dan karena kulitas produknya, kini berbagai macam produk PT Siantar Top dapat dinikmati oleh konsumen yang tersebar di mancanegara, seperti Asia, Timur Tengah, dan Afrika.",
+    daftarURL: "https://forms.gle/KRUgRBUqxMaxgrSq7",
+    tipe: "Full Time",
+    divisi: "Sales & Marketing",
+    jabatan: "Marketing Export",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Wanita, usia 21 – 25 Tahun\n- S1 Manajemen Pemasaran, Bisnis Internasional, Administrasi Bisnis, Keuangan, Akuntansi, Teknik\n- Memiliki pengalaman di posisi yang sama minimal 1 tahun (fresh graduate dipersilahkan untuk melamar)\n- Memahami konsep pemasaran & analisa peluang pasar\n- Fasih Bahasa Inggris baik lisan maupun tulisan (mampu berbahasa Mandarin menjadi nilai plus)\n- Memiliki logika berpikir yang baik\n- Memiliki kemampuan problem solving dan komunikasi yang baik\n- Proaktif, bertanggungjawab dan disiplin\n- Penempatan di Surabaya, Jawa Timur",
+    daerahPenempatan: "Surabaya, Jawa Timur",
+  },
+  {
+    id: 86,
+    name: "PT Siantar Top",
+    companyURL: "/company-list/pt-siantar-top",
+    image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
+    deskripsiPerusahaan:
+      "PT Siantar Top, Tbk pertama kali didirikan pada tahun 1972 sebagai pelopor industri makanan ringan di Jawa Timur. Pada tahun 1996, PT Siantar Top, Tbk terdaftar sebagai perusahaan publik di Bursa Efek Indonesia (BEI). PT Siantar Top, Tbk terus berkembang dan memperkuat posisinya sebagai perusahaan garda terdepan yang bergerak di bidang manufakturing makanan ringan. PT Siantar Top, Tbk mulai melebarkan sayapnya dengan melakukan ekspansi di beberapa kawasan Asia.\n\nSeiring dengan berjalannya waktu, PT Siantar Top, Tbk terus melakukan pembenahan dalam segi kualitas produk sehingga bisa diterima di berbagai kalangan dan karena kulitas produknya, kini berbagai macam produk PT Siantar Top dapat dinikmati oleh konsumen yang tersebar di mancanegara, seperti Asia, Timur Tengah, dan Afrika.",
+    daftarURL: "https://forms.gle/KRUgRBUqxMaxgrSq7",
+    tipe: "Full Time",
+    divisi: "Finance & Accounting",
+    jabatan: "Accounting Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Wanita, usia 23 - 30 tahun\n- Pendidikan minimal D3 / S1 Jurusan Akuntansi\n- Memiliki pengalaman minimal 1 tahun sebagai accounting staff\n- Memahami dasar-dasar ilmu akuntansi dan perpajakan\n- Menguasai Microsoft Office (terutama Microsoft Excel)\n- Tanggap, jujur, teliti dan loyal\n- Mampu bekerja mandiri maupun dalam tim\n- Penempatan di Sidoarjo, Jawa Timur",
+    daerahPenempatan: "Sidoarjo, Jawa Timur",
+  },
+  {
+    id: 87,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "Illustrator",
+    jabatan: "2D Artist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk menggambar sketsa, membuat storyboard, serta membuat konsep visualisasi karakter, lingkungan, dan latar belakang.",
+    kriteria:
+      "Menguasai kemampuan:\n- Digital Illustration\n- Animation Storyboard\n- Hand drawing\n- Graphic Design is a PLUS!",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 88,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "3D",
+    jabatan: "C4D Generalist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk melakukan fungsi dasar 3D pada software Cinema 4D",
+    kriteria:
+      "Menguasai kemampuan:\n- Modeling\n- Motion Graphic\n- Animasi\n- Texture & Lighting Composition",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 89,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "Illustrator",
+    jabatan: "2D Artist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk menggambar sketsa, membuat storyboard, serta membuat konsep visualisasi karakter, lingkungan, dan latar belakang.",
+    kriteria:
+      "Menguasai kemampuan:\n- Digital Illustration\n- Animation Storyboard\n- Hand drawing\n- Graphic Design is a PLUS!",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 90,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "3D",
+    jabatan: "3D Generalist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab untuk melakukan fungsi dasar 3D pada software - software 3D (ex: Blender, Cinema 4D, Unreal Engine, Maya)",
+    kriteria:
+      "Menguasai kemampuan:\n- Modeling\n- Motion Graphic\n- Animasi\n- Texture & Lighting Composition",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 91,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "3D",
+    jabatan: "Maya Artist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab dalam mengoptimalisasikan pembuatan animasi karakter untuk kebutuhan produksi pada software Autodesk Maya.",
+    kriteria:
+      "Menguasai kemampuan:\n- Character rigging\n- Character animation\n- Lighting Composition",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 92,
+    name: "Sideroom Studio",
+    companyURL: "/company-list/sideroom-studio",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    deskripsiPerusahaan:
+      "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
+    daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
+    tipe: "Full Time",
+    divisi: "Visual Effects",
+    jabatan: "VFX Artist",
+    deskripsiPekerjaan:
+      "Bertanggung jawab dalam pembuatan visual dan animasi yang photo-real dengan efek visual buatan.",
+    kriteria:
+      "Menguasai kemampuan:\n- Compositing process\n- Blue / green screen process\n- Light & shadow composition\n- Proses seamless integration of live action",
+    daerahPenempatan: "Surabaya",
+  },
 ];

@@ -1585,4 +1585,68 @@ export const job = [
       "Menguasai kemampuan:\n- Compositing process\n- Blue / green screen process\n- Light & shadow composition\n- Proses seamless integration of live action",
     daerahPenempatan: "Surabaya",
   },
+  {
+    id: 93,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "MT Finance & Accounting",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "1. Pria/Wanita, Lulusan S1 Manajemen/Akuntansi\n2. Bersedia melakukan perjalanan dinas\n3. Bersedia turun ke lapangan\n4. Bersedia ditempatkan di Sidoarjo\n5. Memiliki kemampuan komunikasi yang baik\n6. Memiliki kemampuan analisa yang baik",
+    daerahPenempatan: "",
+  },
+  {
+    id: 94,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "MT Sales & Operation",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu \n5. Bersedia ditempatkan di Sidoarjo, Cikarang, dan Semarang\n6. Memiliki kemampuan komunikasi yang baik",
+    daerahPenempatan: "",
+  },
+  {
+    id: 95,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "MT HRD",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu \n5. Bersedia ditempatkan di Sidoarjo\n6. Memiliki kemampuan komunikasi yang baik\n7. Bersedia melakukan perjalanan dinas",
+    daerahPenempatan: "",
+  },
+  {
+    id: 96,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Internship",
+    divisi: "Field (Maintenance Truck)",
+    jabatan: "Internship",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Melakukan kontrol perbaikan unit Truck\n- Memastikan perbaikan dilaksakan sesuai standar\n- Membuat laporan harian",
+    daerahPenempatan: "Trosobo, Sidoarjo",
+  },
 ];

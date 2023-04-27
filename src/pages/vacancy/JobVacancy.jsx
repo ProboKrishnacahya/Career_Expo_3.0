@@ -51,8 +51,10 @@ export default function JobVacancy() {
             className="card-img-top w-75 h-75 mx-auto py-2"
           />
           <div className="card-body py-3 d-grid justify-content-center align-items-center">
-            <h3>{job.jabatan}</h3>
-            <strong className="text-truncate my-2">{job.divisi}</strong>
+            <h4>{job.jabatan}</h4>
+            <strong className="text-truncate text-black my-2">
+              {job.divisi}
+            </strong>
             <span className="text-muted text-truncate">{job.name}</span>
           </div>
           <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">
@@ -67,16 +69,22 @@ export default function JobVacancy() {
   ));
 
   const lowonganFullTime = jobVacancy.filter((_item, index) =>
-    [0, 1, 2, 3, 4, 5].includes(index)
+    [
+      0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 15, 16, 17, 19, 20, 21, 22, 23, 24,
+      25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42,
+      43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60,
+      61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78,
+      79, 80, 81, 82,
+    ].includes(index)
   );
   const lowonganPartTime = jobVacancy.filter((_item, index) =>
-    [10, 11, 12, 13, 14, 15].includes(index)
+    [].includes(index)
   );
   const lowonganFreelance = jobVacancy.filter((_item, index) =>
-    [20, 21, 22, 23, 24, 25].includes(index)
+    [83].includes(index)
   );
   const lowonganInternship = jobVacancy.filter((_item, index) =>
-    [30, 31, 32, 33, 34, 35].includes(index)
+    [12, 13, 14, 18].includes(index)
   );
 
   return (

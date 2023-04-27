@@ -22,7 +22,7 @@ export default function PTAsiaPramulia() {
     <div key={job.id} className="col">
       <div className="card text-center px-0 py-2 h-100">
         <div className="card-body py-3 d-grid justify-content-center align-items-center">
-          <h3>{job.jabatan}</h3>
+          <h4>{job.jabatan}</h4>
           <strong className="text-truncate mt-3">{job.divisi}</strong>
         </div>
         <div className="card-footer py-2 border-0 bg-transparent d-grid gap-2">

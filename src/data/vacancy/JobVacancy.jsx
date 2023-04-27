@@ -1426,7 +1426,7 @@ export const job = [
     deskripsiPerusahaan:
       "Basra Corporation Group consists of eight distinct yet co-aligned business units that are regionally situated throughout the Eastern regions of Indonesia. All units work together to deliver a wide range of specialized services, extending from high-end Japanese motorcycle products and services (Yamaha), distribution, logistics, finance, beauty and care, property and most recently we have extended towards health & fitness.",
     daftarURL: "https://forms.gle/vHKVctJMyaEJz7aN8",
-    tipe: "Full Time",
+    tipe: "Freelance",
     divisi: "SALES",
     jabatan: "MARKETING EXECUTIVE",
     deskripsiPekerjaan:

@@ -220,7 +220,7 @@ export default function Home() {
                   title="Tempat"
                 ></i>
                 &ensp;
-                <span>Oval East Atrium Ground Ciputra World Surabaya</span>
+                <span>Linear East Atrium Ground Ciputra World Surabaya</span>
               </div>
             </div>
             <div>

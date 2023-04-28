@@ -23,6 +23,7 @@ import {
   RapiGroup,
   SideroomStudio,
   SPSCorporate,
+  Tancorp,
   CareerExpo,
   Workshop,
   Register,
@@ -61,6 +62,7 @@ root.render(
       <Route path="/company-list/rapi-group" element={<RapiGroup />} />
       <Route path="/company-list/sideroom-studio" element={<SideroomStudio />} />
       <Route path="/company-list/sps-corporate" element={<SPSCorporate />} />
+      <Route path="/company-list/tancorp" element={<Tancorp />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

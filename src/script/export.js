@@ -18,6 +18,7 @@ export { default as PTSuryaTimurSaktiJatim } from "../pages/vacancy/companyList/
 export { default as RapiGroup } from "../pages/vacancy/companyList/RapiGroup";
 export { default as SideroomStudio } from "../pages/vacancy/companyList/SideroomStudio";
 export { default as SPSCorporate } from "../pages/vacancy/companyList/SPSCorporate";
+export { default as Tancorp } from "../pages/vacancy/companyList/Tancorp";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

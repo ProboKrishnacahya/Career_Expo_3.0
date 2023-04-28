@@ -43,7 +43,7 @@ export default function CompanyList() {
   ));
 
   const perusahaan = companyList.filter((_item, index) =>
-    [0, 2, 15, 19, 56, 74, 84, 87, 93, 97].includes(index)
+    [0, 2, 15, 19, 56, 74, 84, 87, 93, 97, 100].includes(index)
   );
 
   return (

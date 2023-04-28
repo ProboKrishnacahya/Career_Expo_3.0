@@ -1614,7 +1614,7 @@ export const job = [
     jabatan: "MT Sales & Operation",
     deskripsiPekerjaan: "",
     kriteria:
-      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu \n5. Bersedia ditempatkan di Sidoarjo, Cikarang, dan Semarang\n6. Memiliki kemampuan komunikasi yang baik",
+      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu\n5. Bersedia ditempatkan di Sidoarjo, Cikarang, dan Semarang\n6. Memiliki kemampuan komunikasi yang baik",
     daerahPenempatan: "",
   },
   {
@@ -1630,7 +1630,7 @@ export const job = [
     jabatan: "MT HRD",
     deskripsiPekerjaan: "",
     kriteria:
-      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu \n5. Bersedia ditempatkan di Sidoarjo\n6. Memiliki kemampuan komunikasi yang baik\n7. Bersedia melakukan perjalanan dinas",
+      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu\n5. Bersedia ditempatkan di Sidoarjo\n6. Memiliki kemampuan komunikasi yang baik\n7. Bersedia melakukan perjalanan dinas",
     daerahPenempatan: "",
   },
   {
@@ -1858,6 +1858,198 @@ export const job = [
     deskripsiPekerjaan: "-",
     kriteria:
       "- Responsible for administrative data completeness of new employee\n- Manage candidates' database\n- Designing and copywriting for content on the job portal",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 110,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Distribusi",
+    jabatan: "Distribution Manager",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 semua jurusan\n- Berpengalaman minimal 3 tahun di perusahaan FMCG atau distribusi\n- Memiliki kemampuan interpersonal yang baik, persuasif, dan komunikasi yang baik\n- Mampu melakukan pengolahan data excel, pivot table dan memiliki analisa yang baik\n- Bersedia mobile dan dinas luar kota",
+    daerahPenempatan: "Sidoarjo",
+  },
+  {
+    id: 111,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Marketing Project Manager",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 semua jurusan\n- Berpengalaman minimal 3 tahun di perusahaan FMCG\n- Memiliki kemampuan analisa dan pengembangan\n- Mampu melakukan pengolahan data excel, pivot table dan presentasi yang baik\n- Bersedia project mobilitas seluruh indonesia",
+    daerahPenempatan: "All Indonesia",
+  },
+  {
+    id: 112,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Sales",
+    jabatan: "Sales Manager",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 semua jurusan\n- Berpengalaman minimal 3 tahun di perusahaan FMCG\n- Memiliki pengalaman Modern Trade/Special Outlet\n- Memiliki Leadership skill yang baik\n- Berjiwa dinamis, agile, challenger, komunikatif dan negosiasi yang baik\n- Bersedia mobile dan dinas luar kota",
+    daerahPenempatan: "Jakarta",
+  },
+  {
+    id: 113,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Assistant Brand Manager",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 Ilmu Komunikasi, Marketing, IBM, Business Management, Management Pemasaran\n- Berpengalaman minimal 2 tahun di perusahaan FMCG\n- Menyukai analisa brand, inovatif, dinamis, ulet, percaya diri, berinisiatif tinggi, dan flexible\n- Memahami Brand Development Strategy dan Up To Date Trend Sosmed & Branding\n- Bersedia mobile dan dinas luar kota",
+    daerahPenempatan: "Jakarta",
+  },
+  {
+    id: 114,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "HR",
+    jabatan: "HRGA Head",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 jurusan Hukum/Psikologi/Teknik Industri/Manajemen Sumber Daya Manusia, maks usia 40 tahun\n- Berpengalaman sebagai HRD Head minimal 3 tahun\n- Memahami hukum ketenagakerjaan, SOP GA, dan HR\n- Berpengalaman dalam hubungan industrial, penyusunan SO, dan pemenuhan MPP\n- Berpengalaman mengelola pengembangan organisasi dan pelatihan",
+    daerahPenempatan: "Sidoarjo, Pandaan",
+  },
+  {
+    id: 115,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "HR",
+    jabatan: "Product Development Head",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 Teknik Kimia, Teknologi Pangan, Marketing\n- Berpengalaman diperusahaan F&B minimal 4 tahun\n- Memiliki portofolio dalam membuat NPD\n- MemiKepribadian dinamis, gesit, proaktif, dan penantang\n- Berjiwa dinamis, gesit, proaktif, challenger dan komunikatif",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 116,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Sales",
+    jabatan: "Head Of Modern Trade Jatim",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 semua jurusan\n- Berpengalaman minimal 3 tahun di perusahaan FMCG\n- Memiliki pengalaman Modern Trade/Special Outlet\n- Memiliki Leadership skill yang baik\n- Berjiwa dinamis, agile, challenger, komunikatif dan negosiasi yang baik\n- Bersedia mobile dan dinas luar kota",
+    daerahPenempatan: "Sidoarjo",
+  },
+  {
+    id: 117,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "FAT",
+    jabatan: "Finance Accounting Tax Head",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 jurusan Akuntansi, lebih disukai jika memiliki brevet A dan B\n- Pengalaman minimal 3-5 tahun sebagai FAT Head (memiliki tim)\n- Mempunyai karakter jujur, teliti, berintegrasi tinggi & profesional\n- Memiliki managerial skill dan kepemimpinan yang kuat",
+    daerahPenempatan: "Sidoarjo",
+  },
+  {
+    id: 118,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "HR",
+    jabatan: "People Development Specialist",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 Teknik Mesin, Industri, Elektro\n- Berpengalaman pada bidang yang sama minimal 2 tahun\n- Menyukai pembelajaran berkelanjutan, mampu menyusun modul, dan mengelola jalannya pelatihan\n- Memiliki kemampuan public speaking dan presentasi yang baik",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 119,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "HR",
+    jabatan: "Organization Development Specialist",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 Teknik Mesin, Industri, Elektro\n- Berpengalaman pada bidang yang sama minimal 2 tahun\n- Menyukai pembelajaran berkelanjutan, mampu menyusun modul, dan mengelola jalannya pelatihan\n- Memiliki kemampuan public speaking dan presentasi yang baik",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 120,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Brand Specialist",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 Ilmu Komunikasi, Marketing, IBM, Business Management, Management Pemasaran\n- Berpengalaman maksimal 1 tahun di perusahaan FMCG\n- Fresh Graduate dipersilahkan\n- Menyukai analisa brand, inovatif, dinamis, ulet, percaya diri, berinisiatif tinggi, dan flexible\n- Memahami Brand Development Strategy dan Up To Date Trend Sosmed & Branding\n- Bersedia mobile dan dinas luar kota",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 121,
+    name: "Tanobel",
+    companyURL: "/company-list/tanobel",
+    image: "/images/vacancy/company_list/Logo Tanobel.png",
+    deskripsiPerusahaan:
+      "PT. Sariguna Primatirta, Tbk (Tanobel) merupakan perusahaan yang bergerak di bidang Air Minum Dalam Kemasan (AMDK) pertama di Indonesia yang mendapatkan sertifikat food safety management ISO 22000 : 2005. Saat ini, Tanobel menaungi beberapa produk. Di antaranya, Cleo, Super O2 dan Vio 8+. Saat ini Tanobel sudah memiliki total 31 pabrik yang tersebar di Indonesia.",
+    daftarURL: "https://forms.gle/MDJpnaqyYoPGmEe88",
+    tipe: "Full Time",
+    divisi: "IT",
+    jabatan: "Database Engineer Supervisor",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Pendidikan minimal S1 jurusan Sistem Informatika, Teknik Komputer, Ilmu Komputer\n- Pengalaman minimal 2 tahun dibidang yang sama\n- Pengalaman industri dalam desain pergudangan data, integrasi data, dan kecerdasan bisnis\n- Berpengalaman menggunakan aplikasi statistik dan pengembangan data\n- Memiliki managerial skill dan kepemimpinan yang kuat",
     daerahPenempatan: "Surabaya",
   },
 ];

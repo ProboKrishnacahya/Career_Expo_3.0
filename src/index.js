@@ -24,6 +24,7 @@ import {
   SideroomStudio,
   SPSCorporate,
   Tancorp,
+  Tanobel,
   CareerExpo,
   Workshop,
   Register,
@@ -63,6 +64,7 @@ root.render(
       <Route path="/company-list/sideroom-studio" element={<SideroomStudio />} />
       <Route path="/company-list/sps-corporate" element={<SPSCorporate />} />
       <Route path="/company-list/tancorp" element={<Tancorp />} />
+      <Route path="/company-list/tanobel" element={<Tanobel />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

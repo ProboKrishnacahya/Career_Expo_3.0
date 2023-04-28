@@ -19,6 +19,7 @@ export { default as RapiGroup } from "../pages/vacancy/companyList/RapiGroup";
 export { default as SideroomStudio } from "../pages/vacancy/companyList/SideroomStudio";
 export { default as SPSCorporate } from "../pages/vacancy/companyList/SPSCorporate";
 export { default as Tancorp } from "../pages/vacancy/companyList/Tancorp";
+export { default as Tanobel } from "../pages/vacancy/companyList/Tanobel";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

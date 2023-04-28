@@ -1649,4 +1649,55 @@ export const job = [
       "- Melakukan kontrol perbaikan unit Truck\n- Memastikan perbaikan dilaksakan sesuai standar\n- Membuat laporan harian",
     daerahPenempatan: "Trosobo, Sidoarjo",
   },
+  {
+    id: 97,
+    name: "SPS Corporate",
+    companyURL: "/company-list/sps-corporate",
+    image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
+    deskripsiPerusahaan:
+      "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
+    daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "International Marketing Assistant",
+    deskripsiPekerjaan:
+      "- Search for potential new orders from new customers in certain region/area\n- Responsible for handling customers from samples up to the payment\n- Coordinate with factory about the orders to make sure everything as per what customer needs\n- Create orders report and monitors them",
+    kriteria:
+      "- Minimum Bachelor Degree from International Business Management, Marketing, International Business Accounting, All Engineering major\n- Fresh graduate are welcome to apply\n- Have experience overseas (travel/study/internship)\n- Must be fluent in English both written and oral\n- Fluent in Mandarin (minimum HSK 5) will be prioritized\n- Detail-oriented, good with numbers, and strong interpersonal skills",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 98,
+    name: "SPS Corporate",
+    companyURL: "/company-list/sps-corporate",
+    image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
+    deskripsiPerusahaan:
+      "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
+    daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Design Grafis Staff",
+    deskripsiPekerjaan:
+      "- Conceptualizing visuals based on requirements\n- Creating images and layouts using design software\n- Testing graphics across various media",
+    kriteria:
+      "- Bachelor Degree from Desain Komunikasi Visual major\n- Fresh graduate are welcome to apply\n- Familiar with Adobe Photoshop, Adobe Illustrator, Corel Draw, and Adobe Premiere\n- Creative and detail-oriented\n- Have driving license\n- Fluent in English will be prioritized",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 99,
+    name: "SPS Corporate",
+    companyURL: "/company-list/sps-corporate",
+    image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
+    deskripsiPerusahaan:
+      "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
+    daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Public Relation Supervisor",
+    deskripsiPekerjaan:
+      "- Mengenal dan menjalin hubungan baik dengan publik (komunitas, pemerintahan, dan lembaga sosial) & media lokal maupun nasional.\n- Mengelola media komunikasi perusahaan seperti website, sosial media, company profile, & company tools lainnya.\n- Menerapkan strategi media relation untuk press release, iklan, & penanganan krisis publik.\n- Melakukan media screening untuk mengetahui tren terkini, memantau reputasi perusahaan, serta keberhasilan strategi media relation.\n- Menulis press release sebaik menulis artikel media.\n- Melakukan riset data & menghubungkan pesan perusahaan sebagai kepentingan publik & media.\n- Membuat program untuk kegiatan public relation, termasuk perencanaan, budgeting, & eksekusinya.\n- Bekerjasama dengan marketing communication untuk program & event korporat.\n- Melakukan inisiasi & kerjasama dengan perusahaan/lembaga/komunitas untuk program-program CSR.",
+    kriteria:
+      "- Laki-laki atau perempuan\n- Usia maksimal 30 tahun\n- Pendidikan terakhir minimal S1 Ilmu Komunikasi\n- Berpengalaman di bidang Public Relation",
+    daerahPenempatan: "Surabaya",
+  },
 ];

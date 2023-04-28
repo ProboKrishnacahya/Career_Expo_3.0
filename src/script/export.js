@@ -17,6 +17,7 @@ export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/P
 export { default as PTSuryaTimurSaktiJatim } from "../pages/vacancy/companyList/PTSuryaTimurSaktiJatim";
 export { default as RapiGroup } from "../pages/vacancy/companyList/RapiGroup";
 export { default as SideroomStudio } from "../pages/vacancy/companyList/SideroomStudio";
+export { default as SPSCorporate } from "../pages/vacancy/companyList/SPSCorporate";
 
 // * Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";

@@ -22,6 +22,7 @@ import {
   PTSuryaTimurSaktiJatim,
   RapiGroup,
   SideroomStudio,
+  SPSCorporate,
   CareerExpo,
   Workshop,
   Register,
@@ -59,6 +60,7 @@ root.render(
       <Route path="/company-list/pt-surya-timur-sakti-jatim" element={<PTSuryaTimurSaktiJatim />} />
       <Route path="/company-list/rapi-group" element={<RapiGroup />} />
       <Route path="/company-list/sideroom-studio" element={<SideroomStudio />} />
+      <Route path="/company-list/sps-corporate" element={<SPSCorporate />} />
 
       {/* Events */}
       <Route path="/career-expo" element={<CareerExpo />} />

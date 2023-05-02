@@ -65,7 +65,7 @@ export default function Artax() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(15, 19)}
+        {jobList.slice(16, 20)}
       </div>
     </div>
   ));
@@ -107,34 +107,10 @@ export default function Artax() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[15]}
+          {companyProfile[16]}
         </section>
       </div>
 
-      <div
-        className="modal fade"
-        id="jobModal15"
-        tabindex="-1"
-        aria-labelledby="jobModal15Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal15Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[15]}</div>
-          </div>
-        </div>
-      </div>
       <div
         className="modal fade"
         id="jobModal16"
@@ -204,6 +180,30 @@ export default function Artax() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[18]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal19"
+        tabindex="-1"
+        aria-labelledby="jobModal19Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal19Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[19]}</div>
           </div>
         </div>
       </div>

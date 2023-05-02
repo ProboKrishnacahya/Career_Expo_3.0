@@ -65,7 +65,7 @@ export default function Tanobel() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(110, 122)}
+        {jobList.slice(111, 123)}
       </div>
     </div>
   ));
@@ -107,34 +107,10 @@ export default function Tanobel() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[110]}
+          {companyProfile[111]}
         </section>
       </div>
 
-      <div
-        className="modal fade"
-        id="jobModal11110"
-        tabindex="-1"
-        aria-labelledby="jobModal11110Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal11110Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[110]}</div>
-          </div>
-        </div>
-      </div>
       <div
         className="modal fade"
         id="jobModal111"
@@ -396,6 +372,30 @@ export default function Tanobel() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[121]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal122"
+        tabindex="-1"
+        aria-labelledby="jobModal122Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal122Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[122]}</div>
           </div>
         </div>
       </div>

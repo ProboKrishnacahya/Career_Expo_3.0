@@ -65,7 +65,7 @@ export default function Tancorp() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(100, 110)}
+        {jobList.slice(101, 111)}
       </div>
     </div>
   ));
@@ -107,34 +107,10 @@ export default function Tancorp() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[100]}
+          {companyProfile[101]}
         </section>
       </div>
 
-      <div
-        className="modal fade"
-        id="jobModal100"
-        tabindex="-1"
-        aria-labelledby="jobModal100Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal100Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[100]}</div>
-          </div>
-        </div>
-      </div>
       <div
         className="modal fade"
         id="jobModal101"
@@ -348,6 +324,30 @@ export default function Tancorp() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[109]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal110"
+        tabindex="-1"
+        aria-labelledby="jobModal110Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal110Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[110]}</div>
           </div>
         </div>
       </div>

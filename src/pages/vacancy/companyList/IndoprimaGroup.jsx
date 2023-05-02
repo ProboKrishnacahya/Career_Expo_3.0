@@ -65,7 +65,7 @@ export default function IndoprimaGroup() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(19, 56)}
+        {jobList.slice(20, 57)}
       </div>
     </div>
   ));
@@ -107,34 +107,10 @@ export default function IndoprimaGroup() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[19]}
+          {companyProfile[20]}
         </section>
       </div>
 
-      <div
-        className="modal fade"
-        id="jobModal19"
-        tabindex="-1"
-        aria-labelledby="jobModal19Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal19Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[19]}</div>
-          </div>
-        </div>
-      </div>
       <div
         className="modal fade"
         id="jobModal20"
@@ -996,6 +972,30 @@ export default function IndoprimaGroup() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[55]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal56"
+        tabindex="-1"
+        aria-labelledby="jobModal56Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal56Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[56]}</div>
           </div>
         </div>
       </div>

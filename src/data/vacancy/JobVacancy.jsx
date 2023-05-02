@@ -214,6 +214,23 @@ export const job = [
     deskripsiPerusahaan:
       "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
     daftarURL: "https://forms.gle/9vUfxconUQTHmVVG7",
+    tipe: "Full Time",
+    divisi: "HRD",
+    jabatan: "HRGA SPV",
+    deskripsiPekerjaan:
+      "- Mengatur, mengarahkan, memimpin dan mengawasi tim HRD serta General Affair dalam melaksanakan tugas pekerjaan\n- Melakukan analisa kebutuhan SDM dan peningkatan efektivitas pekerjaan\n- Bekerja sama dengan pihak eksternal untuk berkoordinasi terkait ketenagakerjaan",
+    kriteria:
+      "- Pria/Wanita\n- Lulusan min S1 (Hukum, Psikologi, Managemen SDM)\n- Umur Maksimal 45 tahun\n- Memiliki kemampuan komunikasi, negosiasi, Kepemimpinan\n- Memahami bidang ketenagakerjaan dan Pengembangan SDM\n- Sehat Rohani dan Jasmani",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 13,
+    name: "PT Asia Pramulia",
+    companyURL: "/company-list/pt-asia-pramulia",
+    image: "/images/vacancy/company_list/Logo Aspra.jpg",
+    deskripsiPerusahaan:
+      "PT. Asia Pramulia (ASPRA) is a manufacturing company specializing in plastic packaging with Stretch Blow Moulding process and Injection Moulding process. Our company has been established for more than 30 years supported by reliable human resources, efficient machinery and quality raw materials.\n\nWith expansion and management of professional development efforts, PT. Asia Pramulia Company has many certification including ISO 9001:2015 for Quality Management System and “HALAL” Certified to guarantee all of our product safe for food and halal.",
+    daftarURL: "https://forms.gle/9vUfxconUQTHmVVG7",
     tipe: "Internship",
     divisi: "Marketing",
     jabatan: "Social media and market analyst",
@@ -222,7 +239,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 13,
+    id: 14,
     name: "PT Asia Pramulia",
     companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
@@ -237,7 +254,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 14,
+    id: 15,
     name: "PT Asia Pramulia",
     companyURL: "/company-list/pt-asia-pramulia",
     image: "/images/vacancy/company_list/Logo Aspra.jpg",
@@ -254,7 +271,7 @@ export const job = [
 
   // * Artax
   {
-    id: 15,
+    id: 16,
     name: "Artax",
     companyURL: "/company-list/artax",
     image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
@@ -271,7 +288,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 16,
+    id: 17,
     name: "Artax",
     companyURL: "/company-list/artax",
     image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
@@ -287,7 +304,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 17,
+    id: 18,
     name: "Artax",
     companyURL: "/company-list/artax",
     image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
@@ -304,7 +321,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 18,
+    id: 19,
     name: "Artax",
     companyURL: "/company-list/artax",
     image: "/images/vacancy/company_list/Salinan Artax Logo Circle.png",
@@ -323,7 +340,7 @@ export const job = [
 
   // * Indoprima Group
   {
-    id: 19,
+    id: 20,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -340,7 +357,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 20,
+    id: 21,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -357,7 +374,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Pasuruan)",
   },
   {
-    id: 21,
+    id: 22,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -374,7 +391,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang (Surabaya)",
   },
   {
-    id: 22,
+    id: 23,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -391,7 +408,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang (Surabaya)",
   },
   {
-    id: 23,
+    id: 24,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -407,7 +424,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 24,
+    id: 25,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -424,7 +441,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 25,
+    id: 26,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -441,7 +458,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Cibitung / Bekasi)",
   },
   {
-    id: 26,
+    id: 27,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -458,7 +475,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 27,
+    id: 28,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -475,7 +492,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 28,
+    id: 29,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -492,7 +509,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 29,
+    id: 30,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -509,7 +526,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 30,
+    id: 31,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -526,7 +543,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 31,
+    id: 32,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -543,7 +560,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 32,
+    id: 33,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -560,7 +577,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 33,
+    id: 34,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -577,7 +594,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Pasuruan)",
   },
   {
-    id: 34,
+    id: 35,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -594,7 +611,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang (Surabaya)",
   },
   {
-    id: 35,
+    id: 36,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -611,7 +628,7 @@ export const job = [
     daerahPenempatan: "Corporate (Surabaya)",
   },
   {
-    id: 36,
+    id: 37,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -628,7 +645,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 37,
+    id: 38,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -645,7 +662,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 38,
+    id: 39,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -662,7 +679,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 39,
+    id: 40,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -679,7 +696,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Surabaya)",
   },
   {
-    id: 40,
+    id: 41,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -695,7 +712,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Surabaya)",
   },
   {
-    id: 41,
+    id: 42,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -712,7 +729,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang Engineering (Surabaya)",
   },
   {
-    id: 42,
+    id: 43,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -729,7 +746,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Pasuruan)",
   },
   {
-    id: 43,
+    id: 44,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -746,7 +763,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Jombang)",
   },
   {
-    id: 44,
+    id: 45,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -763,7 +780,7 @@ export const job = [
     daerahPenempatan: "PT. Indra Eramulti Logam Industri (Surabaya)",
   },
   {
-    id: 45,
+    id: 46,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -780,7 +797,7 @@ export const job = [
     daerahPenempatan: "Corporate (Surabaya)",
   },
   {
-    id: 46,
+    id: 47,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -797,7 +814,7 @@ export const job = [
     daerahPenempatan: "Corporate (Surabaya)",
   },
   {
-    id: 47,
+    id: 48,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -814,7 +831,7 @@ export const job = [
     daerahPenempatan: "PT. Toshin Prima Fine-Blanking (Surabaya)",
   },
   {
-    id: 48,
+    id: 49,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -831,7 +848,7 @@ export const job = [
     daerahPenempatan: "Corporate (Surabaya)",
   },
   {
-    id: 49,
+    id: 50,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -847,7 +864,7 @@ export const job = [
     daerahPenempatan: "Corporate (Surabaya)",
   },
   {
-    id: 50,
+    id: 51,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -864,7 +881,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang Engineering (Surabaya)",
   },
   {
-    id: 51,
+    id: 52,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -881,7 +898,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang Engineering (Surabaya)",
   },
   {
-    id: 52,
+    id: 53,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -898,7 +915,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang Engineering (Surabaya)",
   },
   {
-    id: 53,
+    id: 54,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -915,7 +932,7 @@ export const job = [
     daerahPenempatan: "PT. Indoprima Gemilang Engineering (Surabaya)",
   },
   {
-    id: 54,
+    id: 55,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -932,7 +949,7 @@ export const job = [
     daerahPenempatan: "PT. Indospring, Tbk (Gresik)",
   },
   {
-    id: 55,
+    id: 56,
     name: "Indoprima Group",
     companyURL: "/company-list/indoprima-group",
     image: "/images/vacancy/company_list/Logo Indoprima.jpeg",
@@ -951,7 +968,7 @@ export const job = [
 
   // * PT Superior Prima Sukses
   {
-    id: 56,
+    id: 57,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -968,7 +985,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 57,
+    id: 58,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -985,7 +1002,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 58,
+    id: 59,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1002,7 +1019,7 @@ export const job = [
     daerahPenempatan: "Krian/Mojokerto/Lamongan",
   },
   {
-    id: 59,
+    id: 60,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1019,7 +1036,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 60,
+    id: 61,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1036,7 +1053,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 61,
+    id: 62,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1053,7 +1070,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Malang",
   },
   {
-    id: 62,
+    id: 63,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1070,7 +1087,7 @@ export const job = [
     daerahPenempatan: "Krian",
   },
   {
-    id: 63,
+    id: 64,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1087,7 +1104,7 @@ export const job = [
     daerahPenempatan: "Plant Mojokerto/Lamongan/Krian/Sragen",
   },
   {
-    id: 64,
+    id: 65,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1104,7 +1121,7 @@ export const job = [
     daerahPenempatan: "Plant Krian",
   },
   {
-    id: 65,
+    id: 66,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1121,7 +1138,7 @@ export const job = [
     daerahPenempatan: "Plant Sragen",
   },
   {
-    id: 66,
+    id: 67,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1138,7 +1155,7 @@ export const job = [
     daerahPenempatan: "Plant Lamongan/Sragen",
   },
   {
-    id: 67,
+    id: 68,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1155,7 +1172,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 68,
+    id: 69,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1172,7 +1189,7 @@ export const job = [
     daerahPenempatan: "Mobile (Lamongan, Krian, Mojokerto, Sragen)",
   },
   {
-    id: 69,
+    id: 70,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1188,7 +1205,7 @@ export const job = [
     daerahPenempatan: "Subang",
   },
   {
-    id: 70,
+    id: 71,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1205,7 +1222,7 @@ export const job = [
     daerahPenempatan: "Subang",
   },
   {
-    id: 71,
+    id: 72,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1222,7 +1239,7 @@ export const job = [
     daerahPenempatan: "Subang",
   },
   {
-    id: 72,
+    id: 73,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1239,7 +1256,7 @@ export const job = [
     daerahPenempatan: "Subang",
   },
   {
-    id: 73,
+    id: 74,
     name: "PT Superior Prima Sukses",
     companyURL: "/company-list/pt-superior-prima-sukses",
     image: "/images/vacancy/company_list/Logo PT. Superior Prima Sukses.png",
@@ -1258,7 +1275,7 @@ export const job = [
 
   // * PT Surya Timur Sakti Jatim
   {
-    id: 74,
+    id: 75,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1276,7 +1293,7 @@ export const job = [
     daerahPenempatan: "Surabaya (PT. SURYA TIMUR SAKTI JATIM)",
   },
   {
-    id: 75,
+    id: 76,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1294,7 +1311,7 @@ export const job = [
     daerahPenempatan: "Surabaya (PT. SURYA SAKTI PROPERTINDO)",
   },
   {
-    id: 76,
+    id: 77,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1312,7 +1329,7 @@ export const job = [
     daerahPenempatan: "PROBOLINGGO (CV. LANCAR SEJAHTERA ABADI)",
   },
   {
-    id: 77,
+    id: 78,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1330,7 +1347,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
   },
   {
-    id: 78,
+    id: 79,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1348,7 +1365,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
   },
   {
-    id: 79,
+    id: 80,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1366,7 +1383,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
   },
   {
-    id: 80,
+    id: 81,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1383,7 +1400,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (PT. SURYA TIMUR SAKTI JATIM)",
   },
   {
-    id: 81,
+    id: 82,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1400,7 +1417,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (PT. AMITHA ADIKARA KOSMETIKA)",
   },
   {
-    id: 82,
+    id: 83,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1418,7 +1435,7 @@ export const job = [
     daerahPenempatan: "SURABAYA (BPR GEMA NUSA)",
   },
   {
-    id: 83,
+    id: 84,
     name: "PT Surya Timur Sakti Jatim",
     companyURL: "/company-list/pt-surya-timur-sakti-jatim",
     image:
@@ -1435,8 +1452,10 @@ export const job = [
       "- Pekerja keras, jujur, dan mampu bekerja secara mandiri maupun dalam tim.\n- Pendidikan min. SMA/SMK\n- Memiliki kemampuan komunikasi dan negosiasi yang baik.\n- Memiliki SIM C dan kendaraan sendiri",
     daerahPenempatan: "ALL AREA JATIM (PT. SURYA TIMUR SAKTI JATIM)",
   },
+
+  // * PT Siantar Top
   {
-    id: 84,
+    id: 85,
     name: "PT Siantar Top",
     companyURL: "/company-list/pt-siantar-top",
     image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
@@ -1452,7 +1471,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Jawa Timur",
   },
   {
-    id: 85,
+    id: 86,
     name: "PT Siantar Top",
     companyURL: "/company-list/pt-siantar-top",
     image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
@@ -1468,7 +1487,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Jawa Timur",
   },
   {
-    id: 86,
+    id: 87,
     name: "PT Siantar Top",
     companyURL: "/company-list/pt-siantar-top",
     image: "/images/vacancy/company_list/Logo Siantar Top.jpg",
@@ -1483,8 +1502,10 @@ export const job = [
       "- Wanita, usia 23 - 30 tahun\n- Pendidikan minimal D3 / S1 Jurusan Akuntansi\n- Memiliki pengalaman minimal 1 tahun sebagai accounting staff\n- Memahami dasar-dasar ilmu akuntansi dan perpajakan\n- Menguasai Microsoft Office (terutama Microsoft Excel)\n- Tanggap, jujur, teliti dan loyal\n- Mampu bekerja mandiri maupun dalam tim\n- Penempatan di Sidoarjo, Jawa Timur",
     daerahPenempatan: "Sidoarjo, Jawa Timur",
   },
+
+  // * Sideroom Studio
   {
-    id: 87,
+    id: 88,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1501,7 +1522,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 88,
+    id: 89,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1518,7 +1539,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 89,
+    id: 90,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1535,7 +1556,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 90,
+    id: 91,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1552,7 +1573,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 91,
+    id: 92,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1569,7 +1590,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 92,
+    id: 93,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
     image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
@@ -1585,8 +1606,10 @@ export const job = [
       "Menguasai kemampuan:\n- Compositing process\n- Blue / green screen process\n- Light & shadow composition\n- Proses seamless integration of live action",
     daerahPenempatan: "Surabaya",
   },
+
+  // * Rapi Group
   {
-    id: 93,
+    id: 94,
     name: "Rapi Group",
     companyURL: "/company-list/rapi-group",
     image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
@@ -1602,7 +1625,7 @@ export const job = [
     daerahPenempatan: "",
   },
   {
-    id: 94,
+    id: 95,
     name: "Rapi Group",
     companyURL: "/company-list/rapi-group",
     image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
@@ -1618,7 +1641,7 @@ export const job = [
     daerahPenempatan: "",
   },
   {
-    id: 95,
+    id: 96,
     name: "Rapi Group",
     companyURL: "/company-list/rapi-group",
     image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
@@ -1634,7 +1657,7 @@ export const job = [
     daerahPenempatan: "",
   },
   {
-    id: 96,
+    id: 97,
     name: "Rapi Group",
     companyURL: "/company-list/rapi-group",
     image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
@@ -1649,8 +1672,10 @@ export const job = [
       "- Melakukan kontrol perbaikan unit Truck\n- Memastikan perbaikan dilaksakan sesuai standar\n- Membuat laporan harian",
     daerahPenempatan: "Trosobo, Sidoarjo",
   },
+
+  // * SPS Corporate
   {
-    id: 97,
+    id: 98,
     name: "SPS Corporate",
     companyURL: "/company-list/sps-corporate",
     image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
@@ -1667,7 +1692,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 98,
+    id: 99,
     name: "SPS Corporate",
     companyURL: "/company-list/sps-corporate",
     image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
@@ -1684,7 +1709,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 99,
+    id: 100,
     name: "SPS Corporate",
     companyURL: "/company-list/sps-corporate",
     image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
@@ -1700,8 +1725,10 @@ export const job = [
       "- Laki-laki atau perempuan\n- Usia maksimal 30 tahun\n- Pendidikan terakhir minimal S1 Ilmu Komunikasi\n- Berpengalaman di bidang Public Relation",
     daerahPenempatan: "Surabaya",
   },
+
+  // * Tancorp
   {
-    id: 100,
+    id: 101,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1717,7 +1744,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 101,
+    id: 102,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1733,7 +1760,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 102,
+    id: 103,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1749,7 +1776,7 @@ export const job = [
     daerahPenempatan: "Sidoarjo, Pandaan",
   },
   {
-    id: 103,
+    id: 104,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1765,7 +1792,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 104,
+    id: 105,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1781,7 +1808,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Jakarta, Bandung, Karawang, dan Semarang",
   },
   {
-    id: 105,
+    id: 106,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1797,7 +1824,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 106,
+    id: 107,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1813,7 +1840,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Sidoarjo, Mojokerto",
   },
   {
-    id: 107,
+    id: 108,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1829,7 +1856,7 @@ export const job = [
     daerahPenempatan: "Surabaya, Sidoarjo, Mojokerto, Kediri",
   },
   {
-    id: 108,
+    id: 109,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1845,7 +1872,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 109,
+    id: 110,
     name: "Tancorp",
     companyURL: "/company-list/tancorp",
     image: "/images/vacancy/company_list/Tan Corp - Copy (2).png",
@@ -1860,8 +1887,10 @@ export const job = [
       "- Responsible for administrative data completeness of new employee\n- Manage candidates' database\n- Designing and copywriting for content on the job portal",
     daerahPenempatan: "Surabaya",
   },
+
+  // * Tanobel
   {
-    id: 110,
+    id: 111,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1877,7 +1906,7 @@ export const job = [
     daerahPenempatan: "Sidoarjo",
   },
   {
-    id: 111,
+    id: 112,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1893,7 +1922,7 @@ export const job = [
     daerahPenempatan: "All Indonesia",
   },
   {
-    id: 112,
+    id: 113,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1909,7 +1938,7 @@ export const job = [
     daerahPenempatan: "Jakarta",
   },
   {
-    id: 113,
+    id: 114,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1925,7 +1954,7 @@ export const job = [
     daerahPenempatan: "Jakarta",
   },
   {
-    id: 114,
+    id: 115,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1941,7 +1970,7 @@ export const job = [
     daerahPenempatan: "Sidoarjo, Pandaan",
   },
   {
-    id: 115,
+    id: 116,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1957,7 +1986,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 116,
+    id: 117,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1973,7 +2002,7 @@ export const job = [
     daerahPenempatan: "Sidoarjo",
   },
   {
-    id: 117,
+    id: 118,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -1989,7 +2018,7 @@ export const job = [
     daerahPenempatan: "Sidoarjo",
   },
   {
-    id: 118,
+    id: 119,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -2005,7 +2034,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 119,
+    id: 120,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -2021,7 +2050,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 120,
+    id: 121,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",
@@ -2037,7 +2066,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 121,
+    id: 122,
     name: "Tanobel",
     companyURL: "/company-list/tanobel",
     image: "/images/vacancy/company_list/Logo Tanobel.png",

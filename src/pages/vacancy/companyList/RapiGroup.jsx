@@ -65,7 +65,7 @@ export default function RapiGroup() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(93, 97)}
+        {jobList.slice(94, 98)}
       </div>
     </div>
   ));
@@ -107,34 +107,10 @@ export default function RapiGroup() {
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-          {companyProfile[93]}
+          {companyProfile[94]}
         </section>
       </div>
 
-      <div
-        className="modal fade"
-        id="jobModal93"
-        tabindex="-1"
-        aria-labelledby="jobModal93Label"
-        aria-hidden="true"
-      >
-        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
-          <div className="modal-content">
-            <div className="modal-header">
-              <h2 className="modal-title text-center" id="jobModal93Label">
-                Persyaratan
-              </h2>
-              <button
-                type="button"
-                className="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div className="modal-body">{persyaratan[93]}</div>
-          </div>
-        </div>
-      </div>
       <div
         className="modal fade"
         id="jobModal94"
@@ -204,6 +180,30 @@ export default function RapiGroup() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[96]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal97"
+        tabindex="-1"
+        aria-labelledby="jobModal97Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal97Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[97]}</div>
           </div>
         </div>
       </div>

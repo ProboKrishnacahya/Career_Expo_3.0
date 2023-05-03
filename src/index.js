@@ -20,6 +20,7 @@ import {
   PTSiantarTop,
   PTSuperiorPrimaSukses,
   PTSuryaTimurSaktiJatim,
+  PTTransporindoAgungSejahtera,
   RapiGroup,
   SideroomStudio,
   SPSCorporate,
@@ -60,6 +61,7 @@ root.render(
       <Route path="/company-list/pt-siantar-top" element={<PTSiantarTop />} />
       <Route path="/company-list/pt-superior-prima-sukses" element={<PTSuperiorPrimaSukses />} />
       <Route path="/company-list/pt-surya-timur-sakti-jatim" element={<PTSuryaTimurSaktiJatim />} />
+      <Route path="/company-list/pt-transporindo-agung-sejahtera" element={<PTTransporindoAgungSejahtera />} />
       <Route path="/company-list/rapi-group" element={<RapiGroup />} />
       <Route path="/company-list/sideroom-studio" element={<SideroomStudio />} />
       <Route path="/company-list/sps-corporate" element={<SPSCorporate />} />

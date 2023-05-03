@@ -2081,4 +2081,37 @@ export const job = [
       "- Pendidikan minimal S1 jurusan Sistem Informatika, Teknik Komputer, Ilmu Komputer\n- Pengalaman minimal 2 tahun dibidang yang sama\n- Pengalaman industri dalam desain pergudangan data, integrasi data, dan kecerdasan bisnis\n- Berpengalaman menggunakan aplikasi statistik dan pengembangan data\n- Memiliki managerial skill dan kepemimpinan yang kuat",
     daerahPenempatan: "Surabaya",
   },
+  {
+    id: 123,
+    name: "PT Transporindo Agung Sejahtera",
+    companyURL: "/company-list/pt-transporindo-agung-sejahtera",
+    image: "/images/vacancy/company_list/LOGO PT TAS SBY TERBARU.jpeg",
+    deskripsiPerusahaan:
+      "PT. TRANSPORINDO AGUNG SEJAHTERA bergerak di bidang jasa pengurusan transportasi container baik domestik maupun International.\n\nPT. TRANSPORINDO AGUNG SEJAHTERA saat ini memiliki kantor di Medan, Jakarta, Surabaya dan Makassar dengan di dukung 90 armada truk trailer dan rencana akan membuka cabang daerah lain dan menambah armada untuk meningkatkan servis.\n\nJasa yang PT. TRANSPORINDO AGUNG SEJAHTERA kerjakan sekarang ini adalah pengiriman Door to Door ,Door to Port atau Port to Door dari semua daerah yang ada pelabuhan container ( Ambon, Bali, Balikpapan, Banjarmasin, Batam, Gorontalo, Jakarta, Jayapura, Kendari, Luwuk, Makassar, Manado, Medan, Padang, Palembang, Pekanbaru, Pontianak, Samarinda, Surabaya, Sorong, Tarakan, Ternate, dll ). Semua rute tersebut merupakan kerjasama dengan pelayaran seperti TANTO, SPIL, TEMAS, MERATUS, IFL, ALKEN dll.",
+    daftarURL: "https://forms.gle/8fRfNF9g6e6CUtLt6",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Marketing Executive",
+    deskripsiPekerjaan: "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
+    kriteria:
+      "Pria dan Wanita maks 35 tahun, pendidikan min D3, jujur, tanggung jawab dan mudah komunikasi serta bernegosiasi dlm bhs Indonesia maupun Bhs Inggris, berjiwa pemimpin dan berorientasi pada target, berpengalaman dibidang losgistik dan sejenisnya, EMKL dan Forwarding",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 124,
+    name: "PT Transporindo Agung Sejahtera",
+    companyURL: "/company-list/pt-transporindo-agung-sejahtera",
+    image: "/images/vacancy/company_list/LOGO PT TAS SBY TERBARU.jpeg",
+    deskripsiPerusahaan:
+      "PT. TRANSPORINDO AGUNG SEJAHTERA bergerak di bidang jasa pengurusan transportasi container baik domestik maupun International.\n\nPT. TRANSPORINDO AGUNG SEJAHTERA saat ini memiliki kantor di Medan, Jakarta, Surabaya dan Makassar dengan di dukung 90 armada truk trailer dan rencana akan membuka cabang daerah lain dan menambah armada untuk meningkatkan servis.\n\nJasa yang PT. TRANSPORINDO AGUNG SEJAHTERA kerjakan sekarang ini adalah pengiriman Door to Door ,Door to Port atau Port to Door dari semua daerah yang ada pelabuhan container ( Ambon, Bali, Balikpapan, Banjarmasin, Batam, Gorontalo, Jakarta, Jayapura, Kendari, Luwuk, Makassar, Manado, Medan, Padang, Palembang, Pekanbaru, Pontianak, Samarinda, Surabaya, Sorong, Tarakan, Ternate, dll ). Semua rute tersebut merupakan kerjasama dengan pelayaran seperti TANTO, SPIL, TEMAS, MERATUS, IFL, ALKEN dll.",
+    daftarURL: "https://forms.gle/8fRfNF9g6e6CUtLt6",
+    tipe: "Internship",
+    divisi: "Marketing",
+    jabatan: "Marketing Executive",
+    deskripsiPekerjaan: "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
+    kriteria:
+      "Pria dan Wanita maks 35 tahun, pendidikan min D3, jujur, tanggung jawab dan mudah komunikasi serta bernegosiasi dlm bhs Indonesia maupun Bhs Inggris, berjiwa pemimpin dan berorientasi pada target, berpengalaman dibidang losgistik dan sejenisnya, EMKL dan Forwarding (fresh graduate diperbolehkan)",
+    daerahPenempatan: "Surabaya",
+  },
+
 ];

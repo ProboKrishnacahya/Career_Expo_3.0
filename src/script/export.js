@@ -15,6 +15,7 @@ export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPr
 export { default as PTSiantarTop } from "../pages/vacancy/companyList/PTSiantarTop";
 export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/PTSuperiorPrimaSukses";
 export { default as PTSuryaTimurSaktiJatim } from "../pages/vacancy/companyList/PTSuryaTimurSaktiJatim";
+export { default as PTTransporindoAgungSejahtera } from "../pages/vacancy/companyList/PTTransporindoAgungSejahtera";
 export { default as RapiGroup } from "../pages/vacancy/companyList/RapiGroup";
 export { default as SideroomStudio } from "../pages/vacancy/companyList/SideroomStudio";
 export { default as SPSCorporate } from "../pages/vacancy/companyList/SPSCorporate";

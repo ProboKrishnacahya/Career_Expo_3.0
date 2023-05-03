@@ -93,6 +93,7 @@ export default function Home() {
             Career Expo 3.0
           </h1>
           <br />
+          <br />
           <img
             src="/images/home/hero/HYPE_Desktop.svg"
             alt="HYPE"
@@ -101,7 +102,7 @@ export default function Home() {
           <img
             src="/images/home/hero/HYPE_Mobile.svg"
             alt="HYPE"
-            className="d-block d-md-none mx-auto w-100"
+            className="d-block d-md-none mx-auto w-75"
           />
 
           <div className="d-grid gap-4 d-md-flex gap-md-3 justify-content-md-center my-5">
@@ -124,7 +125,7 @@ export default function Home() {
               <strong>Proposal Sponsorship</strong>
             </button>
           </div>
-          <h2 className="scroll-down text-center my-5 py-5">
+          {/* <h2 className="scroll-down text-center my-5 py-5">
             <a href="#home">
               <i
                 className="bi bi-chevron-double-down"
@@ -132,8 +133,10 @@ export default function Home() {
                 title="Scroll Down"
               ></i>
             </a>
-          </h2>
+          </h2> */}
         </section>
+
+        <br />
 
         {/* About Us */}
         <section id="home" data-aos="fade-up">

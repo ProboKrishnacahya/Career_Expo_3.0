@@ -42,7 +42,7 @@ import {
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <Router>
+  <Router basename="/">
     <Routes>
       {/* 404 Not Found */}
       <Route path="*" element={<PageNotFound />} />

@@ -27,7 +27,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "CV tentunya menjadi komponen yang sangat penting ketika melamar kerja. Namun, tidak jarang HRD menemukan kesalahan-kesalahan dalam CV yang dikirimkan pelamar kerja. Maka dari itu, yuk ketahui 5 kesalahan yang harus dihindari pelamar kerja dalam pembuatan CV.",
-      url: "/5-kesalahan-yang-harus-dihindari-dalam-pembuatan-cv",
+      url: "/blog/5-kesalahan-yang-harus-dihindari-dalam-pembuatan-cv",
     },
     {
       id: 2,
@@ -38,7 +38,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Ketika memasuki dunia kerja, pekerja dituntut untuk menguasai sejumlah kemampuan, baik hard skill atau pun soft skill. Dua kemampuan ini sebenarnya sangat berbeda. Akan tetapi, dalam dunia kerja, hard skill dan soft skill seringkali dibenturkan meskipun memiliki perbedaan. Terkadang, soft skill dianggap lebih penting dibandingkan hard skill. Namun, apakah benar seperti itu?",
-      url: "/hard-skill-vs-soft-skill-mana-yang-lebih-penting",
+      url: "/blog/hard-skill-vs-soft-skill-mana-yang-lebih-penting",
     },
     {
       id: 3,
@@ -49,7 +49,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Setelah lulus dari universitas, melamar pekerjaan akan menjadi proses selanjutnya yang dilalui fresh graduate. Meski sudah lulus dan dibekali ilmu pendidikan, nyatanya hal itu tidak cukup untuk menarik perusahaan di luar sana untuk merekrut fresh graduate. Ada beberapa hal penting yang perlu disiapkan sebelum melamar pekerjaan. Mari simak pembahasan di bawah ini untuk mengetahui persiapan yang diperlukan fresh graduate sebelum mencari kerja.",
-      url: "/fresh-graduate-siapkan-dulu-hal-hal-ini-sebelum-mencari-kerja",
+      url: "/blog/fresh-graduate-siapkan-dulu-hal-hal-ini-sebelum-mencari-kerja",
     },
     {
       id: 4,
@@ -60,7 +60,7 @@ export default function Blog() {
       date: "20 April 2023",
       description:
         "Setelah bekerja, semua karyawan tentunya berharap dapat mengembangkan karirnya dengan maksimal hingga mencapai puncak karir tertinggi. Oleh karena itu, karyawan perlu mengetahui cara-cara agar dapat mengembangkan karirnya dengan maksimal. Maka dari itu, yuk simak 5 tips untuk mengembangkan karir dengan maksimal berikut ini.",
-      url: "/5-tips-untuk-mengembangkan-karir-dengan-maksimal",
+      url: "/blog/5-tips-untuk-mengembangkan-karir-dengan-maksimal",
     },
   ];
 

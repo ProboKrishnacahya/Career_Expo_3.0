@@ -1508,7 +1508,7 @@ export const job = [
     id: 88,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
@@ -1525,7 +1525,7 @@ export const job = [
     id: 89,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
@@ -1542,7 +1542,7 @@ export const job = [
     id: 90,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
@@ -1559,7 +1559,7 @@ export const job = [
     id: 91,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
@@ -1576,7 +1576,7 @@ export const job = [
     id: 92,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",
@@ -1593,7 +1593,7 @@ export const job = [
     id: 93,
     name: "Sideroom Studio",
     companyURL: "/company-list/sideroom-studio",
-    image: "/images/vacancy/company_list/Sideroom Studio Logo.jpg",
+    image: "/images/vacancy/company_list/Sideroom Studio Logo.JPG",
     deskripsiPerusahaan:
       "Sideroom Studio adalah sebuah perusahaan yang bergerak di bidang industri visual kreatif, secara khusus dalam bidang 3D dan animasi berbasis di Surabaya. Sideroom Studio melayani kebutuhan Product CGI, 3D Visual Design, Digital Campaign, TVC (TV Commercial), Stage Visual, serta penyediaan kebutuhan asset 3D untuk game dan film.",
     daftarURL: "https://forms.gle/jdf9sqrjRmDmWNM59",

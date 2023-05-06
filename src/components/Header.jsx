@@ -45,14 +45,14 @@ export default function Header() {
                   </a>
                   <ul className="dropdown-menu">
                     <li>
-                      <a className="dropdown-item" href="/company-list">
+                      <NavLink to="/company-list" className="dropdown-item">
                         Company List
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/job-vacancy">
+                      <NavLink to="/job-vacancy" className="dropdown-item">
                         Job Vacancy
-                      </a>
+                      </NavLink>
                     </li>
                   </ul>
                 </div>
@@ -70,19 +70,19 @@ export default function Header() {
                   </a>
                   <ul className="dropdown-menu">
                     <li>
-                      <a className="dropdown-item" href="/career-expo">
+                      <NavLink to="/career-expo" className="dropdown-item">
                         Career Expo
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/workshop">
+                      <NavLink to="/workshop" className="dropdown-item">
                         Workshop
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/register">
+                      <NavLink to="/register" className="dropdown-item">
                         Register Here
-                      </a>
+                      </NavLink>
                     </li>
                   </ul>
                 </div>
@@ -100,14 +100,14 @@ export default function Header() {
                   </a>
                   <ul className="dropdown-menu">
                     <li>
-                      <a className="dropdown-item" href="/sponsors">
+                      <NavLink to="/sponsors" className="dropdown-item">
                         Sponsors
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/media-partners">
+                      <NavLink to="/media-partners" className="dropdown-item">
                         Media Partners
-                      </a>
+                      </NavLink>
                     </li>
                   </ul>
                 </div>
@@ -125,19 +125,19 @@ export default function Header() {
                   </a>
                   <ul className="dropdown-menu dropdown-menu-end">
                     <li>
-                      <a className="dropdown-item" href="/about">
+                      <NavLink to="/about" className="dropdown-item">
                         Corporate Entrepreneurship
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/gallery">
+                      <NavLink to="/gallery" className="dropdown-item">
                         Gallery
-                      </a>
+                      </NavLink>
                     </li>
                     <li>
-                      <a className="dropdown-item" href="/blog">
+                      <NavLink to="/blog" className="dropdown-item">
                         Blog
-                      </a>
+                      </NavLink>
                     </li>
                   </ul>
                 </div>

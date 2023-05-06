@@ -134,10 +134,6 @@ th {
   display: none;
 }
 
-.scroll-down {
-  animation: bounce 2s infinite;
-}
-
 .text-link {
   color: var(--cetacean-blue) !important;
 }

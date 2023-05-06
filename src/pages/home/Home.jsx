@@ -125,15 +125,6 @@ export default function Home() {
               <strong>Proposal Sponsorship</strong>
             </button>
           </div>
-          {/* <h2 className="scroll-down text-center my-5 py-5">
-            <a href="#home">
-              <i
-                className="bi bi-chevron-double-down"
-                data-bs-toggle="tooltip"
-                title="Scroll Down"
-              ></i>
-            </a>
-          </h2> */}
         </section>
 
         <br />

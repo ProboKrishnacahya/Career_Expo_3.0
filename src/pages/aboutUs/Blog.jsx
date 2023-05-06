@@ -1,5 +1,6 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
+import { NavLink } from "react-router-dom";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 
@@ -68,7 +69,7 @@ export default function Blog() {
 
   for (const article of articles) {
     blogs.push(
-      <a href={article.url} id="blog">
+      <NavLink to={article.url} id="blog">
         <div className="card p-2">
           <div className="row g-3">
             <div className="col-lg-4">
@@ -115,7 +116,7 @@ export default function Blog() {
             </div>
           </div>
         </div>
-      </a>
+      </NavLink>
     );
   }
 

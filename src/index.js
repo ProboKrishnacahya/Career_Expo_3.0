@@ -81,10 +81,10 @@ root.render(
       <Route path="/about" element={<About />} />
       <Route path="/gallery" element={<Gallery />} />
       <Route path="/blog" element={<Blog />} />
-      <Route path="/5-kesalahan-yang-harus-dihindari-dalam-pembuatan-cv" element={<Article1 />} />
-      <Route path="/hard-skill-vs-soft-skill-mana-yang-lebih-penting" element={<Article2 />} />
-      <Route path="/fresh-graduate-siapkan-dulu-hal-hal-ini-sebelum-mencari-kerja" element={<Article3 />} />
-      <Route path="/5-tips-untuk-mengembangkan-karir-dengan-maksimal" element={<Article4 />} />
+      <Route path="/blog/5-kesalahan-yang-harus-dihindari-dalam-pembuatan-cv" element={<Article1 />} />
+      <Route path="/blog/hard-skill-vs-soft-skill-mana-yang-lebih-penting" element={<Article2 />} />
+      <Route path="/blog/fresh-graduate-siapkan-dulu-hal-hal-ini-sebelum-mencari-kerja" element={<Article3 />} />
+      <Route path="/blog/5-tips-untuk-mengembangkan-karir-dengan-maksimal" element={<Article4 />} />
     </Routes>
   </Router>
 );

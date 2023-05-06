@@ -106,7 +106,7 @@ export default function Footer() {
                                 title="Email"
                               ></i>
                               &ensp;
-                              <span>careerexpouc2021@gmail.com</span>
+                              <span>uccorporateentrepreneurship@gmail.com</span>
                             </a>
                           </li>
                         </ul>

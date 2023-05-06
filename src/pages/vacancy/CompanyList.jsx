@@ -1,5 +1,6 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
+import { NavLink } from "react-router-dom";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import { job } from "../../data/vacancy/JobVacancy";
@@ -20,7 +21,7 @@ export default function CompanyList() {
 
   const companyList = job.map((job) => (
     <div className="col">
-      <a href={job.companyURL} className="company-list">
+      <NavLink to={job.companyURL} className="company-list">
         <div className="card text-center px-0 py-2 h-100">
           <img
             src={job.image}
@@ -38,7 +39,7 @@ export default function CompanyList() {
             </button>
           </div>
         </div>
-      </a>
+      </NavLink>
     </div>
   ));
 

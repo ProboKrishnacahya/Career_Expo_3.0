@@ -8,8 +8,8 @@ export default function Footer() {
         <div>
           <div className="container d-grid gap-2">
             <div className="d-grid gap-2 justify-content-center justify-content-lg-between align-items-center">
-              <div className="row row-cols-1 row-cols-lg-3 g-4">
-                <div className="col ">
+              <div className="row justify-content-between">
+                <div className="col-lg-3">
                   <div className="d-grid gap-2">
                     <NavLink className="navbar-brand" to="/">
                       <img
@@ -24,7 +24,7 @@ export default function Footer() {
                     </a>
                   </div>
                 </div>
-                <div className="col d-grid gap-4">
+                <div className="col-lg-5 d-grid gap-2 justify-content-lg-center">
                   <div>
                     <h5>Powered By</h5>
                     <div className="d-flex gap-2 align-items-center">
@@ -96,7 +96,7 @@ export default function Footer() {
                           </li>
                           <li>
                             <a
-                              href="mailto:careerexpouc2021@gmail.com"
+                              href="mailto:uccorporateentrepreneurship@gmail.com"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -114,7 +114,7 @@ export default function Footer() {
                     </div>
                   </div>
                 </div>
-                <div className="col">
+                <div className="col-lg-3">
                   <h5>Links</h5>
                   <ul className="list-unstyled">
                     <li>

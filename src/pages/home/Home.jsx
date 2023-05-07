@@ -494,7 +494,7 @@ export default function Home() {
             </div>
             <div className="modal-body p-0">
               <iframe
-                src="pdf/home/Proposal Sponsorship.pdf"
+                src="pdf/home/Proposal Sponsorship Career Expo 2023.pdf"
                 frameborder="0"
                 title="Proposal Sponsorship"
                 className="w-100 vh-100"

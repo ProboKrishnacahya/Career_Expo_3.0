@@ -2092,7 +2092,8 @@ export const job = [
     tipe: "Full Time",
     divisi: "Marketing",
     jabatan: "Marketing Executive",
-    deskripsiPekerjaan: "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
+    deskripsiPekerjaan:
+      "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
     kriteria:
       "Pria dan Wanita maks 35 tahun, pendidikan min D3, jujur, tanggung jawab dan mudah komunikasi serta bernegosiasi dlm bhs Indonesia maupun Bhs Inggris, berjiwa pemimpin dan berorientasi pada target, berpengalaman dibidang losgistik dan sejenisnya, EMKL dan Forwarding",
     daerahPenempatan: "Surabaya",
@@ -2108,10 +2109,131 @@ export const job = [
     tipe: "Internship",
     divisi: "Marketing",
     jabatan: "Marketing Executive",
-    deskripsiPekerjaan: "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
+    deskripsiPekerjaan:
+      "Mencari Customer baru, maintenance Customer yang sudah bekerja sama dengan kita, mengecek pengiriman sampai ke tujuan.",
     kriteria:
       "Pria dan Wanita maks 35 tahun, pendidikan min D3, jujur, tanggung jawab dan mudah komunikasi serta bernegosiasi dlm bhs Indonesia maupun Bhs Inggris, berjiwa pemimpin dan berorientasi pada target, berpengalaman dibidang losgistik dan sejenisnya, EMKL dan Forwarding (fresh graduate diperbolehkan)",
     daerahPenempatan: "Surabaya",
   },
 
+  // * PT Surabaya Mekabox
+  {
+    id: 125,
+    name: "PT Surabaya Mekabox",
+    companyURL: "/company-list/pt-surabaya-mekabox",
+    image: "/images/vacancy/company_list/LOGO SMB.jpg",
+    deskripsiPerusahaan:
+      "Established in 1973, Surabaya Mekabox is a well-known paper packaging manufacturing company in Indonesia. We started the journey as a corrugated carton box manufacturer and in 1983, we had our first paper mill and became one of the first integrated paper packaging companies in Indonesia. Within 50 years of experience, we have been evolving and thriving to produce high-quality packaging paper and carton boxes.\n\nSustainability is our priority. Using post-consumer corrugated carton boxes, we recycle and produce medium and test liner paper. Years of experience dealing with recycled fiber makes our products an ideal choice where environmental considerations are priorities.",
+    daftarURL: "https://forms.gle/554fJ2SnUA6wXrDn9",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Sales Marketing",
+    deskripsiPekerjaan:
+      "- Mencari order sesuai target yang sudah ditetapkan\n- Mencari customer baru serta menjaga dan membina relasi yang baik dengan customer\n- Berkoordinasi dengan department terkait dalam pemenuhan order\n- Melakukan customer visit dan memastikan pembayaran order telah terpenuhi",
+    kriteria:
+      "- Minimal S1 dari jurusan apapun\n- Freshgraduate atau berpengalaman minimal 3 tahun (diutamakan cumlaude)\n- Memiliki skill komunikasi yang baik, sense of business dan berorientasi pada target\n- Bersedia melakukan perjalanan dinas\n- Persuasif dan mampu melakukan negosiasi dengan baik\n- Lancar berbahasa Inggris / Mandarin menjadi nilai plus\n- Mampu mengoperasikan Ms. Excel dan memiliki kemampuan numerical yang baik\n- Bisa mengendarai mobil dan memiliki sim A",
+    daerahPenempatan: "Bambe, Driyorejo",
+  },
+  {
+    id: 126,
+    name: "PT Surabaya Mekabox",
+    companyURL: "/company-list/pt-surabaya-mekabox",
+    image: "/images/vacancy/company_list/LOGO SMB.jpg",
+    deskripsiPerusahaan:
+      "Established in 1973, Surabaya Mekabox is a well-known paper packaging manufacturing company in Indonesia. We started the journey as a corrugated carton box manufacturer and in 1983, we had our first paper mill and became one of the first integrated paper packaging companies in Indonesia. Within 50 years of experience, we have been evolving and thriving to produce high-quality packaging paper and carton boxes.\n\nSustainability is our priority. Using post-consumer corrugated carton boxes, we recycle and produce medium and test liner paper. Years of experience dealing with recycled fiber makes our products an ideal choice where environmental considerations are priorities.",
+    daftarURL: "https://forms.gle/554fJ2SnUA6wXrDn9",
+    tipe: "Full Time",
+    divisi: "Finance",
+    jabatan: "Finance Staff",
+    deskripsiPekerjaan:
+      "- Menyusun budget perusahaan dan memonitor cash flow untuk memastikan penerimaan dan penggunaan dana yang efisien\n- Membuat laporan AP dan AR secara berkala\n- Berhubungan / komunikasi dengan perbankan untuk operasional keuangan, temasuk pembukaan LC dan pencairan LC\n- Memonitor pergerakan kurs US$ secara harian\n- Melakukan hedging untuk pembayaran luar negeri yang belum jatuh tempo\n- Membuat jurnal keuangan yang diperlukan untuk menyusun laporan keuangan\n- Melakukan stock opname untuk kas yang dipegang pabrik\n- Membuat laporan yang diperlukan",
+    kriteria:
+      "- Minimal S1 Akuntansi\n- Pengalaman minimal 2-3 tahun dalam mengelola keuangan perusahaan\n- Menguasai Ms. Excel dan menguasai / memahami ERP system dalam operasional pekerjaan\n- Berpengalaman dalam hubungan perbankan, diutamakan yang memahami prosedur LC import maupun export\n- Perhatian terhadap detail serta memiliki integritas dan tanggung jawab yang tinggi\n- Mampu bekerja dibawah target waktu dan tekanan\n- Diutamakan yang bisa berbahasa Inggris",
+    daerahPenempatan: "Bambe, Driyorejo",
+  },
+  {
+    id: 127,
+    name: "PT Surabaya Mekabox",
+    companyURL: "/company-list/pt-surabaya-mekabox",
+    image: "/images/vacancy/company_list/LOGO SMB.jpg",
+    deskripsiPerusahaan:
+      "Established in 1973, Surabaya Mekabox is a well-known paper packaging manufacturing company in Indonesia. We started the journey as a corrugated carton box manufacturer and in 1983, we had our first paper mill and became one of the first integrated paper packaging companies in Indonesia. Within 50 years of experience, we have been evolving and thriving to produce high-quality packaging paper and carton boxes.\n\nSustainability is our priority. Using post-consumer corrugated carton boxes, we recycle and produce medium and test liner paper. Years of experience dealing with recycled fiber makes our products an ideal choice where environmental considerations are priorities.",
+    daftarURL: "https://forms.gle/554fJ2SnUA6wXrDn9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Management Trainee - Accounting",
+    deskripsiPekerjaan:
+      "- Menyelesaikan daily tasks / project tertentu yang diberikan oleh pimpinan\n- Memahami prosedur dan operasional perusahaan dan mampu memberikan saran / ide dengan tujuan untuk meningkatkan kinerja department\n- Membuat laporan yang dibutuhkan",
+    kriteria:
+      "- Minimal S1 Akuntansi dari universitas ternama\n- Fresh graduate atau berpengalaman maksimal 1 tahun\n- Memiliki Brevet A & B menjadi nilai plus\n- IPK minimal 3.5 \n- Memiliki motivasi diri yang tinggi dan berusaha menjadi yang terbaik\n- Fast learner & memiliki jiwa leadership\n- Mampu bekerja dibawah target waktu dan tekanan\n- Memiliki kemampuan interpersonal yang baik & teliti\n- Diutamakan mahir berbahasa Inggris",
+    daerahPenempatan: "Bambe, Driyorejo",
+  },
+  {
+    id: 128,
+    name: "PT Surabaya Mekabox",
+    companyURL: "/company-list/pt-surabaya-mekabox",
+    image: "/images/vacancy/company_list/LOGO SMB.jpg",
+    deskripsiPerusahaan:
+      "Established in 1973, Surabaya Mekabox is a well-known paper packaging manufacturing company in Indonesia. We started the journey as a corrugated carton box manufacturer and in 1983, we had our first paper mill and became one of the first integrated paper packaging companies in Indonesia. Within 50 years of experience, we have been evolving and thriving to produce high-quality packaging paper and carton boxes.\n\nSustainability is our priority. Using post-consumer corrugated carton boxes, we recycle and produce medium and test liner paper. Years of experience dealing with recycled fiber makes our products an ideal choice where environmental considerations are priorities.",
+    daftarURL: "https://forms.gle/554fJ2SnUA6wXrDn9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Spv GA & Legal",
+    deskripsiPekerjaan:
+      "- Menangani masalah hukum baik internal maupun eksternal\n- Memberikan nasihat hukum maupun analisa potensi resiko terhadap management\n- Mempertimbangkan semua resiko sebelum memberikan rekomendasi tindakan hukum\n- Mengikuti perkembangan peraturan dan perijinan sesuai undang-undang yang berlaku\n- Mengurus dan monitor ijin-ijin yang diperlukan untuk setiap tugas perusahaan\n- Menjaga ketertiban dan menangani masalah umum di perusahaan",
+    kriteria:
+      "- Minimum S1-Hukum\n- Berpengalaman minimal 3 tahun sebagai legal & GA di perusahaan manufaktur\n- Hati-hati, kritis, teliti dan menguasai peraturan/perundang-undangan yang berlaku\n- Memiliki ketrampilan komunikasi verbal maupun tertulis yang prima, baik secara internal dan eksternal\n- Memiliki skill negosiasi dan persuasive tinggi\n- Mampu menjaga hubungan dengan masyarakat dan aparat pemerintahan\n- Fast learner & memiliki jiwa leadership\n- Mampu bekerja dibawah target waktu dan tekanan\n- Memiliki integritas dan tanggung jawab yang tinggi",
+    daerahPenempatan: "Bambe, Driyorejo",
+  },
+  {
+    id: 129,
+    name: "BMW Astra",
+    companyURL: "/company-list/bmw-astra",
+    image: "/images/vacancy/company_list/BMW ASTRA Gray_Color.png",
+    deskripsiPerusahaan:
+      "BMW Astra is one of BMW dealer in Indonesia.\n\nPT. Astra International Tbk. – BMW Sales Operation, Widely known as BMW Astra, is the largest authorized dealer of BMW in Indonesia.\n\nBMW Astra has the coverage area throughout the Java, including 4 branches in Jakarta (Sunter, Cilandak, Pluit, and Alam Sutera), Central Java (Semarang), D. I. Yogyakarta and East Java (Surabaya); the neighboring island Bali (Denpasar) and Sulawesi (Makassar), BMW Astra has earned its reputation as Customers’ Choice dealer that focuses on service perfection and customers satisfaction.\n\nBMW Astra has core value: PRIDE that lead us to consistently deliver the best results; proactively & creatively anticipate the change; consistently deliver every promise and show responsibility to the customer. We also deliver the best experiential service to customer and other employee; and also actively participate in creating synergy and conducive working environment. Let’s become our part of JOY.",
+    daftarURL: "https://forms.gle/rdWtbR9wUphB57eVA",
+    tipe: "Full Time",
+    divisi: "Operation",
+    jabatan: "Sales Consultant",
+    deskripsiPekerjaan:
+      "Responsible as Sales Executive for relationship based selling.",
+    kriteria:
+      "1. Female / Male\n2. Own SIM A/C\n3. Bachelor Degree from all major\n4. Attractive and hardworking\n5. Discipline and target oriented\n6. Good communication and negotiation skill\n7. 27 years old maximum\n8. Domiciled and being able to be placed at Surabaya\n9. Well experienced in premium customer handling and automotive industry",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 130,
+    name: "BMW Astra",
+    companyURL: "/company-list/bmw-astra",
+    image: "/images/vacancy/company_list/BMW ASTRA Gray_Color.png",
+    deskripsiPerusahaan:
+      "BMW Astra is one of BMW dealer in Indonesia.\n\nPT. Astra International Tbk. – BMW Sales Operation, Widely known as BMW Astra, is the largest authorized dealer of BMW in Indonesia.\n\nBMW Astra has the coverage area throughout the Java, including 4 branches in Jakarta (Sunter, Cilandak, Pluit, and Alam Sutera), Central Java (Semarang), D. I. Yogyakarta and East Java (Surabaya); the neighboring island Bali (Denpasar) and Sulawesi (Makassar), BMW Astra has earned its reputation as Customers’ Choice dealer that focuses on service perfection and customers satisfaction.\n\nBMW Astra has core value: PRIDE that lead us to consistently deliver the best results; proactively & creatively anticipate the change; consistently deliver every promise and show responsibility to the customer. We also deliver the best experiential service to customer and other employee; and also actively participate in creating synergy and conducive working environment. Let’s become our part of JOY.",
+    daftarURL: "https://forms.gle/rdWtbR9wUphB57eVA",
+    tipe: "Full Time",
+    divisi: "Operation",
+    jabatan: "Sales Consultant Used Car",
+    deskripsiPekerjaan:
+      "Responsible as Sales Executive for relationship based selling.",
+    kriteria:
+      "1. Male\n2. Own SIM A/C\n3. Bachelor Degree from all major\n4. Attractive and hardworking\n5. Discipline and target oriented\n6. Good communication and negotiation skill\n7. 27 years old maximum\n8. Domiciled and being able to be placed at Surabaya & Malang\n9. Well experienced in premium customer handling and automotive industry",
+    daerahPenempatan: "Surabaya & Malang",
+  },
+  {
+    id: 131,
+    name: "BMW Astra",
+    companyURL: "/company-list/bmw-astra",
+    image: "/images/vacancy/company_list/BMW ASTRA Gray_Color.png",
+    deskripsiPerusahaan:
+      "BMW Astra is one of BMW dealer in Indonesia.\n\nPT. Astra International Tbk. – BMW Sales Operation, Widely known as BMW Astra, is the largest authorized dealer of BMW in Indonesia.\n\nBMW Astra has the coverage area throughout the Java, including 4 branches in Jakarta (Sunter, Cilandak, Pluit, and Alam Sutera), Central Java (Semarang), D. I. Yogyakarta and East Java (Surabaya); the neighboring island Bali (Denpasar) and Sulawesi (Makassar), BMW Astra has earned its reputation as Customers’ Choice dealer that focuses on service perfection and customers satisfaction.\n\nBMW Astra has core value: PRIDE that lead us to consistently deliver the best results; proactively & creatively anticipate the change; consistently deliver every promise and show responsibility to the customer. We also deliver the best experiential service to customer and other employee; and also actively participate in creating synergy and conducive working environment. Let’s become our part of JOY.",
+    daftarURL: "https://forms.gle/rdWtbR9wUphB57eVA",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Graphic Designer Intern",
+    deskripsiPekerjaan:
+      "Responsible to support marketing team on design projects and assist with concept, design and execution on various design projects.",
+    kriteria:
+      "1. Currently a university student or a fresh graduate, preferably majoring in design.\n2. Familiarity with design software and technologies (such as InDesign, Illustrator, Photoshop)\n3. Experienced in videography and/or photography\n4. Attractive, friendly and hardworking\n5. 25 years old maximum\n6. Domiciled and being able to be placed at Surabaya Branch",
+    daerahPenempatan: "Surabaya",
+  },
 ];

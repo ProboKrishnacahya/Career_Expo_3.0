@@ -10,6 +10,7 @@ import {
   HotelCiputraWorldSurabaya,
   HSBC,
   IndoprimaGroup,
+  MapanGroup,
   PTAsiaPramulia,
   PTSiantarTop,
   PTSuperiorPrimaSukses,
@@ -60,6 +61,7 @@ export default function Navigation() {
           path="/company-list/indoprima-group"
           element={<IndoprimaGroup />}
         />
+        <Route path="/company-list/mapan-group" element={<MapanGroup />} />
         <Route
           path="/company-list/pt-asia-pramulia"
           element={<PTAsiaPramulia />}

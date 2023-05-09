@@ -14,6 +14,7 @@ export { default as BMWAstra } from "../pages/vacancy/companyList/BMWAstra";
 export { default as HotelCiputraWorldSurabaya } from "../pages/vacancy/companyList/HotelCiputraWorldSurabaya";
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
 export { default as IndoprimaGroup } from "../pages/vacancy/companyList/IndoprimaGroup";
+export { default as MapanGroup } from "../pages/vacancy/companyList/MapanGroup";
 export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPramulia";
 export { default as PTSiantarTop } from "../pages/vacancy/companyList/PTSiantarTop";
 export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/PTSuperiorPrimaSukses";
@@ -42,6 +43,7 @@ export { default as Article3 } from "../pages/aboutUs/blog/Article3";
 export { default as Article4 } from "../pages/aboutUs/blog/Article4";
 
 // * Components
+export { default as Carousel } from "../components/Carousel";
 export { default as Footer } from "../components/Footer";
 export { default as Header } from "../components/Header";
 export { default as NavLinkScroll } from "../components/NavLinkScroll";

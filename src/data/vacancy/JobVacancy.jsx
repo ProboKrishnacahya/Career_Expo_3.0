@@ -2185,6 +2185,8 @@ export const job = [
       "- Minimum S1-Hukum\n- Berpengalaman minimal 3 tahun sebagai legal & GA di perusahaan manufaktur\n- Hati-hati, kritis, teliti dan menguasai peraturan/perundang-undangan yang berlaku\n- Memiliki ketrampilan komunikasi verbal maupun tertulis yang prima, baik secara internal dan eksternal\n- Memiliki skill negosiasi dan persuasive tinggi\n- Mampu menjaga hubungan dengan masyarakat dan aparat pemerintahan\n- Fast learner & memiliki jiwa leadership\n- Mampu bekerja dibawah target waktu dan tekanan\n- Memiliki integritas dan tanggung jawab yang tinggi",
     daerahPenempatan: "Bambe, Driyorejo",
   },
+
+  // * BMW Astra
   {
     id: 129,
     name: "BMW Astra",
@@ -2227,13 +2229,202 @@ export const job = [
     deskripsiPerusahaan:
       "BMW Astra is one of BMW dealer in Indonesia.\n\nPT. Astra International Tbk. – BMW Sales Operation, Widely known as BMW Astra, is the largest authorized dealer of BMW in Indonesia.\n\nBMW Astra has the coverage area throughout the Java, including 4 branches in Jakarta (Sunter, Cilandak, Pluit, and Alam Sutera), Central Java (Semarang), D. I. Yogyakarta and East Java (Surabaya); the neighboring island Bali (Denpasar) and Sulawesi (Makassar), BMW Astra has earned its reputation as Customers’ Choice dealer that focuses on service perfection and customers satisfaction.\n\nBMW Astra has core value: PRIDE that lead us to consistently deliver the best results; proactively & creatively anticipate the change; consistently deliver every promise and show responsibility to the customer. We also deliver the best experiential service to customer and other employee; and also actively participate in creating synergy and conducive working environment. Let’s become our part of JOY.",
     daftarURL: "https://forms.gle/rdWtbR9wUphB57eVA",
-    tipe: "Full Time",
+    tipe: "Internship",
     divisi: "Marketing",
     jabatan: "Graphic Designer Intern",
     deskripsiPekerjaan:
       "Responsible to support marketing team on design projects and assist with concept, design and execution on various design projects.",
     kriteria:
       "1. Currently a university student or a fresh graduate, preferably majoring in design.\n2. Familiarity with design software and technologies (such as InDesign, Illustrator, Photoshop)\n3. Experienced in videography and/or photography\n4. Attractive, friendly and hardworking\n5. 25 years old maximum\n6. Domiciled and being able to be placed at Surabaya Branch",
+    daerahPenempatan: "Surabaya",
+  },
+
+  // * Mapan Group
+  {
+    id: 132,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Operasional",
+    jabatan: "Area Manager",
+    deskripsiPekerjaan:
+      "- Bertanggungjawab mengelola terhadap area outlet secara efektif dan efisien serta berkontribusi dalam pencapaian omzet outlet.\n- Melakukan koordinasi dengan leader cabang resto\n- Memastikan pelayanan dan kepuasan pelanggan dengan baik",
+    kriteria:
+      "- Pend. minimal S1 semua jurusan\n- Memiliki pengalaman min. 7 tahun bidang F&B\n- Berpengalaman sebagai AM min. 5 tahun\n- Usia maksimal 40 tahun\n- Mampu mengoperasikan Ms. Office dengan baik\n- Memiliki leadership dan komunikasi yang baik\n- Mampu mengelola karyawan dan hadle beberapa resto\n- bersedia bekerja mobile",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 133,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Operasional",
+    jabatan: "Manager / Supervisor Outlet",
+    deskripsiPekerjaan:
+      "Bertanggungjawab mengelola operasional outlet. Baik dari sisi sumber daya manusia maupun kegiatan sehari - hari secara efektif dan efisien. Sehingga tercapainya kepuasan pelanggan dan target omzet outlet.",
+    kriteria:
+      "- Usia Minimal 27 - 35 tahun\n- Pendidikan Minimal D3/S1 Jurusan Tata Boga (Culinary), Perhotelan dan Pariwisata (Untuk yang Freshgraduate)\n- Pendidikan Minimal D3/S1 semua jurusan (Untuk yang sudah memiliki pengalaman sebagai Supervisor/Koordinator di Bidang F&B (Makanan/Minuman/Pelayanan Restoran) Minimal 2 tahun\n- Memiliki Kemampuan Microsoft Office, Komunikasi, Interpersonal, Problem Solving dan Leadership.\n- Bersedia ditempatkan di seluruh Outlet Mapan Group\n- Bersedia menjalani On the Job Training di Surabaya (Untuk transportasi dan tempat tinggal disediakan oleh perusahaan)",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 134,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "HRD",
+    jabatan: "SPV HRD ( Manufacture / Retail )",
+    deskripsiPekerjaan:
+      "- Memiliki kemampuan untuk melakukan rekrutmen dan alat psikotest.\n- Memiliki kemampuan analisis dan intrapersonal yang baik.\n- Memiliki motivasi yang tinggi, percaya diri, jujur, dan berintegritas.\n- Paham SOP dan alur pemeliharaan aset.\n- Melakukan analisa kebutuhan inventaris kantor.\n- Melakukan analisa biaya atas pengadaan dan perawatan seluruh inventaris, aset, dan sarana penunjang aktivitas kantor.\n- Menjalin hubungan kerja dengan vendor penyedia dan perawatan inventaris, aset, dan sarana penunjang aktivitas kantor.\n- Membuat prosedur kerja inspeksi dan pemeliharaan seluruh aset dan sarana penunjang aktivitas kantor.\n- Menyiapkan laporan berkala aset dan beban biaya kantor.\n- Menangani komplain yang berkaitan dengan sarana dan prasarana kantor.",
+    kriteria:
+      "- Usia 30 - 38 tahun.\n- Pendidikan minimal sarjana S1 (diutamakan jurusan Hukum, Psikologi, Manajemen SDM)\n- IPK minimal 3.00 (skala 4.00 ) dari universitas ternama.\n- Pengalaman kerja sebagai HRD & GA Supervisor minimal 4 tahun.\n- Menguasai Microsoft Office (Word, Excel, Power Point).\n- Menguasai UU Ketenagakerjaan No. 13 Tahun 2003 dan UU Cipta Kerja No. 11 Tahun 2020.",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 135,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Central Kitchen",
+    jabatan: "SPV Warehouse",
+    deskripsiPekerjaan:
+      "- membuat planning dan konsep gudang\n- mengkoordinasikan dengan kepala gudang, tim gudang, tim produksi, delivery, purchasing dan pihak lain.\n- menjalankan operational, planing dan konsep yang telah di setujui oleh kepala gudang dan direktur gudang\n- menjalankan operational gudang dan kerjasama dengan tim pengiriman distribusi\n- mengevaluasi dan memperbaiki jalannya operational gudang dan disampaikan kepada kepala gudang",
+    kriteria:
+      "- Usia 27 - 35 tahun\n- Pendidikan Minimal D3 Semua Jurusan\n- Memiliki pengalaman pada bidang yang sama minimal 1 tahun\n- Mampu bekerja di bawah tekanan\n- Mampu memimpin dan mengkoordinir tim gudang\n- Mengetahui proses serta alur Administrasi, Penyimpanan dan Distribusi Barang\n- Tegas, Jujur, Ulet dan Teliti",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 136,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "SPV Markom",
+    deskripsiPekerjaan:
+      "- Membuat dan menjalankan program kegiatan dengan pihak-pihak terkait perihal kegiatan branding, termasuk merancang strategi kampanye untuk mempromosikan merek perusahaan\n- Bertanggung jawab untuk mengembangkan dan melaksanakan strategi pemasaran yang efektif dan kreatif untuk meningkatkan brand awareness, engagement, dan konversi.\n- Bekerja sama dengan pihak eksternal perihal aktivitas kampanye sesuai segmentasinya, termasuk membangun kemitraan strategis dengan mitra bisnis yang relevan\n- Bekerjasama dengan Revenue Management untuk mengembangkan strategi penetapan harga yang efektif\n- Mengembangkan rencana public relation (PR) secara komprehensif berkala secara efisien, termasuk merencanakan dan mengelola acara PR dan aktivitas media\n- Terlibat langsung dalam pengelolaan reputasi perusahaan di berbagai media baik online maupun offline, termasuk memantau dan menanggapi umpan balik pelanggan dan pengguna media sosial",
+    kriteria:
+      "- Minimal S1 di bidang pemasaran, komunikasi, atau bidang terkait\n- Usia maksimal 35 tahun\n- Paham dan mengerti tentang strategi branding\n- Setidaknya 3 tahun pengalaman dalam pemasaran atau komunikasi\n- Memiliki keterampilan kepemimpinan yang kuat dan mampu bekerja dalam tim\n- Berpengetahuan luas tentang strategi pemasaran, tren industri, dan teknologi baru\n- Kreatif, analitis, dan terbiasa dengan pengelolaan anggaran pemasaran\n- Mampu berkomunikasi dengan jelas dan efektif serta dapat bekerja di bawah tekanan dan tenggat waktu.\n- Terbiasa bekerjasama dengan pihak eksternal seperti EO, dll.",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 137,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Learning & Development",
+    jabatan: "Trainer",
+    deskripsiPekerjaan:
+      "- Membuat jadwal dan perencanaan kegiatan pelatihan\n- Melakukan training pada karyawan baru / lama ( existing )\n- Mempersiapkan kelengkapan yang dibutuhkan untuk kegiatan pelatihan\n- Melakukan Evaluasi terkait dengan pelaksanaan kegiatan pelatihan\n- Membuat Laporan Kegiatan Pelatihan",
+    kriteria:
+      "- Pendidikan Minimal D3/S1 Psikologi, MSDM, F&B Service Management, Tata Boga/Hospitality/Tourism/Hotel Management\n- Pengalaman minimal 1 tahun sebagai Trainer di perusahaan F&B / Restaurant / Hospitality\n- Pengalaman sebagai pengajar ( nilai tambah )\n- Memahami konsep TNA\n- Bersedia mobile\n- Memiliki kemampuan komunikasi yang baik\n- Mampu mengoperasikan komputer dan Ms. Office dengan baik",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 138,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Corporate Secretary",
+    deskripsiPekerjaan:
+      "- Perempuan\n- Usia 20-35 tahun\n- Min. S1 semua jurusan\n- Memiliki pengalaman sebagai sekretaris\n- Bisa segera join\n- Bisa mengoperasikan Ms. Office ( word, Excel, PPT, dll )\n- Komunikatif\n- Berpenampilan menarik\n- Bersedia mobile",
+    kriteria:
+      "- Akan Menjadi sekretarisGM\n- Menjadi notulen ketika GM meeting\n- Melakukan dan mengatur jadwal meeting GM dengan pihak eksternal / internal",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 139,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Central Kitchen",
+    jabatan: "R & D (F&B)",
+    deskripsiPekerjaan:
+      "- Bertanggung jawab dalam Pengembangan Produk\n- Mengembangkan produk baru & membuat sampel\n- Proses pemilihan vendor untuk raw material & packaging sesuai kebutuhan perusahaan\n- Menguji produk baru untuk rasa, tekstur, warna, kandungan gizi, dan kepatuhan terhadap standar pemerintah dan industri.\n- Melakukan uji coba di laboratorium R&D dan produksi\n- Dokumen pendukung, permintaan contoh fasilitas dari sales & marketing\n- Melaksanakan proses sertifikasi pabrik melalui OSS dan sistem BPOM & KEMENKES, termasuk koordinasi dengan tim pabrik & tim legal untuk penyiapan dokumen sertifikasi: CCPOB",
+    kriteria:
+      "- Pend. Min. D3 / S1 Jurusan Teknologi Pangan, ilmu gizi, Pertanian, ilmu kimia\n- Memahami HACCP, GMP, BPOM (CCPOB), BPJPH - LP-POM MUI dan Keamanan Pangan.\n- Lebih disukai Koordinator khusus dalam teknologi Pangan, ahli gizi, atau yang setara.\n- Berpengalaman minimal 3 tahun sebagai Staf Quality Control / R&D lebih disukai di F&B / Pabrik Makanan",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 140,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Produksi",
+    jabatan: "Demi Chef / Cook",
+    deskripsiPekerjaan:
+      "- Usia 18 - 35 tahun\n- Pendidikan minimal SMA/SMK Sederajat\n- Pengalaman minimal 1 tahun sebagai Kitchen\n- Memahami proses memasak dengan baik\n- Bersedia bekerja shifting dan tanggal merah\n- Mengetahui bumbu dasar\n- Mengetahui bahan / bumbu rempah degan baik",
+    kriteria:
+      "- Bertanggung jawab terhadap kegiatan produksi di Central Kitchen atau di Outlet\n- Memastikan proses produksi dan masakan sesuai dengan SOP\n- Bertanggung jawab dalam memelihara kebersihan dapur, inventori bahan makanan dan perlengkapan dapur.\n- Melayani pelanggan dengan memenuhi kebutuhan order\n- Menyiapkan stok bahan makanan dan stok produksi",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 141,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Operasional",
+    jabatan: "Kitchen",
+    deskripsiPekerjaan:
+      "- Pria / Wanita\n- Usia 17 - 26 tahun\n- Pendidikan SMA, SMK / Sederajat\n- Bisa memasak\n- Freshgraduate / Berpengalaman\n- Bersedia bekerja di hari weekend dan tanggal merah\n- Bersedia bekerja shift\n- Tidak berkacamata, bertato dan bertindik",
+    kriteria:
+      "- Memasak sesuai pesanan customer\n- Prepare bahan dan memastikan tidak ada bahan yang rusak / basi\n- Menjaga area dapur dan peralatan dapur bersih\n- Melakukan koordinasi dengan tim floor untuk berbagai menu untuk di Upsale\n- Menjaga cita rasa makanan sesuai dengan SOP\n- Membuat minuman sesuai pesanan tamu",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 142,
+    name: "Mapan Group",
+    companyURL: "/company-list/mapan-group",
+    image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
+    deskripsiPerusahaan:
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+    daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
+    tipe: "Full Time",
+    divisi: "Operasional",
+    jabatan: "Waiters",
+    deskripsiPekerjaan:
+      "- Pria / Wanita\n- Usia 17 - 26 tahun\n- Pendidikan SMA, SMK / Sederajat\n- Freshgraduate / Berpengalaman\n- Komunikatif, jujur dan disiplin\n- Bersedia bekerja di hari weekend dan tanggal merah\n- Bersedia bekerja shift\n- Tidak berkacamata, bertato dan bertindik",
+    kriteria:
+      "- Memberikan pelayanan kepada Customer yang ingin makan di Restoran\n- Melakukan pencatatan pesanan Customer dan memastikan kembali apakah pesanan sudah benar\n- Menyarankan berbagai menu promo, cross sell dan upsell\n- Menyajikan dan mengantarkan pesanan Customer\n- Melakukan transaksi pembayaran Customer\n- Melakukan clear up atau membersihkan meja makan customer yang sudah meninggalkan restoran",
     daerahPenempatan: "Surabaya",
   },
 ];

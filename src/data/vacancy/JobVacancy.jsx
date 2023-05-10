@@ -15,7 +15,7 @@ export const job = [
       "In this role, you will be responsible to acquire new customers in HSBC Premier Segment and provide Wealth Management products to customers. As a Premier Banking Specialist, an intensive training development will be available to support the performance. During the start of service, a Premier Banking Specialist will represent HSBC and will be paired with a mentor in developing network and relationship with prospective customers and colleagues in the Bank.",
     kriteria:
       "- Hold minimum of Bachelor's Degree of 2.75 / 4.00 GPA.\n- Fresh graduates are welcome to apply.\n- High motivation and strong sales driven.\n- Has passion in sales activity.\n- Good communication skill.\n- Carrier orientation and progression\n- Good attitude and behavior\n- Background as marketing staff would be an advantage.\n- Able to work in a team.",
-    daerahPenempatan: "",
+    daerahPenempatan: "Surabaya",
   },
   {
     id: 1,
@@ -32,7 +32,7 @@ export const job = [
       "In this role, you will be responsible to acquire new customers in HSBC Premier Segment and provide Wealth Management products to customers. As a Premier Banking Specialist, an intensive training development will be available to support the performance. During the start of service, a Premier Banking Specialist will represent HSBC and will be paired with a mentor in developing network and relationship with prospective customers and colleagues in the Bank. ",
     kriteria:
       "- Hold minimum of Bachelor's Degree\n- Have minimum 1.5 years experience in sales funding banking industry\n- High motivation and strong sales driven,\n- Has passion to build career in sales area and good networking is a must,\n- High motivation and strong commercial drive,\n- Able to work in a team.",
-    daerahPenempatan: "",
+    daerahPenempatan: "Surabaya",
   },
 
   // * PT. Asia Pramulia

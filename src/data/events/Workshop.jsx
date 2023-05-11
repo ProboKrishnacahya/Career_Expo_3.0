@@ -1,6 +1,7 @@
 export const workshop = [
   {
-    image: "/images/events/workshop/SAVE DATE-5.png",
+    image1: "/images/events/workshop/Workshop Day 1 - Desktop.png",
+    image2: "/images/events/workshop/Workshop Day 1 - Mobile.png",
     judul: "“Keys to Successful Photoshop Skills”",
     namaPembicara: "Rendy Iswanto, S.Sn., M.M., M.Ds.",
     jabatan: "Lecturer",
@@ -10,7 +11,8 @@ export const workshop = [
     daftarURL: "/register",
   },
   {
-    image: "/images/events/workshop/SAVE DATE.png",
+    image1: "/images/events/workshop/Workshop Day 2 - Desktop.png",
+    image2: "/images/events/workshop/Workshop Day 2 - Mobile.png",
     judul: "“Create Your Outstanding CV”",
     namaPembicara: "Fadilla Ully Saraswati, S.Psi",
     jabatan: "Talent Management Specialist",

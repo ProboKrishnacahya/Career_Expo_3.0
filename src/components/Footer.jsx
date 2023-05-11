@@ -136,9 +136,6 @@ export default function Footer() {
                       <NavLink to="/sponsors">Sponsors</NavLink>
                     </li>
                     <li>
-                      <NavLink to="/media-partners">Media Partners</NavLink>
-                    </li>
-                    <li>
                       <NavLink to="/about">Corporate Entrepreneurship</NavLink>
                     </li>
                     <li>

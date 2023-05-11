@@ -89,29 +89,9 @@ export default function Header() {
                         Register Here
                       </NavLink>
                     </li>
-                  </ul>
-                </div>
-              </li>
-              <li className="nav-item">
-                <div className="dropdown">
-                  <a
-                    className="dropdown-toggle"
-                    href="#"
-                    type="button"
-                    data-bs-toggle="dropdown"
-                    aria-expanded="false"
-                  >
-                    Collaborations
-                  </a>
-                  <ul className="dropdown-menu">
                     <li>
                       <NavLink to="/sponsors" className="dropdown-item">
                         Sponsors
-                      </NavLink>
-                    </li>
-                    <li>
-                      <NavLink to="/media-partners" className="dropdown-item">
-                        Media Partners
                       </NavLink>
                     </li>
                   </ul>

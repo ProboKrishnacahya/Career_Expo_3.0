@@ -1,9 +1,9 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
-import Carousel from "../../components/Carousel";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import { sponsors } from "../../data/events/Sponsors";
 
 export default function Home() {
   useEffect(() => {
@@ -317,32 +317,17 @@ export default function Home() {
         <section data-aos="fade-up">
           <h2 className="text-center">Sponsors</h2>
           <br />
-          <Carousel />
-        </section>
-
-        {/* Media Partners */}
-        <section className="my-5" data-aos="fade-up">
-          <h2 className="text-center">Media Partners</h2>
-          <br />
-          <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 align-items-center">
-            <div className="col">
-              <img
-                src="/images/home/media_partners/info_event.jpg"
-                alt="Media Partners"
-              />
-            </div>
-            <div className="col">
-              <img
-                src="/images/home/media_partners/media_event.png"
-                alt="Media Partners"
-              />
-            </div>
-            <div className="col">
-              <img
-                src="/images/home/media_partners/event_aja.webp"
-                alt="Media Partners"
-              />
-            </div>
+          <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 g-lg-2 align-items-center">
+            {sponsors.map((sponsor) => (
+              <div key={sponsor.id}>
+                <img
+                  src={sponsor.image}
+                  alt="Sponsors"
+                  loading="lazy"
+                  className="w-75 d-block mx-auto"
+                />
+              </div>
+            ))}
           </div>
         </section>
       </div>

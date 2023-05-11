@@ -18,25 +18,27 @@ export default function Sponsors() {
     });
   }, []);
 
+  const sponsorsList = sponsors.map((sponsor) => (
+    <div>
+      <img
+        src={sponsor.image}
+        alt="Sponsors"
+        loading="lazy"
+        className="w-75 d-block mx-auto"
+      />
+    </div>
+  ));
+
   return (
     <div className="sponsors">
       <Header />
 
       <div className="container">
         <section className="my-5" data-aos="fade-up">
-        <h2 className="text-center">Sponsors</h2>
+          <h2 className="text-center">Sponsors</h2>
           <br />
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 g-lg-2 align-items-center">
-            {sponsors.map((sponsor) => (
-              <div key={sponsor.id}>
-                <img
-                  src={sponsor.image}
-                  alt="Sponsors"
-                  loading="lazy"
-                  className="w-75 d-block mx-auto"
-                />
-              </div>
-            ))}
+            {sponsorsList}
           </div>
         </section>
       </div>

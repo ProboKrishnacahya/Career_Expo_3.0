@@ -31,7 +31,7 @@ export { default as CareerExpo } from "../pages/events/CareerExpo";
 export { default as Workshop } from "../pages/events/Workshop";
 export { default as Talkshow } from "../pages/events/Talkshow";
 export { default as Register } from "../pages/events/Register";
-export { default as Sponsors } from "../pages/collaborations/Sponsors";
+export { default as Sponsors } from "../pages/events/Sponsors";
 // About Us
 export { default as About } from "../pages/aboutUs/About";
 export { default as Gallery } from "../pages/aboutUs/Gallery";
@@ -42,7 +42,6 @@ export { default as Article3 } from "../pages/aboutUs/blog/Article3";
 export { default as Article4 } from "../pages/aboutUs/blog/Article4";
 
 // * Components
-export { default as Carousel } from "../components/Carousel";
 export { default as Footer } from "../components/Footer";
 export { default as Header } from "../components/Header";
 export { default as NavLinkScroll } from "../components/NavLinkScroll";

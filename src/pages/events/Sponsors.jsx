@@ -1,6 +1,5 @@
 import { Tooltip } from "bootstrap";
 import React, { useEffect } from "react";
-import Carousel from "../../components/Carousel";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
 import { sponsors } from "../../data/events/Sponsors";

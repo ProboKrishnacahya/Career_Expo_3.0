@@ -109,6 +109,10 @@ th {
   font-size: larger;
 }
 
+.events-poster {
+  border-radius: 1rem 1rem 0 0;
+}
+
 .fade-out {
   opacity: 0;
   visibility: hidden;
@@ -135,6 +139,10 @@ th {
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 2;
   overflow: hidden;
+}
+
+.workshop {
+  object-fit: cover;
 }
 
 /* * Selector (ID) */
@@ -290,7 +298,13 @@ th {
   background-color: var(--cetacean-blue);
 }
 
-a:hover:not(.navbar-brand, .company-list, .workshop-list, #blog),
+a:hover:not(
+    .navbar-brand,
+    .company-list,
+    .workshop-list,
+    .talkshow-list,
+    .blog-list
+  ),
 .nav-link:hover,
 #scrollToTop:hover {
   filter: brightness(125%) !important;

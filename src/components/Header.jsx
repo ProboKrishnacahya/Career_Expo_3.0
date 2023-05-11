@@ -80,6 +80,11 @@ export default function Header() {
                       </NavLink>
                     </li>
                     <li>
+                      <NavLink to="/talkshow" className="dropdown-item">
+                        Talkshow
+                      </NavLink>
+                    </li>
+                    <li>
                       <NavLink to="/register" className="dropdown-item">
                         Register Here
                       </NavLink>

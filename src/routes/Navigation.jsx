@@ -24,6 +24,7 @@ import {
   Tanobel,
   CareerExpo,
   Workshop,
+  Talkshow,
   Register,
   Sponsors,
   MediaPartners,
@@ -95,6 +96,7 @@ export default function Navigation() {
         <Route path="/career-expo" element={<CareerExpo />} />
         <Route path="/workshop" element={<Workshop />} />
         <Route path="/register" element={<Register />} />
+        <Route path="/talkshow" element={<Talkshow />} />
         {/* Collaborations */}
         <Route path="/sponsors" element={<Sponsors />} />
         <Route path="/media-partners" element={<MediaPartners />} />

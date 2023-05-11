@@ -69,7 +69,7 @@ export default function Blog() {
 
   for (const article of articles) {
     blogs.push(
-      <NavLink to={article.url} id="blog">
+      <NavLink to={article.url} className="blog-list">
         <div className="card p-2">
           <div className="row g-3">
             <div className="col-lg-4">

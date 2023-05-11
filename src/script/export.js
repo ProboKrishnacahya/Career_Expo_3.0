@@ -29,6 +29,7 @@ export { default as Tanobel } from "../pages/vacancy/companyList/Tanobel";
 // Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";
 export { default as Workshop } from "../pages/events/Workshop";
+export { default as Talkshow } from "../pages/events/Talkshow";
 export { default as Register } from "../pages/events/Register";
 // Collaborations
 export { default as Sponsors } from "../pages/collaborations/Sponsors";

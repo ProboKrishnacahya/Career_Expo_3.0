@@ -50,7 +50,7 @@ export default function About() {
               </div>
             </div>
             <div className="d-grid gap-3 d-lg-flex gap-lg-5 align-items-center flex-row-reverse">
-            <div className="col col-lg-3 mx-auto">
+              <div className="col col-lg-3 mx-auto">
                 <img
                   src="/images/about_us/about/3.jpg"
                   className="rounded shadow-sm"
@@ -71,26 +71,6 @@ export default function About() {
                   menemukan intrapreneur yang handal dan profesional. Sedangkan
                   pada calon intrapreneur harapannya bisa masuk kedalam
                   perusahaan yang di impikan
-                </p>
-              </div>
-              
-            </div>
-            <div className="d-grid gap-3 d-lg-flex gap-lg-5 align-items-center">
-              <div className="col col-lg-3 mx-auto">
-                <img
-                  src="/images/about_us/about/4.jpg"
-                  className="rounded shadow-sm"
-                  alt="About Us"
-                  loading="lazy"
-                />
-              </div>
-              <div className="w-100">
-                <h4>Family Day Fun Day</h4>
-                <p>
-                  Family Day Fun Day merupakan salah satu acara yang bertemakan
-                  keluarga. Acara ini bertujuan untuk merekatkan hubungan orang
-                  tua dan anak, serta melatih kreativitas anak melalui
-                  kegiatan-kegiatan yang ada.
                 </p>
               </div>
             </div>

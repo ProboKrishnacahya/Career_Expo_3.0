@@ -290,7 +290,7 @@ th {
   background-color: var(--cetacean-blue);
 }
 
-a:hover:not(.navbar-brand, .company-list, #blog),
+a:hover:not(.navbar-brand, .company-list, .workshop-list, #blog),
 .nav-link:hover,
 #scrollToTop:hover {
   filter: brightness(125%) !important;

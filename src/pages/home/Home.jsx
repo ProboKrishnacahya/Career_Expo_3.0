@@ -370,7 +370,7 @@ export default function Home() {
             </div>
             <div className="modal-body p-0">
               <iframe
-                src="pdf/home/Proposal Kegiatan.pdf"
+                src="pdf/home/Proposal Career Expo 2023.pdf"
                 frameborder="0"
                 title="Proposal Kegiatan"
                 className="w-100 vh-100"

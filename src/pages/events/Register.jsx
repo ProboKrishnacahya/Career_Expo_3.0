@@ -26,32 +26,28 @@ export default function Register() {
           <div className="d-grid gap-4">
             <h2 className="text-center">Alur Pendaftaran</h2>
             <div className="card">
-              <h4 className="text-center">Virtual Career Expo 2.0</h4>
+              <h4 className="text-center">Career Expo 3.0: HYPE</h4>
               <hr />
               <p>
                 Peserta berkunjung pada link&nbsp;
                 <strong>
                   <a
-                    href="bit.ly/UCCareerExpo2022"
+                    href="https://bit.ly/CareerExpoHYPE2023"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    bit.ly/UCCareerExpo2022
+                    https://bit.ly/CareerExpoHYPE2023
                   </a>
                 </strong>
-                &nbsp;atau klik tombol daftar sekarang di bawah Peserta mengisi
-                pertanyaan-pertanyaan yang sudah tertera di dalam G-form. Jika
-                peserta ingin mengikuti seluruh kegiatan Virtual Career Expo 2.0
-                (2 hari berturut-turut) maka dapat mencentang (checklist) Day 1
-                & Day 2 kemudian peserta mengklik “submit”. Peserta memilih link
-                untuk dapat bergabung dalam grup WhatsApp sesuai dengan hari
-                yang telah dipilih oleh peserta (bila mendaftar dua hari maka
-                dapat bergabung ke grup Day 1 sekaligus grup Day 2). Informasi
-                lebih lanjut akan diinformasikan oleh pihak penyelenggara di
-                dalam grup Whatsapp (ID & password zoom, pengumuman, dll).
+                &nbsp;atau klik tombol daftar sekarang di bawah. Peserta mengisi
+                pertanyaan-pertanyaan yang sudah tertera di dalam G-form.
+                Peserta mencentang hari yang ingin diikuti, jika peserta ingin
+                mengikuti seluruh kegiatan Career Expo 3.0 (2 hari
+                berturut-turut) maka dapat mencentang (checklist) Day 1 & Day 2
+                kemudian peserta klik “submit”.
               </p>
               <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSf1UYSLbcKz3G7dX496TL8N2Qarg1PzM6gLvF1MhIQS9nkMng/viewform"
+                href="https://bit.ly/CareerExpoHYPE2023"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -68,26 +64,27 @@ export default function Register() {
                 Peserta berkunjung pada link&nbsp;
                 <strong>
                   <a
-                    href="bit.ly/WorkshopCE22"
+                    href="https://bit.ly/PendaftaranWorkshopHYPE"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    bit.ly/WorkshopCE22
+                    https://bit.ly/PendaftaranWorkshopHYPE
                   </a>
                 </strong>
-                &nbsp;atau klik tombol daftar sekarang di bawah Peserta mengisi
-                pertanyaan-pertanyaan yang sudah tertera di dalam G-form. Jika
-                peserta ingin mengikuti seluruh kegiatan Virtual Career Expo 2.0
-                (2 hari berturut-turut) maka dapat mencentang (checklist) Day 1
-                & Day 2 kemudian peserta mengklik “submit”. Peserta memilih link
-                untuk dapat bergabung dalam grup WhatsApp sesuai dengan hari
-                yang telah dipilih oleh peserta (bila mendaftar dua hari maka
-                dapat bergabung ke grup Day 1 sekaligus grup Day 2). Informasi
-                lebih lanjut akan diinformasikan oleh pihak penyelenggara di
-                dalam grup Whatsapp (ID & password zoom, pengumuman, dll).
+                &nbsp;atau klik tombol daftar sekarang di bawah. Peserta mengisi
+                pertanyaan-pertanyaan yang sudah tertera di dalam G-form.
+                Peserta mencentang workshop dan hari yang ingin diikuti, jika
+                peserta ingin mengikuti seluruh workshop Career Expo 3.0 (2 hari
+                berturut-turut) maka dapat mencentang (checklist) Day 1 & Day 2
+                kemudian peserta klik “submit”. Peserta memilih link untuk dapat
+                bergabung dalam grup WhatsApp sesuai dengan hari workshop yang
+                telah dipilih oleh peserta (bila mendaftar dua hari maka dapat
+                bergabung ke group Day 1 sekaligus group Day 2). Informasi lebih
+                lanjut akan diinformasikan oleh pihak penyelenggara di dalam
+                grup WhatsApp.
               </p>
               <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfSvdlbTcVVRkG9hP_fLhlcMco-kQ8MXO4JlYuXTXFq9T7inQ/viewform"
+                href="https://bit.ly/PendaftaranWorkshopHYPE"
                 target="_blank"
                 rel="noopener noreferrer"
               >

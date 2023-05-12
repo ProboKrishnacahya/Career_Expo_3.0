@@ -438,7 +438,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/events/sponsors/Sambari.png"
+                src="/images/events/sponsors/Sambari.PNG"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -499,9 +499,18 @@ export default function Home() {
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content">
             <div className="modal-header py-2">
-              <h2 className="modal-title" id="proposalKegiatanModalLabel">
-                Proposal Kegiatan
-              </h2>
+              <div className="d-flex align-items-center">
+                <h2 className="modal-title" id="proposalKegiatanModalLabel">
+                  Proposal Kegiatan
+                </h2>
+                &emsp;
+                <a
+                  href="pdf/home/Proposal Career Expo 2023.pdf"
+                  download="Proposal Career Expo 2023.pdf"
+                >
+                  <i className="bi bi-download fs-4"></i>
+                </a>
+              </div>
               <button
                 type="button"
                 className="btn-close"
@@ -532,9 +541,18 @@ export default function Home() {
         <div className="modal-dialog modal-fullscreen">
           <div className="modal-content">
             <div className="modal-header py-2">
-              <h2 className="modal-title" id="proposalSponsorshipModalLabel">
-                Proposal Sponsorship
-              </h2>
+              <div className="d-flex align-items-center">
+                <h2 className="modal-title" id="proposalSponsorshipModalLabel">
+                  Proposal Sponsorship
+                </h2>
+                &emsp;
+                <a
+                  href="pdf/home/Proposal Sponsorship Career Expo 2023.pdf"
+                  download="Proposal Sponsorship Career Expo 2023.pdf"
+                >
+                  <i className="bi bi-download fs-4"></i>
+                </a>
+              </div>
               <button
                 type="button"
                 className="btn-close"

@@ -196,7 +196,7 @@ export default function Sponsors() {
             </div>
             <div className="col">
               <img
-                src="/images/events/sponsors/Sambari.png"
+                src="/images/events/sponsors/Sambari.PNG"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"

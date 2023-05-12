@@ -77,7 +77,8 @@ export default function JobVacancy() {
       79, 80, 81, 82, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 98,
       99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 111, 112, 113, 114, 115,
       116, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 132,
-      133, 134, 135, 136, 137, 138, 139, 140, 141, 142,
+      133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147,
+      148, 149, 150, 151, 152, 153, 154, 155, 156, 157,
     ].includes(index)
   );
   const lowonganPartTime = jobVacancy.filter((_item, index) =>
@@ -87,7 +88,7 @@ export default function JobVacancy() {
     [83].includes(index)
   );
   const lowonganInternship = jobVacancy.filter((_item, index) =>
-    [13, 14, 15, 19, 97, 109, 110, 124, 131].includes(index)
+    [13, 14, 15, 19, 97, 109, 110, 124, 131, 158].includes(index)
   );
 
   return (

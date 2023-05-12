@@ -319,7 +319,7 @@ export default function Home() {
           <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4 g-lg-2 align-items-center">
             <div className="col">
               <img
-                src="/images/sponsors/Aromasphere.png"
+                src="/images/events/sponsors/Aromasphere.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -327,7 +327,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Bank Syariah Tulen Amanah.jpg"
+                src="/images/events/sponsors/Bank Syariah Tulen Amanah.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -335,7 +335,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/BatterSlurp.jpg"
+                src="/images/events/sponsors/BatterSlurp.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -343,7 +343,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Bidy Tour _ Travel.jpeg"
+                src="/images/events/sponsors/Bidy Tour _ Travel.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -351,7 +351,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Body Garage.png"
+                src="/images/events/sponsors/Body Garage.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -359,7 +359,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/ConsoleTechID.png"
+                src="/images/events/sponsors/ConsoleTechID.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -367,7 +367,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/CV Kian Sukses.jpeg"
+                src="/images/events/sponsors/CV Kian Sukses.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -375,7 +375,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/CV Kreasi Unggul Perkasa.png"
+                src="/images/events/sponsors/CV Kreasi Unggul Perkasa.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -383,7 +383,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/CV Nusantara Graphic.jpg"
+                src="/images/events/sponsors/CV Nusantara Graphic.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -391,7 +391,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Double T Tortoise.png"
+                src="/images/events/sponsors/Double T Tortoise.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -399,7 +399,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Galantine Nyonya Elsye.png"
+                src="/images/events/sponsors/Galantine Nyonya Elsye.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -407,7 +407,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Herbivora Indonesia.jpeg"
+                src="/images/events/sponsors/Herbivora Indonesia.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -415,7 +415,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Insolite.jpg"
+                src="/images/events/sponsors/Insolite.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -423,7 +423,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/JB Performance.png"
+                src="/images/events/sponsors/JB Performance.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -431,7 +431,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Jessi Jon_s Kitchen.jpg"
+                src="/images/events/sponsors/Jessi Jon_s Kitchen.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -439,7 +439,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Kost Prameswari.png"
+                src="/images/events/sponsors/Kost Prameswari.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -447,7 +447,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Logo Sendang Bagus Emas Farm.png"
+                src="/images/events/sponsors/Logo Sendang Bagus Emas Farm.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -455,7 +455,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Nashbox.jpg"
+                src="/images/events/sponsors/Nashbox.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -463,7 +463,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Platestore Surabaya.png"
+                src="/images/events/sponsors/Platestore Surabaya.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -471,7 +471,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/PT BPR Pedungan.jpg"
+                src="/images/events/sponsors/PT BPR Pedungan.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -479,7 +479,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/PT BPR Pedungann.jpg"
+                src="/images/events/sponsors/PT BPR Pedungann.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -487,7 +487,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Sambari.png"
+                src="/images/events/sponsors/Sambari.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -495,7 +495,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Semillas.jpeg"
+                src="/images/events/sponsors/Semillas.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -503,7 +503,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Shirapot Meal.jpeg"
+                src="/images/events/sponsors/Shirapot Meal.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -511,7 +511,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Sleepeve.png"
+                src="/images/events/sponsors/Sleepeve.png"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -519,7 +519,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/The Rani Garden Bali.jpg"
+                src="/images/events/sponsors/The Rani Garden Bali.jpg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"
@@ -527,7 +527,7 @@ export default function Home() {
             </div>
             <div className="col">
               <img
-                src="/images/sponsors/Walic.co.jpeg"
+                src="/images/events/sponsors/Walic.co.jpeg"
                 alt="Sponsors"
                 loading="lazy"
                 className="w-75 d-block mx-auto"

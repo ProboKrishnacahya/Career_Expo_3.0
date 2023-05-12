@@ -3,6 +3,7 @@ import React, { useEffect } from "react";
 import { NavLink } from "react-router-dom";
 import Footer from "../../components/Footer";
 import Header from "../../components/Header";
+import { testimonials } from "../../data/home/Testimonials";
 
 export default function Home() {
   useEffect(() => {
@@ -17,6 +18,26 @@ export default function Home() {
       return new Tooltip(tooltipEl);
     });
   }, []);
+
+  const testimonialsList = testimonials.map((testimonials) => (
+    <div key={testimonials.id} className="col">
+      <div className="card h-100">
+        <div className="d-grid gap-3">
+          <img
+            src={testimonials.image}
+            alt="Testimonials"
+            className="rounded-circle shadow-sm mx-auto"
+            width={256}
+            loading="lazy"
+          />
+          <div>
+            <h4>{testimonials.name}</h4>
+            <q>{testimonials.testimoni}</q>
+          </div>
+        </div>
+      </div>
+    </div>
+  ));
 
   return (
     <div className="home">
@@ -238,77 +259,7 @@ export default function Home() {
           </h2>
           <br />
           <div className="row row-cols-1 row-cols-lg-3 g-4">
-            <div className="col">
-              <div className="d-grid gap-3">
-                <img
-                  src="/images/home/testimonials/anetta.jpg"
-                  alt="Testimonials"
-                  className="rounded-circle shadow-sm mx-auto"
-                  width={256}
-                  loading="lazy"
-                />
-                <div>
-                  <h4>Anetta TW</h4>
-                  <q>
-                    Menurutku acaranya insightful bgt. Perusahaannya juga
-                    variatif jadi aku banyak dapet insight juga tentang
-                    perusahaan2 yang mungkin sebelumnya aku belum pernah denger.
-                    Selain itu acaranya juga interaktif, kita dikasih kesempatan
-                    buat tanya2 ke narasumber langsung. Kita juga dibantu sama
-                    website virtual career expo buat apply2 ke perusahaan yang
-                    kita pengen.
-                  </q>
-                </div>
-              </div>
-            </div>
-            <div className="col">
-              <div className="d-grid gap-3">
-                <img
-                  src="/images/home/testimonials/berliana.jpg"
-                  alt="Testimonials"
-                  className="rounded-circle shadow-sm mx-auto"
-                  width={256}
-                  loading="lazy"
-                />
-                <div>
-                  <h4>Berliana Fira</h4>
-                  <q>
-                    Menurutku career expo virtual asik dan gak merepotkan untuk
-                    antri dll untuk cari kerja dan mendukung kemajuan teknologi.
-                    Tapi menurutku kekurangan tahun kmrn adalah keterbatasan
-                    untuk mendapatkan info lowongan pada setiap perusahaan
-                    karena keterbatasan saat dibagi breakout room itu jadi gak
-                    bisa join banyak hehe dan kalo gak salah kmrn untuk ngelamar
-                    juga dibatasi.
-                  </q>
-                </div>
-              </div>
-            </div>
-            <div className="col">
-              <div className="d-grid gap-3">
-                <img
-                  src="/images/home/testimonials/sukma.jpeg"
-                  alt="Testimonials"
-                  className="rounded-circle shadow-sm mx-auto"
-                  width={256}
-                  loading="lazy"
-                />
-                <div>
-                  <h4>Sukma Jenny</h4>
-                  <q>
-                    UC Virtual Career Expo memperlihatkan saya pada
-                    informasi-informasi terkait karir dan hal-hal yang
-                    meliputinya. Berbagai korporasi yang terlibat cukup
-                    representatif lintas bidang dan orientasi. Tidak sebatas
-                    informasi, tetapi tautan yang disediakan UC Career Expo
-                    dirasa dapat mengkatalisasi pergerakan dari rekan-rekan yang
-                    sedang mempersiapkan karirnya. Apresiasi tinggi bagi panitia
-                    yang telah menyusun acara dengan begitu apik, terstruktur,
-                    dan tidak prematur.
-                  </q>
-                </div>
-              </div>
-            </div>
+            {testimonialsList}
           </div>
         </section>
 

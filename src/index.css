@@ -153,8 +153,9 @@ th {
 #pelaksanaan_acara-testimonials,
 #testimonials,
 #testimonials-sponsors,
-#sponsors,
-#sponsors-media_partners {
+#sponsors1,
+#sponsors2,
+#sponsors3 {
   position: absolute;
   z-index: -999 !important;
 }
@@ -194,14 +195,19 @@ th {
   right: 0;
 }
 
-#sponsors {
+#sponsors1 {
   top: 500vh;
   left: 0;
 }
 
-#sponsors-media_partners {
+#sponsors2 {
   top: 550vh;
   right: 0;
+}
+
+#sponsors3 {
+  top: 610vh;
+  left: 0;
 }
 
 #preload {

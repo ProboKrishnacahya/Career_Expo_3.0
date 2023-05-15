@@ -130,6 +130,9 @@ export default function Footer() {
                       <NavLink to="/workshop">Workshop</NavLink>
                     </li>
                     <li>
+                      <NavLink to="/talkshow">Talkshow</NavLink>
+                    </li>
+                    <li>
                       <NavLink to="/register">Register Here</NavLink>
                     </li>
                     <li>

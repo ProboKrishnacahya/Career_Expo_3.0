@@ -31,7 +31,7 @@ export default function Home() {
             loading="lazy"
           />
           <div>
-            <h4>{testimonials.name}</h4>
+            <h4 className="text-center">{testimonials.name}</h4>
             <q>{testimonials.testimoni}</q>
           </div>
         </div>
@@ -43,72 +43,79 @@ export default function Home() {
     <div className="home">
       <Header />
 
+      <img
+        src="/images/backgrounds/1.svg"
+        alt="Background"
+        id="hero1"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/2.svg"
+        alt="Background"
+        id="hero2"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/3.svg"
+        alt="Background"
+        id="about_us-powered_by"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/4.svg"
+        alt="Background"
+        id="pelaksanaan_acara"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/5.svg"
+        alt="Background"
+        id="pelaksanaan_acara-testimonials"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/6.svg"
+        alt="Background"
+        id="testimonials"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/7.svg"
+        alt="Background"
+        id="testimonials-sponsors"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/8.svg"
+        alt="Background"
+        id="sponsors1"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/9.svg"
+        alt="Background"
+        id="sponsors2"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/10.svg"
+        alt="Background"
+        id="sponsors3"
+        width={96}
+        className="d-none d-lg-block"
+      />
+
       {/* Hero */}
       <div className="container">
-        <img
-          src="/images/backgrounds/1.svg"
-          alt="Background"
-          id="hero1"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/2.svg"
-          alt="Background"
-          id="hero2"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/3.svg"
-          alt="Background"
-          id="about_us-powered_by"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/4.svg"
-          alt="Background"
-          id="pelaksanaan_acara"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/5.svg"
-          alt="Background"
-          id="pelaksanaan_acara-testimonials"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/6.svg"
-          alt="Background"
-          id="testimonials"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/7.svg"
-          alt="Background"
-          id="testimonials-sponsors"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/8.svg"
-          alt="Background"
-          id="sponsors"
-          width={96}
-          className="d-none d-md-block"
-        />
-        <img
-          src="/images/backgrounds/9.svg"
-          alt="Background"
-          id="sponsors-media_partners"
-          width={96}
-          className="d-none d-md-block"
-        />
-
         <section className="my-5" data-aos="fade-up">
           <h1 className="text-center display-1 fw-bold" id="title">
             Career Expo 3.0

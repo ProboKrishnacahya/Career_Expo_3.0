@@ -86,6 +86,35 @@ export default function Workshop() {
     <div className="workshop">
       <Header />
 
+      <img
+        src="/images/backgrounds/1.svg"
+        alt="Background"
+        id="hero1"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/2.svg"
+        alt="Background"
+        id="hero2"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/3.svg"
+        alt="Background"
+        id="about_us-powered_by"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/4.svg"
+        alt="Background"
+        id="pelaksanaan_acara"
+        width={96}
+        className="d-none d-lg-block"
+      />
+
       <div className="container">
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">

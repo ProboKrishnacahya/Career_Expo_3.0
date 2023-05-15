@@ -78,7 +78,8 @@ export default function JobVacancy() {
       99, 100, 101, 102, 103, 104, 105, 106, 107, 108, 111, 112, 113, 114, 115,
       116, 117, 118, 119, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 132,
       133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147,
-      148, 149, 150, 151, 152, 153, 154, 155, 156, 157,
+      148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 163, 164, 165, 166, 167,
+      168, 169, 170,
     ].includes(index)
   );
   const lowonganPartTime = jobVacancy.filter((_item, index) =>
@@ -88,7 +89,9 @@ export default function JobVacancy() {
     [83].includes(index)
   );
   const lowonganInternship = jobVacancy.filter((_item, index) =>
-    [13, 14, 15, 19, 97, 109, 110, 124, 131, 158, 159, 160, 161].includes(index)
+    [13, 14, 15, 19, 97, 109, 110, 124, 131, 158, 159, 160, 161, 162].includes(
+      index
+    )
   );
 
   return (
@@ -113,7 +116,7 @@ export default function JobVacancy() {
               <div className="fullTimeOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
                   <div
-                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    className="alert alert-info d-flex align-items-center mb-0"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -128,7 +131,7 @@ export default function JobVacancy() {
               <div className="partTimeOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
                   <div
-                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    className="alert alert-info d-flex align-items-center mb-0"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -144,7 +147,7 @@ export default function JobVacancy() {
               <div className="freelanceOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
                   <div
-                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    className="alert alert-info d-flex align-items-center mb-0"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -160,7 +163,7 @@ export default function JobVacancy() {
               <div className="internshipOption tipePekerjaan row row-cols-1 row-cols-md-2 row-cols-lg-3 g-3 g-lg-4">
                 <div className="col">
                   <div
-                    className="alert alert-secondary d-flex align-items-center mb-0"
+                    className="alert alert-info d-flex align-items-center mb-0"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -176,7 +179,7 @@ export default function JobVacancy() {
             </div>
           </div>
 
-          <div className="d-none d-md-block">
+          <div className="d-none d-lg-block">
             <ul
               className="nav nav-pills nav-fill gap-2 p-1 rounded-3 mb-4"
               id="pillNav"
@@ -249,7 +252,7 @@ export default function JobVacancy() {
                   aria-labelledby="pills-fulltime-tab"
                 >
                   <div
-                    className="alert alert-secondary d-flex align-items-center"
+                    className="alert alert-info d-flex align-items-center"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -269,7 +272,7 @@ export default function JobVacancy() {
                   aria-labelledby="pills-parttime-tab"
                 >
                   <div
-                    className="alert alert-secondary d-flex align-items-center"
+                    className="alert alert-info d-flex align-items-center"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -290,7 +293,7 @@ export default function JobVacancy() {
                   aria-labelledby="pills-freelance-tab"
                 >
                   <div
-                    className="alert alert-secondary d-flex align-items-center"
+                    className="alert alert-info d-flex align-items-center"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;
@@ -311,7 +314,7 @@ export default function JobVacancy() {
                   aria-labelledby="pills-internship-tab"
                 >
                   <div
-                    className="alert alert-secondary d-flex align-items-center"
+                    className="alert alert-info d-flex align-items-center"
                     role="alert"
                   >
                     <i className="bi bi-info-circle"></i>&ensp;

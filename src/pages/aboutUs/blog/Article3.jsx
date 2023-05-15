@@ -54,6 +54,7 @@ export default function Article3() {
   return (
     <div className="blog">
       <Header />
+
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
           Fresh Graduate, Siapkan Dulu Hal-Hal Ini Sebelum Mencari Kerja!

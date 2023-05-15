@@ -13,6 +13,7 @@ import {
   MapanGroup,
   PTAsiaPramulia,
   PTSiantarTop,
+  PTSuparma,
   PTSuperiorPrimaSukses,
   PTSurabayaMekabox,
   PTSuryaTimurSaktiJatim,
@@ -67,6 +68,7 @@ export default function Navigation() {
           element={<PTAsiaPramulia />}
         />
         <Route path="/company-list/pt-siantar-top" element={<PTSiantarTop />} />
+        <Route path="/company-list/pt-suparma" element={<PTSuparma />} />
         <Route
           path="/company-list/pt-superior-prima-sukses"
           element={<PTSuperiorPrimaSukses />}

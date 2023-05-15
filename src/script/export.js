@@ -17,6 +17,7 @@ export { default as IndoprimaGroup } from "../pages/vacancy/companyList/Indoprim
 export { default as MapanGroup } from "../pages/vacancy/companyList/MapanGroup";
 export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPramulia";
 export { default as PTSiantarTop } from "../pages/vacancy/companyList/PTSiantarTop";
+export { default as PTSuparma } from "../pages/vacancy/companyList/PTSuparma";
 export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/PTSuperiorPrimaSukses";
 export { default as PTSurabayaMekabox } from "../pages/vacancy/companyList/PTSurabayaMekabox";
 export { default as PTSuryaTimurSaktiJatim } from "../pages/vacancy/companyList/PTSuryaTimurSaktiJatim";

@@ -21,6 +21,28 @@ export default function Register() {
     <div className="register">
       <Header />
 
+      <img
+        src="/images/backgrounds/1.svg"
+        alt="Background"
+        id="hero1"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/2.svg"
+        alt="Background"
+        id="hero2"
+        width={96}
+        className="d-none d-lg-block"
+      />
+      <img
+        src="/images/backgrounds/3.svg"
+        alt="Background"
+        id="about_us-powered_by"
+        width={96}
+        className="d-none d-lg-block"
+      />
+
       <div className="container d-grid gap-5">
         <section className="mt-5" data-aos="fade-up">
           <div className="d-grid gap-4">

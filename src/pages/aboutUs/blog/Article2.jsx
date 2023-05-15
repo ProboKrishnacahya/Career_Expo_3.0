@@ -20,6 +20,7 @@ export default function Article2() {
   return (
     <div className="blog">
       <Header />
+
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
           Hard Skill VS Soft Skill, Mana Yang Lebih Penting?

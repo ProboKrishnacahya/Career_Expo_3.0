@@ -53,6 +53,7 @@ export default function Article1() {
   return (
     <div className="blog">
       <Header />
+
       <div className="container my-5" data-aos="fade-up">
         <h2 className="text-center">
           5 Kesalahan Yang Harus Dihindari Dalam Pembuatan CV

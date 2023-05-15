@@ -22,6 +22,21 @@ export default function About() {
       <Header />
 
       <div className="container">
+        <img
+          src="/images/backgrounds/1.svg"
+          alt="Background"
+          id="hero1"
+          width={96}
+          className="d-none d-lg-block"
+        />
+        <img
+          src="/images/backgrounds/2.svg"
+          alt="Background"
+          id="hero2"
+          width={96}
+          className="d-none d-lg-block"
+        />
+
         <section className="my-5" data-aos="fade-up">
           <h2 className="text-center">About Us</h2>
           <br />

@@ -2717,7 +2717,7 @@ export const job = [
     daerahPenempatan: "Surabaya",
   },
   {
-    id: 161,
+    id: 162,
     name: "Hotel Ciputra World Surabaya",
     companyURL: "/company-list/hotel-ciputra-world-surabaya",
     image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
@@ -2730,6 +2730,133 @@ export const job = [
     deskripsiPekerjaan: "",
     kriteria:
       "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 163,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Internal Audit",
+    jabatan: "Staf Internal Audit",
+    deskripsiPekerjaan:
+      "Mengaudit dan mengawasi sistem dan prosedur yang berjalan di perusahaan",
+    kriteria: "D4 / S1 Teknik",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 164,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Staf Marketing",
+    deskripsiPekerjaan: "Memasarkan produk perusahaan",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya, Jakarta, Bandung, Bali",
+  },
+  {
+    id: 165,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Sekretaris",
+    jabatan: "Sekretaris Operasional",
+    deskripsiPekerjaan:
+      "Melakukan pengawasan terhadap sistem yang berjalan di kantor cabang",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya, Jakarta, Bandung, Bali",
+  },
+  {
+    id: 166,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Business Development",
+    jabatan: "Social Engagement",
+    deskripsiPekerjaan:
+      "Menangani media sosial perusahaan terkait penjualan dan pemasaran produk",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 167,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Business Development",
+    jabatan: "Staf Desain Grafis",
+    deskripsiPekerjaan:
+      "Menangani kebutuhan desain dari perusahaan terkait pengembangan produk, event dan kebutuhan lainnya",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 168,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Business Development",
+    jabatan: "Staf Desain Media Sosial",
+    deskripsiPekerjaan:
+      "Menangani kebutuhan desain dari perusahaan khususnya untuk media sosial perusahaan",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 169,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Business Development",
+    jabatan: "Staf Marketplace",
+    deskripsiPekerjaan:
+      "Menangani penjualan dan pemasaran produk perusahaan melalui media marketplace",
+    kriteria: "D4 / S1 Segala Jurusan",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 170,
+    name: "PT Suparma",
+    companyURL: "/company-list/pt-suparma",
+    image: "/images/vacancy/company_list/Logo Potrait.jpeg",
+    deskripsiPerusahaan:
+      "PT Suparma, Tbk was established in 1976 on a 5-hectare site in Surabaya, Indonesia, employing approximately 100 people. Our first jumbo roll paper was rolled out in 1978 using a paper machine with capacity of up to 6,000 tons per year.\n\nResponding to the growing paper demand in Indonesia, in 1983 we decided to embark the first expansion program by adding 3 units of paper machines which raised the total production capacity up to 36,000 tons per year. Along with the Indonesian government industrialization initiative and to accommodate the strong increase of paper demand in the country, further investments are made in 1992 by adding 2 units of paper machines with total capacity of 78,000 tons per year.\n\nIn order to embrace the globalization era, we took a profound step by becoming a public company, listed in Jakarta Stock Exchange on November 15th, 1994.\n\nQuality, Reliability, and Service are the crucial culture within our company to achieve our future goals. With this vision in mind, the company initialized its own 27 MWH power plant unit in 1997. The power plant unit ensures steady and constant supply of electrical energy needed for production, enabling consistent product quality and timely customer request fulfilment.\n\nBy 2015, our manufacturing activity operates in a 28-hectares area using 8 paper machine units with combined capacity up to 230,000 tons per year, producing varied range of industrial papers, fine papers, and tissues. These products will then be distributed towards our national and international market.In recognition of our company’s Quality Management System performance, we are proudly awarded our ISO 9001:2000 certification in 2003. Also, our commitment as environmental-friendly paper mill gained us our FSC certification in 2012 and 14001:2015 certification in 2016.",
+    daftarURL: "https://forms.gle/jWzhM5mZTnLxhLKz8",
+    tipe: "Full Time",
+    divisi: "Business Development",
+    jabatan: "Staf Digital Marketing",
+    deskripsiPekerjaan:
+      "Menangani semua hal yang berhubungan dengan pemasaran dan branding produk perusahaan di masyarakat secara digital",
+    kriteria: "D4 / S1 Segala Jurusan",
     daerahPenempatan: "Surabaya",
   },
 ];

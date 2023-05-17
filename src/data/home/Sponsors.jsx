@@ -20,7 +20,7 @@ export const sponsors = [
   { id: 19, image: "/images/home/sponsors/Platestore Surabaya.png" },
   { id: 20, image: "/images/home/sponsors/PT BPR Pedungan.jpg" },
   { id: 21, image: "/images/home/sponsors/PT BPR Pedungann.jpg" },
-  { id: 22, image: "/images/home/sponsors/Sambari.png" },
+  { id: 22, image: "/images/home/sponsors/Sambari.PNG" },
   { id: 23, image: "/images/home/sponsors/Semillas.jpeg" },
   { id: 24, image: "/images/home/sponsors/Shirapot Meal.jpeg" },
   { id: 25, image: "/images/home/sponsors/Sleepeve.png" },

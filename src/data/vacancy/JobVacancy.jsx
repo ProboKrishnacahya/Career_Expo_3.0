@@ -2859,4 +2859,21 @@ export const job = [
     kriteria: "D4 / S1 Segala Jurusan",
     daerahPenempatan: "Surabaya",
   },
+  {
+    id: 171,
+    name: "PT Transporindo Agung Sejahtera",
+    companyURL: "/company-list/pt-transporindo-agung-sejahtera",
+    image: "/images/vacancy/company_list/LOGO PT TAS SBY TERBARU.jpeg",
+    deskripsiPerusahaan:
+      "PT. TRANSPORINDO AGUNG SEJAHTERA bergerak di bidang jasa pengurusan transportasi container baik domestik maupun International.\n\nPT. TRANSPORINDO AGUNG SEJAHTERA saat ini memiliki kantor di Medan, Jakarta, Surabaya dan Makassar dengan di dukung 90 armada truk trailer dan rencana akan membuka cabang daerah lain dan menambah armada untuk meningkatkan servis.\n\nJasa yang PT. TRANSPORINDO AGUNG SEJAHTERA kerjakan sekarang ini adalah pengiriman Door to Door ,Door to Port atau Port to Door dari semua daerah yang ada pelabuhan container ( Ambon, Bali, Balikpapan, Banjarmasin, Batam, Gorontalo, Jakarta, Jayapura, Kendari, Luwuk, Makassar, Manado, Medan, Padang, Palembang, Pekanbaru, Pontianak, Samarinda, Surabaya, Sorong, Tarakan, Ternate, dll ). Semua rute tersebut merupakan kerjasama dengan pelayaran seperti TANTO, SPIL, TEMAS, MERATUS, IFL, ALKEN dll.",
+    daftarURL: "https://forms.gle/8fRfNF9g6e6CUtLt6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "General Affair Officer",
+    deskripsiPekerjaan:
+      "- Pemeliharaan dan perawatan\n- Memastikan kegiatan perusahaan berjalan lancar\n- Hubungan dengan pihak luar\n- Perizinan\n- Kesiapan laporan berkala\n- Administrasi",
+    kriteria:
+      "- Laki-laki/Wanita, berpenampilan menarik dan energic\n- Mempunyai pengalaman dan posisi yang sama\n- Siap bekerja sama dalam team\n- Aktif dan kreatif",
+    daerahPenempatan: "",
+  },
 ];

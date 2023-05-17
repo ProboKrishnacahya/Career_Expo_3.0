@@ -27,7 +27,6 @@ import {
   Workshop,
   Talkshow,
   Register,
-  Sponsors,
   About,
   Gallery,
   Blog,

@@ -98,7 +98,6 @@ export default function Navigation() {
         <Route path="/workshop" element={<Workshop />} />
         <Route path="/register" element={<Register />} />
         <Route path="/talkshow" element={<Talkshow />} />
-        <Route path="/sponsors" element={<Sponsors />} />
         {/* About Us */}
         <Route path="/about" element={<About />} />
         <Route path="/gallery" element={<Gallery />} />

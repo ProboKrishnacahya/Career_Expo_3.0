@@ -32,7 +32,6 @@ export { default as CareerExpo } from "../pages/events/CareerExpo";
 export { default as Workshop } from "../pages/events/Workshop";
 export { default as Talkshow } from "../pages/events/Talkshow";
 export { default as Register } from "../pages/events/Register";
-export { default as Sponsors } from "../pages/events/Sponsors";
 // About Us
 export { default as About } from "../pages/aboutUs/About";
 export { default as Gallery } from "../pages/aboutUs/Gallery";

@@ -89,11 +89,6 @@ export default function Header() {
                         Register Here
                       </NavLink>
                     </li>
-                    <li>
-                      <NavLink to="/sponsors" className="dropdown-item">
-                        Sponsors
-                      </NavLink>
-                    </li>
                   </ul>
                 </div>
               </li>

@@ -66,7 +66,7 @@ export default function Footer() {
                           </li>
                           <li>
                             <a
-                              href="https://www.tiktok.com/@uc_corporateentrepreneur"
+                              href="https://www.tiktok.com/@careerexpouc"
                               target="_blank"
                               rel="noopener noreferrer"
                             >
@@ -76,7 +76,7 @@ export default function Footer() {
                                 title="TikTok"
                               ></i>
                               &ensp;
-                              <span>uc_corporateentrepreneur</span>
+                              <span>careerexpouc</span>
                             </a>
                           </li>
                           <li>
@@ -134,9 +134,6 @@ export default function Footer() {
                     </li>
                     <li>
                       <NavLink to="/register">Register Here</NavLink>
-                    </li>
-                    <li>
-                      <NavLink to="/sponsors">Sponsors</NavLink>
                     </li>
                     <li>
                       <NavLink to="/about">Corporate Entrepreneurship</NavLink>

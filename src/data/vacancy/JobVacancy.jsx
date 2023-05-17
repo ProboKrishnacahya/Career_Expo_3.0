@@ -2165,7 +2165,7 @@ export const job = [
     deskripsiPekerjaan:
       "- Menyelesaikan daily tasks / project tertentu yang diberikan oleh pimpinan\n- Memahami prosedur dan operasional perusahaan dan mampu memberikan saran / ide dengan tujuan untuk meningkatkan kinerja department\n- Membuat laporan yang dibutuhkan",
     kriteria:
-      "- Minimal S1 Akuntansi dari universitas ternama\n- Fresh graduate atau berpengalaman maksimal 1 tahun\n- Memiliki Brevet A & B menjadi nilai plus\n- IPK minimal 3.5 \n- Memiliki motivasi diri yang tinggi dan berusaha menjadi yang terbaik\n- Fast learner & memiliki jiwa leadership\n- Mampu bekerja dibawah target waktu dan tekanan\n- Memiliki kemampuan interpersonal yang baik & teliti\n- Diutamakan mahir berbahasa Inggris",
+      "- Minimal S1 Akuntansi dari universitas ternama\n- Fresh graduate atau berpengalaman maksimal 1 tahun\n- Memiliki Brevet A & B menjadi nilai plus\n- IPK minimal 3.5\n- Memiliki motivasi diri yang tinggi dan berusaha menjadi yang terbaik\n- Fast learner & memiliki jiwa leadership\n- Mampu bekerja dibawah target waktu dan tekanan\n- Memiliki kemampuan interpersonal yang baik & teliti\n- Diutamakan mahir berbahasa Inggris",
     daerahPenempatan: "Bambe, Driyorejo",
   },
   {
@@ -2246,7 +2246,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Operasional",
@@ -2263,7 +2263,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Operasional",
@@ -2280,7 +2280,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "HRD",
@@ -2297,7 +2297,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Central Kitchen",
@@ -2314,7 +2314,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Marketing",
@@ -2331,7 +2331,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Learning & Development",
@@ -2348,7 +2348,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "",
@@ -2365,7 +2365,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Central Kitchen",
@@ -2382,7 +2382,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Produksi",
@@ -2399,7 +2399,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Operasional",
@@ -2416,7 +2416,7 @@ export const job = [
     companyURL: "/company-list/mapan-group",
     image: "/images/vacancy/company_list/Logo mapan Group bening (1).png",
     deskripsiPerusahaan:
-      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball. \n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
+      "Mapan Group merupakan perusahaan yang bergerak dalam bidang usaha makanan, khususnya di bidang restauran dengan Brand Mie Mapan dan Kepikiran Mie yang kini sukses menjadi mie No.01 di Surabaya.\n\nMempertahankan resep kuno dan penggunaan bahan-bahan berkualitas. Mie Mapan dan Kepikiran Mie akan terus mempertahankan citarasa produknya. Mie Mapan dengan kualitas produk serta citarasa yang terjaga dengan baik akan terus melakukan inovasi-inovasi terbaru untuk dapat melebarkan sayapnya dengan menambah outlet-outlet baru, hingga menjadi restoran nomor satu di Indonesia.\n\nMapan Group telah meraih penghargaan sebagai,\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award 2017 untuk kategori Best Noodle & Meatball.\n- Mie Mapan Juara 1 pada ajang bergengsi Jawa Pos Culinary Award kategori Family Resto dan Juara 1 Best Legendary tahun 2023\n- Mie Mapan Juara 2 pada ajang bergengsi Jawa Pos Culinary Award kategori Best Noodle tahun 2023\n- Kepikiran Mie Juara 1 Best Food Stall Jawa Pos Culinary Awards & Juara 1 Favorit Food Stall Jawa Pos Culinary Awards tahun 2023",
     daftarURL: "https://forms.gle/ah1JYAdhHpjZdnVF6",
     tipe: "Full Time",
     divisi: "Operasional",
@@ -2427,6 +2427,8 @@ export const job = [
       "- Memberikan pelayanan kepada Customer yang ingin makan di Restoran\n- Melakukan pencatatan pesanan Customer dan memastikan kembali apakah pesanan sudah benar\n- Menyarankan berbagai menu promo, cross sell dan upsell\n- Menyajikan dan mengantarkan pesanan Customer\n- Melakukan transaksi pembayaran Customer\n- Melakukan clear up atau membersihkan meja makan customer yang sudah meninggalkan restoran",
     daerahPenempatan: "Surabaya",
   },
+
+  // * Hotel Ciputra World Surabaya
   {
     id: 143,
     name: "Hotel Ciputra World Surabaya",
@@ -2732,6 +2734,8 @@ export const job = [
       "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
     daerahPenempatan: "Surabaya",
   },
+
+  // * PT Suparma
   {
     id: 163,
     name: "PT Suparma",
@@ -2874,6 +2878,472 @@ export const job = [
       "- Pemeliharaan dan perawatan\n- Memastikan kegiatan perusahaan berjalan lancar\n- Hubungan dengan pihak luar\n- Perizinan\n- Kesiapan laporan berkala\n- Administrasi",
     kriteria:
       "- Laki-laki/Wanita, berpenampilan menarik dan energic\n- Mempunyai pengalaman dan posisi yang sama\n- Siap bekerja sama dalam team\n- Aktif dan kreatif",
+    daerahPenempatan: "",
+  },
+
+  // * PT Lautan Natural Krimerindo
+  {
+    id: 172,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "Human Capital & Corporate Affair",
+    jabatan: "Talent Acquisition Specialist",
+    deskripsiPekerjaan:
+      "- Manage end to end recruitment activities\n- Identify and determine employee's criteria for job vacancy\n- Build strong communication, give support and explore potential collaboration among academy, government and stakeholder\n- Company and employee branding",
+    kriteria:
+      "- Master degree of Psychology\n- At least 3 years of working experiences in related field is required for this position\n- Having good communication skill and high motivated\n- Familiar with Psychological Tools\n- Good analytical thinking",
+    daerahPenempatan: "Pacet-Mojokerto, East Java",
+  },
+  {
+    id: 173,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "Brand Management",
+    jabatan: "Brand Supervisor",
+    deskripsiPekerjaan:
+      "- Design and implement marketing strategies aligned business targets.\n- Analyze market trends and identify new opportunities challenges\n- Creating a brand identity concept in accordance with the segmentation, target, positioning (STP) of NPL products\n- Do some brief market research to see the big market potential for products in the destination country.\n- Analyzing market research results to develop brand & marketing strategy.\n- Develop campaign strategies based on sales data analysis & market research",
+    kriteria:
+      "- Candidate must possess at least bachelor’s degree in marketing management, Business Administration, and International Business\n- At least 1-2 Year(s) of working experience in the related field (FMCG Industry) is required for this position\n- Strong Analytical and strategical thinking\n- Good communication skill",
+    daerahPenempatan: "Driyorejo – Gresik, East Java",
+  },
+  {
+    id: 174,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "Brand Management",
+    jabatan: "Brand Management Manager",
+    deskripsiPekerjaan:
+      "- Ensure and execute, monitoring and report marketing designs and activities in order to establish and maintain brand presence in the market and targets\n- Ensure brand integrity by guiding effort across multiple channels and functions\n- Develop sales tools and collaterals\n- Develop and execute effective product positioning in the market\n- Report for mid-term plan and financial analysis of department.\n- Brief and train sales personnel\n- Development and execution of offline/traditional, digital, and paid social advertising programs for the business.\n- Coordinate activities of specialists involved in the brand positioning of the products.\n- Execute and monitoring market survey. Compile and gather data.",
+    kriteria:
+      "- Candidate must possess at least Bachelor's Degree in any field\n- At least 3 Year(s) of working experience in the related field is required for this position\n- Have strong experience in business analytics & consumer insights development",
+    daerahPenempatan: "Driyorejo – Gresik, East Java",
+  },
+  {
+    id: 175,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "B2C",
+    jabatan: "National Sales B2C Manage",
+    deskripsiPekerjaan:
+      "- Develops sales plans and budgets to achieve exceed the annual sales objectives\n- Designing and implementing a strategic sales plan that expands company’s customer base",
+    kriteria:
+      "- Bachelor's Degree in any field\n- Having experience as National Sales Manager at least 3 years, preferably from FMCG\n- Having strong knowledge and experience in distribution and promotion\n- Willing to travel to branches",
+    daerahPenempatan: "Driyorejo – Gresik, East Java",
+  },
+  {
+    id: 176,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "B2C",
+    jabatan: "Area Sales B2C Supervisor",
+    deskripsiPekerjaan:
+      "- Responsible for sales activities and fulfill sales target for the product in running area.\n- Ensure and strive for sustainable outlets to actively sell products.",
+    kriteria:
+      "- Candidate must possess at least bachelor’s degree in any field.\n- At least 3 Years of working experience in as FMCG Sales Minimum 3 years or in the related field is required for this position.\n- Good leadership and communication skill\n- Having driven license\n- Willing to be placed All Around Indonesia",
+    daerahPenempatan: "-",
+  },
+  {
+    id: 177,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "B2B",
+    jabatan: "B2B Horeca Sales Officer",
+    deskripsiPekerjaan:
+      "- Responsible for the sales performance target\n- Identifying potential markets and clients to developing strategies for selling products or services abroad.",
+    kriteria:
+      "- Candidate must possess at least bachelor’s degree in any field.\n- At least 1 Years of working experience in as Horeca Sales\n- Good communication skill",
+    daerahPenempatan: "Bandung & Bali",
+  },
+  {
+    id: 178,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "B2B",
+    jabatan: "B2B Horeca Regional Sales Manager",
+    deskripsiPekerjaan:
+      "- Responsible for the sales performance target\n- Identifying potential markets and clients to developing strategies for selling products or services abroad.",
+    kriteria:
+      "- Candidate must possess at least bachelor’s degree in any field.\n- At least 1 Years of working experience in as Horeca Regional Sales Manager\n- Good Leadership & communication skill",
+    daerahPenempatan: "Regional East Java",
+  },
+  {
+    id: 179,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "B2B",
+    jabatan: "International Sales B2B Officer",
+    deskripsiPekerjaan:
+      "- Responsible for the sales performance target\n- Identifying potential markets and clients to developing strategies for selling products or services abroad.",
+    kriteria:
+      "- Candidate must possess at least bachelor’s degree in any field.\n- At least 1 Years of working experience in as International Sales\n- Good communication skill",
+    daerahPenempatan: "Driyorejo – Gresik, East Java",
+  },
+  {
+    id: 180,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "Finance & Accounting",
+    jabatan: "Finance Staff",
+    deskripsiPekerjaan:
+      "- Keep accurate records for all daily transactions\n- Record accounts payable and accounts receivable",
+    kriteria:
+      "- Candidate must possess at least Bachelor's Degree in Finance/Accountancy/Banking or equivalent.\n- At least 2 Year(s) of working experience in the related field is required for this position.\n- Preferably Staff (non-management & non-supervisor) specialized in Finance - General/Cost Accounting or equivalent.\n- Holding Brevet A & B or understand about tax regulation and calculation",
+    daerahPenempatan: "Pacet-Mojokerto, East Java",
+  },
+
+  // * PT Indoprima Gemilang
+  {
+    id: 181,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "General Affair Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process at least Bachelor’s Degree in Electrical Engineering\n- Minimun GPA 3.00 out of 4.00\n- Responsive and high initiative person\n- Familiar using Autocad and CDR\n- At least 2 years experience in related field\n- Preferably specialized in building maintenance and public facility",
+    daerahPenempatan: "Margomulyo, Surabaya, East Java",
+  },
+  {
+    id: 182,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "HC Generalist Supervisor",
+    deskripsiPekerjaan:
+      "- Create learning management system & people development program\n- Planning of training, starting from Training Need Analysis (TNA) to Calendar of Training (CoT)\n- Manage to maintain new employee\n- Experienced in recruitment non staff and staff up level\n- Able to compile talent management development programs\n- Compiling competency standards (Dictionary and Matrix Competency)\n- Familiar with organizational development",
+    kriteria:
+      "- Candidate must process at least bachelor degree in Engineering (Industrial), Human Resource Management, Psychology or equivalent\n- Maximum age 32 years old\n- Required soft skills: good communication skill, people management, active, sociable, orientation to detail\n- Required technical skills: training management, competency dictionary, learning - management system, Ms Office (Excel and Power Point is a must)\n- At least 3 years of working experience in the related field (human capital generalist)",
+    daerahPenempatan: "Nganjuk/Surabaya",
+  },
+  {
+    id: 183,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "PPIC Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process at least bachelor degree in Industrial Engineering or having experienc in production planning in manufacturing company\n- Min GPA 3.00 out of 4.00 (cumlaude)\n- Entitled as the best graduate from any university, or having national or international achievement is a big advantage\n- Min 2 years experience in PPIC\n- Proficient operating Ms.Office Excel is a must\n- Maximum 27 years old\n- Familiar with cycletime ruler (daily, weekly, & monthly)",
+    daerahPenempatan: "Baron, Nganjuk, East Java",
+  },
+  {
+    id: 184,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Production SPV",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process D4/S1 Mechanical/Electrical/Industrial Engineering\n- Min GPA 3.00 out of 4.00 or fresh graduate min GPA 3.50 out of 4.00\n- Entitled as the best graduate from any university, or having national or international achievements is a big advantge\n- Having experience in the related field (preferably from manufacture company)\n- Experienced as a team leader is a plus\n- Proficient in operating Ms Office\n- Able to speak english\n- Able n team management",
+    daerahPenempatan: "Baron, Nganjuk, East Java",
+  },
+  {
+    id: 185,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Payroll Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Candidate must process at least Bachelor’s Degree in Accountancy, Business Administration, Informatics, Psychology or equivalent\n- Maximum age 28 years old\n- Required soft skill(s): Ms. Office especially Ms. Excel\n- At least 2 years of working experience in the related field (Payroll)",
+    daerahPenempatan: "Baron, Nganjuk, East Java",
+  },
+  {
+    id: 186,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Organizational & People Development",
+    deskripsiPekerjaan:
+      "- Create learning management system & people development program\n- Planning of training, starting from Training Need Analysis (TNA) to Calendar of Training (CoT)\n- Manage and maintain new employee\n- Experienced in recruitment non staff and staff up level\n- Able to compile talent management development programs\n- Compiling competency standards (Dictionary and Matrix Competency)\n- Familiar with organizational development",
+    kriteria:
+      "- Candidate must process at least bachelor degree in Engineering (Industrial), Human Resource Management, Psychology or equivalent\n- Maximum age 32 years old\n- Required soft skills: good communication skill, people management, active, sociable, orientation to detail\n- Required technical skills: training management, competency dictionary, learning - management system, Ms Office (Excel and Power Point is a must)\n- At least 3 years of working experience in the related field (human capital generalist)",
+    daerahPenempatan: "Nganjuk/Surabaya",
+  },
+  {
+    id: 187,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Programmer / Software Development",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process D3/D4/S1 Informatics Engineering or MIPA faculty\n- Having experience in the related field (preferably in software development/programmer)\n- Required skills :  web developer, database MS SQLserver, PHP",
+    daerahPenempatan: "Surabaya, East Java",
+  },
+  {
+    id: 188,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "IT Support",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process D4/S1 Informatics Engineering\n- Having experience in the related field (computer hardware & network)\n- Required skills: Mikrotik (MTCNA), Windows Server, VM Ware, Android Studio DEveloper, Web PHP & Java Script Developer",
+    daerahPenempatan: "Surabaya, East Java",
+  },
+  {
+    id: 189,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Purchasing Staff",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Entitled as the best graduate from any university, or having national or international achievements is a big advantage\n- Must process at least bachelor degree in Chemical Engineering, Cemistry or equivalent\n- Min GPA 3,00 out of 4.00\n- Good communication & negotiation, high level commitment and team work\n- Good computer literacy\n- At least 2 years experience in the related field (fresh graduate with GPA 3.5 out of 4.00 are welcome)\n- Preferably specialized in Purchasing/Inventory/Material & WarehouseManagement or equivalent\n- Proficient in operating Ms. Office (mandatory)",
+    daerahPenempatan: "Margomulyo, Surabaya, East Java",
+  },
+  {
+    id: 190,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Marketing Executive",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Maximum age 27 years old\n- Bachelor degree in Management, Marketing, Electrical engineering, Mechanical Engineering or equivalent\n- Proficient using Ms Excel (mandatory)\n- At least 1 year of working experience in the marketing (fresh graduate with minimum GPA 3.50 out of 4.00 are welcome)\n- Required skills: Ms Office, Presentation Skill, Market Research, Marketing Analysis, Marketing Strategy.\n- Passionate and knows well automotive industry\n- Have a good communication and negotiation\n- Fluent in english (mandatory)\n- Willing to travel",
+    daerahPenempatan: "Margomulyo, Surabaya, East Java",
+  },
+  {
+    id: 191,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Maintenance SPV",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process at least bachelor degree in Mechanical Engineering or Electrical Engineering\n- Min GPA 3.00 out of 4.00 or freshgraduate with min GPA 3.50 out of 4.00\n- Maximum age 28 years old\n- At least 2 years of working experience in the related field (maintenance)\n- Entitled as the best graduate from any university or having national or international achievements is a big advantage\n- Proficient in 2D/3D design\n- Having knowledge about mechatronics, hydraulic, pneumatic, maintenance scheduling, preventive & corrective maintenance",
+    daerahPenempatan:
+      "- Baron, Nganjuk, East Java\n- Margomulyo, Tandes, Surabaya, East Java",
+  },
+  {
+    id: 192,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Safety Health Environment",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Must process D4/S1 Occupational Safety & Health\n- Min GPA 3.00 out of 4.00 \n- Maximum age 27 years old\n- Minimum 1 year experience in the related field \n- Knows about SMK3, OHSAS ISO 14001, ISO 450001, 5R, CSMS, PDCA\n- Familiar with environmental documents, AMDAL/UKL-UPL\n- Knows about emergency response (fire fighting and first aid)\n- Familiar with K3LH regulation\n- Certified K3LH will be advantage\n- Experienced in manufacture company is a plus",
+    daerahPenempatan: "Baron, Nganjuk, East Java",
+  },
+  {
+    id: 193,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Purchasing Assistant Manager",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Bachelor degree in Engineering, Chemical Engineering, Chemistry, Mandarin Literature or equivalent from reputable university\n- GPA minimum 3.00 out of 4.00\n- Maximum age 35 years old\n- 3 years of working experience in purchasing export import. Preferably specialized in purchasing/inventory/material & warehouse managementor equivalent\n- Fluent in english\n- Can speak Mandarin or certified HSK 3 (not mandatory)\n- Good communication & negotiation, high level commitment and team work\n- Proficient in operating Ms Office",
+    daerahPenempatan: "Margomulyo, Surabaya, East Java",
+  },
+  {
+    id: 194,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Research and Development Supervisor",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Bachelor degree in Engineering, Chemical Engineering, Chemistry, or equivalent\n- Maximum 35 years old\n- At least 3 year(s) of working experienced in RnD (polymer composite or rubber specialist)\n- Knows well about APQP, SMEA, ISO 9001, FTIR, Materials Characteristic, and etc\n- Willing to be placed on Surabaya or Gresik",
+    daerahPenempatan: "",
+  },
+  {
+    id: 195,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Accounting ( Cost Control & Analysis)",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Bachelor’s degree or Master’s Degree in Economics, Finance/Accountancy, Banking or equivalent.\n- GPA Minimum 3,00 out 4,00\n- Maximum 30 years old\n- At least 1 year of working experience in cost control & analysis or accounting staff\n- Proficient in operating Ms Office (Mandatory)\n- Willing to be placed in Surabaya",
+    daerahPenempatan: "",
+  },
+  {
+    id: 196,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Payroll Administrator",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Male/ Female with maximum age 25 year old\n- Min. S1 of Informatics Engineering/ Accounting\n- Min. GPA 3,00 out of 4,00\n- Proficient in operating Ms.Office especially Ms. Excel\n- Having good communication skills & detail oriented\n- Fresh graduates/ experiences are welcome to apply\n- Willing to be placed in Margomulyo, Surabaya",
+    daerahPenempatan: "",
+  },
+  {
+    id: 197,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "QA/QC Asst. Manager",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Bachelor’s Degree in Electrical Engineering, Mechanical Engineering, Chemical Engineering, Material Engineering or equivalent.\n- Maximum 35 years old\n- Minimum 5 years experienced in the related field (Automotive Manufacture Company)\n- Good Analitycal, Detail and Dynamic\n- Required Skills : Quality System, Quality Process, Project Preparation\n- Willing to be placed in Baron, Nganjuk, East Java",
+    daerahPenempatan: "",
+  },
+  {
+    id: 198,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Warehouse Supervisor",
+    deskripsiPekerjaan: "-",
+    kriteria:
+      "- Bachelor’s Degree in Mathematics,Industrial Engineering, Electrical Engineering, Mechanical Engineering, Chemical Engineering, Material Engineering or equivalent.\n- Maximum 30 years old\n- Detail oriented and well planner\n- Required Skills : Ms Office (excel and power point)\n- Willing to be placed in Margomulyo, Surabaya, East Java",
     daerahPenempatan: "",
   },
 ];

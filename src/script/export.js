@@ -16,6 +16,8 @@ export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
 export { default as IndoprimaGroup } from "../pages/vacancy/companyList/IndoprimaGroup";
 export { default as MapanGroup } from "../pages/vacancy/companyList/MapanGroup";
 export { default as PTAsiaPramulia } from "../pages/vacancy/companyList/PTAsiaPramulia";
+export { default as PTIndoprimaGemilang } from "../pages/vacancy/companyList/PTIndoprimaGemilang";
+export { default as PTLautanNaturalKrimerindo } from "../pages/vacancy/companyList/PTLautanNaturalKrimerindo";
 export { default as PTSiantarTop } from "../pages/vacancy/companyList/PTSiantarTop";
 export { default as PTSuparma } from "../pages/vacancy/companyList/PTSuparma";
 export { default as PTSuperiorPrimaSukses } from "../pages/vacancy/companyList/PTSuperiorPrimaSukses";

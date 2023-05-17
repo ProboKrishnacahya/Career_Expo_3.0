@@ -12,6 +12,8 @@ import {
   IndoprimaGroup,
   MapanGroup,
   PTAsiaPramulia,
+  PTIndoprimaGemilang,
+  PTLautanNaturalKrimerindo,
   PTSiantarTop,
   PTSuparma,
   PTSuperiorPrimaSukses,
@@ -65,6 +67,14 @@ export default function Navigation() {
         <Route
           path="/company-list/pt-asia-pramulia"
           element={<PTAsiaPramulia />}
+        />
+        <Route
+          path="/company-list/pt-indoprima-gemilang"
+          element={<PTIndoprimaGemilang />}
+        />
+        <Route
+          path="/company-list/pt-lautan-natural-krimerindo"
+          element={<PTLautanNaturalKrimerindo />}
         />
         <Route path="/company-list/pt-siantar-top" element={<PTSiantarTop />} />
         <Route path="/company-list/pt-suparma" element={<PTSuparma />} />

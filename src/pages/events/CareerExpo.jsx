@@ -24,7 +24,7 @@ export default function CareerExpo() {
       <Header />
 
       <div className="container">
-      <img
+        <img
           src="/images/backgrounds/1.svg"
           alt="Background"
           id="hero1"
@@ -165,11 +165,55 @@ export default function CareerExpo() {
             </div>
           </div>
 
-          <NavLink className="btn btn-primary w-100" to="/register">
-            <i className="bi bi-person-plus"></i>&ensp;
-            <strong>Daftar Sekarang</strong>
-          </NavLink>
+          <div className="d-grid gap-4 d-md-flex gap-md-3">
+            <NavLink className="btn btn-primary w-100" to="/register">
+              <i className="bi bi-person-plus"></i>&ensp;
+              <strong>Daftar Sekarang</strong>
+            </NavLink>
+            <button
+              type="button"
+              className="btn btn-secondary w-100"
+              data-bs-toggle="modal"
+              data-bs-target="#posterCareerExpoModal"
+            >
+              <i className="bi bi-image"></i>&ensp;
+              <strong>Poster Career Expo</strong>
+            </button>
+          </div>
         </section>
+      </div>
+
+      <div
+        className="modal fade"
+        id="posterCareerExpoModal"
+        tabindex="-1"
+        aria-labelledby="posterCareerExpoModalLabel"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header py-2">
+              <div className="d-flex align-items-center">
+                <h2 className="modal-title" id="posterCareerExpoModalLabel">
+                  Poster Career Expo
+                </h2>
+                &emsp;
+              </div>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body p-0">
+              <img
+                src="/images/events/career_expo/Career Expo.jpg"
+                alt="Career Expo"
+              />
+            </div>
+          </div>
+        </div>
       </div>
 
       <Footer />

@@ -181,7 +181,7 @@ export default function JobVacancy() {
             </div>
           </div>
 
-          <div className="d-none d-lg-block">
+          <div className="d-none d-md-block">
             <ul
               className="nav nav-pills nav-fill gap-2 p-1 rounded-3 mb-4"
               id="pillNav"

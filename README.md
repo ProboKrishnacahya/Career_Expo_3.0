@@ -1,5 +1,5 @@
-# Career Expo 3.0
-> Universitas Ciputra Surabaya - Corporate Entrepreneurship Essentials 2023
+# Career Expo 3.0 2023
+> Universitas Ciputra Surabaya - Corporate Entrepreneurship Essentials
 ---
 # Getting Started with Create React App
 

@@ -208,7 +208,7 @@ export default function CareerExpo() {
             </div>
             <div className="modal-body p-0">
               <img
-                src="/images/events/career_expo/Career Expo.jpg"
+                src="/images/events/career_expo/Poster size ig 4_5.png"
                 alt="Career Expo"
               />
             </div>

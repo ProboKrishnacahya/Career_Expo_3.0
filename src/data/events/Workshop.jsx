@@ -21,4 +21,15 @@ export const workshop = [
     tempat: "Ciputra World Surabaya",
     daftarURL: "/register",
   },
+  {
+    image1: "/images/events/workshop/Workshop Fundraise - Desktop.png",
+    image2: "/images/events/workshop/Workshop Fundraise - Mobile.png",
+    judul: "CV Makeover",
+    namaPembicara: "Komang Agus Jayanegara, M.Psi., Psikolog",
+    jabatan: "HR Consultant di PeopleFirst | UFirst",
+    hariTanggal: "Jumat, 19 Mei 2023",
+    jam: "17:30 - 20:00 WIB",
+    tempat: "Theater 931 (Lt. 9 UC Tower), Universitas Ciputra Surabaya",
+    daftarURL: "/register",
+  },
 ];

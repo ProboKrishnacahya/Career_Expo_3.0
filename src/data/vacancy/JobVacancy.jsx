@@ -3346,4 +3346,35 @@ export const job = [
       "- Bachelor’s Degree in Mathematics,Industrial Engineering, Electrical Engineering, Mechanical Engineering, Chemical Engineering, Material Engineering or equivalent.\n- Maximum 30 years old\n- Detail oriented and well planner\n- Required Skills : Ms Office (excel and power point)\n- Willing to be placed in Margomulyo, Surabaya, East Java",
     daerahPenempatan: "",
   },
+  {
+    id: 199,
+    name: "Winston Citraland",
+    companyURL: "/company-list/winston-citraland",
+    image: "/images/vacancy/company_list/Winston Logo Png.png",
+    deskripsiPerusahaan: "Real Estate Agents: Winston Citraland.",
+    daftarURL: "https://forms.gle/V1bFcJFecBt7GiQb6",
+    tipe: "Part Time",
+    divisi: "Marketing",
+    jabatan: "Marketing",
+    deskripsiPekerjaan: "Marketing Property",
+    kriteria:
+      "Punya Kendaraan Pribadi, Jujur, Mau Bekerja Keras dan Punya Semangat Berjualan yang Tinggi.",
+    daerahPenempatan: "Royal Residence Surabaya (WINSTON CITRALAND)",
+  },
+  {
+    id: 200,
+    name: "Winston Citraland",
+    companyURL: "/company-list/winston-citraland",
+    image: "/images/vacancy/company_list/Winston Logo Png.png",
+    deskripsiPerusahaan: "Real Estate Agents: Winston Citraland.",
+    daftarURL: "https://forms.gle/V1bFcJFecBt7GiQb6",
+    tipe: "Freelance",
+    divisi: "Marketing",
+    jabatan: "Property Advisor",
+    deskripsiPekerjaan: "Marketing Property",
+    kriteria:
+      "Punya Kendaraan Pribadi, Jujur, Mau Bekerja Keras dan Punya Semangat Berjualan yang Tinggi.",
+    daerahPenempatan: "Royal Residence Surabaya (Winston Citraland)",
+  },
+
 ];

@@ -85,10 +85,10 @@ export default function JobVacancy() {
     ].includes(index)
   );
   const lowonganPartTime = jobVacancy.filter((_item, index) =>
-    [].includes(index)
+    [199].includes(index)
   );
   const lowonganFreelance = jobVacancy.filter((_item, index) =>
-    [83].includes(index)
+    [83, 200].includes(index)
   );
   const lowonganInternship = jobVacancy.filter((_item, index) =>
     [13, 14, 15, 19, 97, 109, 110, 124, 131, 158, 159, 160, 161, 162].includes(

@@ -25,6 +25,7 @@ import {
   SPSCorporate,
   Tancorp,
   Tanobel,
+  WinstonCitraland,
   CareerExpo,
   Workshop,
   Talkshow,
@@ -102,6 +103,10 @@ export default function Navigation() {
         <Route path="/company-list/sps-corporate" element={<SPSCorporate />} />
         <Route path="/company-list/tancorp" element={<Tancorp />} />
         <Route path="/company-list/tanobel" element={<Tanobel />} />
+        <Route
+          path="/company-list/winston-citraland"
+          element={<WinstonCitraland />}
+        />
         {/* Events */}
         <Route path="/career-expo" element={<CareerExpo />} />
         <Route path="/workshop" element={<Workshop />} />

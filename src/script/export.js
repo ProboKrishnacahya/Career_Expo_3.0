@@ -29,6 +29,7 @@ export { default as SideroomStudio } from "../pages/vacancy/companyList/Sideroom
 export { default as SPSCorporate } from "../pages/vacancy/companyList/SPSCorporate";
 export { default as Tancorp } from "../pages/vacancy/companyList/Tancorp";
 export { default as Tanobel } from "../pages/vacancy/companyList/Tanobel";
+export { default as WinstonCitraland } from "../pages/vacancy/companyList/WinstonCitraland";
 // Events
 export { default as CareerExpo } from "../pages/events/CareerExpo";
 export { default as Workshop } from "../pages/events/Workshop";

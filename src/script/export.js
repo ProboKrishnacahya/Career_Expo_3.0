@@ -10,6 +10,7 @@ export { default as Home } from "../pages/home/Home";
 export { default as CompanyList } from "../pages/vacancy/CompanyList";
 export { default as JobVacancy } from "../pages/vacancy/JobVacancy";
 export { default as Artax } from "../pages/vacancy/companyList/Artax";
+export { default as BankMega } from "../pages/vacancy/companyList/BankMega";
 export { default as BMWAstra } from "../pages/vacancy/companyList/BMWAstra";
 export { default as HotelCiputraWorldSurabaya } from "../pages/vacancy/companyList/HotelCiputraWorldSurabaya";
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";

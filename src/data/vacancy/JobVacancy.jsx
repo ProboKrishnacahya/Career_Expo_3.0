@@ -3376,5 +3376,66 @@ export const job = [
       "Punya Kendaraan Pribadi, Jujur, Mau Bekerja Keras dan Punya Semangat Berjualan yang Tinggi.",
     daerahPenempatan: "Royal Residence Surabaya (Winston Citraland)",
   },
-
+  {
+    id: 201,
+    name: "Bank Mega",
+    companyURL: "/company-list/bank-mega",
+    image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
+    deskripsiPerusahaan: "",
+    daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
+    tipe: "Full Time",
+    divisi: "Consumer banking",
+    jabatan: "Retail Funding Officer",
+    deskripsiPekerjaan: "Marketing produk funding",
+    kriteria:
+      "S1, usia < 35 th, pengalaman min. 1 th di marketing funding perbankan",
+    daerahPenempatan: "Jawa Timur",
+  },
+  {
+    id: 202,
+    name: "Bank Mega",
+    companyURL: "/company-list/bank-mega",
+    image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
+    deskripsiPerusahaan: "",
+    daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
+    tipe: "Full Time",
+    divisi: "Consumer banking",
+    jabatan: "Retail funding Training Program",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "S1, usia max 30 th, mempunyai minat di marketing, lebih disukai memiliki pengalaman sales",
+    daerahPenempatan: "Jawa Timur",
+  },
+  {
+    id: 203,
+    name: "Bank Mega",
+    companyURL: "/company-list/bank-mega",
+    image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
+    deskripsiPerusahaan: "",
+    daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
+    tipe: "Full Time",
+    divisi: "Card Funding Officer",
+    jabatan: "Marketing kartu kredit",
+    deskripsiPekerjaan:
+      "D3/S1, usia max 35th, memiliki pengalaman di sales min. 1 th",
+    kriteria:
+      "S1, usia max 30 th, mempunyai minat di marketing, lebih disukai memiliki pengalaman sales",
+    daerahPenempatan: "Surabaya, Malang",
+  },
+  {
+    id: 204,
+    name: "Bank Mega",
+    companyURL: "/company-list/bank-mega",
+    image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
+    deskripsiPerusahaan: "",
+    daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
+    tipe: "Full Time",
+    divisi: "Frontliner",
+    jabatan: "Customer service, teller",
+    deskripsiPekerjaan:
+      "S1, usia max 26 th, berpenampilan menarik, tinggi min. 160cm dgn berat badan proporsional",
+    kriteria:
+      "S1, usia max 30 th, mempunyai minat di marketing, lebih disukai memiliki pengalaman sales",
+    daerahPenempatan: "Surabaya, Jember, Probolinggo",
+  },
 ];

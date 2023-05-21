@@ -6,6 +6,7 @@ import {
   CompanyList,
   JobVacancy,
   Artax,
+  BankMega,
   BMWAstra,
   HotelCiputraWorldSurabaya,
   HSBC,
@@ -54,6 +55,7 @@ export default function Navigation() {
         <Route path="/company-list" element={<CompanyList />} />
         <Route path="/job-vacancy" element={<JobVacancy />} />
         <Route path="/company-list/artax" element={<Artax />} />
+        <Route path="/company-list/bank-mega" element={<BankMega />} />
         <Route path="/company-list/bmw-astra" element={<BMWAstra />} />
         <Route
           path="/company-list/hotel-ciputra-world-surabaya"

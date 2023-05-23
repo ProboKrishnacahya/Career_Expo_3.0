@@ -1621,7 +1621,7 @@ export const job = [
     jabatan: "MT Finance & Accounting",
     deskripsiPekerjaan: "",
     kriteria:
-      "1. Pria/Wanita, Lulusan S1 Manajemen/Akuntansi\n2. Bersedia melakukan perjalanan dinas\n3. Bersedia turun ke lapangan\n4. Bersedia ditempatkan di Sidoarjo\n5. Memiliki kemampuan komunikasi yang baik\n6. Memiliki kemampuan analisa yang baik",
+      "1. Pria/Wanita, Lulusan S1 Manajemen/Akuntansi\n2. Bersedia melakukan perjalanan dinas\n3. Bersedia turun ke lapangan\n4. Bersedia ditempatkan di Sidoarjo, Cikarang\n5. Memiliki kemampuan komunikasi yang baik\n6. Memiliki kemampuan analisa & ketelitian yang baik",
     daerahPenempatan: "",
   },
   {
@@ -1634,10 +1634,10 @@ export const job = [
     daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
     tipe: "Full Time",
     divisi: "",
-    jabatan: "MT Sales & Operation",
+    jabatan: "MT Operation",
     deskripsiPekerjaan: "",
     kriteria:
-      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu\n5. Bersedia ditempatkan di Sidoarjo, Cikarang, dan Semarang\n6. Memiliki kemampuan komunikasi yang baik",
+      "1. Bersedia ditempatkan di Sidoarjo, Semarang, Cikarang, Lulusan S1 segala jurusan\n2. Pria/Wanita, Lulusan S1 Segala Jurusan\n3. Bersedia untuk turun ke lapangan\n4. Memiliki skill komunikasi yang baik\n5. Memiliki skill time management yang baik",
     daerahPenempatan: "",
   },
   {
@@ -1650,10 +1650,10 @@ export const job = [
     daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
     tipe: "Full Time",
     divisi: "",
-    jabatan: "MT HRD",
+    jabatan: "MT Sales",
     deskripsiPekerjaan: "",
     kriteria:
-      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu\n5. Bersedia ditempatkan di Sidoarjo\n6. Memiliki kemampuan komunikasi yang baik\n7. Bersedia melakukan perjalanan dinas",
+      "- Pria/Wanita, Lulusan S1 segala jurusan\n- Memiliki SIM A\n- Memiliki ketertarikan di dunia Logistik\n- Memiliki semangat & rasa ingin tahu\n- Bersedia ditempatkan di Sidoarjo, Cikarang, dan Semarang\n- Memiliki kemampuan komunikasi yang baik\n- Target Oriented",
     daerahPenempatan: "",
   },
   {
@@ -1667,9 +1667,10 @@ export const job = [
     tipe: "Internship",
     divisi: "Field (Maintenance Truck)",
     jabatan: "Internship",
-    deskripsiPekerjaan: "",
+    deskripsiPekerjaan:
+      "1. Melakukan kontrol perbaikan unit Truck\n2. Memastikan perbaikan dilaksakan sesuai standar\n3. Membuat laporan harian",
     kriteria:
-      "- Melakukan kontrol perbaikan unit Truck\n- Memastikan perbaikan dilaksakan sesuai standar\n- Membuat laporan harian",
+      "- Terbuka segala jurusan\n- Memiliki ketertarikan di dunia logistik\n- Memiliki semangat dan rasa ingin tahu\n- Memiliki skill komunikasi yang baik\n- Bersedia melakukan perjalanan dinas",
     daerahPenempatan: "Trosobo, Sidoarjo",
   },
 
@@ -2892,11 +2893,11 @@ export const job = [
     daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
     tipe: "Full Time",
     divisi: "Human Capital & Corporate Affair",
-    jabatan: "Talent Acquisition Specialist",
+    jabatan: "Human Capital Staff",
     deskripsiPekerjaan:
-      "- Manage end to end recruitment activities\n- Identify and determine employee's criteria for job vacancy\n- Build strong communication, give support and explore potential collaboration among academy, government and stakeholder\n- Company and employee branding",
+      "- Manage end to end recruitment activities\n- Manage employee branding and  employee engagement strategies\n- Analyze organizational design, job design, talent development needs and talent management.",
     kriteria:
-      "- Master degree of Psychology\n- At least 3 years of working experiences in related field is required for this position\n- Having good communication skill and high motivated\n- Familiar with Psychological Tools\n- Good analytical thinking",
+      "- Candidate must possess at least Bachelor Degree / Master degree of Psychology\n- At least 1 years of working experiences in related field is required for this position\n- Familiar with Psychological Tools, Organizational Development Strategy, Talent Management & Talent Development\n- Having good communication skill, good analytical thinking and high motivated",
     daerahPenempatan: "Pacet-Mojokerto, East Java",
   },
   {
@@ -2943,7 +2944,7 @@ export const job = [
     daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
     tipe: "Full Time",
     divisi: "B2C",
-    jabatan: "National Sales B2C Manage",
+    jabatan: "National Sales B2C Manager",
     deskripsiPekerjaan:
       "- Develops sales plans and budgets to achieve exceed the annual sales objectives\n- Designing and implementing a strategic sales plan that expands company’s customer base",
     kriteria:
@@ -3381,7 +3382,8 @@ export const job = [
     name: "Bank Mega",
     companyURL: "/company-list/bank-mega",
     image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
-    deskripsiPerusahaan: "",
+    deskripsiPerusahaan:
+      "Berawal dari sebuah usaha milik keluarga bernama PT. Bank Karman yang didirikan pada tahun 1969 dan berkedudukan di Surabaya, selanjutnya pada tahun 1992 berubah nama menjadi PT. Mega Bank dan melakukan relokasi Kantor Pusat ke Jakarta.\n\nSeiring dengan perkembangannya PT. Mega Bank pada tahun 1996 diambil alih oleh PARA GROUP (PT. Para Global Investindo dan PT. Para Rekan Investama). Untuk lebih meningkatkan citra PT. Mega Bank, pada bulan Juni 1997 melakukan perubahan logo dengan tujuan bahwa sebagai lembaga keuangan kepercayaan masyarakat, akan lebih mudah dikenal melalui logo perusahaan yang baru tersebut. Pada tahun 2000 dilakukan perubahan nama dari PT. Mega Bank menjadi PT. Bank Mega.\n\nDalam rangka memperkuat struktur permodalan maka pada tahun yang sama PT. Bank Mega melaksanakan Initial Public Offering dan listed di BEJ maupun BES. Dengan demikian sebagian saham PT. Bank Mega dimiliki oleh publik dan berubah namanya menjadi PT. Bank Mega Tbk.\n\nPada saat krisis ekonomi, Bank Mega mencuat sebagai salah satu bank yang tidak terpengaruh oleh krisis dan tumbuh terus tanpa bantuan pemerintah bersama-sama dengan Citibank, Deutche Bank dan HSBC.PT. Bank Mega Tbk. dengan semboyan 'To Be Pride of The Nation' tumbuh dengan pesat dan terkendali serta menjadi lembaga keuangan ternama yang mampu disejajarkan dengan bank-bank terkemuka di Asia Pasifik dan telah mendapatkan berbagai penghargaan dan prestasi baik di tingkat nasional, regional maupun internasional.\n\nDalam upaya mewujudkan kinerja sesuai dengan nama yang disandangnya, PT. Bank Mega Tbk. berpegang pada azas profesionalisme, keterbukaan dan kehati-hatian dengan struktur permodalan yang kuat serta produk dan fasilitas perbankan terkini. Pada tahun 2013 Bank Mega memperkenalkan identitas baru yang terdiri dari logo dan simbol grafis huruf “M” yang merefleksikan positioning dan acuan pertumbuhan yang baru bagi perusahaan.",
     daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
     tipe: "Full Time",
     divisi: "Consumer banking",
@@ -3396,7 +3398,8 @@ export const job = [
     name: "Bank Mega",
     companyURL: "/company-list/bank-mega",
     image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
-    deskripsiPerusahaan: "",
+    deskripsiPerusahaan:
+      "Berawal dari sebuah usaha milik keluarga bernama PT. Bank Karman yang didirikan pada tahun 1969 dan berkedudukan di Surabaya, selanjutnya pada tahun 1992 berubah nama menjadi PT. Mega Bank dan melakukan relokasi Kantor Pusat ke Jakarta.\n\nSeiring dengan perkembangannya PT. Mega Bank pada tahun 1996 diambil alih oleh PARA GROUP (PT. Para Global Investindo dan PT. Para Rekan Investama). Untuk lebih meningkatkan citra PT. Mega Bank, pada bulan Juni 1997 melakukan perubahan logo dengan tujuan bahwa sebagai lembaga keuangan kepercayaan masyarakat, akan lebih mudah dikenal melalui logo perusahaan yang baru tersebut. Pada tahun 2000 dilakukan perubahan nama dari PT. Mega Bank menjadi PT. Bank Mega.\n\nDalam rangka memperkuat struktur permodalan maka pada tahun yang sama PT. Bank Mega melaksanakan Initial Public Offering dan listed di BEJ maupun BES. Dengan demikian sebagian saham PT. Bank Mega dimiliki oleh publik dan berubah namanya menjadi PT. Bank Mega Tbk.\n\nPada saat krisis ekonomi, Bank Mega mencuat sebagai salah satu bank yang tidak terpengaruh oleh krisis dan tumbuh terus tanpa bantuan pemerintah bersama-sama dengan Citibank, Deutche Bank dan HSBC.PT. Bank Mega Tbk. dengan semboyan 'To Be Pride of The Nation' tumbuh dengan pesat dan terkendali serta menjadi lembaga keuangan ternama yang mampu disejajarkan dengan bank-bank terkemuka di Asia Pasifik dan telah mendapatkan berbagai penghargaan dan prestasi baik di tingkat nasional, regional maupun internasional.\n\nDalam upaya mewujudkan kinerja sesuai dengan nama yang disandangnya, PT. Bank Mega Tbk. berpegang pada azas profesionalisme, keterbukaan dan kehati-hatian dengan struktur permodalan yang kuat serta produk dan fasilitas perbankan terkini. Pada tahun 2013 Bank Mega memperkenalkan identitas baru yang terdiri dari logo dan simbol grafis huruf “M” yang merefleksikan positioning dan acuan pertumbuhan yang baru bagi perusahaan.",
     daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
     tipe: "Full Time",
     divisi: "Consumer banking",
@@ -3411,7 +3414,8 @@ export const job = [
     name: "Bank Mega",
     companyURL: "/company-list/bank-mega",
     image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
-    deskripsiPerusahaan: "",
+    deskripsiPerusahaan:
+      "Berawal dari sebuah usaha milik keluarga bernama PT. Bank Karman yang didirikan pada tahun 1969 dan berkedudukan di Surabaya, selanjutnya pada tahun 1992 berubah nama menjadi PT. Mega Bank dan melakukan relokasi Kantor Pusat ke Jakarta.\n\nSeiring dengan perkembangannya PT. Mega Bank pada tahun 1996 diambil alih oleh PARA GROUP (PT. Para Global Investindo dan PT. Para Rekan Investama). Untuk lebih meningkatkan citra PT. Mega Bank, pada bulan Juni 1997 melakukan perubahan logo dengan tujuan bahwa sebagai lembaga keuangan kepercayaan masyarakat, akan lebih mudah dikenal melalui logo perusahaan yang baru tersebut. Pada tahun 2000 dilakukan perubahan nama dari PT. Mega Bank menjadi PT. Bank Mega.\n\nDalam rangka memperkuat struktur permodalan maka pada tahun yang sama PT. Bank Mega melaksanakan Initial Public Offering dan listed di BEJ maupun BES. Dengan demikian sebagian saham PT. Bank Mega dimiliki oleh publik dan berubah namanya menjadi PT. Bank Mega Tbk.\n\nPada saat krisis ekonomi, Bank Mega mencuat sebagai salah satu bank yang tidak terpengaruh oleh krisis dan tumbuh terus tanpa bantuan pemerintah bersama-sama dengan Citibank, Deutche Bank dan HSBC.PT. Bank Mega Tbk. dengan semboyan 'To Be Pride of The Nation' tumbuh dengan pesat dan terkendali serta menjadi lembaga keuangan ternama yang mampu disejajarkan dengan bank-bank terkemuka di Asia Pasifik dan telah mendapatkan berbagai penghargaan dan prestasi baik di tingkat nasional, regional maupun internasional.\n\nDalam upaya mewujudkan kinerja sesuai dengan nama yang disandangnya, PT. Bank Mega Tbk. berpegang pada azas profesionalisme, keterbukaan dan kehati-hatian dengan struktur permodalan yang kuat serta produk dan fasilitas perbankan terkini. Pada tahun 2013 Bank Mega memperkenalkan identitas baru yang terdiri dari logo dan simbol grafis huruf “M” yang merefleksikan positioning dan acuan pertumbuhan yang baru bagi perusahaan.",
     daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
     tipe: "Full Time",
     divisi: "Card Funding Officer",
@@ -3427,7 +3431,8 @@ export const job = [
     name: "Bank Mega",
     companyURL: "/company-list/bank-mega",
     image: "/images/vacancy/company_list/Bank_Mega_2013.svg",
-    deskripsiPerusahaan: "",
+    deskripsiPerusahaan:
+      "Berawal dari sebuah usaha milik keluarga bernama PT. Bank Karman yang didirikan pada tahun 1969 dan berkedudukan di Surabaya, selanjutnya pada tahun 1992 berubah nama menjadi PT. Mega Bank dan melakukan relokasi Kantor Pusat ke Jakarta.\n\nSeiring dengan perkembangannya PT. Mega Bank pada tahun 1996 diambil alih oleh PARA GROUP (PT. Para Global Investindo dan PT. Para Rekan Investama). Untuk lebih meningkatkan citra PT. Mega Bank, pada bulan Juni 1997 melakukan perubahan logo dengan tujuan bahwa sebagai lembaga keuangan kepercayaan masyarakat, akan lebih mudah dikenal melalui logo perusahaan yang baru tersebut. Pada tahun 2000 dilakukan perubahan nama dari PT. Mega Bank menjadi PT. Bank Mega.\n\nDalam rangka memperkuat struktur permodalan maka pada tahun yang sama PT. Bank Mega melaksanakan Initial Public Offering dan listed di BEJ maupun BES. Dengan demikian sebagian saham PT. Bank Mega dimiliki oleh publik dan berubah namanya menjadi PT. Bank Mega Tbk.\n\nPada saat krisis ekonomi, Bank Mega mencuat sebagai salah satu bank yang tidak terpengaruh oleh krisis dan tumbuh terus tanpa bantuan pemerintah bersama-sama dengan Citibank, Deutche Bank dan HSBC.PT. Bank Mega Tbk. dengan semboyan 'To Be Pride of The Nation' tumbuh dengan pesat dan terkendali serta menjadi lembaga keuangan ternama yang mampu disejajarkan dengan bank-bank terkemuka di Asia Pasifik dan telah mendapatkan berbagai penghargaan dan prestasi baik di tingkat nasional, regional maupun internasional.\n\nDalam upaya mewujudkan kinerja sesuai dengan nama yang disandangnya, PT. Bank Mega Tbk. berpegang pada azas profesionalisme, keterbukaan dan kehati-hatian dengan struktur permodalan yang kuat serta produk dan fasilitas perbankan terkini. Pada tahun 2013 Bank Mega memperkenalkan identitas baru yang terdiri dari logo dan simbol grafis huruf “M” yang merefleksikan positioning dan acuan pertumbuhan yang baru bagi perusahaan.",
     daftarURL: "https://forms.gle/vgErf3XAVAiQNdmB7",
     tipe: "Full Time",
     divisi: "Frontliner",
@@ -3437,5 +3442,105 @@ export const job = [
     kriteria:
       "S1, usia max 30 th, mempunyai minat di marketing, lebih disukai memiliki pengalaman sales",
     daerahPenempatan: "Surabaya, Jember, Probolinggo",
+  },
+
+  {
+    id: 205,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "MT HRD",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "1. Pria/Wanita, Lulusan S1 segala jurusan\n2. Memiliki SIM A\n3. Memiliki ketertarikan di dunia Logistik\n4. Memiliki semangat & rasa ingin tahu\n5. Bersedia ditempatkan di Sidoarjo\n6. Memiliki kemampuan komunikasi yang baik\n7. Bersedia melakukan perjalanan dinas\n8. Bersedia untuk turun ke lapangan",
+    daerahPenempatan: "",
+  },
+  {
+    id: 206,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Internship",
+    divisi: "",
+    jabatan: "Internship HRD",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Terbuka segala jurusan\n- Memiliki ketertarikan di dunia logistik\n- Memiliki semangat dan rasa ingin tahu\n- Memiliki skill komunikasi yang baik\n- Bersedia melakukan perjalanan dinas",
+    daerahPenempatan: "",
+  },
+  {
+    id: 207,
+    name: "Rapi Group",
+    companyURL: "/company-list/rapi-group",
+    image: "/images/vacancy/company_list/Rapi group - Logo.jpg",
+    deskripsiPerusahaan:
+      "Kami merupakan perusahaan jasa pengiriman barang via darat jarak jauh yang bertujuan untuk memenuhi kebutuhan pelanggan, dengan memiliki 300 armada dalam berbagai jenis maka kami menjadi pilihan utama bagi perusahaan lokal maupun multinasional sebagai mitra transportasi yang terpercaya.",
+    daftarURL: "https://forms.gle/14AsCN1KLzxJnUBq6",
+    tipe: "Internship",
+    divisi: "",
+    jabatan: "Internship ACC",
+    deskripsiPekerjaan: "",
+    kriteria: "",
+    daerahPenempatan:
+      "- Terbuka segala jurusan\n- Memiliki ketertarikan di dunia logistik\n- Memiliki semangat dan rasa ingin tahu\n- Memiliki skill komunikasi yang baik\n- Bersedia melakukan perjalanan dinas",
+  },
+  {
+    id: 208,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "RND",
+    jabatan: "Research & Innovation Staff",
+    deskripsiPekerjaan:
+      "- Conduct research designs, literature review of new and existing products.\n- Supervise and control product research activities both internally and in collaboration with third parties.\n- Conducting evaluation and analysis and setting product process standards as additional information to customers and users.\n- Making publications in scientific journals both nationally and internationally as well as writing patents from research activities on new products and innovations.\n- Deliver reports and evaluation results regarding the product research process to superiors.",
+    kriteria:
+      "- Candidate must possess at least Bachelor's Degree, Master's Degree/Post Graduate Degree in Food Technology/Nutrition/Dietetics or equivalent.\n- At least 1 Year(s) of working experience in Dairy Products\n- Preferably Staff specialized in Food Technology/Nutritionist or equivalent.\n- Having experience research and publication international journal related the food technology.",
+    daerahPenempatan: "Pacet-Mojokerto, East Java",
+  },
+  {
+    id: 209,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "RND",
+    jabatan: "Application Development Chef Staff",
+    deskripsiPekerjaan:
+      "- Prepare equipment and raw materials for work activities as needed.\n- Carry out cooking activities as needed based on directions from superiors or the Content Creative team.\n- Provide evaluation and input on ideas or work activities related to cooking to the relevant superiors or teams.",
+    kriteria:
+      "- Diploma or Vocational Certificate in culinary or food preparations or related field.\n- Maximum has 2 years of working experience in related field \n- Good communication skill",
+    daerahPenempatan: "Driyorejo - Mojokerto, East Java",
+  },
+  {
+    id: 210,
+    name: "PT Lautan Natural Krimerindo",
+    companyURL: "/company-list/pt-lautan-natural-krimerindo",
+    image: "/images/vacancy/company_list/Logo LNK-top.png",
+    deskripsiPerusahaan:
+      "Specialized in spray dried ingredients and powder premixes, PT. Lautan Natural Krimerindo is a leading company of food and beverage ingredients. With the vision to be a world class ingredients company which focuses on creating value for customers, we aim to deliver high quality food ingredients and provide manufacturing solutions to our customer to achieve business enhancement. Our RND expertise, supported by the latest technology machineries and certified quality management system allow us to cater a range of consumer and market needs from across the world.\n\n'We always create value by only using the finest quality ingredients processed in the state of the art facility to deliver the best products for customers'",
+    daftarURL: "https://forms.gle/cJSHoTTiyFsWUMF98",
+    tipe: "Full Time",
+    divisi: "LMK",
+    jabatan: "Operational Manager",
+    deskripsiPekerjaan:
+      "- Develop the annual restaurant business plan, revenue targets and expense budget and present for review with the F&B management to ensure this is in line with The company policies.\n- Monitor guest satisfaction reports and respond to feedback and complaints ensuring procedures are followed to preserve the restaurant’s and the company’s positive image.\n- Ensure consistently high personalized service standards, good food quality and presentation.\n- Develop and implement marketing, advertising, public and community relations programs; evaluating program results; identifying and tracking changing demands.\n- Ensure effective purchasing, stock control and food cost control, selecting good value high quality products in line with the Restaurant concept and budgets, and maintaining availability whilst minimizing waste and loss.\n- Manage the day-to-day operations of the restaurant providing guidance, encouraging teamwork and facilitating related professional work processes in order to achieve high performance standards and liaise with internal and external parties at the appropriate levels to ensure smooth flow of operations.\n- Ensure compliance to all relevant Health, Safety and Environment management procedures and controls within a defined area of activity.\n- Train and motivate the team with the aim that they develop and grow.\n- Displays warmth, care and genuine enthusiasm when dealing with guests and internal customers; lives the Golden Rule Demonstrates standards awareness, by setting example for standards execution,",
+    kriteria:
+      "- Candidate must possess at least Bachelor's Degree/Master’s Degree in any field.\n- Having experience as Operational Manager at least 3 years, preferably from F&B\n- Having strong knowledge and experience in F&B Management, F&B Marketing & Sales Strategies to achieve business goals.\n- Willing to travel to all branches.",
+    daerahPenempatan: "",
   },
 ];

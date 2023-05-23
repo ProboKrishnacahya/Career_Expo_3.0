@@ -65,7 +65,18 @@ export default function PTLautanNaturalKrimerindo() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(172, 181)}
+        {jobList[172]}
+        {jobList[173]}
+        {jobList[174]}
+        {jobList[175]}
+        {jobList[176]}
+        {jobList[177]}
+        {jobList[178]}
+        {jobList[179]}
+        {jobList[180]}
+        {jobList[208]}
+        {jobList[209]}
+        {jobList[210]}
       </div>
     </div>
   ));
@@ -324,6 +335,78 @@ export default function PTLautanNaturalKrimerindo() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[180]}</div>
+          </div>``
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal208"
+        tabindex="-1"
+        aria-labelledby="jobModal208Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal208Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[208]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal209"
+        tabindex="-1"
+        aria-labelledby="jobModal209Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal209Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[209]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal210"
+        tabindex="-1"
+        aria-labelledby="jobModal210Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal210Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[210]}</div>
           </div>
         </div>
       </div>

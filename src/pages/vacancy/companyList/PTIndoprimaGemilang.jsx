@@ -65,7 +65,26 @@ export default function PTIndoprimaGemilang() {
         </div>
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
-        {jobList.slice(181, 199)}
+        {jobList[181]}
+        {jobList[182]}
+        {jobList[183]}
+        {jobList[184]}
+        {jobList[185]}
+        {jobList[186]}
+        {jobList[187]}
+        {jobList[188]}
+        {jobList[189]}
+        {jobList[190]}
+        {jobList[191]}
+        {jobList[192]}
+        {jobList[193]}
+        {jobList[194]}
+        {jobList[195]}
+        {jobList[196]}
+        {jobList[197]}
+        {jobList[198]}
+        {jobList[217]}
+        {jobList[218]}
       </div>
     </div>
   ));
@@ -540,6 +559,54 @@ export default function PTIndoprimaGemilang() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[198]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal217"
+        tabindex="-1"
+        aria-labelledby="jobModal217Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal217Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[217]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal218"
+        tabindex="-1"
+        aria-labelledby="jobModal218Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal218Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[218]}</div>
           </div>
         </div>
       </div>

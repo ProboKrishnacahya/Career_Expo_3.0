@@ -66,6 +66,12 @@ export default function SPSCorporate() {
       </div>
       <div className="row row-cols-1 row-cols-md-3 g-3 g-lg-4 mt-1">
         {jobList.slice(98, 101)}
+        {jobList[98]}
+        {jobList[99]}
+        {jobList[100]}
+        {jobList[219]}
+        {jobList[220]}
+        {jobList[221]}
       </div>
     </div>
   ));
@@ -180,6 +186,79 @@ export default function SPSCorporate() {
               ></button>
             </div>
             <div className="modal-body">{persyaratan[100]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal219"
+        tabindex="-1"
+        aria-labelledby="jobModal219Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal219Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[219]}</div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="modal fade"
+        id="jobModal220"
+        tabindex="-1"
+        aria-labelledby="jobModal220Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal220Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[220]}</div>
+          </div>
+        </div>
+      </div>
+
+      <div
+        className="modal fade"
+        id="jobModal221"
+        tabindex="-1"
+        aria-labelledby="jobModal221Label"
+        aria-hidden="true"
+      >
+        <div className="modal-dialog modal-lg modal-dialog-centered modal-dialog-scrollable">
+          <div className="modal-content">
+            <div className="modal-header">
+              <h2 className="modal-title text-center" id="jobModal221Label">
+                Persyaratan
+              </h2>
+              <button
+                type="button"
+                className="btn-close"
+                data-bs-dismiss="modal"
+                aria-label="Close"
+              ></button>
+            </div>
+            <div className="modal-body">{persyaratan[221]}</div>
           </div>
         </div>
       </div>

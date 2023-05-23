@@ -1701,13 +1701,12 @@ export const job = [
       "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
     daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
     tipe: "Full Time",
-    divisi: "Marketing",
-    jabatan: "Design Grafis Staff",
-    deskripsiPekerjaan:
-      "- Conceptualizing visuals based on requirements\n- Creating images and layouts using design software\n- Testing graphics across various media",
+    divisi: "",
+    jabatan: "Personal Assistant to Director",
+    deskripsiPekerjaan: "",
     kriteria:
-      "- Bachelor Degree from Desain Komunikasi Visual major\n- Fresh graduate are welcome to apply\n- Familiar with Adobe Photoshop, Adobe Illustrator, Corel Draw, and Adobe Premiere\n- Creative and detail-oriented\n- Have driving license\n- Fluent in English will be prioritized",
-    daerahPenempatan: "Surabaya",
+      "- Minimum Bachelor Degree from International Business Management, Marketing, International Business Accounting, All Engineering major\n- Fresh graduate are welcome to apply\n- Have experience overseas (travel/study/internship)\n- Must be fluent in English both written and oral\n- Fluent in Mandarin (minimum HSK 5) will be prioritized\n- Detail-oriented, good with numbers, and strong interpersonal skills",
+    daerahPenempatan: "Surabaya/Mojokerto",
   },
   {
     id: 100,
@@ -1718,13 +1717,12 @@ export const job = [
       "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
     daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
     tipe: "Full Time",
-    divisi: "Marketing",
-    jabatan: "Public Relation Supervisor",
-    deskripsiPekerjaan:
-      "- Mengenal dan menjalin hubungan baik dengan publik (komunitas, pemerintahan, dan lembaga sosial) & media lokal maupun nasional.\n- Mengelola media komunikasi perusahaan seperti website, sosial media, company profile, & company tools lainnya.\n- Menerapkan strategi media relation untuk press release, iklan, & penanganan krisis publik.\n- Melakukan media screening untuk mengetahui tren terkini, memantau reputasi perusahaan, serta keberhasilan strategi media relation.\n- Menulis press release sebaik menulis artikel media.\n- Melakukan riset data & menghubungkan pesan perusahaan sebagai kepentingan publik & media.\n- Membuat program untuk kegiatan public relation, termasuk perencanaan, budgeting, & eksekusinya.\n- Bekerjasama dengan marketing communication untuk program & event korporat.\n- Melakukan inisiasi & kerjasama dengan perusahaan/lembaga/komunitas untuk program-program CSR.",
+    divisi: "",
+    jabatan: "Management Trainee Accounting",
+    deskripsiPekerjaan: "",
     kriteria:
-      "- Laki-laki atau perempuan\n- Usia maksimal 30 tahun\n- Pendidikan terakhir minimal S1 Ilmu Komunikasi\n- Berpengalaman di bidang Public Relation",
-    daerahPenempatan: "Surabaya",
+      "- Minimum Bachelor Degree from Accounting and Tax Accounting major with minimum GPA 3.50\n- Fresh graduate are welcome to apply\n- Mastering basic accounting\n- Detail oriented and good with numbers\n- Willing to be placed all site in Indonesia. Candidate placement request will be considered",
+    daerahPenempatan: "All company site in Indonesia",
   },
 
   // * Tancorp
@@ -2439,11 +2437,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "Front Office",
-    jabatan: "Duty Manager",
+    divisi: "FB Service",
+    jabatan: "FB Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 144,
@@ -2454,11 +2453,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "Front Office",
-    jabatan: "Front Desk Agent",
+    divisi: "FB Service",
+    jabatan: "Asst. FB Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 145,
@@ -2470,10 +2470,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Service",
-    jabatan: "Asst. Food & Beverage Manager",
+    jabatan: "Beverage Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 146,
@@ -2485,10 +2486,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Service",
-    jabatan: "Beverage Manager",
+    jabatan: "FB Supervisor",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 147,
@@ -2500,10 +2502,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Service",
-    jabatan: "Food & Beverage Supervisor",
+    jabatan: "Banquet Captain",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 148,
@@ -2515,10 +2518,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Service",
-    jabatan: "Banquet Captain",
+    jabatan: "Bartender (Mixologist)",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 149,
@@ -2530,10 +2534,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Service",
-    jabatan: "Bartender",
+    jabatan: "Waiter/Waitress",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 150,
@@ -2544,11 +2549,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "F&B Service",
-    jabatan: "Waiter/Waitress",
+    divisi: "FB Product",
+    jabatan: "Sous Chef (Western Modern)",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented\n- Have HACCP certificate will be advantage",
+    daerahPenempatan: "",
   },
   {
     id: 151,
@@ -2560,10 +2566,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Product",
-    jabatan: "Sous Chef",
+    jabatan: "CDP (Indonesian - Chinese)",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented\n- Have HACCP certificate will be advantage",
+    daerahPenempatan: "",
   },
   {
     id: 152,
@@ -2575,10 +2582,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Product",
-    jabatan: "Chef de Partie",
+    jabatan: "Demi Chef",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented\n- Have HACCP certificate will be advantage",
+    daerahPenempatan: "",
   },
   {
     id: 153,
@@ -2590,10 +2598,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Product",
-    jabatan: "Demi Chef",
+    jabatan: "Garde Manger",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented\n- Have HACCP certificate will be advantage",
+    daerahPenempatan: "",
   },
   {
     id: 154,
@@ -2605,10 +2614,11 @@ export const job = [
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
     divisi: "F&B Product",
-    jabatan: "Garde Manger",
+    jabatan: "Commis 1 - Pastry",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented\n- Have HACCP certificate will be advantage",
+    daerahPenempatan: "",
   },
   {
     id: 155,
@@ -2619,11 +2629,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "F&B Product",
-    jabatan: "Commis 1 (Pastry)",
+    divisi: "Front Office",
+    jabatan: "Asst. Front Office Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 156,
@@ -2634,11 +2645,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "Housekeeping",
-    jabatan: "Laundry Attendant",
+    divisi: "Front Office",
+    jabatan: "Asst. Guest Experience Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 157,
@@ -2649,11 +2661,12 @@ export const job = [
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
     tipe: "Full Time",
-    divisi: "Housekeeping",
-    jabatan: "Room Attendant",
+    divisi: "Front Office",
+    jabatan: "Duty Manager",
     deskripsiPekerjaan: "",
-    kriteria: "",
-    daerahPenempatan: "Surabaya",
+    kriteria:
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 158,
@@ -2663,13 +2676,13 @@ export const job = [
     deskripsiPerusahaan:
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
-    tipe: "Internship",
-    divisi: "FB Culinary",
-    jabatan: "Section Pastry and Hot Kitchen",
+    tipe: "Full Time",
+    divisi: "Front Office",
+    jabatan: "Bellman",
     deskripsiPekerjaan: "",
     kriteria:
-      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
-    daerahPenempatan: "Surabaya",
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 159,
@@ -2679,13 +2692,13 @@ export const job = [
     deskripsiPerusahaan:
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
-    tipe: "Internship",
-    divisi: "FB Service",
-    jabatan: "Waiter/Waitress, Bartender, and Barista",
+    tipe: "Full Time",
+    divisi: "Housekeeping",
+    jabatan: "Asst. Executive Housekeeper",
     deskripsiPekerjaan: "",
     kriteria:
-      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
-    daerahPenempatan: "Surabaya",
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 160,
@@ -2695,13 +2708,13 @@ export const job = [
     deskripsiPerusahaan:
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
-    tipe: "Internship",
-    divisi: "Front Office",
-    jabatan: "Guest Relations Officer, Concierge",
+    tipe: "Full Time",
+    divisi: "Housekeeping",
+    jabatan: "Laundry Supervisor",
     deskripsiPekerjaan: "",
     kriteria:
-      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
-    daerahPenempatan: "Surabaya",
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 161,
@@ -2711,13 +2724,13 @@ export const job = [
     deskripsiPerusahaan:
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
-    tipe: "Internship",
+    tipe: "Full Time",
     divisi: "Housekeeping",
-    jabatan: "Room Attendant, Laundry Attendant, Public Area Attendant",
+    jabatan: "HK Supervisor",
     deskripsiPekerjaan: "",
     kriteria:
-      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
-    daerahPenempatan: "Surabaya",
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
   {
     id: 162,
@@ -2727,13 +2740,13 @@ export const job = [
     deskripsiPerusahaan:
       "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
     daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
-    tipe: "Internship",
-    divisi: "Engineering",
-    jabatan: "Civil",
+    tipe: "Full Time",
+    divisi: "Housekeeping",
+    jabatan: "Room Attendant",
     deskripsiPekerjaan: "",
     kriteria:
-      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
-    daerahPenempatan: "Surabaya",
+      "- Two (2) years experience in the same position from International Hotel Chain\n- Strong interpersonal and communication skills\n- English is a must (Written and Spoken)\n- Love to work in a team with target oriented",
+    daerahPenempatan: "",
   },
 
   // * PT Suparma
@@ -3443,7 +3456,6 @@ export const job = [
       "S1, usia max 30 th, mempunyai minat di marketing, lebih disukai memiliki pengalaman sales",
     daerahPenempatan: "Surabaya, Jember, Probolinggo",
   },
-
   {
     id: 205,
     name: "Rapi Group",
@@ -3648,5 +3660,152 @@ export const job = [
     kriteria:
       "- Usia 25 - 35 tahun\n- Pendidikan minimal S1 teknik sipil, dengan IPK Minimal 3.00\n- Mengerti membaca gambar kerja serta pengapplikasian di lapangan\n- Mampu membuat detail gambar kerja lapangan\n- Dapat mengarahkan kontraktor sesuai tahapan kerja\n- Mengerti pekerjaan ME & Plumbing\n- Menguasai MS Office\n- Dapat berkomunikasi dengan baik\n- Memiliki kemampuan leadership yang baik",
     daerahPenempatan: "Semarang",
+  },
+
+  {
+    id: 217,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "PDCA Staff (Continuous Improvement)",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Candidate must possess at least Master of Business Administration, Magister Human Resources Management, Magister Management Strategic or equivalent\n- Maximum age of 29 years old\n- At least 3 Year(s) of working experience in the related field is required for this position\n- Required Soft Skill(s): Good Communication Skill, People Management, Active, Sociable, Adaptable, High Initiative, Strategic Planning, Presentation Skills, Data Analitycal, Strategic Thinking\n- Required Technical Skill(s): MS. Office (Excel and Power Point is a must)",
+    daerahPenempatan: "Surabaya, East Java",
+  },
+  {
+    id: 218,
+    name: "PT Indoprima Gemilang",
+    companyURL: "/company-list/pt-indoprima-gemilang",
+    image:
+      "/images/vacancy/company_list/WhatsApp Image 2023-05-15 at 09.39.49.jpeg",
+    deskripsiPerusahaan:
+      "Founded in 1976, PT. INDOPRIMA GEMILANG is one of the many senior companies that have long been involved in the manufacturing of small-scale motorized vehicle components to heavy-duty trucks for various international automotive manufacturing companies.\n\nPT. INDOPRIMA GEMILANG is fully committed to maintaining the quality of production in accordance with the standards of the company. The entire process, from the selection of materials, the production stage, to the quality control is done carefully so that the product is perfect.",
+    daftarURL: "https://forms.gle/XeWk9HrmRNjbygdS9",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "PDCA Assistant Manager (Continuous Improvement)",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Candidate must possess at least Master of Business Administration, Magister Human Resources Management, Magister Management Strategic or equivalent\n- Maximum age of 35 years old\n- At least 5 Year(s) of working experience in the related field is required for this position\n- Required Soft Skill(s): Good Communication Skill, People Management, Active, Sociable, Adaptable, High Initiative, Strategic Planning, Presentation Skills, Data Analitycal, Strategic Thinking\n- Required Technical Skill(s): MS. Office (Excel and Power Point is a must)",
+    daerahPenempatan: "Surabaya, East Java",
+  },
+  {
+    id: 219,
+    name: "SPS Corporate",
+    companyURL: "/company-list/sps-corporate",
+    image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
+    deskripsiPerusahaan:
+      "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
+    daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Management Trainee HRD",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Minimum Bachelor Degree from Psychology major with minimum GPA 3.50\n- Fresh graduate are welcome to apply\n- Detail oriented and good communication skill\n- Mastering psychological test tools\n- Handle recruitment and training\n- Willing to be placed all site in Indonesia. Candidate placement request will be considered",
+    daerahPenempatan: "All company site in Indonesia",
+  },
+  {
+    id: 220,
+    name: "SPS Corporate",
+    companyURL: "/company-list/sps-corporate",
+    image: "/images/vacancy/company_list/1. LOGO SPS Corporate.png",
+    deskripsiPerusahaan:
+      "SPS Corporate is a rapidly growing, well diversified holding that manages group of respected companies, specialising in tissue paper manufacturing, brown paper manufacturing & packaging, construction of light brick & contractor business, property development, energy & engineering services of power plant, coal trading, and also hospitality business. We are directing towards our vision and upgrading our businesses to continually giving better product & services to our customers and establishing strategic partnerships for each company’s sustainable future.",
+    daftarURL: "https://forms.gle/N6TiY9b74vSzGHoFA",
+    tipe: "Full Time",
+    divisi: "",
+    jabatan: "Advisor Assistant of CEO",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- Master's degree from Mechanical Enginering, Electrical Engineering, or Accounting major with minimum GPA 3.50\n- Good management, communication, and interpersonal skill\n- Willing to be placed at all sites of Indonesia\n- Willing to be work for developing Christian educational foundation",
+    daerahPenempatan: "All company site in Indonesia",
+  },
+  {
+    id: 221,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
+    deskripsiPerusahaan:
+      "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
+    daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
+    tipe: "Internship",
+    divisi: "FB Culinary",
+    jabatan: "Section Pastry and Hot Kitchen",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 222,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
+    deskripsiPerusahaan:
+      "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
+    daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
+    tipe: "Internship",
+    divisi: "FB Service",
+    jabatan: "Waiter/Waitress, Bartender, and Barista",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 223,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
+    deskripsiPerusahaan:
+      "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
+    daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
+    tipe: "Internship",
+    divisi: "Front Office",
+    jabatan: "Guest Relations Officer, Concierge",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 224,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
+    deskripsiPerusahaan:
+      "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
+    daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
+    tipe: "Internship",
+    divisi: "Housekeeping",
+    jabatan: "Room Attendant, Laundry Attendant, Public Area Attendant",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 225,
+    name: "Hotel Ciputra World Surabaya",
+    companyURL: "/company-list/hotel-ciputra-world-surabaya",
+    image: "/images/vacancy/company_list/Hotel CWS Primary Logo.png",
+    deskripsiPerusahaan:
+      "A five star luxury hotel managed by the award winning Management Company, Swiss-Belhotel International.\n\nStrategically located adjacent to Ciputra World Mall, the most urbane shopping mall in Surabaya, the hotel is destined to become one of the city's signature landmarks.\n\nProviding a high quality of service with luxury facilities and personalized attentive service combined with an expedient location, making Hotel Ciputra World Surabaya the preferred choice for discerning travelers, whether in Surabaya on business or leisure.",
+    daftarURL: "https://forms.gle/NufNN1ie7KeqvHsz8",
+    tipe: "Internship",
+    divisi: "Engineering",
+    jabatan: "Civil",
+    deskripsiPekerjaan: "",
+    kriteria:
+      "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
+    daerahPenempatan: "Surabaya",
   },
 ];

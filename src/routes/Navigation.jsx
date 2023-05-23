@@ -8,6 +8,7 @@ import {
   Artax,
   BankMega,
   BMWAstra,
+  CiputraGroup,
   HotelCiputraWorldSurabaya,
   HSBC,
   IndoprimaGroup,
@@ -57,6 +58,7 @@ export default function Navigation() {
         <Route path="/company-list/artax" element={<Artax />} />
         <Route path="/company-list/bank-mega" element={<BankMega />} />
         <Route path="/company-list/bmw-astra" element={<BMWAstra />} />
+        <Route path="/company-list/ciputra-group" element={<CiputraGroup />} />
         <Route
           path="/company-list/hotel-ciputra-world-surabaya"
           element={<HotelCiputraWorldSurabaya />}

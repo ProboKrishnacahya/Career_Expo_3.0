@@ -327,34 +327,16 @@ export const day2 = [
     activity: "MC Time",
   },
   {
-    start: "17:39",
-    end: "17:49",
-    duration: "10",
-    activity: "Pitching Tenant 6",
-  },
-  {
     start: "18:11",
     end: "18:21",
     duration: "10",
     activity: "Pitching Sponsor 2",
   },
   {
-    start: "17:59",
-    end: "18:09",
-    duration: "10",
-    activity: "Pitching Tenant 8",
-  },
-  {
     start: "18:21",
     end: "18:23",
     duration: "2",
-    activity: "MC Time",
-  },
-  {
-    start: "18:11",
-    end: "18:21",
-    duration: "10",
-    activity: "Pitching Sponsor 6",
+    activity: "MC time",
   },
   {
     start: "18:23",

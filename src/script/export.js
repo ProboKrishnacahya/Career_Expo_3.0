@@ -13,6 +13,7 @@ export { default as Artax } from "../pages/vacancy/companyList/Artax";
 export { default as BankMega } from "../pages/vacancy/companyList/BankMega";
 export { default as BMWAstra } from "../pages/vacancy/companyList/BMWAstra";
 export { default as CiputraGroup } from "../pages/vacancy/companyList/CiputraGroup";
+export { default as DConsulting } from "../pages/vacancy/companyList/DConsulting";
 export { default as HotelCiputraWorldSurabaya } from "../pages/vacancy/companyList/HotelCiputraWorldSurabaya";
 export { default as HSBC } from "../pages/vacancy/companyList/HSBC";
 export { default as IndoprimaGroup } from "../pages/vacancy/companyList/IndoprimaGroup";

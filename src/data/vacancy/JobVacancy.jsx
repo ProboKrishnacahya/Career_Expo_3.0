@@ -3808,4 +3808,74 @@ export const job = [
       "- English basic speaking\n- Hospitality industry knowledge\n- Passionate and Professional attitude\n- Periode 6 Months program",
     daerahPenempatan: "Surabaya",
   },
+
+  // * D'Consulting Business Consultant
+  {
+    id: 226,
+    name: "D'Consulting",
+    companyURL: "/company-list/d-consulting",
+    image: "/images/vacancy/company_list/Logo-DBC-Baru.png",
+    deskripsiPerusahaan:
+      "D’Consulting Business Consultant adalah perusahaan jasa konsultan yang berkecimpung dibidang konsultasi bisnis, khususnya dibidang Accounting System, Auditing, Finance-Accounting, dan Accounting Software Implementation. Dalam 12 tahun perjalanannya, D’Consulting telah menangani lebih dari 350 perusahaan dengan bidang usaha yang beraneka ragam diberbagai kota dan provinsi di Indonesia.\n\nSebagai perusahaan konsultan nasional yang sedang ekspansi menjadi perusahaan multinasional, kami mencari team berbakat & berjiwa muda yang siap menjadi pemimpin ekonomi bangsa bersama D’Consulting.",
+    daftarURL: "https://forms.gle/6Qfa5sw3fgj7oJ7C8",
+    tipe: "Full Time",
+    divisi: "Marketing",
+    jabatan: "Telemarketing",
+    deskripsiPekerjaan:
+      "- Melakukan sales call\n- Mencari klien & partner baik secara offline/online\n- Membuat & mempresentasikan proposal untuk calon klien\n- Melakukan blasting konten D'Consulting\n- Mengontrol event D'Consulting (webinar, seminar, workshop, & ig live)\n- Menjaga hubungan baik dengan klien & partner",
+    kriteria:
+      "- Usia maks 30 tahun\n- Pendidikan min D3 Manajemen Pemasaran/jurusan lain yang relevan\n- Memiliki pengalaman yang sama minimal 1 tahun\n- Memiliki keterampilan komunikasi & negosiasi\n- Memahami product knowledge perusahaan\n- Mampu mengorganisir event secara offline/online",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 227,
+    name: "D'Consulting",
+    companyURL: "/company-list/d-consulting",
+    image: "/images/vacancy/company_list/Logo-DBC-Baru.png",
+    deskripsiPerusahaan:
+      "D’Consulting Business Consultant adalah perusahaan jasa konsultan yang berkecimpung dibidang konsultasi bisnis, khususnya dibidang Accounting System, Auditing, Finance-Accounting, dan Accounting Software Implementation. Dalam 12 tahun perjalanannya, D’Consulting telah menangani lebih dari 350 perusahaan dengan bidang usaha yang beraneka ragam diberbagai kota dan provinsi di Indonesia.\n\nSebagai perusahaan konsultan nasional yang sedang ekspansi menjadi perusahaan multinasional, kami mencari team berbakat & berjiwa muda yang siap menjadi pemimpin ekonomi bangsa bersama D’Consulting.",
+    daftarURL: "https://forms.gle/6Qfa5sw3fgj7oJ7C8",
+    tipe: "Full Time",
+    divisi: "Consultant",
+    jabatan: "Junior Accounting Consultant",
+    deskripsiPekerjaan:
+      "- Handle job klien implementasi sistem\n- Handle job klien sistemasi pajak\n- Handle job klien SOP\n- Handle job klien training penggunaan software keuangan\n- Cek pembuatan manual book klien\n- Berkoordinasi dengan klien terkait hal teknis di lapangan",
+    kriteria:
+      "- Pendidikan minimal D3 Akuntansi/Pajak/Manajemen Keuangan\n- Paham dasar akuntansi, perpajakan, & sistem akuntansi\n- Bersedia ditugaskan diluar kota dalam waktu tertentu\n- Memiliki keterampilan komunikasi yang baik\n- Mampu bekerja dalam tim\n- Jujur, mau belajar, semangat tinggi",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 228,
+    name: "D'Consulting",
+    companyURL: "/company-list/d-consulting",
+    image: "/images/vacancy/company_list/Logo-DBC-Baru.png",
+    deskripsiPerusahaan:
+      "D’Consulting Business Consultant adalah perusahaan jasa konsultan yang berkecimpung dibidang konsultasi bisnis, khususnya dibidang Accounting System, Auditing, Finance-Accounting, dan Accounting Software Implementation. Dalam 12 tahun perjalanannya, D’Consulting telah menangani lebih dari 350 perusahaan dengan bidang usaha yang beraneka ragam diberbagai kota dan provinsi di Indonesia.\n\nSebagai perusahaan konsultan nasional yang sedang ekspansi menjadi perusahaan multinasional, kami mencari team berbakat & berjiwa muda yang siap menjadi pemimpin ekonomi bangsa bersama D’Consulting.",
+    daftarURL: "https://forms.gle/6Qfa5sw3fgj7oJ7C8",
+    tipe: "Full Time",
+    divisi: "Consultant",
+    jabatan: "Asst Manager Tax Consultant",
+    deskripsiPekerjaan:
+      "",
+    kriteria:
+      "- Pendidikan min S1 Pajak / Akuntansi\n- Pengalaman kerja di KAP/KPP min 5 tahun\n- Pernah memimpin tim di project Keuangan & Tax\n- Menguasai program ERP\n- Memahami peraturan perpajakan terbaru\n- Mahir membuat laporan pajak\n- Mahir melakukan perencanaan pajak legal\n- Keterampilan komunikasi baik\n- Jujur, mau belajar, & semangat tinggi",
+    daerahPenempatan: "Surabaya",
+  },
+  {
+    id: 229,
+    name: "D'Consulting",
+    companyURL: "/company-list/d-consulting",
+    image: "/images/vacancy/company_list/Logo-DBC-Baru.png",
+    deskripsiPerusahaan:
+      "D’Consulting Business Consultant adalah perusahaan jasa konsultan yang berkecimpung dibidang konsultasi bisnis, khususnya dibidang Accounting System, Auditing, Finance-Accounting, dan Accounting Software Implementation. Dalam 12 tahun perjalanannya, D’Consulting telah menangani lebih dari 350 perusahaan dengan bidang usaha yang beraneka ragam diberbagai kota dan provinsi di Indonesia.\n\nSebagai perusahaan konsultan nasional yang sedang ekspansi menjadi perusahaan multinasional, kami mencari team berbakat & berjiwa muda yang siap menjadi pemimpin ekonomi bangsa bersama D’Consulting.",
+    daftarURL: "https://forms.gle/6Qfa5sw3fgj7oJ7C8",
+    tipe: "Full Time",
+    divisi: "IT",
+    jabatan: "Apps & Web Developer",
+    deskripsiPekerjaan:
+      "- Membuat mobile aplikasi perusahaan yang berfungsi penuh sesuai kebutuhan bisnis\n- Mengelola & mengembangkan mobile aplikasi yang user friendly\n- Menganalisis, mengembangkan, dan mendukung pengembangan sistem\n- Melakukan Debugging dan Pengujian Unit\n- Bekerja sama dengan tim Digital Marketing untuk fitur desain web\n- Mengintegrasikan dengan sistem eksternal: CMS / CRM / ERP / Pembayaran / Pengiriman, dll",
+    kriteria:
+      "- Pendidikan minimal D3 Teknik Informatika / jurusan lain yang relevan\n- Berpengalaman dibidang IT min 2 tahun\n- Menguasai bahasa pemrograman web\n- Menguasai framework pemograman\n- Berpengalaman dengan database MS SQL, MariaDB, dll\n- Berpengalaman dalam pembuatan API menjadi nilai plus\n- Familiar dengan bahasa pemograman Back End/Front End (memahami keduanya menjadi nilai plus)\n- Mengikuti perkembangan aplikasi web dan bahasa pemrograman",
+    daerahPenempatan: "Surabaya",
+  },
 ];

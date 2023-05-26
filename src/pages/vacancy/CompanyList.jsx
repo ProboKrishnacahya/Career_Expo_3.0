@@ -46,7 +46,7 @@ export default function CompanyList() {
   const perusahaan = companyList.filter((_item, index) =>
     [
       0, 2, 16, 20, 57, 75, 85, 88, 94, 98, 101, 111, 123, 125, 129, 132, 143,
-      163, 172, 181, 199, 201, 211,
+      163, 172, 181, 199, 201, 211, 226,
     ].includes(index)
   );
 

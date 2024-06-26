@@ -1,7 +1,26 @@
+@import '~bootstrap/scss/bootstrap.scss';
+
+/* Colors (https://www.color-name.com/) */
+$coolvetica: "Coolvetica", system-ui;
+$lato-regular: "Lato-Regular", system-ui;
+$lato-bold: "Lato-Bold", system-ui;
+
+/* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
+$black: #000000;
+$cetacean-blue: #12103c;
+$cetacean-blue-muted: #12103c40;
+$chinese-silver: #c8c8c9;
+$crayola: #19facc;
+$dark-cerulean: #08407b;
+$orange: #f69221;
+$sky-blue: #7ccdef;
+$white: #ffffff;
+$white-muted: #ffffff1a;
+
 /* * Page Structures */
 a {
   text-decoration: none !important;
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
 a,
@@ -13,7 +32,7 @@ img,
 }
 
 body {
-  font-family: var(--lato400);
+  font-family: $lato-regular;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
@@ -28,7 +47,7 @@ h4,
 h5,
 h6,
 nav {
-  font-family: var(--coolvetica);
+  font-family: $coolvetica;
 }
 
 img {
@@ -50,53 +69,56 @@ select {
 }
 
 strong {
-  font-family: var(--lato700);
+  font-family: var(--lato-bold);
 }
 
 table {
-  border-collapse: separate !important;
-  border-spacing: 0 !important;
+  border: 0.1px solid black;
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 4px;
 }
 
 th {
-  background-color: var(--white) !important;
+  background-color: $white !important;
+  color: $white !important;
 }
 
 /* * Selector (Class) */
 .alert-info {
   border-radius: 1rem !important;
-  background-color: var(--sky-blue) !important;
-  color: var(--black) !important;
+  background-color: $sky-blue !important;
+  color: $black !important;
 }
 
 .alert-primary {
   border-radius: 1rem !important;
-  background-color: var(--dark-cerulean) !important;
-  color: var(--white) !important;
+  background-color: $dark-cerulean !important;
+  color: $white !important;
 }
 
 .bi-arrow-up {
   font-size: 1.75rem !important;
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
 .btn {
   border-radius: 0.5rem !important;
   padding: 0.75rem 1rem !important;
-  color: var(--white) !important;
+  color: $white !important;
 }
 
 .btn-secondary {
   background-color: transparent;
-  border: solid 0.094rem var(--cetacean-blue);
-  color: var(--cetacean-blue) !important;
+  border: solid 0.094rem $cetacean-blue;
+  color: $cetacean-blue !important;
 }
 
 .card {
   padding: 1.5rem;
   border-radius: 1rem !important;
-  border: solid 0.13rem var(--chinese-silver) !important;
-  background: var(--white-muted) !important;
+  border: solid 0.13rem $chinese-silver !important;
+  background: $white-muted !important;
   backdrop-filter: blur(0.25rem) !important;
   -webkit-backdrop-filter: blur(0.25rem) !important;
 }
@@ -125,7 +147,7 @@ th {
 }
 
 .footer {
-  background-color: var(--orange) !important;
+  background-color: $orange !important;
 }
 
 .navbar-toggler.collapsed .btn-close {
@@ -133,11 +155,11 @@ th {
 }
 
 .text-link {
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
 .tooltip {
-  font-family: var(--lato400);
+  font-family: var(--lato-regular);
 }
 
 .truncate {
@@ -154,12 +176,12 @@ th {
 /* * Selector (ID) */
 #home-about_us__background {
   border-radius: 0 5rem 5rem 0;
-  background-color: var(--sky-blue);
+  background-color: $sky-blue;
 }
 
 #powered_by__background {
   border-radius: 5rem 0 0 5rem;
-  background-color: var(--orange);
+  background-color: $orange;
 }
 
 #hero1,
@@ -245,8 +267,8 @@ th {
 #pills-day1-tab.active,
 #pills-day2-tab.active {
   font-weight: bold;
-  background-color: var(--cetacean-blue) !important;
-  color: var(--white) !important;
+  background-color: $cetacean-blue !important;
+  color: $white !important;
 }
 
 #pills-fulltime-tab.active,
@@ -257,13 +279,13 @@ th {
   padding: 0.25rem 0.5rem;
   border: solid 0.15rem transparent;
   font-weight: bold;
-  background-color: var(--cetacean-blue) !important;
-  color: var(--white) !important;
+  background-color: $cetacean-blue !important;
+  color: $white !important;
 }
 
 #pills-day1-tab.nav-link:not(.active),
 #pills-day2-tab.nav-link:not(.active) {
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
 #pills-fulltime-tab:not(.active),
@@ -274,11 +296,11 @@ th {
   padding: 0.25rem 0.5rem;
   border: solid 0.15rem transparent;
   background-color: transparent;
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
 #pillNav {
-  background-color: var(--cetacean-blue-muted) !important;
+  background-color: $cetacean-blue-muted !important;
 }
 
 #scrollToTop {
@@ -295,27 +317,9 @@ th {
 }
 
 /* * Pseudo-classes */
-:root {
-  /* Colors (https://www.color-name.com/) */
-  --black: #000000;
-  --cetacean-blue: #12103c;
-  --cetacean-blue-muted: #12103c40;
-  --chinese-silver: #c8c8c9;
-  --crayola: #19facc;
-  --dark-cerulean: #08407b;
-  --orange: #f69221;
-  --sky-blue: #7ccdef;
-  --white: #ffffff;
-  --white-muted: #ffffff1a;
-  /* Fonts (https://www.dafont.com/coolvetica.font/, https://fonts.google.com/specimen/Lato/) */
-  --coolvetica: "Coolvetica", sans-serif;
-  --lato400: "Lato400", sans-serif;
-  --lato700: "Lato700", sans-serif;
-}
-
 ::selection {
-  background-color: var(--orange);
-  color: var(--white);
+  background-color: $orange;
+  color: $white;
 }
 
 ::-webkit-scrollbar {
@@ -323,41 +327,39 @@ th {
 }
 
 ::-webkit-scrollbar-track {
-  background-color: var(--white);
+  background-color: $white;
 }
 
 ::-webkit-scrollbar-thumb {
   border-radius: 0.6rem;
-  border: solid 0.3rem var(--white);
-  background-color: var(--cetacean-blue);
+  border: solid 0.3rem $white;
+  background-color: $cetacean-blue;
 }
 
-a:hover:not(
-    .navbar-brand,
-    .company-list,
-    .workshop-list,
-    .talkshow-list,
-    .blog-list
-  ),
+a:hover:not(.navbar-brand,
+  .company-list,
+  .workshop-list,
+  .talkshow-list,
+  .blog-list),
 .nav-link:hover,
 #scrollToTop:hover {
   filter: brightness(125%) !important;
 }
 
 tr:first-child th:first-child {
-  border-top-left-radius: 0.375rem !important;
+  border-top-left-radius: 4px !important;
 }
 
 tr:first-child th:last-child {
-  border-top-right-radius: 0.375rem !important;
+  border-top-right-radius: 4px !important;
 }
 
 tr:last-child td:first-child {
-  border-bottom-left-radius: 0.375rem !important;
+  border-bottom-left-radius: 4px !important;
 }
 
 tr:last-child td:last-child {
-  border-bottom-right-radius: 0.375rem !important;
+  border-bottom-right-radius: 4px !important;
 }
 
 .btn:active {
@@ -367,7 +369,7 @@ tr:last-child td:last-child {
 .btn-primary,
 .btn-primary:hover,
 .btn-primary:active {
-  background-color: var(--cetacean-blue) !important;
+  background-color: $cetacean-blue !important;
   border: none;
 }
 
@@ -378,20 +380,20 @@ tr:last-child td:last-child {
 .btn-secondary:hover,
 .btn-secondary:focus {
   box-shadow: none !important;
-  border: solid 0.094rem var(--cetacean-blue);
+  border: solid 0.094rem $cetacean-blue;
   filter: brightness(110%) !important;
   background-color: transparent !important;
-  color: var(--cetacean-blue) !important;
+  color: $cetacean-blue !important;
 }
 
-.dropdown-menu > li > a:hover {
-  background-color: var(--cetacean-blue) !important;
-  color: var(--white) !important;
+.dropdown-menu>li>a:hover {
+  background-color: $cetacean-blue !important;
+  color: $white !important;
 }
 
 .dropdown-item.active {
   background-color: transparent;
-  color: var(--cetacean-blue);
+  color: $cetacean-blue;
 }
 
 .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
@@ -401,17 +403,17 @@ tr:last-child td:last-child {
 /* * At-rules */
 @font-face {
   font-family: "Coolvetica";
-  src: url("/public/fonts/coolvetica/coolvetica rg.otf");
+  src: url("/fonts/coolvetica/Coolvetica.otf") format("opentype");
 }
 
 @font-face {
-  font-family: "Lato400";
-  src: url("/public/fonts/lato/Lato-Regular.ttf");
+  font-family: "Lato-Regular";
+  src: url("/fonts/lato/Lato-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "Lato700";
-  src: url("/public/fonts/lato/Lato-Bold.ttf");
+  font-family: "Lato-Bold";
+  src: url("/fonts/lato/Lato-Bold.ttf") format("truetype");
 }
 
 @keyframes bounce {

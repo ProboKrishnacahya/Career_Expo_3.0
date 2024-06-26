@@ -100,7 +100,7 @@ export default function CareerExpo() {
             >
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>
-                  <tr className="text-white">
+                  <tr>
                     <th scope="col" className="bg-dark">
                       Start
                     </th>
@@ -136,7 +136,7 @@ export default function CareerExpo() {
             >
               <table className="table table-responsive table-light table-striped table-hover">
                 <thead>
-                  <tr className="text-white">
+                  <tr>
                     <th scope="col" className="bg-dark">
                       Start
                     </th>

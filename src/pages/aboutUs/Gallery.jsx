@@ -48,7 +48,7 @@ export default function Gallery() {
           <h2 className="text-center">Gallery</h2>
           <br />
           <div className="d-grid gap-3">
-            <div>
+            {/* <div>
               <iframe
                 src="https://drive.google.com/file/d/1M-fehIcbdrbdpKeXGrwyvU0vzLmw-OJy/preview"
                 className="rounded shadow-sm w-100"
@@ -57,7 +57,7 @@ export default function Gallery() {
                 allowFullScreen="true"
                 height={560}
               ></iframe>
-            </div>
+            </div> */}
             <div>
               <div className="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
                 <div className="col">

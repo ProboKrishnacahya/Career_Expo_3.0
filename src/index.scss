@@ -27,8 +27,9 @@ a,
 img,
 .nav-link,
 .page-link {
-  -webkit-user-drag: none;
   user-select: none;
+  -webkit-user-drag: none;
+  -moz-user-drag: none;
 }
 
 body {
@@ -52,6 +53,7 @@ nav {
 
 img {
   max-width: 100% !important;
+  pointer-events: none;
 }
 
 pre {
